@@ -122,6 +122,19 @@ def load_json(path):
     return json.loads(path.read_text(encoding="utf-8"))
 
 
+def load_vietnamese(kind: str, level: int) -> dict:
+    """Vietnamese meanings written by hand, in source/hsk30/vi/<kind>-<level>.tsv (hanzi TAB meaning)."""
+    path = SRC / "vi" / f"{kind}-{level}.tsv"
+    out = {}
+    if path.exists():
+        for line in path.read_text(encoding="utf-8").splitlines():
+            if "\t" in line:
+                hanzi, meaning = line.split("\t", 1)
+                if meaning.strip():
+                    out.setdefault(hanzi.strip(), meaning.strip())
+    return out
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--cedict", required=True, help="path to cedict.json (npm cedict-json)")
@@ -147,6 +160,8 @@ def main() -> int:
     OUT.mkdir(parents=True, exist_ok=True)
     index, missing_vi = [], {}
     for lv in LEVELS:
+        vi_words = load_vietnamese("words", lv)
+        vi_chars = load_vietnamese("chars", lv)
         words, seen = [], set()
         for raw in load_json(SRC / f"HSK3.0_words_level{lv}.json"):
             forms = raw if isinstance(raw, list) else raw.split("|")
@@ -169,6 +184,8 @@ def main() -> int:
             entry["en"] = (prior.get("en") if prior and prior.get("en") else en)
             if prior and prior.get("vi"):
                 entry["vi"] = prior["vi"]
+            elif h in vi_words:
+                entry["vi"] = vi_words[h]
             entry["l"] = lv
             words.append(entry)
         (OUT / f"words-{lv}.json").write_text(json.dumps(words, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
@@ -183,6 +200,8 @@ def main() -> int:
             entry = {"h": c, "p": (prior["p"] if prior else (cedict_p or "")), "en": en or (prior or {}).get("en", "")}
             if prior and prior.get("vi"):
                 entry["vi"] = prior["vi"]
+            elif c in vi_chars:
+                entry["vi"] = vi_chars[c]
             entry["l"] = lv
             chars.append(entry)
         (OUT / f"chars-{lv}.json").write_text(json.dumps(chars, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")

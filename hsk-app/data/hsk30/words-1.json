@@ -48,6 +48,7 @@
   "h": "白天",
   "p": "bái tiān",
   "en": "daytime; during the day; day",
+  "vi": "ban ngày",
   "l": 1
  },
  {
@@ -75,18 +76,21 @@
   "h": "半年",
   "p": "bàn nián",
   "en": "half a year",
+  "vi": "nửa năm",
   "l": 1
  },
  {
   "h": "半天",
   "p": "bàn tiān",
   "en": "half of the day; a long time; quite a while",
+  "vi": "nửa ngày; một lúc lâu",
   "l": 1
  },
  {
   "h": "帮",
   "p": "bāng",
   "en": "to help; to assist; to support",
+  "vi": "giúp, giúp đỡ",
   "l": 1
  },
  {
@@ -107,12 +111,14 @@
   "h": "包子",
   "p": "bāo zi",
   "en": "baozi; bao (steamed stuffed bun)",
+  "vi": "bánh bao",
   "l": 1
  },
  {
   "h": "杯",
   "p": "bēi",
   "en": "cup; trophy cup; classifier for certain containers of liquids: glass, cup",
+  "vi": "cái cốc, ly",
   "l": 1
  },
  {
@@ -126,12 +132,14 @@
   "h": "北",
   "p": "běi",
   "en": "north; (classical) to be defeated",
+  "vi": "phía bắc; bại trận (cổ)",
   "l": 1
  },
  {
   "h": "北边",
   "p": "běi biān",
   "en": "north; north side; northern part",
+  "vi": "phía bắc, bên bắc",
   "l": 1
  },
  {
@@ -152,6 +160,7 @@
   "h": "本子",
   "p": "běn zi",
   "en": "book; notebook; Japanese-style self-published comic (esp. an erotic one), aka \"dōjinshi\"",
+  "vi": "quyển vở, cuốn sổ",
   "l": 1
  },
  {
@@ -172,6 +181,7 @@
   "h": "别的",
   "p": "bié de",
   "en": "else; other",
+  "vi": "cái khác, điều khác",
   "l": 1
  },
  {
@@ -185,24 +195,28 @@
   "h": "病",
   "p": "bìng",
   "en": "illness; disease; to fall ill",
+  "vi": "bệnh; bị bệnh",
   "l": 1
  },
  {
   "h": "病人",
   "p": "bìng rén",
   "en": "sick person; patient; invalid",
+  "vi": "bệnh nhân",
   "l": 1
  },
  {
   "h": "不大",
   "p": "bù dà",
   "en": "not very; not too; not often",
+  "vi": "không lớn lắm; không mấy khi",
   "l": 1
  },
  {
   "h": "不对",
   "p": "bù duì",
   "en": "incorrect; wrong; amiss",
+  "vi": "không đúng, sai",
   "l": 1
  },
  {
@@ -216,6 +230,7 @@
   "h": "不用",
   "p": "bù yòng",
   "en": "need not",
+  "vi": "không cần",
   "l": 1
  },
  {
@@ -250,18 +265,21 @@
   "h": "常",
   "p": "cháng",
   "en": "always; ever; often",
+  "vi": "thường, luôn",
   "l": 1
  },
  {
   "h": "常常",
   "p": "cháng cháng",
   "en": "frequently; often",
+  "vi": "thường xuyên",
   "l": 1
  },
  {
   "h": "唱",
   "p": "chàng",
   "en": "to sing; to call loudly; to chant",
+  "vi": "hát",
   "l": 1
  },
  {
@@ -275,24 +293,28 @@
   "h": "车",
   "p": "chē",
   "en": "car; vehicle; machine",
+  "vi": "xe",
   "l": 1
  },
  {
   "h": "车票",
   "p": "chē piào",
   "en": "ticket (for a bus or train)",
+  "vi": "vé xe",
   "l": 1
  },
  {
   "h": "车上",
   "p": "chē shàng",
   "en": "on the bus; in the car",
+  "vi": "trên xe",
   "l": 1
  },
  {
   "h": "车站",
   "p": "chē zhàn",
   "en": "rail station; bus stop",
+  "vi": "bến xe, nhà ga",
   "l": 1
  },
  {
@@ -306,6 +328,7 @@
   "h": "吃饭",
   "p": "chī fàn",
   "en": "to have a meal; to eat; to make a living",
+  "vi": "ăn cơm",
   "l": 1
  },
  {
@@ -319,12 +342,14 @@
   "h": "出来",
   "p": "chū lái",
   "en": "to come out; to appear; to arise",
+  "vi": "đi ra, xuất hiện",
   "l": 1
  },
  {
   "h": "出去",
   "p": "chū qù",
   "en": "to go out",
+  "vi": "đi ra ngoài",
   "l": 1
  },
  {
@@ -338,6 +363,7 @@
   "h": "床",
   "p": "chuáng",
   "en": "bed; couch (furniture that one can lie down on) (; bed; bottom (of rivers, oceans, gardens etc); frame; chassis",
+  "vi": "cái giường",
   "l": 1
  },
  {
@@ -365,12 +391,14 @@
   "h": "打",
   "p": "dá",
   "en": "(loanword) dozen; Taiwan pr.",
+  "vi": "đánh; gọi (điện thoại); làm",
   "l": 1
  },
  {
   "h": "打车",
   "p": "dǎ chē",
   "en": "to take a taxi (in town); to hitch a lift",
+  "vi": "bắt xe taxi",
   "l": 1
  },
  {
@@ -384,12 +412,14 @@
   "h": "打开",
   "p": "dǎ kāi",
   "en": "to open; to show (a ticket); to turn on",
+  "vi": "mở ra",
   "l": 1
  },
  {
   "h": "打球",
   "p": "dǎ qiú",
   "en": "to play ball; to play with a ball",
+  "vi": "chơi bóng",
   "l": 1
  },
  {
@@ -403,12 +433,14 @@
   "h": "大学",
   "p": "Dà xué",
   "en": "the Great Learning, one of the Four Books 四書",
+  "vi": "đại học",
   "l": 1
  },
  {
   "h": "大学生",
   "p": "dà xué shēng",
   "en": "university student; college student",
+  "vi": "sinh viên đại học",
   "l": 1
  },
  {
@@ -422,6 +454,7 @@
   "h": "得到",
   "p": "dé dào",
   "en": "to get; to obtain; to receive",
+  "vi": "nhận được, đạt được",
   "l": 1
  },
  {
@@ -449,6 +482,7 @@
   "h": "地点",
   "p": "dì diǎn",
   "en": "place; site; location",
+  "vi": "địa điểm",
   "l": 1
  },
  {
@@ -462,6 +496,7 @@
   "h": "地上",
   "p": "dì shang",
   "en": "on the ground; on the floor",
+  "vi": "trên mặt đất, trên sàn",
   "l": 1
  },
  {
@@ -485,6 +520,7 @@
   "h": "第",
   "p": "dì",
   "en": "(prefix indicating ordinal number, as in 第六 \"sixth\"); (literary) grades in which successful candidates in the imperial examinations were placed; (old) residence of a high official",
+  "vi": "thứ (chỉ số thứ tự)",
   "l": 1
  },
  {
@@ -498,12 +534,14 @@
   "h": "电",
   "p": "diàn",
   "en": "lightning; electricity; electric",
+  "vi": "điện",
   "l": 1
  },
  {
   "h": "电话",
   "p": "diàn huà",
   "en": "telephone; phone call; phone number",
+  "vi": "điện thoại",
   "l": 1
  },
  {
@@ -524,6 +562,7 @@
   "h": "电视机",
   "p": "diàn shì jī",
   "en": "television set",
+  "vi": "ti vi",
   "l": 1
  },
  {
@@ -537,6 +576,7 @@
   "h": "电影院",
   "p": "diàn yǐng yuàn",
   "en": "cinema; movie theater",
+  "vi": "rạp chiếu phim",
   "l": 1
  },
  {
@@ -550,6 +590,7 @@
   "h": "东边",
   "p": "dōng bian",
   "en": "east; east side; eastern part",
+  "vi": "phía đông",
   "l": 1
  },
  {
@@ -563,6 +604,7 @@
   "h": "动",
   "p": "dòng",
   "en": "(of sth) to move; to set in movement; to displace",
+  "vi": "động, chuyển động",
   "l": 1
  },
  {
@@ -590,6 +632,7 @@
   "h": "读书",
   "p": "dú shū",
   "en": "to read a book; to study; to attend school",
+  "vi": "đọc sách; đi học",
   "l": 1
  },
  {
@@ -645,12 +688,14 @@
   "h": "饭",
   "p": "fàn",
   "en": "cooked rice; meal; (loanword) fan",
+  "vi": "cơm; bữa ăn",
   "l": 1
  },
  {
   "h": "饭店",
   "p": "fàn diàn",
   "en": "restaurant; hotel",
+  "vi": "nhà hàng, khách sạn",
   "l": 1
  },
  {
@@ -664,6 +709,7 @@
   "h": "房子",
   "p": "fáng zi",
   "en": "house; building (single- or two-story); apartment",
+  "vi": "căn nhà",
   "l": 1
  },
  {
@@ -677,18 +723,21 @@
   "h": "放假",
   "p": "fàng jià",
   "en": "to have a holiday or vacation",
+  "vi": "nghỉ lễ, nghỉ phép",
   "l": 1
  },
  {
   "h": "放学",
   "p": "fàng xué",
   "en": "to dismiss students at the end of the school day",
+  "vi": "tan học",
   "l": 1
  },
  {
   "h": "飞",
   "p": "fēi",
   "en": "to fly",
+  "vi": "bay",
   "l": 1
  },
  {
@@ -716,6 +765,7 @@
   "h": "风",
   "p": "fēng",
   "en": "wind; news; style",
+  "vi": "gió; tin tức; phong cách",
   "l": 1
  },
  {
@@ -736,6 +786,7 @@
   "h": "干什么",
   "p": "gàn shén me",
   "en": "what are you doing?; what's he up to?",
+  "vi": "làm gì đấy?",
   "l": 1
  },
  {
@@ -773,6 +824,7 @@
   "h": "歌",
   "p": "gē",
   "en": "song (; to sing",
+  "vi": "bài hát",
   "l": 1
  },
  {
@@ -800,6 +852,7 @@
   "h": "工人",
   "p": "gōng rén",
   "en": "worker",
+  "vi": "công nhân",
   "l": 1
  },
  {
@@ -820,6 +873,7 @@
   "h": "关上",
   "p": "guān shàng",
   "en": "to close (a door); to turn off (light, electrical equipment etc)",
+  "vi": "đóng lại, tắt đi",
   "l": 1
  },
  {
@@ -833,6 +887,7 @@
   "h": "国",
   "p": "guó",
   "en": "country; nation; state; national",
+  "vi": "đất nước, quốc gia",
   "l": 1
  },
  {
@@ -846,6 +901,7 @@
   "h": "国外",
   "p": "guó wài",
   "en": "abroad; external (affairs); overseas",
+  "vi": "nước ngoài",
   "l": 1
  },
  {
@@ -873,6 +929,7 @@
   "h": "还有",
   "p": "hái yǒu",
   "en": "there still remain(s); there is (or are) still; in addition",
+  "vi": "còn có, ngoài ra",
   "l": 1
  },
  {
@@ -893,6 +950,7 @@
   "h": "汉字",
   "p": "hàn zì",
   "en": "Chinese character(s)",
+  "vi": "chữ Hán",
   "l": 1
  },
  {
@@ -913,18 +971,21 @@
   "h": "好看",
   "p": "hǎo kàn",
   "en": "good-looking; nice-looking; (of a movie, book, TV show etc) good; in an embarrassing situation",
+  "vi": "đẹp, hay (xem)",
   "l": 1
  },
  {
   "h": "好听",
   "p": "hǎo tīng",
   "en": "pleasant to hear",
+  "vi": "nghe hay",
   "l": 1
  },
  {
   "h": "好玩儿",
   "p": "hǎo wán r",
   "en": "",
+  "vi": "vui, thú vị",
   "l": 1
  },
  {
@@ -959,18 +1020,21 @@
   "h": "后",
   "p": "hòu",
   "en": "empress; queen; (archaic) monarch",
+  "vi": "sau, phía sau",
   "l": 1
  },
  {
   "h": "后边",
   "p": "hòu bian",
   "en": "the back; the rear; the last bit; behind; near the end; at the back; later; afterwards",
+  "vi": "phía sau",
   "l": 1
  },
  {
   "h": "后天",
   "p": "hòu tiān",
   "en": "the day after tomorrow; life after birth (the period in which one develops through experiences, contrasted with 先天); acquired (not innate or congenital)",
+  "vi": "ngày kia",
   "l": 1
  },
  {
@@ -984,6 +1048,7 @@
   "h": "话",
   "p": "huà",
   "en": "dialect; language; spoken words",
+  "vi": "lời nói",
   "l": 1
  },
  {
@@ -1011,24 +1076,28 @@
   "h": "回到",
   "p": "huí dào",
   "en": "to return to",
+  "vi": "trở về",
   "l": 1
  },
  {
   "h": "回家",
   "p": "huí jiā",
   "en": "to return home",
+  "vi": "về nhà",
   "l": 1
  },
  {
   "h": "回来",
   "p": "huí lai",
   "en": "to return; to come back",
+  "vi": "trở lại, quay về",
   "l": 1
  },
  {
   "h": "回去",
   "p": "huí qu",
   "en": "to return; to go back",
+  "vi": "quay về, trở về",
   "l": 1
  },
  {
@@ -1042,6 +1111,7 @@
   "h": "火车",
   "p": "huǒ chē",
   "en": "train",
+  "vi": "tàu hỏa",
   "l": 1
  },
  {
@@ -1055,6 +1125,7 @@
   "h": "机票",
   "p": "jī piào",
   "en": "plane ticket; airline ticket",
+  "vi": "vé máy bay",
   "l": 1
  },
  {
@@ -1075,6 +1146,7 @@
   "h": "记",
   "p": "jì",
   "en": "to record; to note; to memorize",
+  "vi": "ghi, ghi nhớ",
   "l": 1
  },
  {
@@ -1088,6 +1160,7 @@
   "h": "记住",
   "p": "jì zhu",
   "en": "to remember; to bear in mind; to learn by heart",
+  "vi": "nhớ kỹ, ghi nhớ",
   "l": 1
  },
  {
@@ -1101,24 +1174,28 @@
   "h": "家里",
   "p": "jiā lǐ",
   "en": "home",
+  "vi": "trong nhà",
   "l": 1
  },
  {
   "h": "家人",
   "p": "jiā rén",
   "en": "family member; (old) servant",
+  "vi": "người nhà",
   "l": 1
  },
  {
   "h": "间",
   "p": "jiān",
   "en": "between; among; within a definite time or space",
+  "vi": "giữa; gian (phòng)",
   "l": 1
  },
  {
   "h": "见",
   "p": "jiàn",
   "en": "to see; to meet; to appear (to be sth)",
+  "vi": "gặp, nhìn thấy",
   "l": 1
  },
  {
@@ -1146,6 +1223,7 @@
   "h": "教学楼",
   "p": "jiào xué lóu",
   "en": "school building; academic building",
+  "vi": "tòa nhà giảng đường",
   "l": 1
  },
  {
@@ -1169,6 +1247,7 @@
   "h": "今年",
   "p": "jīn nián",
   "en": "this year",
+  "vi": "năm nay",
   "l": 1
  },
  {
@@ -1189,12 +1268,14 @@
   "h": "进来",
   "p": "jìn lái",
   "en": "to come in",
+  "vi": "đi vào",
   "l": 1
  },
  {
   "h": "进去",
   "p": "jìn qù",
   "en": "to go in",
+  "vi": "đi vào trong",
   "l": 1
  },
  {
@@ -1229,12 +1310,14 @@
   "h": "开车",
   "p": "kāi chē",
   "en": "to drive a car (or train etc); (slang) to post sexual content online; to make a sexual joke",
+  "vi": "lái xe",
   "l": 1
  },
  {
   "h": "开会",
   "p": "kāi huì",
   "en": "to hold a meeting; to attend a meeting",
+  "vi": "họp",
   "l": 1
  },
  {
@@ -1255,12 +1338,14 @@
   "h": "看病",
   "p": "kàn bìng",
   "en": "to visit a doctor; to see a patient",
+  "vi": "khám bệnh",
   "l": 1
  },
  {
   "h": "看到",
   "p": "kàn dào",
   "en": "to see",
+  "vi": "nhìn thấy",
   "l": 1
  },
  {
@@ -1274,6 +1359,7 @@
   "h": "考",
   "p": "kǎo",
   "en": "to beat; to hit; to inspect",
+  "vi": "thi, kiểm tra",
   "l": 1
  },
  {
@@ -1301,12 +1387,14 @@
   "h": "课本",
   "p": "kè běn",
   "en": "textbook",
+  "vi": "sách giáo khoa",
   "l": 1
  },
  {
   "h": "课文",
   "p": "kè wén",
   "en": "text",
+  "vi": "bài khóa",
   "l": 1
  },
  {
@@ -1341,6 +1429,7 @@
   "h": "来到",
   "p": "lái dào",
   "en": "to arrive; to come",
+  "vi": "đến, tới",
   "l": 1
  },
  {
@@ -1354,6 +1443,7 @@
   "h": "老人",
   "p": "lǎo rén",
   "en": "old man or woman; the elderly; one's aged parents or grandparents",
+  "vi": "người già",
   "l": 1
  },
  {
@@ -1395,6 +1485,7 @@
   "h": "里边",
   "p": "lǐ bian",
   "en": "inside",
+  "vi": "bên trong",
   "l": 1
  },
  {
@@ -1432,12 +1523,14 @@
   "h": "楼上",
   "p": "lóu shàng",
   "en": "upstairs; (Internet slang) previous poster in a forum thread",
+  "vi": "tầng trên",
   "l": 1
  },
  {
   "h": "楼下",
   "p": "lóu xià",
   "en": "downstairs",
+  "vi": "tầng dưới",
   "l": 1
  },
  {
@@ -1451,12 +1544,14 @@
   "h": "路口",
   "p": "lù kǒu",
   "en": "crossing; intersection (of roads)",
+  "vi": "ngã tư, ngã ba",
   "l": 1
  },
  {
   "h": "路上",
   "p": "lù shang",
   "en": "on the road; on the way; en route",
+  "vi": "trên đường",
   "l": 1
  },
  {
@@ -1473,6 +1568,7 @@
   "h": "马路",
   "p": "mǎ lù",
   "en": "street; road",
+  "vi": "đường phố",
   "l": 1
  },
  {
@@ -1514,6 +1610,7 @@
   "h": "毛",
   "p": "máo",
   "en": "hair; feather; down",
+  "vi": "lông",
   "l": 1
  },
  {
@@ -1534,18 +1631,21 @@
   "h": "没什么",
   "p": "méi shén me",
   "en": "it doesn't matter; it's nothing; never mind; think nothing of it; it's my pleasure; you're welcome",
+  "vi": "không có gì",
   "l": 1
  },
  {
   "h": "没事儿",
   "p": "méi shì r",
   "en": "to have spare time; free from work; it's not important",
+  "vi": "không sao, không có việc gì",
   "l": 1
  },
  {
   "h": "没有",
   "p": "méi yǒu",
   "en": "haven't; hasn't; doesn't exist",
+  "vi": "không có",
   "l": 1
  },
  {
@@ -1569,18 +1669,21 @@
   "h": "门口",
   "p": "mén kǒu",
   "en": "doorway; gate",
+  "vi": "cửa ra vào",
   "l": 1
  },
  {
   "h": "门票",
   "p": "mén piào",
   "en": "ticket (for theater, cinema etc)",
+  "vi": "vé vào cửa",
   "l": 1
  },
  {
   "h": "们",
   "p": "men",
   "en": "plural marker for pronouns, and nouns referring to individuals",
+  "vi": "(hậu tố số nhiều)",
   "l": 1
  },
  {
@@ -1601,6 +1704,7 @@
   "h": "面条儿",
   "p": "miàn tiáo r",
   "en": "",
+  "vi": "mì sợi",
   "l": 1
  },
  {
@@ -1621,6 +1725,7 @@
   "h": "明年",
   "p": "míng nián",
   "en": "next year",
+  "vi": "năm sau",
   "l": 1
  },
  {
@@ -1648,18 +1753,21 @@
   "h": "哪里",
   "p": "nǎ lǐ",
   "en": "where?; somewhere; anywhere",
+  "vi": "ở đâu",
   "l": 1
  },
  {
   "h": "哪儿",
   "p": "nǎ r",
   "en": "where?; wherever; anywhere; somewhere; (used in rhetorical questions) how can ...?; how could ...?",
+  "vi": "ở đâu",
   "l": 1
  },
  {
   "h": "哪些",
   "p": "nǎ xiē",
   "en": "which ones?; who?; what?",
+  "vi": "những cái nào",
   "l": 1
  },
  {
@@ -1673,30 +1781,35 @@
   "h": "那边",
   "p": "nà bian",
   "en": "over there; yonder",
+  "vi": "bên kia, đằng kia",
   "l": 1
  },
  {
   "h": "那里",
   "p": "nà li",
   "en": "there; that place",
+  "vi": "chỗ đó, nơi đó",
   "l": 1
  },
  {
   "h": "那儿",
   "p": "nà r",
   "en": "there",
+  "vi": "chỗ đó",
   "l": 1
  },
  {
   "h": "那些",
   "p": "nà xiē",
   "en": "those",
+  "vi": "những cái đó",
   "l": 1
  },
  {
   "h": "奶",
   "p": "nǎi",
   "en": "breast; milk; to breastfeed",
+  "vi": "sữa; vú",
   "l": 1
  },
  {
@@ -1710,18 +1823,21 @@
   "h": "男",
   "p": "nán",
   "en": "male; baron, the lowest of the five ranks of nobility 五等爵位",
+  "vi": "nam, con trai",
   "l": 1
  },
  {
   "h": "男孩儿",
   "p": "nán hái r",
   "en": "erhua form of 男孩",
+  "vi": "bé trai",
   "l": 1
  },
  {
   "h": "男朋友",
   "p": "nán péng you",
   "en": "boyfriend",
+  "vi": "bạn trai",
   "l": 1
  },
  {
@@ -1735,6 +1851,7 @@
   "h": "男生",
   "p": "nán shēng",
   "en": "schoolboy; male student; boy",
+  "vi": "học sinh nam",
   "l": 1
  },
  {
@@ -1748,6 +1865,7 @@
   "h": "南边",
   "p": "nán bian",
   "en": "south; south side; southern part",
+  "vi": "phía nam",
   "l": 1
  },
  {
@@ -1782,6 +1900,7 @@
   "h": "你们",
   "p": "nǐ men",
   "en": "you (plural)",
+  "vi": "các bạn, các anh",
   "l": 1
  },
  {
@@ -1809,6 +1928,7 @@
   "h": "女",
   "p": "nǚ",
   "en": "female; woman; daughter",
+  "vi": "nữ, con gái",
   "l": 1
  },
  {
@@ -1822,12 +1942,14 @@
   "h": "女孩儿",
   "p": "nǚ hái r",
   "en": "erhua form of 女孩",
+  "vi": "bé gái",
   "l": 1
  },
  {
   "h": "女朋友",
   "p": "nǚ péng you",
   "en": "girlfriend",
+  "vi": "bạn gái",
   "l": 1
  },
  {
@@ -1841,6 +1963,7 @@
   "h": "女生",
   "p": "nǚ shēng",
   "en": "schoolgirl; female student; girl",
+  "vi": "học sinh nữ",
   "l": 1
  },
  {
@@ -1854,6 +1977,7 @@
   "h": "跑",
   "p": "pǎo",
   "en": "to run; to run away; to escape",
+  "vi": "chạy",
   "l": 1
  },
  {
@@ -1881,6 +2005,7 @@
   "h": "起",
   "p": "qǐ",
   "en": "to rise; to raise; to get up",
+  "vi": "đứng dậy, dậy; bắt đầu",
   "l": 1
  },
  {
@@ -1901,24 +2026,28 @@
   "h": "汽车",
   "p": "qì chē",
   "en": "car; automobile; bus",
+  "vi": "ô tô",
   "l": 1
  },
  {
   "h": "前",
   "p": "qián",
   "en": "front; forward; ahead",
+  "vi": "trước, phía trước",
   "l": 1
  },
  {
   "h": "前边",
   "p": "qián bian",
   "en": "front; the front side; in front of",
+  "vi": "phía trước",
   "l": 1
  },
  {
   "h": "前天",
   "p": "qián tiān",
   "en": "the day before yesterday",
+  "vi": "hôm kia",
   "l": 1
  },
  {
@@ -1932,6 +2061,7 @@
   "h": "钱包",
   "p": "qián bāo",
   "en": "purse; wallet",
+  "vi": "ví tiền",
   "l": 1
  },
  {
@@ -1952,24 +2082,28 @@
   "h": "请进",
   "p": "qǐng jìn",
   "en": "\"please come in\"",
+  "vi": "mời vào",
   "l": 1
  },
  {
   "h": "请问",
   "p": "qǐng wèn",
   "en": "Excuse me, may I ask...?",
+  "vi": "xin hỏi",
   "l": 1
  },
  {
   "h": "请坐",
   "p": "qǐng zuò",
   "en": "please, have a seat",
+  "vi": "mời ngồi",
   "l": 1
  },
  {
   "h": "球",
   "p": "qiú",
   "en": "ball used for playing games (variant of 球)",
+  "vi": "quả bóng",
   "l": 1
  },
  {
@@ -2025,12 +2159,14 @@
   "h": "日期",
   "p": "rì qī",
   "en": "date",
+  "vi": "ngày tháng",
   "l": 1
  },
  {
   "h": "肉",
   "p": "ròu",
   "en": "meat; flesh; pulp (of a fruit)",
+  "vi": "thịt",
   "l": 1
  },
  {
@@ -2044,12 +2180,14 @@
   "h": "山",
   "p": "shān",
   "en": "mountain; hill (; (coll.) small bundle of straw for silkworms to spin cocoons on",
+  "vi": "núi",
   "l": 1
  },
  {
   "h": "商场",
   "p": "shāng chǎng",
   "en": "shopping mall; shopping center; department store",
+  "vi": "trung tâm thương mại",
   "l": 1
  },
  {
@@ -2077,24 +2215,28 @@
   "h": "上边",
   "p": "shàng bian",
   "en": "the top; above; overhead",
+  "vi": "phía trên",
   "l": 1
  },
  {
   "h": "上车",
   "p": "shàng chē",
   "en": "to get on or into (a bus, train, car etc)",
+  "vi": "lên xe",
   "l": 1
  },
  {
   "h": "上次",
   "p": "shàng cì",
   "en": "last time",
+  "vi": "lần trước",
   "l": 1
  },
  {
   "h": "上课",
   "p": "shàng kè",
   "en": "to go to class; to attend class; to go to teach a class",
+  "vi": "lên lớp",
   "l": 1
  },
  {
@@ -2115,6 +2257,7 @@
   "h": "上学",
   "p": "shàng xué",
   "en": "to go to school; to attend school",
+  "vi": "đi học",
   "l": 1
  },
  {
@@ -2135,6 +2278,7 @@
   "h": "身上",
   "p": "shēn shang",
   "en": "on the body; at hand; among",
+  "vi": "trên người",
   "l": 1
  },
  {
@@ -2197,6 +2341,7 @@
   "h": "事",
   "p": "shì",
   "en": "matter; thing; item",
+  "vi": "việc, chuyện",
   "l": 1
  },
  {
@@ -2217,12 +2362,14 @@
   "h": "是不是",
   "p": "shì bù shì",
   "en": "is or isn't; yes or no; whether or not",
+  "vi": "có phải không?",
   "l": 1
  },
  {
   "h": "手",
   "p": "shǒu",
   "en": "hand; (formal) to hold; person engaged in certain types of work",
+  "vi": "tay",
   "l": 1
  },
  {
@@ -2243,12 +2390,14 @@
   "h": "书包",
   "p": "shū bāo",
   "en": "schoolbag; satchel; bookbag",
+  "vi": "cặp sách",
   "l": 1
  },
  {
   "h": "书店",
   "p": "shū diàn",
   "en": "bookstore",
+  "vi": "hiệu sách",
   "l": 1
  },
  {
@@ -2276,6 +2425,7 @@
   "h": "睡",
   "p": "shuì",
   "en": "to sleep; to lie down",
+  "vi": "ngủ",
   "l": 1
  },
  {
@@ -2289,6 +2439,7 @@
   "h": "说",
   "p": "shuì",
   "en": "to persuade",
+  "vi": "nói",
   "l": 1
  },
  {
@@ -2330,6 +2481,7 @@
   "h": "他们",
   "p": "tā men",
   "en": "they; them",
+  "vi": "họ (nam hoặc hỗn hợp)",
   "l": 1
  },
  {
@@ -2343,6 +2495,7 @@
   "h": "她们",
   "p": "tā men",
   "en": "they; them (females)",
+  "vi": "họ (nữ)",
   "l": 1
  },
  {
@@ -2356,6 +2509,7 @@
   "h": "天",
   "p": "tiān",
   "en": "day; sky; heaven",
+  "vi": "ngày; bầu trời",
   "l": 1
  },
  {
@@ -2376,18 +2530,21 @@
   "h": "听到",
   "p": "tīng dào",
   "en": "to hear",
+  "vi": "nghe thấy",
   "l": 1
  },
  {
   "h": "听见",
   "p": "tīng jiàn",
   "en": "to hear",
+  "vi": "nghe thấy",
   "l": 1
  },
  {
   "h": "听写",
   "p": "tīng xiě",
   "en": "(of a pupil) to write down (in a dictation exercise); dictation; (music) to transcribe by ear",
+  "vi": "chính tả, nghe viết",
   "l": 1
  },
  {
@@ -2415,36 +2572,42 @@
   "h": "外边",
   "p": "wài bian",
   "en": "outside; outer surface; abroad",
+  "vi": "bên ngoài",
   "l": 1
  },
  {
   "h": "外国",
   "p": "wài guó",
   "en": "foreign country",
+  "vi": "nước ngoài",
   "l": 1
  },
  {
   "h": "外语",
   "p": "wài yǔ",
   "en": "foreign language",
+  "vi": "ngoại ngữ",
   "l": 1
  },
  {
   "h": "玩儿",
   "p": "wán r",
   "en": "to play; to have fun; to hang out",
+  "vi": "chơi",
   "l": 1
  },
  {
   "h": "晚",
   "p": "wǎn",
   "en": "evening; night; late",
+  "vi": "buổi tối; muộn",
   "l": 1
  },
  {
   "h": "晚饭",
   "p": "wǎn fàn",
   "en": "evening meal; dinner; supper",
+  "vi": "bữa tối",
   "l": 1
  },
  {
@@ -2458,18 +2621,21 @@
   "h": "网上",
   "p": "wǎng shàng",
   "en": "online",
+  "vi": "trên mạng",
   "l": 1
  },
  {
   "h": "网友",
   "p": "wǎng yǒu",
   "en": "online friend; netizen; Internet user",
+  "vi": "bạn trên mạng",
   "l": 1
  },
  {
   "h": "忘",
   "p": "wàng",
   "en": "to forget; to overlook; to neglect",
+  "vi": "quên",
   "l": 1
  },
  {
@@ -2511,6 +2677,7 @@
   "h": "午饭",
   "p": "wǔ fàn",
   "en": "lunch",
+  "vi": "bữa trưa",
   "l": 1
  },
  {
@@ -2524,6 +2691,7 @@
   "h": "西边",
   "p": "xī biān",
   "en": "west; west side; western part",
+  "vi": "phía tây",
   "l": 1
  },
  {
@@ -2558,30 +2726,35 @@
   "h": "下班",
   "p": "xià bān",
   "en": "to finish work; to get off work; next service (train, bus etc)",
+  "vi": "tan làm",
   "l": 1
  },
  {
   "h": "下边",
   "p": "xià bian",
   "en": "under; the underside; below",
+  "vi": "phía dưới",
   "l": 1
  },
  {
   "h": "下车",
   "p": "xià chē",
   "en": "to get off or out of (a bus, train, car etc)",
+  "vi": "xuống xe",
   "l": 1
  },
  {
   "h": "下次",
   "p": "xià cì",
   "en": "next time",
+  "vi": "lần sau",
   "l": 1
  },
  {
   "h": "下课",
   "p": "xià kè",
   "en": "to finish class; to get out of class; (fig.) (esp. of a sports coach) to be dismissed",
+  "vi": "tan học",
   "l": 1
  },
  {
@@ -2637,6 +2810,7 @@
   "h": "小孩儿",
   "p": "xiǎo hái r",
   "en": "",
+  "vi": "đứa trẻ",
   "l": 1
  },
  {
@@ -2650,6 +2824,7 @@
   "h": "小朋友",
   "p": "xiǎo péng yǒu",
   "en": "child; kid (used to refer to a child, or by an adult to address a child, or, in Taiwan, to refer to sb's own child)",
+  "vi": "bạn nhỏ",
   "l": 1
  },
  {
@@ -2663,12 +2838,14 @@
   "h": "小学",
   "p": "xiǎo xué",
   "en": "elementary school; primary school",
+  "vi": "trường tiểu học",
   "l": 1
  },
  {
   "h": "小学生",
   "p": "xiǎo xué shēng",
   "en": "primary school student; schoolchild; (fig.) beginner",
+  "vi": "học sinh tiểu học",
   "l": 1
  },
  {
@@ -2703,6 +2880,7 @@
   "h": "新年",
   "p": "xīn nián",
   "en": "New Year",
+  "vi": "năm mới",
   "l": 1
  },
  {
@@ -2716,12 +2894,14 @@
   "h": "星期日",
   "p": "Xīng qī rì",
   "en": "Sunday",
+  "vi": "chủ nhật",
   "l": 1
  },
  {
   "h": "星期天",
   "p": "Xīng qī tiān",
   "en": "Sunday",
+  "vi": "chủ nhật",
   "l": 1
  },
  {
@@ -2742,6 +2922,7 @@
   "h": "学",
   "p": "xué",
   "en": "to learn; to study; to imitate",
+  "vi": "học",
   "l": 1
  },
  {
@@ -2769,6 +2950,7 @@
   "h": "学院",
   "p": "xué yuàn",
   "en": "college; educational institute; school",
+  "vi": "học viện",
   "l": 1
  },
  {
@@ -2831,6 +3013,7 @@
   "h": "一半",
   "p": "yī bàn",
   "en": "half",
+  "vi": "một nửa",
   "l": 1
  },
  {
@@ -2844,12 +3027,14 @@
   "h": "一块儿",
   "p": "yī kuài r",
   "en": "",
+  "vi": "cùng nhau",
   "l": 1
  },
  {
   "h": "一下儿",
   "p": "yī xià r",
   "en": "erhua form of 一下",
+  "vi": "một chút, thử xem",
   "l": 1
  },
  {
@@ -2870,6 +3055,7 @@
   "h": "一点儿",
   "p": "yī diǎn r",
   "en": "",
+  "vi": "một chút",
   "l": 1
  },
  {
@@ -2883,6 +3069,7 @@
   "h": "一些",
   "p": "yī xiē",
   "en": "some; a few; a little; (following an adjective) slightly ...er",
+  "vi": "một vài, một ít",
   "l": 1
  },
  {
@@ -2903,6 +3090,7 @@
   "h": "有的",
   "p": "yǒu de",
   "en": "(there are) some (who are...); some (exist)",
+  "vi": "có cái, có người",
   "l": 1
  },
  {
@@ -2919,6 +3107,7 @@
   ],
   "p": "yǒu shí hou",
   "en": "sometimes",
+  "vi": "đôi khi",
   "l": 1
  },
  {
@@ -2928,18 +3117,21 @@
   ],
   "p": "yǒu xiē",
   "en": "some; somewhat",
+  "vi": "một vài, có phần",
   "l": 1
  },
  {
   "h": "有用",
   "p": "yǒu yòng",
   "en": "useful",
+  "vi": "có ích",
   "l": 1
  },
  {
   "h": "右",
   "p": "yòu",
   "en": "right; right-hand side; (politics) right of center; (old) west",
+  "vi": "bên phải",
   "l": 1
  },
  {
@@ -2953,6 +3145,7 @@
   "h": "雨",
   "p": "yǔ",
   "en": "rain",
+  "vi": "mưa",
   "l": 1
  },
  {
@@ -3001,18 +3194,21 @@
   "h": "在家",
   "p": "zài jiā",
   "en": "to be at home; (at a workplace) to be in (as opposed to being away on official business 出差); (Buddhism etc) to remain a layman (as opposed to becoming a monk or a nun 出家)",
+  "vi": "ở nhà",
   "l": 1
  },
  {
   "h": "早",
   "p": "zǎo",
   "en": "early; morning; Good morning!",
+  "vi": "sớm; buổi sáng",
   "l": 1
  },
  {
   "h": "早饭",
   "p": "zǎo fàn",
   "en": "breakfast",
+  "vi": "bữa sáng",
   "l": 1
  },
  {
@@ -3047,6 +3243,7 @@
   "h": "找到",
   "p": "zhǎo dào",
   "en": "to find",
+  "vi": "tìm thấy",
   "l": 1
  },
  {
@@ -3060,24 +3257,28 @@
   "h": "这边",
   "p": "zhè biān",
   "en": "this side; here",
+  "vi": "phía này",
   "l": 1
  },
  {
   "h": "这里",
   "p": "zhè lǐ",
   "en": "here",
+  "vi": "chỗ này",
   "l": 1
  },
  {
   "h": "这儿",
   "p": "zhè r",
   "en": "here",
+  "vi": "chỗ này",
   "l": 1
  },
  {
   "h": "这些",
   "p": "zhè xiē",
   "en": "these",
+  "vi": "những cái này",
   "l": 1
  },
  {
@@ -3098,12 +3299,14 @@
   "h": "真的",
   "p": "zhēn de",
   "en": "really; truly; indeed; real; true; genuine; (math.) proper",
+  "vi": "thật, đúng là",
   "l": 1
  },
  {
   "h": "正",
   "p": "zhēng",
   "en": "first month of the lunar year",
+  "vi": "tháng giêng (âm lịch); đúng, chính",
   "l": 1
  },
  {
@@ -3131,6 +3334,7 @@
   "h": "中",
   "p": "zhōng",
   "en": "within; among; in; middle; center; while (doing sth); during",
+  "vi": "ở giữa; trong",
   "l": 1
  },
  {
@@ -3165,18 +3369,21 @@
   "h": "中学",
   "p": "zhōng xué",
   "en": "middle school",
+  "vi": "trường trung học",
   "l": 1
  },
  {
   "h": "中学生",
   "p": "zhōng xué shēng",
   "en": "middle-school student; high school student",
+  "vi": "học sinh trung học",
   "l": 1
  },
  {
   "h": "重",
   "p": "chóng",
   "en": "to repeat; repetition; again",
+  "vi": "nặng; lặp lại",
   "l": 1
  },
  {
@@ -3218,6 +3425,7 @@
   "h": "子",
   "p": "zǐ",
   "en": "son; child; seed",
+  "vi": "con, con trai; hạt",
   "l": 1
  },
  {
@@ -3231,6 +3439,7 @@
   "h": "走路",
   "p": "zǒu lù",
   "en": "to walk; to go on foot; to leave; to depart; (informal) to clear off; to beat it",
+  "vi": "đi bộ",
   "l": 1
  },
  {
@@ -3265,6 +3474,7 @@
   "h": "左",
   "p": "zuǒ",
   "en": "left; the Left (politics); east",
+  "vi": "bên trái",
   "l": 1
  },
  {
@@ -3285,6 +3495,7 @@
   "h": "坐下",
   "p": "zuò xia",
   "en": "to sit down",
+  "vi": "ngồi xuống",
   "l": 1
  },
  {

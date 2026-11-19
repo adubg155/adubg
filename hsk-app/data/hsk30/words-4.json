@@ -24,30 +24,35 @@
   "h": "矮小",
   "p": "ǎi xiǎo",
   "en": "short and small; low and small; undersized",
+  "vi": "thấp bé",
   "l": 4
  },
  {
   "h": "爱国",
   "p": "ài guó",
   "en": "to love one's country; patriotic",
+  "vi": "yêu nước",
   "l": 4
  },
  {
   "h": "爱护",
   "p": "ài hù",
   "en": "to cherish; to treasure; to take care of",
+  "vi": "trân trọng, bảo vệ",
   "l": 4
  },
  {
   "h": "安",
   "p": "ān",
   "en": "calm; peaceful; to calm; to set at ease; safe; secure; in good health",
+  "vi": "yên ổn",
   "l": 4
  },
  {
   "h": "安置",
   "p": "ān zhì",
   "en": "to find a place for; to help settle down; to arrange for",
+  "vi": "bố trí, sắp xếp chỗ ở",
   "l": 4
  },
  {
@@ -68,60 +73,70 @@
   "h": "暗示",
   "p": "àn shì",
   "en": "to hint; to suggest; hint; suggestion",
+  "vi": "ám chỉ, gợi ý",
   "l": 4
  },
  {
   "h": "巴士",
   "p": "bā shì",
   "en": "bus (loanword); motor coach",
+  "vi": "xe buýt",
   "l": 4
  },
  {
   "h": "百货",
   "p": "bǎi huò",
   "en": "general merchandise",
+  "vi": "bách hóa",
   "l": 4
  },
  {
   "h": "摆",
   "p": "bǎi",
   "en": "to arrange; to exhibit; to move to and fro",
+  "vi": "bày, đặt; lắc lư",
   "l": 4
  },
  {
   "h": "摆动",
   "p": "bǎi dòng",
   "en": "to sway; to swing; to move back and forth",
+  "vi": "đung đưa",
   "l": 4
  },
  {
   "h": "摆脱",
   "p": "bǎi tuō",
   "en": "to break away from; to cast off (old ideas etc); to get rid of",
+  "vi": "thoát khỏi",
   "l": 4
  },
  {
   "h": "败",
   "p": "bài",
   "en": "to defeat; to damage; to lose (to an opponent)",
+  "vi": "thua, thất bại",
   "l": 4
  },
  {
   "h": "办事",
   "p": "bàn shì",
   "en": "to handle (affairs); to work",
+  "vi": "làm việc, xử lý công việc",
   "l": 4
  },
  {
   "h": "包裹",
   "p": "bāo guǒ",
   "en": "to wrap up; to bind up; bundle",
+  "vi": "bưu kiện; bọc",
   "l": 4
  },
  {
   "h": "包含",
   "p": "bāo hán",
   "en": "to contain; to embody; to include",
+  "vi": "bao gồm",
   "l": 4
  },
  {
@@ -135,48 +150,56 @@
   "h": "薄",
   "p": "báo",
   "en": "thin; cold in manner; indifferent",
+  "vi": "mỏng",
   "l": 4
  },
  {
   "h": "宝",
   "p": "bǎo",
   "en": "jewel; gem; treasure",
+  "vi": "báu vật",
   "l": 4
  },
  {
   "h": "宝宝",
   "p": "bǎo bao",
   "en": "darling; baby",
+  "vi": "em bé cưng",
   "l": 4
  },
  {
   "h": "宝贝",
   "p": "bǎo bèi",
   "en": "treasured object; treasure; darling",
+  "vi": "bảo bối",
   "l": 4
  },
  {
   "h": "宝贵",
   "p": "bǎo guì",
   "en": "valuable; precious; to value",
+  "vi": "quý giá",
   "l": 4
  },
  {
   "h": "宝石",
   "p": "bǎo shí",
   "en": "precious stone; gem",
+  "vi": "đá quý",
   "l": 4
  },
  {
   "h": "保密",
   "p": "bǎo mì",
   "en": "to keep sth confidential; to maintain secrecy",
+  "vi": "giữ bí mật",
   "l": 4
  },
  {
   "h": "保守",
   "p": "bǎo shǒu",
   "en": "conservative; to guard; to keep",
+  "vi": "bảo thủ; giữ gìn",
   "l": 4
  },
  {
@@ -190,6 +213,7 @@
   "h": "背景",
   "p": "bèi jǐng",
   "en": "background; backdrop; context; (fig.) powerful backer",
+  "vi": "bối cảnh",
   "l": 4
  },
  {
@@ -203,12 +227,14 @@
   "h": "被迫",
   "p": "bèi pò",
   "en": "to be compelled; to be forced",
+  "vi": "bị buộc phải",
   "l": 4
  },
  {
   "h": "本科",
   "p": "běn kē",
   "en": "undergraduate course; undergraduate (attributive)",
+  "vi": "đại học (bậc cử nhân)",
   "l": 4
  },
  {
@@ -222,6 +248,7 @@
   "h": "比分",
   "p": "bǐ fēn",
   "en": "score (of a game or competition)",
+  "vi": "tỉ số",
   "l": 4
  },
  {
@@ -235,42 +262,49 @@
   "h": "毕业生",
   "p": "bì yè shēng",
   "en": "graduate",
+  "vi": "sinh viên tốt nghiệp",
   "l": 4
  },
  {
   "h": "避",
   "p": "bì",
   "en": "to avoid; to shun; to flee",
+  "vi": "tránh",
   "l": 4
  },
  {
   "h": "避免",
   "p": "bì miǎn",
   "en": "to avert; to prevent; to avoid",
+  "vi": "tránh khỏi",
   "l": 4
  },
  {
   "h": "编",
   "p": "biān",
   "en": "to weave; to plait; to organize",
+  "vi": "biên soạn; đan",
   "l": 4
  },
  {
   "h": "辩论",
   "p": "biàn lùn",
   "en": "debate; argument; to argue over",
+  "vi": "tranh luận",
   "l": 4
  },
  {
   "h": "标志",
   "p": "biāo zhì",
   "en": "sign; mark; symbol; logo; to symbolize; to indicate; to mark",
+  "vi": "dấu hiệu; biểu tượng",
   "l": 4
  },
  {
   "h": "表情",
   "p": "biǎo qíng",
   "en": "(facial) expression; to express one's feelings",
+  "vi": "biểu cảm, nét mặt",
   "l": 4
  },
  {
@@ -291,6 +325,7 @@
   "h": "冰",
   "p": "bīng",
   "en": "ice; to chill sth; (of an object or substance) to feel cold",
+  "vi": "băng; làm lạnh",
   "l": 4
  },
  {
@@ -304,30 +339,35 @@
   "h": "冰雪",
   "p": "bīng xuě",
   "en": "ice and snow",
+  "vi": "băng tuyết",
   "l": 4
  },
  {
   "h": "兵",
   "p": "bīng",
   "en": "soldiers; a force; an army",
+  "vi": "binh lính",
   "l": 4
  },
  {
   "h": "并",
   "p": "bìng",
   "en": "and; furthermore; also",
+  "vi": "cũng; và",
   "l": 4
  },
  {
   "h": "不要紧",
   "p": "bù yào jǐn",
   "en": "unimportant; not serious; it doesn't matter",
+  "vi": "không sao",
   "l": 4
  },
  {
   "h": "不在乎",
   "p": "bù zài hu",
   "en": "not to care",
+  "vi": "không để ý",
   "l": 4
  },
  {
@@ -341,18 +381,21 @@
   "h": "不然",
   "p": "bù rán",
   "en": "not so; no; or else",
+  "vi": "nếu không thì",
   "l": 4
  },
  {
   "h": "布置",
   "p": "bù zhì",
   "en": "to put in order; to arrange; to decorate",
+  "vi": "bày trí; giao nhiệm vụ",
   "l": 4
  },
  {
   "h": "步行",
   "p": "bù xíng",
   "en": "to go on foot; to walk",
+  "vi": "đi bộ",
   "l": 4
  },
  {
@@ -380,162 +423,189 @@
   "h": "财产",
   "p": "cái chǎn",
   "en": "property; assets; estate",
+  "vi": "tài sản",
   "l": 4
  },
  {
   "h": "财富",
   "p": "cái fù",
   "en": "wealth; riches",
+  "vi": "của cải",
   "l": 4
  },
  {
   "h": "采访",
   "p": "cǎi fǎng",
   "en": "to interview; to gather news; to hunt for and collect",
+  "vi": "phỏng vấn",
   "l": 4
  },
  {
   "h": "参考",
   "p": "cān kǎo",
   "en": "consultation; reference; to consult",
+  "vi": "tham khảo",
   "l": 4
  },
  {
   "h": "参与",
   "p": "cān yù",
   "en": "to participate (in sth)",
+  "vi": "tham gia",
   "l": 4
  },
  {
   "h": "操场",
   "p": "cāo chǎng",
   "en": "playground; sports field; drill ground",
+  "vi": "sân thể dục",
   "l": 4
  },
  {
   "h": "操作",
   "p": "cāo zuò",
   "en": "to work; to operate; to manipulate",
+  "vi": "thao tác, vận hành",
   "l": 4
  },
  {
   "h": "测",
   "p": "cè",
   "en": "to survey; to measure; to conjecture",
+  "vi": "đo, kiểm tra",
   "l": 4
  },
  {
   "h": "测量",
   "p": "cè liáng",
   "en": "survey; to measure; to gauge",
+  "vi": "đo đạc",
   "l": 4
  },
  {
   "h": "测试",
   "p": "cè shì",
   "en": "to test (machinery etc); to test (a person's skill in a particular area); a test",
+  "vi": "kiểm tra thử nghiệm",
   "l": 4
  },
  {
   "h": "曾",
   "p": "céng",
   "en": "once; already; ever (in the past)",
+  "vi": "đã từng",
   "l": 4
  },
  {
   "h": "茶叶",
   "p": "chá yè",
   "en": "tea; tea leaves",
+  "vi": "lá trà",
   "l": 4
  },
  {
   "h": "产品",
   "p": "chǎn pǐn",
   "en": "goods; merchandise; product",
+  "vi": "sản phẩm",
   "l": 4
  },
  {
   "h": "长途",
   "p": "cháng tú",
   "en": "long distance; long-distance phone call (abbr. for 長途電話; long-distance coach (abbr. for 長途汽車",
+  "vi": "đường dài",
   "l": 4
  },
  {
   "h": "常识",
   "p": "cháng shí",
   "en": "common sense; general knowledge",
+  "vi": "kiến thức phổ thông",
   "l": 4
  },
  {
   "h": "唱片",
   "p": "chàng piàn",
   "en": "gramophone record; LP; music CD",
+  "vi": "đĩa nhạc",
   "l": 4
  },
  {
   "h": "抄",
   "p": "chāo",
   "en": "to make a copy; to plagiarize; to search and seize",
+  "vi": "chép lại",
   "l": 4
  },
  {
   "h": "抄写",
   "p": "chāo xiě",
   "en": "to copy; to transcribe",
+  "vi": "sao chép",
   "l": 4
  },
  {
   "h": "潮",
   "p": "cháo",
   "en": "tide; damp; moist; humid; fashionable; trendy",
+  "vi": "thủy triều; ẩm ướt",
   "l": 4
  },
  {
   "h": "潮流",
   "p": "cháo liú",
   "en": "tide; current; trend",
+  "vi": "xu hướng",
   "l": 4
  },
  {
   "h": "潮湿",
   "p": "cháo shī",
   "en": "damp; moist",
+  "vi": "ẩm ướt",
   "l": 4
  },
  {
   "h": "彻底",
   "p": "chè dǐ",
   "en": "thorough; thoroughly; complete",
+  "vi": "triệt để",
   "l": 4
  },
  {
   "h": "沉",
   "p": "chén",
   "en": "to submerge; to immerse; to sink",
+  "vi": "chìm",
   "l": 4
  },
  {
   "h": "沉默",
   "p": "chén mò",
   "en": "taciturn; uncommunicative; silent",
+  "vi": "im lặng",
   "l": 4
  },
  {
   "h": "沉重",
   "p": "chén zhòng",
   "en": "heavy; hard; serious",
+  "vi": "nặng nề",
   "l": 4
  },
  {
   "h": "称赞",
   "p": "chēng zàn",
   "en": "to praise; to commend; to compliment",
+  "vi": "khen ngợi",
   "l": 4
  },
  {
   "h": "成人",
   "p": "chéng rén",
   "en": "to reach adulthood; an adult",
+  "vi": "người lớn",
   "l": 4
  },
  {
@@ -549,30 +619,35 @@
   "h": "诚信",
   "p": "chéng xìn",
   "en": "honesty; trustworthiness; good faith",
+  "vi": "chân thành, tín nghĩa",
   "l": 4
  },
  {
   "h": "承担",
   "p": "chéng dān",
   "en": "to undertake; to assume (responsibility etc)",
+  "vi": "đảm nhận",
   "l": 4
  },
  {
   "h": "承认",
   "p": "chéng rèn",
   "en": "to admit; to concede; to recognize",
+  "vi": "thừa nhận",
   "l": 4
  },
  {
   "h": "承受",
   "p": "chéng shòu",
   "en": "to bear; to support; to inherit",
+  "vi": "chịu đựng",
   "l": 4
  },
  {
   "h": "程序",
   "p": "chéng xù",
   "en": "procedures; sequence; order",
+  "vi": "chương trình; quy trình",
   "l": 4
  },
  {
@@ -593,60 +668,70 @@
   "h": "尺",
   "p": "chě",
   "en": "one of the characters used to represent a musical note in gongche notation, 工尺譜",
+  "vi": "thước",
   "l": 4
  },
  {
   "h": "尺寸",
   "p": "chǐ cun",
   "en": "size; dimensions; measurements (esp. of clothes); (coll.) propriety",
+  "vi": "kích thước",
   "l": 4
  },
  {
   "h": "尺子",
   "p": "chǐ zi",
   "en": "ruler (measuring instrument)",
+  "vi": "thước kẻ",
   "l": 4
  },
  {
   "h": "冲",
   "p": "chōng",
   "en": "thoroughfare; to go straight ahead; to rush",
+  "vi": "xông tới; pha",
   "l": 4
  },
  {
   "h": "充电",
   "p": "chōng diàn",
   "en": "to recharge (a battery); (fig.) to recharge one's batteries (through leisure); to update one's skills and knowledge",
+  "vi": "sạc pin",
   "l": 4
  },
  {
   "h": "充电器",
   "p": "chōng diàn qì",
   "en": "battery charger",
+  "vi": "bộ sạc",
   "l": 4
  },
  {
   "h": "充分",
   "p": "chōng fèn",
   "en": "ample; sufficient; adequate",
+  "vi": "đầy đủ",
   "l": 4
  },
  {
   "h": "虫子",
   "p": "chóng zi",
   "en": "insect; bug; worm",
+  "vi": "côn trùng, sâu bọ",
   "l": 4
  },
  {
   "h": "抽",
   "p": "chōu",
   "en": "to draw out; to pull out from in between; to remove part of the whole",
+  "vi": "rút ra",
   "l": 4
  },
  {
   "h": "抽奖",
   "p": "chōu jiǎng",
   "en": "to draw a prize; a lottery; a raffle",
+  "vi": "rút thăm trúng thưởng",
   "l": 4
  },
  {
@@ -660,48 +745,56 @@
   "h": "出口",
   "p": "chū kǒu",
   "en": "an exit; to speak; to export",
+  "vi": "xuất khẩu; lối ra",
   "l": 4
  },
  {
   "h": "出色",
   "p": "chū sè",
   "en": "remarkable; outstanding",
+  "vi": "xuất sắc",
   "l": 4
  },
  {
   "h": "出售",
   "p": "chū shòu",
   "en": "to sell; to offer for sale; to put on the market",
+  "vi": "bán",
   "l": 4
  },
  {
   "h": "出席",
   "p": "chū xí",
   "en": "to attend; to participate; present",
+  "vi": "tham dự",
   "l": 4
  },
  {
   "h": "处于",
   "p": "chǔ yú",
   "en": "to be in (some state, position, or condition)",
+  "vi": "ở vào tình trạng",
   "l": 4
  },
  {
   "h": "处",
   "p": "chǔ",
   "en": "to reside; to live; to dwell",
+  "vi": "ở; xử lý",
   "l": 4
  },
  {
   "h": "穿上",
   "p": "chuān shang",
   "en": "to put on (clothes etc)",
+  "vi": "mặc vào",
   "l": 4
  },
  {
   "h": "传统",
   "p": "chuán tǒng",
   "en": "tradition; traditional; convention",
+  "vi": "truyền thống",
   "l": 4
  },
  {
@@ -715,48 +808,56 @@
   "h": "窗台",
   "p": "chuāng tái",
   "en": "windowsill; window ledge",
+  "vi": "bậu cửa sổ",
   "l": 4
  },
  {
   "h": "窗子",
   "p": "chuāng zi",
   "en": "window",
+  "vi": "cửa sổ",
   "l": 4
  },
  {
   "h": "春季",
   "p": "chūn jì",
   "en": "springtime",
+  "vi": "mùa xuân",
   "l": 4
  },
  {
   "h": "纯",
   "p": "chún",
   "en": "pure; simple; unmixed",
+  "vi": "thuần, nguyên chất",
   "l": 4
  },
  {
   "h": "纯净水",
   "p": "chún jìng shuǐ",
   "en": "purified water",
+  "vi": "nước tinh khiết",
   "l": 4
  },
  {
   "h": "词汇",
   "p": "cí huì",
   "en": "vocabulary; list of words (e.g. for language teaching purposes); word",
+  "vi": "từ vựng",
   "l": 4
  },
  {
   "h": "此",
   "p": "cǐ",
   "en": "this; these",
+  "vi": "này",
   "l": 4
  },
  {
   "h": "此外",
   "p": "cǐ wài",
   "en": "besides; in addition; moreover; furthermore",
+  "vi": "ngoài ra",
   "l": 4
  },
  {
@@ -770,24 +871,28 @@
   "h": "刺",
   "p": "cì",
   "en": "thorn; sting; thrust",
+  "vi": "gai; đâm",
   "l": 4
  },
  {
   "h": "刺激",
   "p": "cì jī",
   "en": "to provoke; to irritate; to upset; to stimulate; to excite; irritant",
+  "vi": "kích thích",
   "l": 4
  },
  {
   "h": "从此",
   "p": "cóng cǐ",
   "en": "from now on; since then; henceforth",
+  "vi": "từ đây",
   "l": 4
  },
  {
   "h": "粗",
   "p": "cū",
   "en": "remote; distant",
+  "vi": "to; thô",
   "l": 4
  },
  {
@@ -801,30 +906,35 @@
   "h": "促进",
   "p": "cù jìn",
   "en": "to promote (an idea or cause); to advance; boost",
+  "vi": "thúc đẩy",
   "l": 4
  },
  {
   "h": "促使",
   "p": "cù shǐ",
   "en": "to prompt; to induce; to spur",
+  "vi": "thúc giục",
   "l": 4
  },
  {
   "h": "促销",
   "p": "cù xiāo",
   "en": "to promote sales",
+  "vi": "khuyến mãi",
   "l": 4
  },
  {
   "h": "措施",
   "p": "cuò shī",
   "en": "measure; step",
+  "vi": "biện pháp",
   "l": 4
  },
  {
   "h": "打",
   "p": "dá",
   "en": "(loanword) dozen; Taiwan pr.",
+  "vi": "đánh; gọi",
   "l": 4
  },
  {
@@ -838,12 +948,14 @@
   "h": "打败",
   "p": "dǎ bài",
   "en": "to defeat; to overpower; to beat",
+  "vi": "đánh bại",
   "l": 4
  },
  {
   "h": "打雷",
   "p": "dǎ léi",
   "en": "to rumble with thunder; clap of thunder",
+  "vi": "có sấm",
   "l": 4
  },
  {
@@ -871,78 +983,91 @@
   "h": "大巴",
   "p": "dà bā",
   "en": "(coll.) large bus; coach; (abbr. for 大型巴士)",
+  "vi": "xe buýt lớn",
   "l": 4
  },
  {
   "h": "大多",
   "p": "dà duō",
   "en": "for the most part; many; most",
+  "vi": "phần lớn",
   "l": 4
  },
  {
   "h": "大方",
   "p": "dà fāng",
   "en": "expert; scholar; mother earth",
+  "vi": "hào phóng; tự nhiên",
   "l": 4
  },
  {
   "h": "大哥",
   "p": "dà gē",
   "en": "eldest brother; big brother (polite address for a man of about the same age as oneself); gang leader; boss",
+  "vi": "anh cả",
   "l": 4
  },
  {
   "h": "大规模",
   "p": "dà guī mó",
   "en": "large scale; extensive; wide scale",
+  "vi": "quy mô lớn",
   "l": 4
  },
  {
   "h": "大会",
   "p": "dà huì",
   "en": "general assembly; general meeting; convention",
+  "vi": "đại hội",
   "l": 4
  },
  {
   "h": "大姐",
   "p": "dà jiě",
   "en": "big sister; elder sister; older sister (also polite term of address for a girl or woman slightly older than the speaker)",
+  "vi": "chị cả",
   "l": 4
  },
  {
   "h": "大楼",
   "p": "dà lóu",
   "en": "building (a relatively large, multistory one)",
+  "vi": "tòa nhà",
   "l": 4
  },
  {
   "h": "大陆",
   "p": "Dà lù",
   "en": "mainland China (reference to the PRC)",
+  "vi": "đại lục",
   "l": 4
  },
  {
   "h": "大妈",
   "p": "dà mā",
   "en": "father's elder brother's wife; aunt (affectionate term for an elderly woman)",
+  "vi": "bác gái",
   "l": 4
  },
  {
   "h": "大型",
   "p": "dà xíng",
   "en": "large; large-scale",
+  "vi": "lớn; quy mô lớn",
   "l": 4
  },
  {
   "h": "大爷",
   "p": "dà yé",
   "en": "arrogant idler; self-centered show-off",
+  "vi": "bác trai; người rảnh rỗi",
   "l": 4
  },
  {
   "h": "大众",
   "p": "Dà zhòng",
   "en": "Volkswagen (automobile manufacturer)",
+  "vi": "đại chúng",
   "l": 4
  },
  {
@@ -956,12 +1081,14 @@
   "h": "待遇",
   "p": "dài yù",
   "en": "treatment; pay; salary",
+  "vi": "đãi ngộ, lương bổng",
   "l": 4
  },
  {
   "h": "袋",
   "p": "dài",
   "en": "pouch; bag; sack",
+  "vi": "túi",
   "l": 4
  },
  {
@@ -975,12 +1102,14 @@
   "h": "担保",
   "p": "dān bǎo",
   "en": "to guarantee; to vouch for",
+  "vi": "bảo lãnh",
   "l": 4
  },
  {
   "h": "担任",
   "p": "dān rèn",
   "en": "to hold a governmental office or post; to assume office of; to take charge of",
+  "vi": "đảm nhiệm",
   "l": 4
  },
  {
@@ -994,30 +1123,35 @@
   "h": "单",
   "p": "dān",
   "en": "bill; list; form",
+  "vi": "đơn; tờ",
   "l": 4
  },
  {
   "h": "单纯",
   "p": "dān chún",
   "en": "simple; pure; unsophisticated",
+  "vi": "đơn giản; giản dị",
   "l": 4
  },
  {
   "h": "单调",
   "p": "dān diào",
   "en": "monotonous",
+  "vi": "đơn điệu",
   "l": 4
  },
  {
   "h": "单独",
   "p": "dān dú",
   "en": "alone; by oneself; on one's own",
+  "vi": "riêng lẻ",
   "l": 4
  },
  {
   "h": "淡",
   "p": "dàn",
   "en": "insipid; diluted; weak",
+  "vi": "nhạt",
   "l": 4
  },
  {
@@ -1031,18 +1165,21 @@
   "h": "导致",
   "p": "dǎo zhì",
   "en": "to lead to; to create; to cause; to bring about",
+  "vi": "dẫn đến",
   "l": 4
  },
  {
   "h": "倒闭",
   "p": "dǎo bì",
   "en": "to go bankrupt; to close down",
+  "vi": "phá sản",
   "l": 4
  },
  {
   "h": "倒车",
   "p": "dǎo chē",
   "en": "to change buses, trains etc",
+  "vi": "đổi xe",
   "l": 4
  },
  {
@@ -1063,42 +1200,49 @@
   "h": "灯光",
   "p": "dēng guāng",
   "en": "(stage) lighting; light",
+  "vi": "ánh đèn",
   "l": 4
  },
  {
   "h": "登",
   "p": "dēng",
   "en": "to scale (a height); to ascend; to mount",
+  "vi": "leo; đăng",
   "l": 4
  },
  {
   "h": "登记",
   "p": "dēng jì",
   "en": "to register (one's name)",
+  "vi": "đăng ký",
   "l": 4
  },
  {
   "h": "登录",
   "p": "dēng lù",
   "en": "to register; to log in",
+  "vi": "đăng nhập",
   "l": 4
  },
  {
   "h": "登山",
   "p": "dēng shān",
   "en": "to climb a mountain; climbing; mountaineering",
+  "vi": "leo núi",
   "l": 4
  },
  {
   "h": "的确",
   "p": "dí què",
   "en": "really; indeed",
+  "vi": "quả thật",
   "l": 4
  },
  {
   "h": "敌人",
   "p": "dí rén",
   "en": "enemy",
+  "vi": "kẻ thù",
   "l": 4
  },
  {
@@ -1119,18 +1263,21 @@
   "h": "地面",
   "p": "dì miàn",
   "en": "floor; ground; surface",
+  "vi": "mặt đất",
   "l": 4
  },
  {
   "h": "地位",
   "p": "dì wèi",
   "en": "position; status; place",
+  "vi": "địa vị",
   "l": 4
  },
  {
   "h": "地下",
   "p": "dì xià",
   "en": "underground; subterranean; covert",
+  "vi": "dưới lòng đất",
   "l": 4
  },
  {
@@ -1144,24 +1291,28 @@
   "h": "典型",
   "p": "diǎn xíng",
   "en": "model; typical case; archetype",
+  "vi": "điển hình",
   "l": 4
  },
  {
   "h": "点名",
   "p": "diǎn míng",
   "en": "roll call; to mention sb by name; (to call or praise or criticize sb) by name",
+  "vi": "điểm danh",
   "l": 4
  },
  {
   "h": "电灯",
   "p": "diàn dēng",
   "en": "electric light",
+  "vi": "đèn điện",
   "l": 4
  },
  {
   "h": "电动车",
   "p": "diàn dòng chē",
   "en": "electric vehicle (commonly refers to e-bikes, scooters or electric cars)",
+  "vi": "xe điện",
   "l": 4
  },
  {
@@ -1175,66 +1326,77 @@
   "h": "电源",
   "p": "diàn yuán",
   "en": "electric power source",
+  "vi": "nguồn điện",
   "l": 4
  },
  {
   "h": "顶",
   "p": "dǐng",
   "en": "apex; crown of the head; top",
+  "vi": "đỉnh; đội",
   "l": 4
  },
  {
   "h": "定",
   "p": "dìng",
   "en": "to fix; to set; to make definite; to subscribe to (a newspaper etc); to book (tickets etc); to order (goods etc); to congeal; to coagulate",
+  "vi": "định, cố định",
   "l": 4
  },
  {
   "h": "冬季",
   "p": "dōng jì",
   "en": "winter",
+  "vi": "mùa đông",
   "l": 4
  },
  {
   "h": "动画片",
   "p": "dòng huà piàn",
   "en": "animated film",
+  "vi": "phim hoạt hình",
   "l": 4
  },
  {
   "h": "动摇",
   "p": "dòng yáo",
   "en": "to sway; to waver; to rock",
+  "vi": "lung lay",
   "l": 4
  },
  {
   "h": "豆腐",
   "p": "dòu fu",
   "en": "tofu; bean curd",
+  "vi": "đậu phụ",
   "l": 4
  },
  {
   "h": "独立",
   "p": "dú lì",
   "en": "independent; independence; to stand alone",
+  "vi": "độc lập",
   "l": 4
  },
  {
   "h": "独特",
   "p": "dú tè",
   "en": "unique; distinctive",
+  "vi": "độc đáo",
   "l": 4
  },
  {
   "h": "独自",
   "p": "dú zì",
   "en": "alone",
+  "vi": "một mình",
   "l": 4
  },
  {
   "h": "堵",
   "p": "dǔ",
   "en": "to block up (a road, pipe etc); to stop up (a hole); (fig.) (of a person) choked up with anxiety or stress",
+  "vi": "chặn",
   "l": 4
  },
  {
@@ -1255,6 +1417,7 @@
   "h": "度过",
   "p": "dù guò",
   "en": "to pass; to spend (time); to survive",
+  "vi": "trải qua",
   "l": 4
  },
  {
@@ -1268,48 +1431,56 @@
   "h": "对比",
   "p": "duì bǐ",
   "en": "to contrast; contrast; ratio",
+  "vi": "đối chiếu",
   "l": 4
  },
  {
   "h": "对付",
   "p": "duì fu",
   "en": "to handle; to deal with; to tackle; to get by with; to make do; (dialect) (usu. used in the negative) to get along with (sb)",
+  "vi": "đối phó",
   "l": 4
  },
  {
   "h": "对于",
   "p": "duì yú",
   "en": "regarding; as far as (sth) is concerned; with regard to",
+  "vi": "đối với",
   "l": 4
  },
  {
   "h": "多次",
   "p": "duō cì",
   "en": "many times; repeatedly",
+  "vi": "nhiều lần",
   "l": 4
  },
  {
   "h": "多年",
   "p": "duō nián",
   "en": "many years; for many years; longstanding",
+  "vi": "nhiều năm",
   "l": 4
  },
  {
   "h": "多样",
   "p": "duō yàng",
   "en": "diverse; diversity; manifold",
+  "vi": "đa dạng",
   "l": 4
  },
  {
   "h": "多种",
   "p": "duō zhǒng",
   "en": "many kinds of; multiple; diverse; multi-",
+  "vi": "nhiều loại",
   "l": 4
  },
  {
   "h": "恶心",
   "p": "ě xīn",
   "en": "nausea; to feel sick; disgust",
+  "vi": "buồn nôn; ghê tởm",
   "l": 4
  },
  {
@@ -1330,30 +1501,35 @@
   "h": "而是",
   "p": "ér shì",
   "en": "rather",
+  "vi": "mà là",
   "l": 4
  },
  {
   "h": "耳机",
   "p": "ěr jī",
   "en": "headphones; earphones; telephone receiver",
+  "vi": "tai nghe",
   "l": 4
  },
  {
   "h": "二手",
   "p": "èr shǒu",
   "en": "indirectly acquired; second-hand (information, equipment etc); assistant",
+  "vi": "đã qua sử dụng",
   "l": 4
  },
  {
   "h": "发挥",
   "p": "fā huī",
   "en": "to display; to exhibit; to bring out implicit or innate qualities",
+  "vi": "phát huy",
   "l": 4
  },
  {
   "h": "发票",
   "p": "fā piào",
   "en": "invoice; receipt; bill; uniform invoice (abbr. for 統一發票",
+  "vi": "hóa đơn",
   "l": 4
  },
  {
@@ -1367,12 +1543,14 @@
   "h": "法",
   "p": "Fǎ",
   "en": "France; French; abbr. for 法國",
+  "vi": "pháp luật",
   "l": 4
  },
  {
   "h": "法官",
   "p": "fǎ guān",
   "en": "judge (in court)",
+  "vi": "thẩm phán",
   "l": 4
  },
  {
@@ -1386,12 +1564,14 @@
   "h": "法院",
   "p": "fǎ yuàn",
   "en": "court of law; court",
+  "vi": "tòa án",
   "l": 4
  },
  {
   "h": "翻",
   "p": "fān",
   "en": "to turn over; to flip over; to overturn",
+  "vi": "lật; dịch",
   "l": 4
  },
  {
@@ -1405,18 +1585,21 @@
   "h": "烦",
   "p": "fán",
   "en": "to feel vexed; to bother; to trouble",
+  "vi": "phiền",
   "l": 4
  },
  {
   "h": "反",
   "p": "fǎn",
   "en": "contrary; in reverse; inside out or upside down",
+  "vi": "ngược lại",
   "l": 4
  },
  {
   "h": "反而",
   "p": "fǎn ér",
   "en": "on the contrary; instead",
+  "vi": "trái lại",
   "l": 4
  },
  {
@@ -1430,78 +1613,91 @@
   "h": "方",
   "p": "fāng",
   "en": "square; power or involution (math.); upright",
+  "vi": "vuông; phương",
   "l": 4
  },
  {
   "h": "方案",
   "p": "fāng àn",
   "en": "plan; program (for action etc); proposal",
+  "vi": "phương án",
   "l": 4
  },
  {
   "h": "方针",
   "p": "fāng zhēn",
   "en": "policy; guidelines",
+  "vi": "đường lối, phương châm",
   "l": 4
  },
  {
   "h": "放松",
   "p": "fàng sōng",
   "en": "to relax; to slacken; to loosen",
+  "vi": "thư giãn; nới lỏng",
   "l": 4
  },
  {
   "h": "非",
   "p": "fēi",
   "en": "to not be; not; wrong; incorrect; non-; un-; in-; de-",
+  "vi": "không phải",
   "l": 4
  },
  {
   "h": "肥",
   "p": "féi",
   "en": "fat; fertile; loose-fitting or large",
+  "vi": "béo; màu mỡ",
   "l": 4
  },
  {
   "h": "分布",
   "p": "fēn bù",
   "en": "to scatter; to distribute; to be distributed (over an area etc)",
+  "vi": "phân bố",
   "l": 4
  },
  {
   "h": "分散",
   "p": "fēn sàn",
   "en": "to scatter; to disperse; to distribute",
+  "vi": "phân tán",
   "l": 4
  },
  {
   "h": "分手",
   "p": "fēn shǒu",
   "en": "to part company; to split up; to break up",
+  "vi": "chia tay",
   "l": 4
  },
  {
   "h": "分为",
   "p": "fēn wéi",
   "en": "to divide sth into (parts); to subdivide",
+  "vi": "chia thành",
   "l": 4
  },
  {
   "h": "纷纷",
   "p": "fēn fēn",
   "en": "one after another; in succession; one by one",
+  "vi": "lần lượt, tấp nập",
   "l": 4
  },
  {
   "h": "奋斗",
   "p": "fèn dòu",
   "en": "to strive; to struggle",
+  "vi": "phấn đấu",
   "l": 4
  },
  {
   "h": "风格",
   "p": "fēng gé",
   "en": "style",
+  "vi": "phong cách",
   "l": 4
  },
  {
@@ -1515,12 +1711,14 @@
   "h": "风俗",
   "p": "fēng sú",
   "en": "social custom",
+  "vi": "phong tục",
   "l": 4
  },
  {
   "h": "封闭",
   "p": "fēng bì",
   "en": "to close; to seal off; to close down (an illegal venue); closed (i.e. isolated from outside input)",
+  "vi": "đóng kín",
   "l": 4
  },
  {
@@ -1534,24 +1732,28 @@
   "h": "夫妇",
   "p": "fū fù",
   "en": "a (married) couple; husband and wife",
+  "vi": "vợ chồng",
   "l": 4
  },
  {
   "h": "夫妻",
   "p": "fū qī",
   "en": "husband and wife; married couple",
+  "vi": "vợ chồng",
   "l": 4
  },
  {
   "h": "夫人",
   "p": "fū ren",
   "en": "lady; madam; Mrs.",
+  "vi": "phu nhân",
   "l": 4
  },
  {
   "h": "符号",
   "p": "fú hào",
   "en": "symbol; mark; sign",
+  "vi": "ký hiệu",
   "l": 4
  },
  {
@@ -1565,12 +1767,14 @@
   "h": "付出",
   "p": "fù chū",
   "en": "to pay; to expend; to invest (energy or time)",
+  "vi": "bỏ ra, trả giá",
   "l": 4
  },
  {
   "h": "负担",
   "p": "fù dān",
   "en": "to bear (an expense, a responsibility etc); burden",
+  "vi": "gánh nặng",
   "l": 4
  },
  {
@@ -1584,102 +1788,119 @@
   "h": "复制",
   "p": "fù zhì",
   "en": "to duplicate; to make a copy of; to copy",
+  "vi": "sao chép",
   "l": 4
  },
  {
   "h": "改善",
   "p": "gǎi shàn",
   "en": "to make better; to improve",
+  "vi": "cải thiện",
   "l": 4
  },
  {
   "h": "改正",
   "p": "gǎi zhèng",
   "en": "to correct; to amend; to put right",
+  "vi": "sửa lại",
   "l": 4
  },
  {
   "h": "盖",
   "p": "gài",
   "en": "lid; top; cover",
+  "vi": "nắp; che",
   "l": 4
  },
  {
   "h": "概括",
   "p": "gài kuò",
   "en": "to summarize; to generalize; briefly; in broad outline",
+  "vi": "khái quát",
   "l": 4
  },
  {
   "h": "感兴趣",
   "p": "gǎn xìng qù",
   "en": "to be interested",
+  "vi": "hứng thú",
   "l": 4
  },
  {
   "h": "高潮",
   "p": "gāo cháo",
   "en": "high tide; high water; upsurge; peak of activity; climax (of a story, a competition etc)",
+  "vi": "cao trào",
   "l": 4
  },
  {
   "h": "高价",
   "p": "gāo jià",
   "en": "high price",
+  "vi": "giá cao",
   "l": 4
  },
  {
   "h": "高尚",
   "p": "gāo shàng",
   "en": "noble; lofty; refined",
+  "vi": "cao thượng",
   "l": 4
  },
  {
   "h": "高铁",
   "p": "gāo tiě",
   "en": "high speed rail",
+  "vi": "tàu cao tốc",
   "l": 4
  },
  {
   "h": "格外",
   "p": "gé wài",
   "en": "especially; particularly; even more than usual; extra; additional",
+  "vi": "đặc biệt",
   "l": 4
  },
  {
   "h": "隔",
   "p": "gé",
   "en": "to separate; to partition; to stand or lie between",
+  "vi": "ngăn cách",
   "l": 4
  },
  {
   "h": "隔开",
   "p": "gé kāi",
   "en": "to separate",
+  "vi": "cách ly",
   "l": 4
  },
  {
   "h": "个别",
   "p": "gè bié",
   "en": "individually; one by one; just one or two; exceptional; rare",
+  "vi": "riêng lẻ",
   "l": 4
  },
  {
   "h": "个体",
   "p": "gè tǐ",
   "en": "individual",
+  "vi": "cá thể",
   "l": 4
  },
  {
   "h": "各个",
   "p": "gè gè",
   "en": "every; various; separately, one by one",
+  "vi": "từng cái",
   "l": 4
  },
  {
   "h": "根",
   "p": "gēn",
   "en": "root; basis; classifier for long slender objects, e.g. cigarettes, guitar strings",
+  "vi": "gốc rễ",
   "l": 4
  },
  {
@@ -1693,42 +1914,49 @@
   "h": "工程",
   "p": "gōng chéng",
   "en": "engineering; an engineering project; project",
+  "vi": "công trình",
   "l": 4
  },
  {
   "h": "公元",
   "p": "gōng yuán",
   "en": "CE (Common Era); Christian Era; AD (Anno Domini)",
+  "vi": "công nguyên",
   "l": 4
  },
  {
   "h": "供应",
   "p": "gōng yìng",
   "en": "to supply; to provide (goods, services etc)",
+  "vi": "cung cấp",
   "l": 4
  },
  {
   "h": "共",
   "p": "gòng",
   "en": "common; general; to share",
+  "vi": "cùng",
   "l": 4
  },
  {
   "h": "构成",
   "p": "gòu chéng",
   "en": "to constitute; to form; to compose",
+  "vi": "cấu thành",
   "l": 4
  },
  {
   "h": "构造",
   "p": "gòu zào",
   "en": "structure; composition; tectonic (geology)",
+  "vi": "cấu tạo",
   "l": 4
  },
  {
   "h": "购买",
   "p": "gòu mǎi",
   "en": "to purchase; to buy",
+  "vi": "mua",
   "l": 4
  },
  {
@@ -1742,24 +1970,28 @@
   "h": "骨头",
   "p": "gǔ tou",
   "en": "bone; moral character; bitterness",
+  "vi": "xương",
   "l": 4
  },
  {
   "h": "固定",
   "p": "gù dìng",
   "en": "to fix; to fasten; to set rigidly in place",
+  "vi": "cố định",
   "l": 4
  },
  {
   "h": "瓜",
   "p": "guā",
   "en": "melon; gourd; squash; (slang) a piece of gossip",
+  "vi": "dưa",
   "l": 4
  },
  {
   "h": "怪",
   "p": "guài",
   "en": "bewildering; odd; strange",
+  "vi": "kỳ lạ",
   "l": 4
  },
  {
@@ -1773,6 +2005,7 @@
   "h": "关闭",
   "p": "guān bì",
   "en": "to close; to shut (a window etc); (of a shop, school etc) to shut down",
+  "vi": "đóng lại",
   "l": 4
  },
  {
@@ -1786,24 +2019,28 @@
   "h": "官",
   "p": "guān",
   "en": "government official; governmental; official",
+  "vi": "quan chức",
   "l": 4
  },
  {
   "h": "官方",
   "p": "guān fāng",
   "en": "government; official (approved or issued by an authority)",
+  "vi": "chính thức",
   "l": 4
  },
  {
   "h": "光临",
   "p": "guāng lín",
   "en": "(formal) to honor with one's presence; to attend",
+  "vi": "ghé thăm",
   "l": 4
  },
  {
   "h": "光盘",
   "p": "guāng pán",
   "en": "compact disc (CD); DVD; CD-ROM",
+  "vi": "đĩa CD",
   "l": 4
  },
  {
@@ -1817,72 +2054,84 @@
   "h": "归",
   "p": "guī",
   "en": "to return; to go back to; to give back to",
+  "vi": "quay về",
   "l": 4
  },
  {
   "h": "规律",
   "p": "guī lǜ",
   "en": "rule (e.g. of science); law of behavior; regular pattern",
+  "vi": "quy luật",
   "l": 4
  },
  {
   "h": "规模",
   "p": "guī mó",
   "en": "scale; scope; extent",
+  "vi": "quy mô",
   "l": 4
  },
  {
   "h": "规则",
   "p": "guī zé",
   "en": "rule; regulation; regular; orderly; fixed",
+  "vi": "quy tắc",
   "l": 4
  },
  {
   "h": "果实",
   "p": "guǒ shí",
   "en": "fruit (produced by a plant); (fig.) fruits (of success etc); results",
+  "vi": "quả",
   "l": 4
  },
  {
   "h": "过分",
   "p": "guò fèn",
   "en": "excessive; undue; unduly; overly",
+  "vi": "quá mức",
   "l": 4
  },
  {
   "h": "海水",
   "p": "hǎi shuǐ",
   "en": "seawater",
+  "vi": "nước biển",
   "l": 4
  },
  {
   "h": "海鲜",
   "p": "hǎi xiān",
   "en": "seafood",
+  "vi": "hải sản",
   "l": 4
  },
  {
   "h": "含",
   "p": "hán",
   "en": "to keep in the mouth; to contain",
+  "vi": "ngậm; chứa",
   "l": 4
  },
  {
   "h": "含量",
   "p": "hán liàng",
   "en": "content; quantity contained",
+  "vi": "hàm lượng",
   "l": 4
  },
  {
   "h": "含义",
   "p": "hán yì",
   "en": "meaning (implicit in a phrase); implied meaning; hidden meaning",
+  "vi": "ý nghĩa",
   "l": 4
  },
  {
   "h": "含有",
   "p": "hán yǒu",
   "en": "to contain; including",
+  "vi": "chứa đựng",
   "l": 4
  },
  {
@@ -1896,12 +2145,14 @@
   "h": "寒冷",
   "p": "hán lěng",
   "en": "cold (climate); frigid; very cold",
+  "vi": "lạnh giá",
   "l": 4
  },
  {
   "h": "行业",
   "p": "háng yè",
   "en": "trade; profession; industry; business",
+  "vi": "ngành nghề",
   "l": 4
  },
  {
@@ -1915,24 +2166,28 @@
   "h": "航空",
   "p": "háng kōng",
   "en": "aviation",
+  "vi": "hàng không",
   "l": 4
  },
  {
   "h": "毫米",
   "p": "háo mǐ",
   "en": "millimeter",
+  "vi": "mi-li-mét",
   "l": 4
  },
  {
   "h": "毫升",
   "p": "háo shēng",
   "en": "milliliter",
+  "vi": "mi-li-lít",
   "l": 4
  },
  {
   "h": "好友",
   "p": "hǎo yǒu",
   "en": "close friend; pal; (social networking website) friend",
+  "vi": "bạn thân",
   "l": 4
  },
  {
@@ -1953,24 +2208,28 @@
   "h": "合同",
   "p": "hé tong",
   "en": "contract; agreement",
+  "vi": "hợp đồng",
   "l": 4
  },
  {
   "h": "黑暗",
   "p": "hēi àn",
   "en": "dark; darkly; darkness",
+  "vi": "bóng tối",
   "l": 4
  },
  {
   "h": "红包",
   "p": "hóng bāo",
   "en": "money wrapped in red as a gift; bonus payment; kickback",
+  "vi": "phong bao lì xì",
   "l": 4
  },
  {
   "h": "后头",
   "p": "hòu tou",
   "en": "behind; the back; the rear",
+  "vi": "phía sau",
   "l": 4
  },
  {
@@ -1984,18 +2243,21 @@
   "h": "呼吸",
   "p": "hū xī",
   "en": "to breathe",
+  "vi": "hô hấp",
   "l": 4
  },
  {
   "h": "忽视",
   "p": "hū shì",
   "en": "to neglect; to overlook; to disregard; to ignore",
+  "vi": "coi nhẹ",
   "l": 4
  },
  {
   "h": "户",
   "p": "hù",
   "en": "a household; door; family",
+  "vi": "hộ gia đình",
   "l": 4
  },
  {
@@ -2016,12 +2278,14 @@
   "h": "划",
   "p": "huá",
   "en": "to row; to paddle; profitable",
+  "vi": "chèo; vạch",
   "l": 4
  },
  {
   "h": "怀念",
   "p": "huái niàn",
   "en": "to cherish the memory of; to think of; to reminisce",
+  "vi": "nhớ nhung",
   "l": 4
  },
  {
@@ -2035,48 +2299,56 @@
   "h": "缓解",
   "p": "huǎn jiě",
   "en": "to bring relief; to alleviate (a crisis); to dull (a pain)",
+  "vi": "làm dịu bớt",
   "l": 4
  },
  {
   "h": "黄瓜",
   "p": "huáng guā",
   "en": "cucumber",
+  "vi": "dưa chuột",
   "l": 4
  },
  {
   "h": "黄金",
   "p": "huáng jīn",
   "en": "gold; golden (opportunity); prime (time)",
+  "vi": "vàng",
   "l": 4
  },
  {
   "h": "回复",
   "p": "huí fù",
   "en": "to recover; to revert; to return to (good health, normal condition etc)",
+  "vi": "trả lời",
   "l": 4
  },
  {
   "h": "汇",
   "p": "huì",
   "en": "to remit; to converge (of rivers); to exchange",
+  "vi": "gửi; hối đoái",
   "l": 4
  },
  {
   "h": "汇报",
   "p": "huì bào",
   "en": "to report; to give an account of; to collect information and report back",
+  "vi": "báo cáo",
   "l": 4
  },
  {
   "h": "汇率",
   "p": "huì lǜ",
   "en": "exchange rate",
+  "vi": "tỷ giá",
   "l": 4
  },
  {
   "h": "婚礼",
   "p": "hūn lǐ",
   "en": "wedding ceremony; wedding",
+  "vi": "đám cưới",
   "l": 4
  },
  {
@@ -2090,30 +2362,35 @@
   "h": "伙",
   "p": "huǒ",
   "en": "meals (abbr. for 伙食)",
+  "vi": "nhóm; bạn",
   "l": 4
  },
  {
   "h": "伙伴",
   "p": "huǒ bàn",
   "en": "partner; companion; comrade",
+  "vi": "bạn đồng hành",
   "l": 4
  },
  {
   "h": "或许",
   "p": "huò xǔ",
   "en": "perhaps; maybe",
+  "vi": "có lẽ",
   "l": 4
  },
  {
   "h": "货",
   "p": "huò",
   "en": "goods; money; commodity",
+  "vi": "hàng hóa",
   "l": 4
  },
  {
   "h": "获",
   "p": "huò",
   "en": "(literary) to catch; to capture; (literary) to get; to obtain; to win",
+  "vi": "đạt được",
   "l": 4
  },
  {
@@ -2127,12 +2404,14 @@
   "h": "获奖",
   "p": "huò jiǎng",
   "en": "to win an award",
+  "vi": "đoạt giải",
   "l": 4
  },
  {
   "h": "获取",
   "p": "huò qǔ",
   "en": "to gain; to get; to acquire",
+  "vi": "thu được",
   "l": 4
  },
  {
@@ -2146,12 +2425,14 @@
   "h": "机构",
   "p": "jī gòu",
   "en": "mechanism; structure; organization",
+  "vi": "cơ cấu, tổ chức",
   "l": 4
  },
  {
   "h": "机遇",
   "p": "jī yù",
   "en": "opportunity; favorable turn of events; stroke of luck",
+  "vi": "cơ hội",
   "l": 4
  },
  {
@@ -2172,12 +2453,14 @@
   "h": "激烈",
   "p": "jī liè",
   "en": "(of competition or fighting) intense; fierce; (of pain) acute",
+  "vi": "dữ dội",
   "l": 4
  },
  {
   "h": "及格",
   "p": "jí gé",
   "en": "to pass an exam or a test; to meet a minimum standard",
+  "vi": "đạt yêu cầu",
   "l": 4
  },
  {
@@ -2198,12 +2481,14 @@
   "h": "即将",
   "p": "jí jiāng",
   "en": "about to; on the point of; soon",
+  "vi": "sắp",
   "l": 4
  },
  {
   "h": "急忙",
   "p": "jí máng",
   "en": "hastily",
+  "vi": "vội vàng",
   "l": 4
  },
  {
@@ -2217,36 +2502,42 @@
   "h": "记载",
   "p": "jì zǎi",
   "en": "to write down; to record; written account",
+  "vi": "ghi chép",
   "l": 4
  },
  {
   "h": "纪律",
   "p": "jì lǜ",
   "en": "discipline",
+  "vi": "kỷ luật",
   "l": 4
  },
  {
   "h": "技巧",
   "p": "jì qiǎo",
   "en": "skill; technique",
+  "vi": "kỹ xảo",
   "l": 4
  },
  {
   "h": "系",
   "p": "xì",
   "en": "to connect; to relate to; to tie up",
+  "vi": "hệ; buộc",
   "l": 4
  },
  {
   "h": "季",
   "p": "jì",
   "en": "season; the last month of a season; fourth or youngest amongst brothers",
+  "vi": "mùa",
   "l": 4
  },
  {
   "h": "季度",
   "p": "jì dù",
   "en": "quarter of a year; season (sports)",
+  "vi": "quý",
   "l": 4
  },
  {
@@ -2260,6 +2551,7 @@
   "h": "既",
   "p": "jì",
   "en": "already; since; both... (and...)",
+  "vi": "đã; vì",
   "l": 4
  },
  {
@@ -2287,6 +2579,7 @@
   "h": "加入",
   "p": "jiā rù",
   "en": "to become a member; to join; to mix into",
+  "vi": "gia nhập",
   "l": 4
  },
  {
@@ -2300,30 +2593,35 @@
   "h": "家务",
   "p": "jiā wù",
   "en": "household duties; housework",
+  "vi": "việc nhà",
   "l": 4
  },
  {
   "h": "假如",
   "p": "jiǎ rú",
   "en": "if",
+  "vi": "nếu như",
   "l": 4
  },
  {
   "h": "坚固",
   "p": "jiān gù",
   "en": "firm; firmly; hard",
+  "vi": "vững chắc",
   "l": 4
  },
  {
   "h": "检测",
   "p": "jiǎn cè",
   "en": "to detect; to test; detection",
+  "vi": "kiểm tra",
   "l": 4
  },
  {
   "h": "减",
   "p": "jiǎn",
   "en": "to lower; to decrease; to reduce",
+  "vi": "giảm",
   "l": 4
  },
  {
@@ -2344,42 +2642,49 @@
   "h": "简历",
   "p": "jiǎn lì",
   "en": "curriculum vitae (CV); résumé; biographical notes",
+  "vi": "sơ yếu lý lịch",
   "l": 4
  },
  {
   "h": "健身",
   "p": "jiàn shēn",
   "en": "to exercise; to keep fit; to work out",
+  "vi": "tập thể dục",
   "l": 4
  },
  {
   "h": "渐渐",
   "p": "jiàn jiàn",
   "en": "gradually",
+  "vi": "dần dần",
   "l": 4
  },
  {
   "h": "江",
   "p": "jiāng",
   "en": "river",
+  "vi": "sông",
   "l": 4
  },
  {
   "h": "讲究",
   "p": "jiǎng jiu",
   "en": "to pay particular attention to; carefully selected for quality; tastefully chosen",
+  "vi": "chú trọng",
   "l": 4
  },
  {
   "h": "讲座",
   "p": "jiǎng zuò",
   "en": "course of lectures; lecture series; chair (academic position)",
+  "vi": "buổi thuyết trình",
   "l": 4
  },
  {
   "h": "奖",
   "p": "jiǎng",
   "en": "prize; award; bonus; reward; to encourage; to commend; to praise; to award; to give as a reward",
+  "vi": "giải thưởng",
   "l": 4
  },
  {
@@ -2393,12 +2698,14 @@
   "h": "奖学金",
   "p": "jiǎng xué jīn",
   "en": "scholarship",
+  "vi": "học bổng",
   "l": 4
  },
  {
   "h": "降",
   "p": "jiàng",
   "en": "to drop; to fall; to come down",
+  "vi": "hạ xuống",
   "l": 4
  },
  {
@@ -2412,30 +2719,35 @@
   "h": "降价",
   "p": "jiàng jià",
   "en": "to cut the price; to drive down the price; to get cheaper",
+  "vi": "giảm giá",
   "l": 4
  },
  {
   "h": "降落",
   "p": "jiàng luò",
   "en": "to descend; to land",
+  "vi": "hạ cánh",
   "l": 4
  },
  {
   "h": "降温",
   "p": "jiàng wēn",
   "en": "to become cooler; to lower the temperature; cooling",
+  "vi": "hạ nhiệt",
   "l": 4
  },
  {
   "h": "交换",
   "p": "jiāo huàn",
   "en": "to exchange; to swap; to switch (telecom)",
+  "vi": "trao đổi",
   "l": 4
  },
  {
   "h": "交际",
   "p": "jiāo jì",
   "en": "communication; social intercourse",
+  "vi": "giao tiếp",
   "l": 4
  },
  {
@@ -2449,12 +2761,14 @@
   "h": "教训",
   "p": "jiào xun",
   "en": "to provide guidance; to lecture sb; to upbraid; a talking-to; a bitter lesson",
+  "vi": "bài học; dạy bảo",
   "l": 4
  },
  {
   "h": "阶段",
   "p": "jiē duàn",
   "en": "stage; section; phase",
+  "vi": "giai đoạn",
   "l": 4
  },
  {
@@ -2468,30 +2782,35 @@
   "h": "节省",
   "p": "jié shěng",
   "en": "saving; to save; to use sparingly",
+  "vi": "tiết kiệm",
   "l": 4
  },
  {
   "h": "结",
   "p": "jié",
   "en": "knot; sturdy; bond",
+  "vi": "kết; nút",
   "l": 4
  },
  {
   "h": "结构",
   "p": "jié gòu",
   "en": "structure; composition; makeup",
+  "vi": "kết cấu",
   "l": 4
  },
  {
   "h": "结论",
   "p": "jié lùn",
   "en": "conclusion; verdict; to conclude",
+  "vi": "kết luận",
   "l": 4
  },
  {
   "h": "姐妹",
   "p": "jiě mèi",
   "en": "sisters; siblings; sister (school, city etc)",
+  "vi": "chị em",
   "l": 4
  },
  {
@@ -2505,30 +2824,35 @@
   "h": "尽快",
   "p": "jǐn kuài",
   "en": "as quickly as possible; as soon as possible",
+  "vi": "càng sớm càng tốt",
   "l": 4
  },
  {
   "h": "紧密",
   "p": "jǐn mì",
   "en": "inseparably close",
+  "vi": "chặt chẽ",
   "l": 4
  },
  {
   "h": "尽力",
   "p": "jìn lì",
   "en": "to strive one's hardest; to spare no effort",
+  "vi": "hết sức",
   "l": 4
  },
  {
   "h": "进口",
   "p": "jìn kǒu",
   "en": "to import; imported; entrance",
+  "vi": "nhập khẩu",
   "l": 4
  },
  {
   "h": "近代",
   "p": "jìn dài",
   "en": "the not-very-distant past; modern times, excluding recent decades; (in the context of Chinese history) the period from the Opium Wars until the May 4th Movement (mid-19th century to 1919)",
+  "vi": "cận đại",
   "l": 4
  },
  {
@@ -2542,12 +2866,14 @@
   "h": "经典",
   "p": "jīng diǎn",
   "en": "the classics; scriptures; classical",
+  "vi": "kinh điển",
   "l": 4
  },
  {
   "h": "精力",
   "p": "jīng lì",
   "en": "energy",
+  "vi": "sức lực",
   "l": 4
  },
  {
@@ -2561,6 +2887,7 @@
   "h": "镜头",
   "p": "jìng tóu",
   "en": "camera lens; camera shot (in a movie etc); scene",
+  "vi": "ống kính",
   "l": 4
  },
  {
@@ -2581,36 +2908,42 @@
   "h": "酒吧",
   "p": "jiǔ bā",
   "en": "bar (place to buy drinks)",
+  "vi": "quán bar",
   "l": 4
  },
  {
   "h": "居民",
   "p": "jū mín",
   "en": "resident; inhabitant",
+  "vi": "cư dân",
   "l": 4
  },
  {
   "h": "居住",
   "p": "jū zhù",
   "en": "to reside; to dwell; to live in a place",
+  "vi": "cư trú",
   "l": 4
  },
  {
   "h": "局",
   "p": "jú",
   "en": "narrow",
+  "vi": "cục; ván cờ",
   "l": 4
  },
  {
   "h": "巨大",
   "p": "jù dà",
   "en": "huge; immense; enormous; gigantic",
+  "vi": "khổng lồ",
   "l": 4
  },
  {
   "h": "具备",
   "p": "jù bèi",
   "en": "to possess; to have; equipped with",
+  "vi": "có đủ",
   "l": 4
  },
  {
@@ -2624,60 +2957,70 @@
   "h": "聚",
   "p": "jù",
   "en": "to assemble; to gather (transitive or intransitive); (chemistry) poly-",
+  "vi": "tụ họp",
   "l": 4
  },
  {
   "h": "聚会",
   "p": "jù huì",
   "en": "party; gathering; to meet",
+  "vi": "buổi tụ họp",
   "l": 4
  },
  {
   "h": "卷",
   "p": "juǎn",
   "en": "to roll up; (fig.) to sweep up; to engulf; to drag into (a situation); (slang) to compete to an unhealthy degree; hypercompetitive",
+  "vi": "cuốn",
   "l": 4
  },
  {
   "h": "角色",
   "p": "jué sè",
   "en": "role; part (in a play or movie etc); also pr.",
+  "vi": "vai diễn",
   "l": 4
  },
  {
   "h": "开花",
   "p": "kāi huā",
   "en": "to bloom; to blossom; to flower; (fig.) to burst; to split open; (fig.) to burst with joy",
+  "vi": "nở hoa",
   "l": 4
  },
  {
   "h": "开水",
   "p": "kāi shuǐ",
   "en": "boiled water; boiling water",
+  "vi": "nước sôi",
   "l": 4
  },
  {
   "h": "看不起",
   "p": "kàn bu qǐ",
   "en": "to look down upon; to despise",
+  "vi": "coi thường",
   "l": 4
  },
  {
   "h": "看来",
   "p": "kàn lai",
   "en": "apparently; it seems that",
+  "vi": "xem ra",
   "l": 4
  },
  {
   "h": "看望",
   "p": "kàn wàng",
   "en": "to pay a visit to; to see (sb)",
+  "vi": "thăm hỏi",
   "l": 4
  },
  {
   "h": "考察",
   "p": "kǎo chá",
   "en": "to inspect; to observe and study; on-the-spot investigation",
+  "vi": "khảo sát",
   "l": 4
  },
  {
@@ -2698,30 +3041,35 @@
   "h": "可见",
   "p": "kě jiàn",
   "en": "it can clearly be seen (that this is the case); it is (thus) clear; clear",
+  "vi": "có thể thấy",
   "l": 4
  },
  {
   "h": "空间",
   "p": "kōng jiān",
   "en": "space; room; (fig.) scope; leeway; (astronomy) outer space",
+  "vi": "không gian",
   "l": 4
  },
  {
   "h": "空",
   "p": "kōng",
   "en": "empty; air; sky",
+  "vi": "trống",
   "l": 4
  },
  {
   "h": "口袋",
   "p": "kǒu dài",
   "en": "pocket; bag; sack",
+  "vi": "túi áo",
   "l": 4
  },
  {
   "h": "口语",
   "p": "kǒu yǔ",
   "en": "colloquial speech; spoken language; vernacular language",
+  "vi": "khẩu ngữ",
   "l": 4
  },
  {
@@ -2735,12 +3083,14 @@
   "h": "会计",
   "p": "kuài jì",
   "en": "accountant; accountancy; accounting",
+  "vi": "kế toán",
   "l": 4
  },
  {
   "h": "快递",
   "p": "kuài dì",
   "en": "express delivery",
+  "vi": "chuyển phát nhanh",
   "l": 4
  },
  {
@@ -2754,12 +3104,14 @@
   "h": "宽广",
   "p": "kuān guǎng",
   "en": "wide; broad; extensive",
+  "vi": "rộng lớn",
   "l": 4
  },
  {
   "h": "矿泉水",
   "p": "kuàng quán shuǐ",
   "en": "mineral water",
+  "vi": "nước khoáng",
   "l": 4
  },
  {
@@ -2773,24 +3125,28 @@
   "h": "扩展",
   "p": "kuò zhǎn",
   "en": "to extend; to expand; extension",
+  "vi": "mở rộng",
   "l": 4
  },
  {
   "h": "括号",
   "p": "kuò hào",
   "en": "parentheses; brackets",
+  "vi": "dấu ngoặc",
   "l": 4
  },
  {
   "h": "垃圾",
   "p": "lā jī",
   "en": "trash; refuse; garbage",
+  "vi": "rác",
   "l": 4
  },
  {
   "h": "拉开",
   "p": "lā kāi",
   "en": "to pull open; to pull apart; to space out",
+  "vi": "kéo ra",
   "l": 4
  },
  {
@@ -2818,54 +3174,63 @@
   "h": "来源",
   "p": "lái yuán",
   "en": "source (of information etc); origin",
+  "vi": "nguồn gốc",
   "l": 4
  },
  {
   "h": "老公",
   "p": "lǎo gōng",
   "en": "(coll.) husband",
+  "vi": "chồng",
   "l": 4
  },
  {
   "h": "老家",
   "p": "lǎo jiā",
   "en": "native place; place of origin; home state or region",
+  "vi": "quê nhà",
   "l": 4
  },
  {
   "h": "老婆",
   "p": "lǎo pó",
   "en": "(coll.) wife",
+  "vi": "vợ",
   "l": 4
  },
  {
   "h": "老实",
   "p": "lǎo shi",
   "en": "honest; sincere; well-behaved; naive; gullible",
+  "vi": "thật thà",
   "l": 4
  },
  {
   "h": "乐趣",
   "p": "lè qù",
   "en": "delight; pleasure; joy",
+  "vi": "niềm vui thú",
   "l": 4
  },
  {
   "h": "泪",
   "p": "lèi",
   "en": "tears; teardrops",
+  "vi": "nước mắt",
   "l": 4
  },
  {
   "h": "泪水",
   "p": "lèi shuǐ",
   "en": "teardrop; tears",
+  "vi": "nước mắt",
   "l": 4
  },
  {
   "h": "类型",
   "p": "lèi xíng",
   "en": "type; kind; category; (computer programming) type",
+  "vi": "loại hình",
   "l": 4
  },
  {
@@ -2879,12 +3244,14 @@
   "h": "厘米",
   "p": "lí mǐ",
   "en": "centimeter",
+  "vi": "xen-ti-mét",
   "l": 4
  },
  {
   "h": "离不开",
   "p": "lí bu kāi",
   "en": "inseparable; inevitably linked to",
+  "vi": "không rời được",
   "l": 4
  },
  {
@@ -2905,18 +3272,21 @@
   "h": "立即",
   "p": "lì jí",
   "en": "immediately",
+  "vi": "ngay lập tức",
   "l": 4
  },
  {
   "h": "利息",
   "p": "lì xī",
   "en": "interest (on a loan)",
+  "vi": "lãi suất",
   "l": 4
  },
  {
   "h": "利益",
   "p": "lì yì",
   "en": "benefit; (in sb's) interest",
+  "vi": "lợi ích",
   "l": 4
  },
  {
@@ -2930,36 +3300,42 @@
   "h": "良好",
   "p": "liáng hǎo",
   "en": "good; favorable; well",
+  "vi": "tốt đẹp",
   "l": 4
  },
  {
   "h": "量",
   "p": "liáng",
   "en": "to measure",
+  "vi": "đo lường",
   "l": 4
  },
  {
   "h": "粮食",
   "p": "liáng shi",
   "en": "foodstuff; cereals",
+  "vi": "lương thực",
   "l": 4
  },
  {
   "h": "两边",
   "p": "liǎng biān",
   "en": "either side; both sides",
+  "vi": "hai bên",
   "l": 4
  },
  {
   "h": "疗养",
   "p": "liáo yǎng",
   "en": "to get well; to heal; to recuperate",
+  "vi": "dưỡng bệnh",
   "l": 4
  },
  {
   "h": "了不起",
   "p": "liǎo bu qǐ",
   "en": "amazing; terrific; extraordinary",
+  "vi": "tuyệt vời",
   "l": 4
  },
  {
@@ -2973,66 +3349,77 @@
   "h": "列",
   "p": "liè",
   "en": "to arrange; to line up; file",
+  "vi": "xếp hàng; liệt kê",
   "l": 4
  },
  {
   "h": "列车",
   "p": "liè chē",
   "en": "(railway) train",
+  "vi": "tàu hỏa",
   "l": 4
  },
  {
   "h": "列入",
   "p": "liè rù",
   "en": "to include on a list",
+  "vi": "đưa vào danh sách",
   "l": 4
  },
  {
   "h": "列为",
   "p": "liè wéi",
   "en": "to be classified as",
+  "vi": "xếp vào",
   "l": 4
  },
  {
   "h": "临时",
   "p": "lín shí",
   "en": "as the time draws near; at the last moment; temporary",
+  "vi": "tạm thời",
   "l": 4
  },
  {
   "h": "零食",
   "p": "líng shí",
   "en": "snack; nibbles",
+  "vi": "đồ ăn vặt",
   "l": 4
  },
  {
   "h": "流传",
   "p": "liú chuán",
   "en": "to spread; to circulate; to hand down",
+  "vi": "lưu truyền",
   "l": 4
  },
  {
   "h": "楼梯",
   "p": "lóu tī",
   "en": "stair; staircase",
+  "vi": "cầu thang",
   "l": 4
  },
  {
   "h": "陆地",
   "p": "lù dì",
   "en": "dry land (as opposed to the sea)",
+  "vi": "đất liền",
   "l": 4
  },
  {
   "h": "陆续",
   "p": "lù xù",
   "en": "in turn; successively; one after the other",
+  "vi": "lần lượt",
   "l": 4
  },
  {
   "h": "录取",
   "p": "lù qǔ",
   "en": "to accept an applicant (prospective student, employee etc) who passes an entrance exam; to admit (a student); to hire (a job candidate)",
+  "vi": "trúng tuyển",
   "l": 4
  },
  {
@@ -3046,36 +3433,42 @@
   "h": "轮",
   "p": "lún",
   "en": "wheel; disk; ring; steamship; to take turns; to rotate",
+  "vi": "bánh xe; vòng",
   "l": 4
  },
  {
   "h": "轮船",
   "p": "lún chuán",
   "en": "steamship; steamer; steamboat",
+  "vi": "tàu thủy",
   "l": 4
  },
  {
   "h": "轮椅",
   "p": "lún yǐ",
   "en": "wheelchair",
+  "vi": "xe lăn",
   "l": 4
  },
  {
   "h": "轮子",
   "p": "lún zi",
   "en": "wheel; (derog.) Falun Gong practitioner",
+  "vi": "bánh xe",
   "l": 4
  },
  {
   "h": "论文",
   "p": "lùn wén",
   "en": "paper; treatise; thesis",
+  "vi": "luận văn",
   "l": 4
  },
  {
   "h": "落",
   "p": "là",
   "en": "to leave out; to be missing; to leave behind or forget to bring",
+  "vi": "rơi, rụng",
   "l": 4
  },
  {
@@ -3089,6 +3482,7 @@
   "h": "毛衣",
   "p": "máo yī",
   "en": "(wool) sweater",
+  "vi": "áo len",
   "l": 4
  },
  {
@@ -3102,30 +3496,35 @@
   "h": "没错",
   "p": "méi cuò",
   "en": "that's right; sure!; rest assured!",
+  "vi": "đúng vậy",
   "l": 4
  },
  {
   "h": "没法儿",
   "p": "méi fǎ r",
   "en": "(coll.) can't do anything about it; (coll.) there's no way that ...; it's simply not credible that ...; (coll.) couldn't be (better) (i.e. simply wonderful)",
+  "vi": "không có cách nào",
   "l": 4
  },
  {
   "h": "没想到",
   "p": "méi xiǎng dào",
   "en": "didn't expect",
+  "vi": "không ngờ",
   "l": 4
  },
  {
   "h": "美金",
   "p": "Měi jīn",
   "en": "US dollar; USD",
+  "vi": "đô la Mỹ",
   "l": 4
  },
  {
   "h": "美女",
   "p": "měi nǚ",
   "en": "beautiful woman",
+  "vi": "người đẹp",
   "l": 4
  },
  {
@@ -3139,30 +3538,35 @@
   "h": "梦见",
   "p": "mèng jiàn",
   "en": "to dream about (sth or sb); to see in a dream",
+  "vi": "mơ thấy",
   "l": 4
  },
  {
   "h": "梦想",
   "p": "mèng xiǎng",
   "en": "(fig.) to dream of; dream",
+  "vi": "ước mơ",
   "l": 4
  },
  {
   "h": "秘密",
   "p": "mì mì",
   "en": "secret; private; confidential; clandestine; a secret (",
+  "vi": "bí mật",
   "l": 4
  },
  {
   "h": "秘书",
   "p": "mì shū",
   "en": "secretary",
+  "vi": "thư ký",
   "l": 4
  },
  {
   "h": "密",
   "p": "mì",
   "en": "dense; close; thick; intimate; close; secret; confidential",
+  "vi": "kín",
   "l": 4
  },
  {
@@ -3176,6 +3580,7 @@
   "h": "密切",
   "p": "mì qiè",
   "en": "close; familiar; intimate",
+  "vi": "mật thiết",
   "l": 4
  },
  {
@@ -3189,78 +3594,91 @@
   "h": "面临",
   "p": "miàn lín",
   "en": "to face sth; to be confronted with",
+  "vi": "đối mặt",
   "l": 4
  },
  {
   "h": "面试",
   "p": "miàn shì",
   "en": "to be interviewed (as a candidate); interview",
+  "vi": "phỏng vấn tuyển dụng",
   "l": 4
  },
  {
   "h": "描述",
   "p": "miáo shù",
   "en": "to describe; description",
+  "vi": "miêu tả",
   "l": 4
  },
  {
   "h": "描写",
   "p": "miáo xiě",
   "en": "to describe; to depict; to portray; depiction; portrayal",
+  "vi": "mô tả",
   "l": 4
  },
  {
   "h": "名牌儿",
   "p": "míng pái r",
   "en": "erhua form of 名牌",
+  "vi": "hàng hiệu",
   "l": 4
  },
  {
   "h": "名片",
   "p": "míng piàn",
   "en": "(business) card",
+  "vi": "danh thiếp",
   "l": 4
  },
  {
   "h": "名人",
   "p": "míng rén",
   "en": "personage; celebrity",
+  "vi": "người nổi tiếng",
   "l": 4
  },
  {
   "h": "摸",
   "p": "mō",
   "en": "to feel with the hand; to touch; to stroke",
+  "vi": "sờ",
   "l": 4
  },
  {
   "h": "模特儿",
   "p": "mó tè r",
   "en": "(fashion) model (loanword)",
+  "vi": "người mẫu",
   "l": 4
  },
  {
   "h": "模型",
   "p": "mó xíng",
   "en": "model; mold; matrix",
+  "vi": "mô hình",
   "l": 4
  },
  {
   "h": "末",
   "p": "mò",
   "en": "tip; end; final stage",
+  "vi": "cuối",
   "l": 4
  },
  {
   "h": "默默",
   "p": "mò mò",
   "en": "in silence; not speaking",
+  "vi": "lặng lẽ",
   "l": 4
  },
  {
   "h": "哪怕",
   "p": "nǎ pà",
   "en": "even; even if; even though",
+  "vi": "dù cho",
   "l": 4
  },
  {
@@ -3274,84 +3692,98 @@
   "h": "男女",
   "p": "nán nǚ",
   "en": "male-female; male and female",
+  "vi": "nam nữ",
   "l": 4
  },
  {
   "h": "男士",
   "p": "nán shì",
   "en": "man; gentleman",
+  "vi": "quý ông",
   "l": 4
  },
  {
   "h": "难免",
   "p": "nán miǎn",
   "en": "hard to avoid; difficult to escape from; will inevitably",
+  "vi": "khó tránh khỏi",
   "l": 4
  },
  {
   "h": "脑袋",
   "p": "nǎo dai",
   "en": "head; skull; brains",
+  "vi": "đầu",
   "l": 4
  },
  {
   "h": "闹",
   "p": "nào",
   "en": "noisy; cacophonous; to make noise",
+  "vi": "ồn ào",
   "l": 4
  },
  {
   "h": "闹钟",
   "p": "nào zhōng",
   "en": "alarm clock",
+  "vi": "đồng hồ báo thức",
   "l": 4
  },
  {
   "h": "内部",
   "p": "nèi bù",
   "en": "interior; inside (part, section); internal",
+  "vi": "bên trong",
   "l": 4
  },
  {
   "h": "内科",
   "p": "nèi kē",
   "en": "internal medicine; general medicine",
+  "vi": "nội khoa",
   "l": 4
  },
  {
   "h": "能干",
   "p": "néng gàn",
   "en": "capable; competent",
+  "vi": "giỏi giang",
   "l": 4
  },
  {
   "h": "宁静",
   "p": "níng jìng",
   "en": "tranquil; tranquility; serenity",
+  "vi": "yên tĩnh",
   "l": 4
  },
  {
   "h": "浓",
   "p": "nóng",
   "en": "concentrated; dense; strong (smell etc)",
+  "vi": "đậm đặc",
   "l": 4
  },
  {
   "h": "女士",
   "p": "nǚ shì",
   "en": "lady; madam; Miss",
+  "vi": "quý bà, quý cô",
   "l": 4
  },
  {
   "h": "暖气",
   "p": "nuǎn qì",
   "en": "central heating; heater; warm air",
+  "vi": "hệ thống sưởi",
   "l": 4
  },
  {
   "h": "拍照",
   "p": "pāi zhào",
   "en": "to take a picture",
+  "vi": "chụp ảnh",
   "l": 4
  },
  {
@@ -3365,12 +3797,14 @@
   "h": "牌",
   "p": "pái",
   "en": "signboard; plaque; plate; tablet (; brand; trademark (; mahjong tile; domino; playing card (",
+  "vi": "bảng; nhãn",
   "l": 4
  },
  {
   "h": "盘",
   "p": "pán",
   "en": "tray; plate; dish; (finance) market prices; (computing) disk",
+  "vi": "đĩa",
   "l": 4
  },
  {
@@ -3384,84 +3818,98 @@
   "h": "胖子",
   "p": "pàng zi",
   "en": "fat person; fatty",
+  "vi": "người béo",
   "l": 4
  },
  {
   "h": "培训",
   "p": "péi xùn",
   "en": "to cultivate; to train; to groom",
+  "vi": "đào tạo",
   "l": 4
  },
  {
   "h": "培训班",
   "p": "péi xùn bān",
   "en": "training class",
+  "vi": "lớp đào tạo",
   "l": 4
  },
  {
   "h": "培养",
   "p": "péi yǎng",
   "en": "to cultivate; to breed; to foster",
+  "vi": "bồi dưỡng",
   "l": 4
  },
  {
   "h": "培育",
   "p": "péi yù",
   "en": "to train; to breed",
+  "vi": "nuôi dưỡng, nhân giống",
   "l": 4
  },
  {
   "h": "批",
   "p": "pī",
   "en": "to ascertain; to act on; to criticize",
+  "vi": "lô; phê duyệt",
   "l": 4
  },
  {
   "h": "片面",
   "p": "piàn miàn",
   "en": "unilateral; one-sided",
+  "vi": "phiến diện",
   "l": 4
  },
  {
   "h": "品质",
   "p": "pǐn zhì",
   "en": "character; intrinsic quality (of a person); quality (of a product or service, or as in \"quality of life\", \"air quality\" etc)",
+  "vi": "phẩm chất",
   "l": 4
  },
  {
   "h": "平方",
   "p": "píng fāng",
   "en": "square (as in square foot, square mile, square root)",
+  "vi": "bình phương",
   "l": 4
  },
  {
   "h": "平静",
   "p": "píng jìng",
   "en": "tranquil; undisturbed; serene",
+  "vi": "bình lặng",
   "l": 4
  },
  {
   "h": "平均",
   "p": "píng jūn",
   "en": "average; on average; evenly; in equal proportions",
+  "vi": "trung bình",
   "l": 4
  },
  {
   "h": "平稳",
   "p": "píng wěn",
   "en": "smooth; steady",
+  "vi": "ổn định",
   "l": 4
  },
  {
   "h": "迫切",
   "p": "pò qiè",
   "en": "urgent; pressing",
+  "vi": "cấp bách",
   "l": 4
  },
  {
   "h": "破产",
   "p": "pò chǎn",
   "en": "to go bankrupt; to become impoverished; bankruptcy",
+  "vi": "phá sản",
   "l": 4
  },
  {
@@ -3475,84 +3923,98 @@
   "h": "期待",
   "p": "qī dài",
   "en": "to look forward to; to await; expectation",
+  "vi": "mong đợi",
   "l": 4
  },
  {
   "h": "期间",
   "p": "qī jiān",
   "en": "period of time; time; time period",
+  "vi": "trong thời gian",
   "l": 4
  },
  {
   "h": "期末",
   "p": "qī mò",
   "en": "the end of a term or semester (in school)",
+  "vi": "cuối kỳ",
   "l": 4
  },
  {
   "h": "期限",
   "p": "qī xiàn",
   "en": "time limit; deadline; allotted time",
+  "vi": "thời hạn",
   "l": 4
  },
  {
   "h": "期中",
   "p": "qī zhōng",
   "en": "interim; midterm",
+  "vi": "giữa kỳ",
   "l": 4
  },
  {
   "h": "其余",
   "p": "qí yú",
   "en": "the rest; the others; remaining",
+  "vi": "phần còn lại",
   "l": 4
  },
  {
   "h": "企业",
   "p": "qǐ yè",
   "en": "company; firm; enterprise; corporation",
+  "vi": "doanh nghiệp",
   "l": 4
  },
  {
   "h": "气球",
   "p": "qì qiú",
   "en": "balloon",
+  "vi": "quả bóng bay",
   "l": 4
  },
  {
   "h": "汽水",
   "p": "qì shuǐ",
   "en": "soda pop; carbonated soft drink",
+  "vi": "nước ngọt có ga",
   "l": 4
  },
  {
   "h": "汽油",
   "p": "qì yóu",
   "en": "gasoline",
+  "vi": "xăng",
   "l": 4
  },
  {
   "h": "器官",
   "p": "qì guān",
   "en": "(physiology) organ; apparatus",
+  "vi": "cơ quan (cơ thể)",
   "l": 4
  },
  {
   "h": "前头",
   "p": "qián tou",
   "en": "in front; at the head; ahead",
+  "vi": "phía trước",
   "l": 4
  },
  {
   "h": "前途",
   "p": "qián tú",
   "en": "prospects; future outlook; journey",
+  "vi": "tương lai",
   "l": 4
  },
  {
   "h": "浅",
   "p": "jiān",
   "en": "sound of moving water",
+  "vi": "nông; nhạt",
   "l": 4
  },
  {
@@ -3566,24 +4028,28 @@
   "h": "切",
   "p": "qiē",
   "en": "to cut; to slice; to carve; (math) tangential",
+  "vi": "cắt",
   "l": 4
  },
  {
   "h": "亲爱",
   "p": "qīn ài",
   "en": "dear; beloved; darling",
+  "vi": "thân yêu",
   "l": 4
  },
  {
   "h": "亲密",
   "p": "qīn mì",
   "en": "intimate; close",
+  "vi": "thân mật",
   "l": 4
  },
  {
   "h": "青春",
   "p": "qīng chūn",
   "en": "youth; youthfulness",
+  "vi": "tuổi trẻ",
   "l": 4
  },
  {
@@ -3597,18 +4063,21 @@
   "h": "轻易",
   "p": "qīng yì",
   "en": "easy; simple; rashly; offhandedly",
+  "vi": "dễ dàng",
   "l": 4
  },
  {
   "h": "清醒",
   "p": "qīng xǐng",
   "en": "clear-headed; sober; awake",
+  "vi": "tỉnh táo",
   "l": 4
  },
  {
   "h": "情景",
   "p": "qíng jǐng",
   "en": "scene; spectacle; circumstances; situation",
+  "vi": "cảnh tượng",
   "l": 4
  },
  {
@@ -3622,30 +4091,35 @@
   "h": "穷人",
   "p": "qióng rén",
   "en": "poor people; the poor",
+  "vi": "người nghèo",
   "l": 4
  },
  {
   "h": "秋季",
   "p": "qiū jì",
   "en": "autumn; fall",
+  "vi": "mùa thu",
   "l": 4
  },
  {
   "h": "趋势",
   "p": "qū shì",
   "en": "trend; tendency",
+  "vi": "xu thế",
   "l": 4
  },
  {
   "h": "圈",
   "p": "juān",
   "en": "to confine; to lock up; to pen in",
+  "vi": "vòng; khoanh",
   "l": 4
  },
  {
   "h": "权利",
   "p": "quán lì",
   "en": "right (i.e. an entitlement to sth); (classical) power and wealth",
+  "vi": "quyền lợi",
   "l": 4
  },
  {
@@ -3659,6 +4133,7 @@
   "h": "确认",
   "p": "què rèn",
   "en": "to confirm; to verify; confirmation",
+  "vi": "xác nhận",
   "l": 4
  },
  {
@@ -3672,12 +4147,14 @@
   "h": "燃料",
   "p": "rán liào",
   "en": "fuel",
+  "vi": "nhiên liệu",
   "l": 4
  },
  {
   "h": "燃烧",
   "p": "rán shāo",
   "en": "to ignite; to combust; to burn",
+  "vi": "cháy",
   "l": 4
  },
  {
@@ -3691,12 +4168,14 @@
   "h": "热心",
   "p": "rè xīn",
   "en": "enthusiastic; ardent; zealous",
+  "vi": "nhiệt tình",
   "l": 4
  },
  {
   "h": "人家",
   "p": "rén jiā",
   "en": "household; dwelling; family",
+  "vi": "nhà người; họ",
   "l": 4
  },
  {
@@ -3710,18 +4189,21 @@
   "h": "日历",
   "p": "rì lì",
   "en": "calendar",
+  "vi": "lịch",
   "l": 4
  },
  {
   "h": "如今",
   "p": "rú jīn",
   "en": "nowadays; now",
+  "vi": "hiện nay",
   "l": 4
  },
  {
   "h": "弱",
   "p": "ruò",
   "en": "weak; feeble; young; inferior; not as good as",
+  "vi": "yếu",
   "l": 4
  },
  {
@@ -3735,24 +4217,28 @@
   "h": "散",
   "p": "sǎn",
   "en": "scattered; loose; to come loose",
+  "vi": "rải; tản",
   "l": 4
  },
  {
   "h": "扫",
   "p": "sǎo",
   "en": "to sweep (with a brush or broom); to sweep away; to wipe out; to get rid of; to sweep (one's eyes etc) over; to scan",
+  "vi": "quét",
   "l": 4
  },
  {
   "h": "色",
   "p": "sè",
   "en": "color; look; appearance",
+  "vi": "màu sắc",
   "l": 4
  },
  {
   "h": "色彩",
   "p": "sè cǎi",
   "en": "tint; coloring; coloration; (fig.) flavor; character",
+  "vi": "sắc màu",
   "l": 4
  },
  {
@@ -3766,84 +4252,98 @@
   "h": "晒",
   "p": "shài",
   "en": "",
+  "vi": "phơi nắng",
   "l": 4
  },
  {
   "h": "闪",
   "p": "shǎn",
   "en": "to dodge; to duck out of the way; to beat it",
+  "vi": "lóe lên; né",
   "l": 4
  },
  {
   "h": "闪电",
   "p": "shǎn diàn",
   "en": "lightning",
+  "vi": "chớp",
   "l": 4
  },
  {
   "h": "善良",
   "p": "shàn liáng",
   "en": "good and honest; kindhearted",
+  "vi": "hiền lành",
   "l": 4
  },
  {
   "h": "善于",
   "p": "shàn yú",
   "en": "to be good at; to be adept at",
+  "vi": "giỏi về",
   "l": 4
  },
  {
   "h": "伤害",
   "p": "shāng hài",
   "en": "to injure; to harm",
+  "vi": "làm tổn thương",
   "l": 4
  },
  {
   "h": "商务",
   "p": "shāng wù",
   "en": "commercial affairs; commercial; commerce",
+  "vi": "thương mại",
   "l": 4
  },
  {
   "h": "赏",
   "p": "shǎng",
   "en": "to bestow (a reward); to give (to an inferior); to hand down",
+  "vi": "thưởng",
   "l": 4
  },
  {
   "h": "上个月",
   "p": "shàng gè yuè",
   "en": "last month",
+  "vi": "tháng trước",
   "l": 4
  },
  {
   "h": "上楼",
   "p": "shàng lóu",
   "en": "to go upstairs",
+  "vi": "lên lầu",
   "l": 4
  },
  {
   "h": "上门",
   "p": "shàng mén",
   "en": "to drop in; to visit; to lock a door",
+  "vi": "đến nhà",
   "l": 4
  },
  {
   "h": "烧",
   "p": "shāo",
   "en": "to burn; to cook; to stew",
+  "vi": "đốt; nấu",
   "l": 4
  },
  {
   "h": "设施",
   "p": "shè shī",
   "en": "facilities; installation",
+  "vi": "cơ sở vật chất",
   "l": 4
  },
  {
   "h": "设置",
   "p": "shè zhì",
   "en": "to set up; to install",
+  "vi": "thiết lập",
   "l": 4
  },
  {
@@ -3857,36 +4357,42 @@
   "h": "身材",
   "p": "shēn cái",
   "en": "stature; build (height and weight); figure",
+  "vi": "vóc dáng",
   "l": 4
  },
  {
   "h": "身份",
   "p": "shēn fèn",
   "en": "identity; aspect of one's identity (e.g. mayor, father, permanent resident); role; capacity (as in \"in his capacity as ...\" 以 + ... + 的身份); status (social, legal etc); position; rank",
+  "vi": "thân phận",
   "l": 4
  },
  {
   "h": "身高",
   "p": "shēn gāo",
   "en": "(a person's) height",
+  "vi": "chiều cao",
   "l": 4
  },
  {
   "h": "深厚",
   "p": "shēn hòu",
   "en": "deep; profound",
+  "vi": "sâu đậm",
   "l": 4
  },
  {
   "h": "神话",
   "p": "shén huà",
   "en": "legend; fairy tale; myth",
+  "vi": "thần thoại",
   "l": 4
  },
  {
   "h": "神秘",
   "p": "shén mì",
   "en": "mysterious; mystery",
+  "vi": "bí ẩn",
   "l": 4
  },
  {
@@ -3914,144 +4420,168 @@
   "h": "失业",
   "p": "shī yè",
   "en": "unemployment; to lose one's job",
+  "vi": "thất nghiệp",
   "l": 4
  },
  {
   "h": "诗",
   "p": "shī",
   "en": "poem; poetry; verse",
+  "vi": "thơ",
   "l": 4
  },
  {
   "h": "诗人",
   "p": "shī rén",
   "en": "bard; poet",
+  "vi": "nhà thơ",
   "l": 4
  },
  {
   "h": "湿",
   "p": "shī",
   "en": "moist; wet",
+  "vi": "ẩm, ướt",
   "l": 4
  },
  {
   "h": "实施",
   "p": "shí shī",
   "en": "to implement; to carry out",
+  "vi": "thực thi",
   "l": 4
  },
  {
   "h": "实用",
   "p": "shí yòng",
   "en": "to apply in practice; practical; functional; pragmatic; applied (science)",
+  "vi": "thiết thực",
   "l": 4
  },
  {
   "h": "食堂",
   "p": "shí táng",
   "en": "dining hall; cafeteria",
+  "vi": "nhà ăn",
   "l": 4
  },
  {
   "h": "使劲",
   "p": "shǐ jìn",
   "en": "to exert all one's strength",
+  "vi": "dùng sức",
   "l": 4
  },
  {
   "h": "士兵",
   "p": "shì bīng",
   "en": "soldier",
+  "vi": "binh sĩ",
   "l": 4
  },
  {
   "h": "市区",
   "p": "shì qū",
   "en": "urban district; downtown; city center",
+  "vi": "khu nội thành",
   "l": 4
  },
  {
   "h": "似的",
   "p": "shì de",
   "en": "seems as if; rather like; Taiwan pr.",
+  "vi": "như là",
   "l": 4
  },
  {
   "h": "事物",
   "p": "shì wù",
   "en": "thing; object",
+  "vi": "sự vật",
   "l": 4
  },
  {
   "h": "事先",
   "p": "shì xiān",
   "en": "in advance; before the event; beforehand",
+  "vi": "trước đó",
   "l": 4
  },
  {
   "h": "试卷",
   "p": "shì juàn",
   "en": "examination paper; test paper",
+  "vi": "đề thi",
   "l": 4
  },
  {
   "h": "是否",
   "p": "shì fǒu",
   "en": "whether (or not); if; is or isn't",
+  "vi": "có hay không",
   "l": 4
  },
  {
   "h": "收回",
   "p": "shōu huí",
   "en": "to regain; to retake; to take back",
+  "vi": "thu hồi",
   "l": 4
  },
  {
   "h": "收获",
   "p": "shōu huò",
   "en": "to harvest; to reap; to gain",
+  "vi": "thu hoạch",
   "l": 4
  },
  {
   "h": "收益",
   "p": "shōu yì",
   "en": "earnings; profit",
+  "vi": "lợi nhuận",
   "l": 4
  },
  {
   "h": "手工",
   "p": "shǒu gōng",
   "en": "handwork; manual",
+  "vi": "thủ công",
   "l": 4
  },
  {
   "h": "手里",
   "p": "shǒu lǐ",
   "en": "in hand; (a situation is) in sb's hands",
+  "vi": "trong tay",
   "l": 4
  },
  {
   "h": "手术",
   "p": "shǒu shù",
   "en": "(surgical) operation; surgery",
+  "vi": "phẫu thuật",
   "l": 4
  },
  {
   "h": "手套",
   "p": "shǒu tào",
   "en": "glove; mitten",
+  "vi": "găng tay",
   "l": 4
  },
  {
   "h": "守",
   "p": "shǒu",
   "en": "to guard; to defend; to keep watch",
+  "vi": "canh giữ",
   "l": 4
  },
  {
   "h": "首",
   "p": "shǒu",
   "en": "head; chief; first (occasion, thing etc)",
+  "vi": "đầu; thủ",
   "l": 4
  },
  {
@@ -4079,42 +4609,49 @@
   "h": "舒适",
   "p": "shū shì",
   "en": "cozy; snug",
+  "vi": "thoải mái",
   "l": 4
  },
  {
   "h": "熟练",
   "p": "shú liàn",
   "en": "practiced; proficient; skilled",
+  "vi": "thành thạo",
   "l": 4
  },
  {
   "h": "暑假",
   "p": "shǔ jià",
   "en": "summer vacation",
+  "vi": "nghỉ hè",
   "l": 4
  },
  {
   "h": "树林",
   "p": "Shù lín",
   "en": "Shulin city in New Taipei City 新北市, Taiwan",
+  "vi": "rừng cây",
   "l": 4
  },
  {
   "h": "树叶",
   "p": "shù yè",
   "en": "tree leaves",
+  "vi": "lá cây",
   "l": 4
  },
  {
   "h": "数据",
   "p": "shù jù",
   "en": "data",
+  "vi": "dữ liệu",
   "l": 4
  },
  {
   "h": "数码",
   "p": "shù mǎ",
   "en": "number; numerals; figures",
+  "vi": "số hóa",
   "l": 4
  },
  {
@@ -4128,12 +4665,14 @@
   "h": "刷牙",
   "p": "shuā yá",
   "en": "to brush one's teeth",
+  "vi": "đánh răng",
   "l": 4
  },
  {
   "h": "刷子",
   "p": "shuā zi",
   "en": "brush; scrub",
+  "vi": "bàn chải",
   "l": 4
  },
  {
@@ -4147,18 +4686,21 @@
   "h": "帅哥",
   "p": "shuài gē",
   "en": "handsome guy; lady-killer; handsome (form of address)",
+  "vi": "chàng đẹp trai",
   "l": 4
  },
  {
   "h": "率先",
   "p": "shuài xiān",
   "en": "to take the lead; to show initiative",
+  "vi": "đi đầu",
   "l": 4
  },
  {
   "h": "睡着",
   "p": "shuì zháo",
   "en": "to fall asleep",
+  "vi": "ngủ thiếp đi",
   "l": 4
  },
  {
@@ -4172,42 +4714,49 @@
   "h": "说不定",
   "p": "shuō bu dìng",
   "en": "can't say for sure; maybe",
+  "vi": "không chừng",
   "l": 4
  },
  {
   "h": "说服",
   "p": "shuō fú",
   "en": "to persuade; to convince; to talk sb over",
+  "vi": "thuyết phục",
   "l": 4
  },
  {
   "h": "思考",
   "p": "sī kǎo",
   "en": "to reflect on; to ponder over",
+  "vi": "suy nghĩ",
   "l": 4
  },
  {
   "h": "似乎",
   "p": "sì hū",
   "en": "it seems; seemingly; as if",
+  "vi": "dường như",
   "l": 4
  },
  {
   "h": "松",
   "p": "sōng",
   "en": "pine",
+  "vi": "thông (cây)",
   "l": 4
  },
  {
   "h": "松树",
   "p": "sōng shù",
   "en": "pine; pine tree",
+  "vi": "cây thông",
   "l": 4
  },
  {
   "h": "塑料",
   "p": "sù liào",
   "en": "plastic; plastics (general term for synthetic polymer materials)",
+  "vi": "nhựa",
   "l": 4
  },
  {
@@ -4228,18 +4777,21 @@
   "h": "酸奶",
   "p": "suān nǎi",
   "en": "yogurt",
+  "vi": "sữa chua",
   "l": 4
  },
  {
   "h": "随手",
   "p": "suí shǒu",
   "en": "conveniently; without extra trouble; while doing it",
+  "vi": "tiện tay",
   "l": 4
  },
  {
   "h": "孙女",
   "p": "sūn nǚ",
   "en": "son's daughter; granddaughter",
+  "vi": "cháu gái (nội/ngoại)",
   "l": 4
  },
  {
@@ -4253,24 +4805,28 @@
   "h": "缩短",
   "p": "suō duǎn",
   "en": "to shorten; to reduce; to curtail",
+  "vi": "rút ngắn",
   "l": 4
  },
  {
   "h": "缩小",
   "p": "suō xiǎo",
   "en": "to reduce; to decrease; to shrink",
+  "vi": "thu nhỏ",
   "l": 4
  },
  {
   "h": "台阶",
   "p": "tái jiē",
   "en": "steps; flight of steps; step (over obstacle)",
+  "vi": "bậc thang",
   "l": 4
  },
  {
   "h": "台上",
   "p": "tái shàng",
   "en": "on stage",
+  "vi": "trên sân khấu",
   "l": 4
  },
  {
@@ -4284,24 +4840,28 @@
   "h": "套餐",
   "p": "tào cān",
   "en": "set meal; (fig.) product or service package (e.g. for a cell phone subscription)",
+  "vi": "suất ăn",
   "l": 4
  },
  {
   "h": "特价",
   "p": "tè jià",
   "en": "special price",
+  "vi": "giá đặc biệt",
   "l": 4
  },
  {
   "h": "特殊",
   "p": "tè shū",
   "en": "special; particular; unusual",
+  "vi": "đặc biệt",
   "l": 4
  },
  {
   "h": "特征",
   "p": "tè zhēng",
   "en": "characteristic; diagnostic property; distinctive feature",
+  "vi": "đặc điểm",
   "l": 4
  },
  {
@@ -4322,42 +4882,49 @@
   "h": "体操",
   "p": "tǐ cāo",
   "en": "gymnastic; gymnastics",
+  "vi": "thể dục dụng cụ",
   "l": 4
  },
  {
   "h": "体检",
   "p": "tǐ jiǎn",
   "en": "abbr. for 體格檢查",
+  "vi": "khám sức khỏe",
   "l": 4
  },
  {
   "h": "体重",
   "p": "tǐ zhòng",
   "en": "body weight",
+  "vi": "cân nặng",
   "l": 4
  },
  {
   "h": "替",
   "p": "tì",
   "en": "to substitute for; to take the place of; to replace",
+  "vi": "thay thế",
   "l": 4
  },
  {
   "h": "替代",
   "p": "tì dài",
   "en": "to substitute for; to replace; to supersede",
+  "vi": "thay thế",
   "l": 4
  },
  {
   "h": "天真",
   "p": "tiān zhēn",
   "en": "naive; innocent; artless",
+  "vi": "ngây thơ",
   "l": 4
  },
  {
   "h": "填",
   "p": "tián",
   "en": "to fill or stuff; (of a form etc) to fill in",
+  "vi": "điền vào",
   "l": 4
  },
  {
@@ -4371,36 +4938,42 @@
   "h": "挑",
   "p": "tiāo",
   "en": "to carry on a shoulder pole; to choose; to pick",
+  "vi": "gánh; chọn",
   "l": 4
  },
  {
   "h": "挑选",
   "p": "tiāo xuǎn",
   "en": "to choose; to select",
+  "vi": "lựa chọn",
   "l": 4
  },
  {
   "h": "调皮",
   "p": "tiáo pí",
   "en": "naughty; mischievous; unruly",
+  "vi": "nghịch ngợm",
   "l": 4
  },
  {
   "h": "挑战",
   "p": "tiǎo zhàn",
   "en": "to challenge; challenge",
+  "vi": "thử thách",
   "l": 4
  },
  {
   "h": "贴",
   "p": "tiē",
   "en": "to stick; to paste; to post (e.g. on a blog)",
+  "vi": "dán",
   "l": 4
  },
  {
   "h": "停下",
   "p": "tíng xià",
   "en": "to stop",
+  "vi": "dừng lại",
   "l": 4
  },
  {
@@ -4414,6 +4987,7 @@
   "h": "通知书",
   "p": "tōng zhī shū",
   "en": "written notice",
+  "vi": "giấy báo",
   "l": 4
  },
  {
@@ -4427,84 +5001,98 @@
   "h": "童话",
   "p": "tóng huà",
   "en": "children's fairy tales",
+  "vi": "truyện cổ tích",
   "l": 4
  },
  {
   "h": "童年",
   "p": "tóng nián",
   "en": "childhood",
+  "vi": "tuổi thơ",
   "l": 4
  },
  {
   "h": "统计",
   "p": "tǒng jì",
   "en": "statistics; to count; to add up",
+  "vi": "thống kê",
   "l": 4
  },
  {
   "h": "统一",
   "p": "Tǒng yī",
   "en": "7-Eleven (convenience store chain)",
+  "vi": "thống nhất",
   "l": 4
  },
  {
   "h": "痛快",
   "p": "tòng kuài",
   "en": "delighted; to one's heart's content; straightforward",
+  "vi": "sảng khoái",
   "l": 4
  },
  {
   "h": "投",
   "p": "tóu",
   "en": "to throw (sth in a specific direction: ball, javelin, grenade etc); to cast (a ballot); to cast (a glance, a shadow etc)",
+  "vi": "ném; gửi",
   "l": 4
  },
  {
   "h": "投入",
   "p": "tóu rù",
   "en": "to throw into; to put into; to throw oneself into",
+  "vi": "đầu tư; dồn vào",
   "l": 4
  },
  {
   "h": "投诉",
   "p": "tóu sù",
   "en": "to lodge a complaint",
+  "vi": "khiếu nại",
   "l": 4
  },
  {
   "h": "投资",
   "p": "tóu zī",
   "en": "investment; to invest",
+  "vi": "đầu tư",
   "l": 4
  },
  {
   "h": "透",
   "p": "tòu",
   "en": "to penetrate; to seep through; to tell secretly; to leak; thoroughly; through and through",
+  "vi": "xuyên qua",
   "l": 4
  },
  {
   "h": "透明",
   "p": "tòu míng",
   "en": "transparent; (fig.) transparent; open to scrutiny",
+  "vi": "trong suốt",
   "l": 4
  },
  {
   "h": "图案",
   "p": "tú àn",
   "en": "design; pattern",
+  "vi": "họa tiết",
   "l": 4
  },
  {
   "h": "途中",
   "p": "tú zhōng",
   "en": "en route",
+  "vi": "trên đường",
   "l": 4
  },
  {
   "h": "土地",
   "p": "tǔ dì",
   "en": "land; soil; territory",
+  "vi": "đất đai",
   "l": 4
  },
  {
@@ -4518,6 +5106,7 @@
   "h": "推销",
   "p": "tuī xiāo",
   "en": "to market; to sell",
+  "vi": "tiếp thị",
   "l": 4
  },
  {
@@ -4538,126 +5127,147 @@
   "h": "外汇",
   "p": "wài huì",
   "en": "foreign (currency) exchange",
+  "vi": "ngoại tệ",
   "l": 4
  },
  {
   "h": "外交官",
   "p": "wài jiāo guān",
   "en": "diplomat",
+  "vi": "nhà ngoại giao",
   "l": 4
  },
  {
   "h": "外套",
   "p": "wài tào",
   "en": "coat; jacket",
+  "vi": "áo khoác",
   "l": 4
  },
  {
   "h": "弯",
   "p": "wān",
   "en": "to bend; bent; a bend; a turn (in a road etc)",
+  "vi": "cong",
   "l": 4
  },
  {
   "h": "晚点",
   "p": "wǎn diǎn",
   "en": "(of trains etc) late; delayed; behind schedule",
+  "vi": "trễ giờ",
   "l": 4
  },
  {
   "h": "万一",
   "p": "wàn yī",
   "en": "just in case; if by any chance; contingency",
+  "vi": "nếu lỡ",
   "l": 4
  },
  {
   "h": "王",
   "p": "wáng",
   "en": "king or monarch; best or strongest of its type; grand",
+  "vi": "vua",
   "l": 4
  },
  {
   "h": "网络",
   "p": "Wǎng luò",
   "en": "Internet",
+  "vi": "mạng lưới",
   "l": 4
  },
  {
   "h": "网址",
   "p": "wǎng zhǐ",
   "en": "website; web address; URL",
+  "vi": "địa chỉ web",
   "l": 4
  },
  {
   "h": "微笑",
   "p": "wēi xiào",
   "en": "smile; to smile",
+  "vi": "mỉm cười",
   "l": 4
  },
  {
   "h": "微信",
   "p": "Wēi xìn",
   "en": "Weixin or WeChat (mobile text and voice messaging service developed by Tencent 騰訊",
+  "vi": "WeChat",
   "l": 4
  },
  {
   "h": "围巾",
   "p": "wéi jīn",
   "en": "scarf; shawl",
+  "vi": "khăn quàng",
   "l": 4
  },
  {
   "h": "维持",
   "p": "wéi chí",
   "en": "to keep; to maintain; to preserve",
+  "vi": "duy trì",
   "l": 4
  },
  {
   "h": "维护",
   "p": "wéi hù",
   "en": "to defend; to safeguard; to protect",
+  "vi": "bảo vệ, giữ gìn",
   "l": 4
  },
  {
   "h": "维修",
   "p": "wéi xiū",
   "en": "maintenance (of equipment); to protect and maintain",
+  "vi": "bảo dưỡng, sửa chữa",
   "l": 4
  },
  {
   "h": "尾巴",
   "p": "wěi ba",
   "en": "tail; colloquial pr.",
+  "vi": "đuôi",
   "l": 4
  },
  {
   "h": "未必",
   "p": "wèi bì",
   "en": "not necessarily; maybe not",
+  "vi": "chưa chắc",
   "l": 4
  },
  {
   "h": "未来",
   "p": "wèi lái",
   "en": "future; tomorrow; approaching",
+  "vi": "tương lai",
   "l": 4
  },
  {
   "h": "位于",
   "p": "wèi yú",
   "en": "to be located at; to be situated at; to lie",
+  "vi": "nằm ở",
   "l": 4
  },
  {
   "h": "位置",
   "p": "wèi zhi",
   "en": "position; place; seat",
+  "vi": "vị trí",
   "l": 4
  },
  {
   "h": "味儿",
   "p": "wèi r",
   "en": "taste",
+  "vi": "mùi vị",
   "l": 4
  },
  {
@@ -4671,18 +5281,21 @@
   "h": "稳",
   "p": "wěn",
   "en": "settled; steady; stable",
+  "vi": "vững",
   "l": 4
  },
  {
   "h": "稳定",
   "p": "wěn dìng",
   "en": "steady; stable; stability",
+  "vi": "ổn định",
   "l": 4
  },
  {
   "h": "问候",
   "p": "wèn hòu",
   "en": "to give one's respects; to send a greeting; (fig.) (coll.) to make offensive reference to (somebody dear to the person to whom one is speaking)",
+  "vi": "hỏi thăm",
   "l": 4
  },
  {
@@ -4696,6 +5309,7 @@
   "h": "无法",
   "p": "wú fǎ",
   "en": "unable to; incapable of",
+  "vi": "không thể",
   "l": 4
  },
  {
@@ -4716,24 +5330,28 @@
   "h": "无数",
   "p": "wú shù",
   "en": "countless; numberless; innumerable",
+  "vi": "vô số",
   "l": 4
  },
  {
   "h": "无所谓",
   "p": "wú suǒ wèi",
   "en": "to be indifferent; not to matter; cannot be said to be",
+  "vi": "không quan trọng",
   "l": 4
  },
  {
   "h": "无限",
   "p": "wú xiàn",
   "en": "unlimited; unbounded",
+  "vi": "vô hạn",
   "l": 4
  },
  {
   "h": "五颜六色",
   "p": "wǔ yán liù sè",
   "en": "multicolored; every color under the sun",
+  "vi": "nhiều màu sắc",
   "l": 4
  },
  {
@@ -4754,24 +5372,28 @@
   "h": "吸",
   "p": "xī",
   "en": "to breathe; to suck in; to absorb",
+  "vi": "hút",
   "l": 4
  },
  {
   "h": "吸管",
   "p": "xī guǎn",
   "en": "(drinking) straw; pipette; eyedropper",
+  "vi": "ống hút",
   "l": 4
  },
  {
   "h": "吸收",
   "p": "xī shōu",
   "en": "to absorb; to assimilate; to ingest",
+  "vi": "hấp thụ",
   "l": 4
  },
  {
   "h": "吸烟",
   "p": "xī yān",
   "en": "to smoke",
+  "vi": "hút thuốc",
   "l": 4
  },
  {
@@ -4785,84 +5407,98 @@
   "h": "喜爱",
   "p": "xǐ ài",
   "en": "to like; to love; to be fond of",
+  "vi": "yêu thích",
   "l": 4
  },
  {
   "h": "系列",
   "p": "xì liè",
   "en": "series; set",
+  "vi": "loạt",
   "l": 4
  },
  {
   "h": "系统",
   "p": "xì tǒng",
   "en": "system",
+  "vi": "hệ thống",
   "l": 4
  },
  {
   "h": "细",
   "p": "xì",
   "en": "thin or slender; finely particulate; thin and soft",
+  "vi": "mảnh; kỹ",
   "l": 4
  },
  {
   "h": "细节",
   "p": "xì jié",
   "en": "details; particulars",
+  "vi": "chi tiết",
   "l": 4
  },
  {
   "h": "细致",
   "p": "xì zhì",
   "en": "delicate; fine; careful",
+  "vi": "tỉ mỉ",
   "l": 4
  },
  {
   "h": "下个月",
   "p": "xià gè yuè",
   "en": "next month",
+  "vi": "tháng sau",
   "l": 4
  },
  {
   "h": "下降",
   "p": "xià jiàng",
   "en": "to decline; to drop; to fall",
+  "vi": "giảm xuống",
   "l": 4
  },
  {
   "h": "下楼",
   "p": "xià lóu",
   "en": "to go downstairs",
+  "vi": "xuống lầu",
   "l": 4
  },
  {
   "h": "下载",
   "p": "xià zǎi",
   "en": "to download; also pr.",
+  "vi": "tải xuống",
   "l": 4
  },
  {
   "h": "夏季",
   "p": "xià jì",
   "en": "summer",
+  "vi": "mùa hè",
   "l": 4
  },
  {
   "h": "鲜",
   "p": "xiān",
   "en": "fresh; bright (in color); delicious",
+  "vi": "tươi",
   "l": 4
  },
  {
   "h": "鲜花",
   "p": "xiān huā",
   "en": "flower; fresh flowers",
+  "vi": "hoa tươi",
   "l": 4
  },
  {
   "h": "鲜明",
   "p": "xiān míng",
   "en": "(of colors) bright; fresh and clear; clear-cut; distinct",
+  "vi": "rõ ràng",
   "l": 4
  },
  {
@@ -4876,12 +5512,14 @@
   "h": "显著",
   "p": "xiǎn zhù",
   "en": "outstanding; notable; remarkable",
+  "vi": "rõ rệt",
   "l": 4
  },
  {
   "h": "县",
   "p": "xiàn",
   "en": "county",
+  "vi": "huyện",
   "l": 4
  },
  {
@@ -4895,6 +5533,7 @@
   "h": "相处",
   "p": "xiāng chǔ",
   "en": "to be in contact (with sb); to associate; to interact",
+  "vi": "chung sống",
   "l": 4
  },
  {
@@ -4908,78 +5547,91 @@
   "h": "箱",
   "p": "xiāng",
   "en": "box; trunk; chest",
+  "vi": "hộp, thùng",
   "l": 4
  },
  {
   "h": "箱子",
   "p": "xiāng zi",
   "en": "suitcase; chest; box",
+  "vi": "vali",
   "l": 4
  },
  {
   "h": "想念",
   "p": "xiǎng niàn",
   "en": "to miss; to remember with longing; to long to see again",
+  "vi": "nhớ mong",
   "l": 4
  },
  {
   "h": "想象",
   "p": "xiǎng xiàng",
   "en": "to imagine; to envision; imagination",
+  "vi": "tưởng tượng",
   "l": 4
  },
  {
   "h": "项",
   "p": "xiàng",
   "en": "back of neck; item; thing",
+  "vi": "cổ; hạng mục",
   "l": 4
  },
  {
   "h": "项目",
   "p": "xiàng mù",
   "en": "item; project; (sports) event",
+  "vi": "dự án",
   "l": 4
  },
  {
   "h": "相片",
   "p": "xiàng piàn",
   "en": "image; photograph",
+  "vi": "ảnh",
   "l": 4
  },
  {
   "h": "消化",
   "p": "xiāo huà",
   "en": "to digest (food); (fig.) to absorb (information etc); to assimilate; to process",
+  "vi": "tiêu hóa",
   "l": 4
  },
  {
   "h": "销售",
   "p": "xiāo shòu",
   "en": "to sell; to market; sales (representative, agreement etc)",
+  "vi": "bán hàng",
   "l": 4
  },
  {
   "h": "小吃",
   "p": "xiǎo chī",
   "en": "street food; snack",
+  "vi": "đồ ăn vặt",
   "l": 4
  },
  {
   "h": "小伙子",
   "p": "xiǎo huǒ zi",
   "en": "young man; young guy; lad",
+  "vi": "chàng trai",
   "l": 4
  },
  {
   "h": "小型",
   "p": "xiǎo xíng",
   "en": "small scale; small size",
+  "vi": "cỡ nhỏ",
   "l": 4
  },
  {
   "h": "效率",
   "p": "xiào lǜ",
   "en": "efficiency",
+  "vi": "hiệu suất",
   "l": 4
  },
  {
@@ -4993,18 +5645,21 @@
   "h": "心理",
   "p": "xīn lǐ",
   "en": "psychology; mentality",
+  "vi": "tâm lý",
   "l": 4
  },
  {
   "h": "新郎",
   "p": "xīn láng",
   "en": "bridegroom; groom",
+  "vi": "chú rể",
   "l": 4
  },
  {
   "h": "新娘",
   "p": "xīn niáng",
   "en": "bride",
+  "vi": "cô dâu",
   "l": 4
  },
  {
@@ -5018,6 +5673,7 @@
   "h": "新型",
   "p": "xīn xíng",
   "en": "new type; new kind",
+  "vi": "kiểu mới",
   "l": 4
  },
  {
@@ -5031,24 +5687,28 @@
   "h": "形容",
   "p": "xíng róng",
   "en": "to describe; (literary) countenance; appearance",
+  "vi": "miêu tả",
   "l": 4
  },
  {
   "h": "形势",
   "p": "xíng shì",
   "en": "circumstances; situation; terrain",
+  "vi": "tình hình",
   "l": 4
  },
  {
   "h": "型",
   "p": "xíng",
   "en": "mold; type; style",
+  "vi": "kiểu",
   "l": 4
  },
  {
   "h": "型号",
   "p": "xíng hào",
   "en": "model (particular version of a manufactured article); type (product specification in terms of color, size etc)",
+  "vi": "kiểu máy, mã sản phẩm",
   "l": 4
  },
  {
@@ -5069,24 +5729,28 @@
   "h": "性质",
   "p": "xìng zhì",
   "en": "nature; characteristic",
+  "vi": "tính chất",
   "l": 4
  },
  {
   "h": "兄弟",
   "p": "xiōng dì",
   "en": "brothers; younger brother; I, me (humble term used by men in public speech)",
+  "vi": "anh em",
   "l": 4
  },
  {
   "h": "胸部",
   "p": "xiōng bù",
   "en": "chest; bosom",
+  "vi": "ngực",
   "l": 4
  },
  {
   "h": "修理",
   "p": "xiū lǐ",
   "en": "to repair; to fix; to prune",
+  "vi": "sửa chữa",
   "l": 4
  },
  {
@@ -5100,60 +5764,70 @@
   "h": "学分",
   "p": "xué fēn",
   "en": "course credit",
+  "vi": "tín chỉ",
   "l": 4
  },
  {
   "h": "学年",
   "p": "xué nián",
   "en": "academic year",
+  "vi": "năm học",
   "l": 4
  },
  {
   "h": "学时",
   "p": "xué shí",
   "en": "class hour; period",
+  "vi": "giờ học",
   "l": 4
  },
  {
   "h": "学术",
   "p": "xué shù",
   "en": "learning; science; academic",
+  "vi": "học thuật",
   "l": 4
  },
  {
   "h": "学问",
   "p": "xué wèn",
   "en": "learning; knowledge; scholarship; a body of specialized knowledge (; (fig.) any activity that demands expertise, skill or experience (e.g. gathering forensic evidence, selecting clothing, managing relationships)",
+  "vi": "kiến thức",
   "l": 4
  },
  {
   "h": "寻找",
   "p": "xún zhǎo",
   "en": "to seek; to look for",
+  "vi": "tìm kiếm",
   "l": 4
  },
  {
   "h": "迅速",
   "p": "xùn sù",
   "en": "rapid; speedy; fast",
+  "vi": "nhanh chóng",
   "l": 4
  },
  {
   "h": "牙",
   "p": "yá",
   "en": "tooth; ivory",
+  "vi": "răng",
   "l": 4
  },
  {
   "h": "牙刷",
   "p": "yá shuā",
   "en": "toothbrush",
+  "vi": "bàn chải đánh răng",
   "l": 4
  },
  {
   "h": "亚运会",
   "p": "Yà yùn huì",
   "en": "Asian Games",
+  "vi": "Đại hội Thể thao châu Á",
   "l": 4
  },
  {
@@ -5167,24 +5841,28 @@
   "h": "延长",
   "p": "Yán cháng",
   "en": "Yanchang county in Yan'an 延安, Shaanxi",
+  "vi": "kéo dài",
   "l": 4
  },
  {
   "h": "延期",
   "p": "yán qī",
   "en": "to delay; to extend; to postpone",
+  "vi": "hoãn lại",
   "l": 4
  },
  {
   "h": "延续",
   "p": "yán xù",
   "en": "to continue; to go on; to last",
+  "vi": "tiếp tục",
   "l": 4
  },
  {
   "h": "严",
   "p": "yán",
   "en": "tight (closely sealed); stern; strict",
+  "vi": "nghiêm",
   "l": 4
  },
  {
@@ -5205,6 +5883,7 @@
   "h": "研究",
   "p": "yán jiū",
   "en": "research; a study; to research",
+  "vi": "nghiên cứu",
   "l": 4
  },
  {
@@ -5218,6 +5897,7 @@
   "h": "研制",
   "p": "yán zhì",
   "en": "to research and manufacture; to research and to develop",
+  "vi": "nghiên cứu chế tạo",
   "l": 4
  },
  {
@@ -5238,24 +5918,28 @@
   "h": "眼泪",
   "p": "yǎn lèi",
   "en": "tear; teardrop",
+  "vi": "nước mắt",
   "l": 4
  },
  {
   "h": "眼里",
   "p": "yǎn lǐ",
   "en": "in one's eyes",
+  "vi": "trong mắt",
   "l": 4
  },
  {
   "h": "演讲",
   "p": "yǎn jiǎng",
   "en": "to give a lecture; to make a speech",
+  "vi": "diễn thuyết",
   "l": 4
  },
  {
   "h": "阳台",
   "p": "yáng tái",
   "en": "balcony; porch",
+  "vi": "ban công",
   "l": 4
  },
  {
@@ -5269,18 +5953,21 @@
   "h": "腰",
   "p": "yāo",
   "en": "the waist and lower back; kidney of an animal (as food); the waist of trousers or a skirt",
+  "vi": "eo",
   "l": 4
  },
  {
   "h": "摇",
   "p": "yáo",
   "en": "to shake; to rock; to row",
+  "vi": "lắc, rung",
   "l": 4
  },
  {
   "h": "药物",
   "p": "yào wù",
   "en": "medicaments; pharmaceuticals; medication",
+  "vi": "thuốc, dược phẩm",
   "l": 4
  },
  {
@@ -5294,6 +5981,7 @@
   "h": "业余",
   "p": "yè yú",
   "en": "in one's spare time; outside working hours; amateur (historian etc)",
+  "vi": "nghiệp dư",
   "l": 4
  },
  {
@@ -5307,126 +5995,147 @@
   "h": "医疗",
   "p": "yī liáo",
   "en": "medical treatment",
+  "vi": "y tế",
   "l": 4
  },
  {
   "h": "医学",
   "p": "yī xué",
   "en": "medicine; medical science; study of medicine",
+  "vi": "y học",
   "l": 4
  },
  {
   "h": "依靠",
   "p": "yī kào",
   "en": "to rely on sth (for support etc); to depend on",
+  "vi": "dựa vào",
   "l": 4
  },
  {
   "h": "依然",
   "p": "yī rán",
   "en": "still; as before",
+  "vi": "vẫn",
   "l": 4
  },
  {
   "h": "一律",
   "p": "yī lǜ",
   "en": "same; identical; uniformly; all; without exception",
+  "vi": "đồng loạt",
   "l": 4
  },
  {
   "h": "一再",
   "p": "yī zài",
   "en": "repeatedly",
+  "vi": "nhiều lần",
   "l": 4
  },
  {
   "h": "一致",
   "p": "yī zhì",
   "en": "consistent; unanimous; in agreement; together; in unison",
+  "vi": "nhất trí",
   "l": 4
  },
  {
   "h": "移",
   "p": "yí",
   "en": "to move; to shift; to change",
+  "vi": "dời, chuyển",
   "l": 4
  },
  {
   "h": "移动",
   "p": "yí dòng",
   "en": "to move; movement; migration",
+  "vi": "di chuyển",
   "l": 4
  },
  {
   "h": "移民",
   "p": "yí mín",
   "en": "to immigrate; to migrate; emigrant",
+  "vi": "di cư",
   "l": 4
  },
  {
   "h": "遗产",
   "p": "yí chǎn",
   "en": "heritage; legacy; inheritance",
+  "vi": "di sản",
   "l": 4
  },
  {
   "h": "遗传",
   "p": "yí chuán",
   "en": "heredity; to inherit (a trait); to pass on (to one's offspring)",
+  "vi": "di truyền",
   "l": 4
  },
  {
   "h": "疑问",
   "p": "yí wèn",
   "en": "question; interrogation; doubt",
+  "vi": "nghi vấn",
   "l": 4
  },
  {
   "h": "以及",
   "p": "yǐ jí",
   "en": "and; as well as",
+  "vi": "cùng với",
   "l": 4
  },
  {
   "h": "以内",
   "p": "yǐ nèi",
   "en": "within; less than",
+  "vi": "trong vòng",
   "l": 4
  },
  {
   "h": "一般来说",
   "p": "yī bān lái shuō",
   "en": "generally speaking",
+  "vi": "nói chung",
   "l": 4
  },
  {
   "h": "义务",
   "p": "yì wù",
   "en": "duty; obligation (; volunteer (work etc)",
+  "vi": "nghĩa vụ",
   "l": 4
  },
  {
   "h": "议论",
   "p": "yì lùn",
   "en": "to comment; to talk about; to discuss",
+  "vi": "bàn luận",
   "l": 4
  },
  {
   "h": "引",
   "p": "yǐn",
   "en": "to draw (e.g. a bow); to pull; to stretch sth",
+  "vi": "dẫn",
   "l": 4
  },
  {
   "h": "引导",
   "p": "yǐn dǎo",
   "en": "to guide; to lead (around); to conduct",
+  "vi": "hướng dẫn",
   "l": 4
  },
  {
   "h": "引进",
   "p": "yǐn jìn",
   "en": "to recommend; to introduce (from outside)",
+  "vi": "nhập khẩu, du nhập",
   "l": 4
  },
  {
@@ -5440,30 +6149,35 @@
   "h": "应",
   "p": "yīng",
   "en": "to agree (to do sth); should; ought to",
+  "vi": "đáp ứng",
   "l": 4
  },
  {
   "h": "英勇",
   "p": "yīng yǒng",
   "en": "heroic; gallant; valiant",
+  "vi": "anh dũng",
   "l": 4
  },
  {
   "h": "营业",
   "p": "yíng yè",
   "en": "to do business; to trade",
+  "vi": "kinh doanh",
   "l": 4
  },
  {
   "h": "赢得",
   "p": "yíng dé",
   "en": "to win; to gain",
+  "vi": "giành được",
   "l": 4
  },
  {
   "h": "影子",
   "p": "yǐng zi",
   "en": "shadow; reflection; (fig.) hint",
+  "vi": "bóng",
   "l": 4
  },
  {
@@ -5477,24 +6191,28 @@
   "h": "勇气",
   "p": "yǒng qì",
   "en": "courage",
+  "vi": "dũng khí",
   "l": 4
  },
  {
   "h": "用途",
   "p": "yòng tú",
   "en": "use; application",
+  "vi": "công dụng",
   "l": 4
  },
  {
   "h": "优良",
   "p": "yōu liáng",
   "en": "fine; good; first-rate",
+  "vi": "tốt đẹp",
   "l": 4
  },
  {
   "h": "优美",
   "p": "yōu měi",
   "en": "graceful; fine; elegant",
+  "vi": "đẹp đẽ",
   "l": 4
  },
  {
@@ -5508,12 +6226,14 @@
   "h": "邮局",
   "p": "yóu jú",
   "en": "post office",
+  "vi": "bưu điện",
   "l": 4
  },
  {
   "h": "有劲儿",
   "p": "yǒu jìnr",
   "en": "energetic; strong",
+  "vi": "có sức lực",
   "l": 4
  },
  {
@@ -5527,12 +6247,14 @@
   "h": "有限",
   "p": "yǒu xiàn",
   "en": "limited; finite",
+  "vi": "hạn chế",
   "l": 4
  },
  {
   "h": "幼儿园",
   "p": "yòu ér yuán",
   "en": "kindergarten; nursery school",
+  "vi": "trường mẫu giáo",
   "l": 4
  },
  {
@@ -5553,36 +6275,42 @@
   "h": "语音",
   "p": "yǔ yīn",
   "en": "speech sounds; pronunciation; colloquial (rather than literary) pronunciation of a Chinese character",
+  "vi": "ngữ âm",
   "l": 4
  },
  {
   "h": "玉",
   "p": "yù",
   "en": "jade",
+  "vi": "ngọc",
   "l": 4
  },
  {
   "h": "玉米",
   "p": "yù mǐ",
   "en": "corn; maize",
+  "vi": "ngô",
   "l": 4
  },
  {
   "h": "预测",
   "p": "yù cè",
   "en": "to forecast; to predict",
+  "vi": "dự đoán",
   "l": 4
  },
  {
   "h": "预订",
   "p": "yù dìng",
   "en": "to place an order; to book ahead",
+  "vi": "đặt trước",
   "l": 4
  },
  {
   "h": "遇",
   "p": "yù",
   "en": "to encounter; to happen upon; to meet unplanned; to treat; to receive",
+  "vi": "gặp",
   "l": 4
  },
  {
@@ -5596,18 +6324,21 @@
   "h": "遇见",
   "p": "yù jiàn",
   "en": "to meet",
+  "vi": "gặp gỡ",
   "l": 4
  },
  {
   "h": "原料",
   "p": "yuán liào",
   "en": "raw material",
+  "vi": "nguyên liệu",
   "l": 4
  },
  {
   "h": "原则",
   "p": "yuán zé",
   "en": "principle; doctrine",
+  "vi": "nguyên tắc",
   "l": 4
  },
  {
@@ -5621,6 +6352,7 @@
   "h": "圆满",
   "p": "yuán mǎn",
   "en": "satisfactory; consummate; perfect",
+  "vi": "trọn vẹn",
   "l": 4
  },
  {
@@ -5634,6 +6366,7 @@
   "h": "月底",
   "p": "yuè dǐ",
   "en": "end of the month",
+  "vi": "cuối tháng",
   "l": 4
  },
  {
@@ -5647,90 +6380,105 @@
   "h": "运动会",
   "p": "yùn dòng huì",
   "en": "sports competition",
+  "vi": "đại hội thể thao",
   "l": 4
  },
  {
   "h": "运动员",
   "p": "yùn dòng yuán",
   "en": "athlete",
+  "vi": "vận động viên",
   "l": 4
  },
  {
   "h": "运气",
   "p": "yùn qi",
   "en": "luck (good or bad)",
+  "vi": "vận may",
   "l": 4
  },
  {
   "h": "运用",
   "p": "yùn yòng",
   "en": "to use; to put to use",
+  "vi": "vận dụng",
   "l": 4
  },
  {
   "h": "再三",
   "p": "zài sān",
   "en": "over and over again; again and again",
+  "vi": "nhiều lần",
   "l": 4
  },
  {
   "h": "在乎",
   "p": "zài hu",
   "en": "to rest with; to lie in; to be due to (a certain attribute); (often used in the negative) to care about",
+  "vi": "để ý",
   "l": 4
  },
  {
   "h": "在于",
   "p": "zài yú",
   "en": "to rest with; to lie in; to be due to (a certain attribute); (of a matter) to be determined by; to be up to (sb)",
+  "vi": "nằm ở",
   "l": 4
  },
  {
   "h": "赞成",
   "p": "zàn chéng",
   "en": "to approve; to endorse; (literary) to assist",
+  "vi": "tán thành",
   "l": 4
  },
  {
   "h": "赞赏",
   "p": "zàn shǎng",
   "en": "to admire; to praise; to appreciate",
+  "vi": "khen ngợi",
   "l": 4
  },
  {
   "h": "赞助",
   "p": "zàn zhù",
   "en": "to support; to assist; to sponsor",
+  "vi": "tài trợ",
   "l": 4
  },
  {
   "h": "造型",
   "p": "zào xíng",
   "en": "to model; to shape; appearance; style; design; form; pose",
+  "vi": "tạo hình",
   "l": 4
  },
  {
   "h": "战斗",
   "p": "zhàn dòu",
   "en": "to fight; to engage in combat; struggle",
+  "vi": "chiến đấu",
   "l": 4
  },
  {
   "h": "战胜",
   "p": "zhàn shèng",
   "en": "to prevail over; to defeat; to surmount",
+  "vi": "chiến thắng",
   "l": 4
  },
  {
   "h": "战士",
   "p": "zhàn shì",
   "en": "fighter; soldier; warrior",
+  "vi": "chiến sĩ",
   "l": 4
  },
  {
   "h": "战争",
   "p": "zhàn zhēng",
   "en": "war; conflict",
+  "vi": "chiến tranh",
   "l": 4
  },
  {
@@ -5744,6 +6492,7 @@
   "h": "招呼",
   "p": "zhāo hu",
   "en": "to call out to; to greet; to say hello to",
+  "vi": "chào hỏi",
   "l": 4
  },
  {
@@ -5757,6 +6506,7 @@
   "h": "着火",
   "p": "zháo huǒ",
   "en": "to catch fire",
+  "vi": "bốc cháy",
   "l": 4
  },
  {
@@ -5770,90 +6520,105 @@
   "h": "召开",
   "p": "zhào kāi",
   "en": "to convene (a conference or meeting); to convoke; to call together",
+  "vi": "triệu tập",
   "l": 4
  },
  {
   "h": "折",
   "p": "shé",
   "en": "to snap; to break (a stick, a bone etc); to sustain a loss (in business)",
+  "vi": "gấp; bẻ",
   "l": 4
  },
  {
   "h": "针",
   "p": "zhēn",
   "en": "needle; pin; injection",
+  "vi": "kim",
   "l": 4
  },
  {
   "h": "针对",
   "p": "zhēn duì",
   "en": "to target; to focus on; to be aimed at or against; in response to",
+  "vi": "nhắm vào",
   "l": 4
  },
  {
   "h": "阵",
   "p": "zhèn",
   "en": "disposition of troops; wave; spate",
+  "vi": "đợt",
   "l": 4
  },
  {
   "h": "争论",
   "p": "zhēng lùn",
   "en": "to argue; to debate; to contend",
+  "vi": "tranh cãi",
   "l": 4
  },
  {
   "h": "征服",
   "p": "zhēng fú",
   "en": "to conquer; to subdue; to vanquish",
+  "vi": "chinh phục",
   "l": 4
  },
  {
   "h": "征求",
   "p": "zhēng qiú",
   "en": "to solicit; to seek; to request (opinions, feedback etc)",
+  "vi": "xin ý kiến",
   "l": 4
  },
  {
   "h": "政府",
   "p": "zhèng fǔ",
   "en": "government",
+  "vi": "chính phủ",
   "l": 4
  },
  {
   "h": "政治",
   "p": "zhèng zhì",
   "en": "politics; political",
+  "vi": "chính trị",
   "l": 4
  },
  {
   "h": "之后",
   "p": "zhī hòu",
   "en": "after; behind; (at the beginning of a sentence) afterwards; since then",
+  "vi": "sau khi",
   "l": 4
  },
  {
   "h": "之间",
   "p": "zhī jiān",
   "en": "(after a noun) between; among; amid; (used after certain bisyllabic words to form expressions indicating a short period of time, e.g. 彈指之間",
+  "vi": "giữa",
   "l": 4
  },
  {
   "h": "之前",
   "p": "zhī qián",
   "en": "before; prior to; ago",
+  "vi": "trước khi",
   "l": 4
  },
  {
   "h": "之一",
   "p": "zhī yī",
   "en": "one of (sth); one out of a multitude; one (third, quarter, percent etc)",
+  "vi": "một trong số",
   "l": 4
  },
  {
   "h": "支",
   "p": "zhī",
   "en": "to support; to sustain; to erect",
+  "vi": "chi (tiền); nhánh",
   "l": 4
  },
  {
@@ -5867,12 +6632,14 @@
   "h": "指挥",
   "p": "zhǐ huī",
   "en": "to conduct; to command; to direct",
+  "vi": "chỉ huy",
   "l": 4
  },
  {
   "h": "制订",
   "p": "zhì dìng",
   "en": "to work out; to formulate",
+  "vi": "soạn thảo",
   "l": 4
  },
  {
@@ -5886,42 +6653,49 @@
   "h": "治",
   "p": "zhì",
   "en": "to rule; to govern; to manage",
+  "vi": "cai trị; chữa trị",
   "l": 4
  },
  {
   "h": "治疗",
   "p": "zhì liáo",
   "en": "to treat (an illness); medical treatment; therapy",
+  "vi": "điều trị",
   "l": 4
  },
  {
   "h": "智力",
   "p": "zhì lì",
   "en": "intelligence; intellect",
+  "vi": "trí lực",
   "l": 4
  },
  {
   "h": "智能",
   "p": "zhì néng",
   "en": "intelligent; able; smart (phone, system, bomb etc)",
+  "vi": "trí tuệ",
   "l": 4
  },
  {
   "h": "中介",
   "p": "zhōng jiè",
   "en": "to act as intermediary; to link; intermediate",
+  "vi": "trung gian",
   "l": 4
  },
  {
   "h": "种类",
   "p": "zhǒng lèi",
   "en": "kind; genus; type",
+  "vi": "chủng loại",
   "l": 4
  },
  {
   "h": "中奖",
   "p": "zhòng jiǎng",
   "en": "to win a prize (in a lottery etc)",
+  "vi": "trúng thưởng",
   "l": 4
  },
  {
@@ -5935,18 +6709,21 @@
   "h": "种植",
   "p": "zhòng zhí",
   "en": "to plant; to grow (a crop); to cultivate",
+  "vi": "trồng",
   "l": 4
  },
  {
   "h": "重量",
   "p": "zhòng liàng",
   "en": "weight",
+  "vi": "trọng lượng",
   "l": 4
  },
  {
   "h": "逐步",
   "p": "zhú bù",
   "en": "progressively; step by step",
+  "vi": "từng bước",
   "l": 4
  },
  {
@@ -5960,18 +6737,21 @@
   "h": "主题",
   "p": "zhǔ tí",
   "en": "theme; subject",
+  "vi": "chủ đề",
   "l": 4
  },
  {
   "h": "主席",
   "p": "zhǔ xí",
   "en": "chairperson; premier; chairman",
+  "vi": "chủ tịch",
   "l": 4
  },
  {
   "h": "祝福",
   "p": "zhù fú",
   "en": "blessings; to wish sb well",
+  "vi": "chúc phúc",
   "l": 4
  },
  {
@@ -5985,66 +6765,77 @@
   "h": "著作",
   "p": "zhù zuò",
   "en": "to write; literary work; book",
+  "vi": "trước tác",
   "l": 4
  },
  {
   "h": "抓紧",
   "p": "zhuā jǐn",
   "en": "to keep a firm grip on; to pay close attention to; to lose no time in (doing sth)",
+  "vi": "nắm chắc",
   "l": 4
  },
  {
   "h": "专心",
   "p": "zhuān xīn",
   "en": "to focus one's attention; to concentrate on (doing sth)",
+  "vi": "chuyên tâm",
   "l": 4
  },
  {
   "h": "转动",
   "p": "zhuǎn dòng",
   "en": "to turn sth around; to swivel",
+  "vi": "xoay",
   "l": 4
  },
  {
   "h": "转告",
   "p": "zhuǎn gào",
   "en": "to pass on; to communicate; to transmit",
+  "vi": "chuyển lời",
   "l": 4
  },
  {
   "h": "转身",
   "p": "zhuǎn shēn",
   "en": "(of a person) to turn round; to face about; (of a widow) to remarry (archaic)",
+  "vi": "quay người",
   "l": 4
  },
  {
   "h": "转弯",
   "p": "zhuǎn wān",
   "en": "to turn; to go around a corner",
+  "vi": "rẽ",
   "l": 4
  },
  {
   "h": "转移",
   "p": "zhuǎn yí",
   "en": "to shift; to relocate; to transfer; (fig.) to shift (attention); to change (the subject etc); (medicine) to metastasize",
+  "vi": "chuyển",
   "l": 4
  },
  {
   "h": "装修",
   "p": "zhuāng xiū",
   "en": "to decorate; interior decoration; to fit up",
+  "vi": "trang trí",
   "l": 4
  },
  {
   "h": "装置",
   "p": "zhuāng zhì",
   "en": "to install; installation; equipment",
+  "vi": "thiết bị",
   "l": 4
  },
  {
   "h": "追求",
   "p": "zhuī qiú",
   "en": "to pursue (a goal etc) stubbornly; to seek after; to woo",
+  "vi": "theo đuổi",
   "l": 4
  },
  {
@@ -6058,96 +6849,112 @@
   "h": "资料",
   "p": "zī liào",
   "en": "material; resources; data",
+  "vi": "tài liệu",
   "l": 4
  },
  {
   "h": "资源",
   "p": "zī yuán",
   "en": "natural resource (such as water or minerals); resource (such as manpower or tourism)",
+  "vi": "tài nguyên",
   "l": 4
  },
  {
   "h": "自",
   "p": "zì",
   "en": "self; oneself; from; since; naturally; as a matter of course",
+  "vi": "tự mình",
   "l": 4
  },
  {
   "h": "自信",
   "p": "zì xìn",
   "en": "to have confidence in oneself; self-confidence",
+  "vi": "tự tin",
   "l": 4
  },
  {
   "h": "字母",
   "p": "zì mǔ",
   "en": "letter (of the alphabet)",
+  "vi": "chữ cái",
   "l": 4
  },
  {
   "h": "综合",
   "p": "zōng hé",
   "en": "comprehensive; composite; synthesized",
+  "vi": "tổng hợp",
   "l": 4
  },
  {
   "h": "总共",
   "p": "zǒng gòng",
   "en": "altogether; in sum; in all; in total",
+  "vi": "tổng cộng",
   "l": 4
  },
  {
   "h": "总理",
   "p": "zǒng lǐ",
   "en": "premier; prime minister",
+  "vi": "thủ tướng",
   "l": 4
  },
  {
   "h": "总统",
   "p": "zǒng tǒng",
   "en": "president (of a country)",
+  "vi": "tổng thống",
   "l": 4
  },
  {
   "h": "总之",
   "p": "zǒng zhī",
   "en": "in a word; in short; in brief",
+  "vi": "tóm lại",
   "l": 4
  },
  {
   "h": "阻止",
   "p": "zǔ zhǐ",
   "en": "to prevent; to block",
+  "vi": "ngăn chặn",
   "l": 4
  },
  {
   "h": "嘴巴",
   "p": "zuǐ ba",
   "en": "mouth (; slap in the face (",
+  "vi": "miệng",
   "l": 4
  },
  {
   "h": "最初",
   "p": "zuì chū",
   "en": "first; primary; initial",
+  "vi": "ban đầu",
   "l": 4
  },
  {
   "h": "作出",
   "p": "zuò chū",
   "en": "to put out; to come up with; to make (a choice, decision, proposal, response, comment etc)",
+  "vi": "đưa ra",
   "l": 4
  },
  {
   "h": "作为",
   "p": "zuò wéi",
   "en": "one's conduct; deed; activity",
+  "vi": "hành vi; với tư cách",
   "l": 4
  },
  {
   "h": "做梦",
   "p": "zuò mèng",
   "en": "to dream; to have a dream; fig. illusion",
+  "vi": "nằm mơ",
   "l": 4
  }
 ]

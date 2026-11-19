@@ -26,6 +26,8 @@ test("every level file matches the index and every entry has hanzi, pinyin and a
       assert.ok(e.h, "hanzi");
       assert.equal(e.l, level, "level tag");
     }
+    const missingVi = [...w, ...c].filter((e) => !e.vi).length;
+    assert.equal(missingVi, 0, `level ${level}: entries without a Vietnamese meaning`);
     const missingPinyin = [...w, ...c].filter((e) => !e.p).length;
     assert.ok(missingPinyin <= 5, `level ${level}: ${missingPinyin} entries without pinyin`);
   }
