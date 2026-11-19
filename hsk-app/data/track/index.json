@@ -1,0 +1,7 @@
+[
+{"id":"office","label":"Công sở","file":"data/track/office.json"},
+{"id":"factory","label":"Công xưởng","file":"data/track/factory.json"},
+{"id":"electronics","label":"Điện tử","file":"data/track/electronics.json"},
+{"id":"logistics","label":"Kho vận","file":"data/track/logistics.json"},
+{"id":"admin","label":"Phiên dịch – HC","file":"data/track/admin.json"}
+]

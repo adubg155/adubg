@@ -1,42 +1,81 @@
-// Text-to-speech through the WebView's speechSynthesis.
-// canSpeak() is true only when a real Chinese voice is present. An empty voice list
-// (common on Android WebView) means "no audio", so the UI hides the speaker button
-// and falls back to showing hanzi instead of a button that does nothing.
+// Chinese speech output.
+// Inside the Android APK the WebView usually has no usable speechSynthesis, so we call the
+// native text-to-speech engine through Capacitor. In a normal browser we use speechSynthesis.
+// Availability is checked for real (a Chinese voice must exist), so the UI never shows a
+// speaker button that cannot make a sound.
 
-export function speechSupported() {
-  return typeof window !== 'undefined'
-    && 'speechSynthesis' in window
-    && typeof window.SpeechSynthesisUtterance === 'function';
+const LANG = "zh-CN";
+const RATE = 0.85;
+const VOICE_WAIT_MS = 1500;
+
+let mode = "none";
+let available = false;
+
+function nativeTts() {
+  if (!window.Capacitor?.isNativePlatform?.()) return null;
+  return window.Capacitor?.Plugins?.TextToSpeech ?? null;
 }
 
-export function hasChineseVoice() {
+function hasChineseWebVoice() {
+  return window.speechSynthesis
+    .getVoices()
+    .some((voice) => voice.lang && voice.lang.toLowerCase().startsWith("zh"));
+}
+
+// Browser voices load asynchronously, so wait briefly for the voiceschanged event.
+function detectWebVoice() {
+  if (!("speechSynthesis" in window)) return Promise.resolve(false);
+  if (hasChineseWebVoice()) return Promise.resolve(true);
+  return new Promise((resolve) => {
+    const timer = setTimeout(() => resolve(hasChineseWebVoice()), VOICE_WAIT_MS);
+    window.speechSynthesis.addEventListener(
+      "voiceschanged",
+      () => {
+        clearTimeout(timer);
+        resolve(hasChineseWebVoice());
+      },
+      { once: true }
+    );
+  });
+}
+
+export async function initAudio() {
+  const tts = nativeTts();
   try {
-    return window.speechSynthesis.getVoices().some((v) => /^zh/i.test(v.lang));
-  } catch {
-    return false;
+    if (tts) {
+      mode = "native";
+      const result = await tts.isLanguageSupported({ lang: LANG });
+      available = result?.supported === true;
+    } else {
+      mode = "web";
+      available = await detectWebVoice();
+    }
+  } catch (error) {
+    console.warn("Audio detection failed", error);
+    available = false;
   }
+  return { available, mode };
 }
 
-export function canSpeak() {
-  return speechSupported() && hasChineseVoice();
+export function isAudioAvailable() {
+  return available;
 }
 
-export function speak(text) {
-  if (!canSpeak()) return false;
+export async function speakChinese(text) {
+  if (!available) return false;
   try {
-    const u = new window.SpeechSynthesisUtterance(text);
-    u.lang = 'zh-CN';
-    u.rate = 0.9;
+    if (mode === "native") {
+      await nativeTts().speak({ text, lang: LANG, rate: RATE });
+      return true;
+    }
     window.speechSynthesis.cancel();
-    window.speechSynthesis.speak(u);
+    const utterance = new SpeechSynthesisUtterance(text);
+    utterance.lang = LANG;
+    utterance.rate = RATE;
+    window.speechSynthesis.speak(utterance);
     return true;
-  } catch {
+  } catch (error) {
+    console.warn("Speech failed", error);
     return false;
   }
-}
-
-// Voices load asynchronously in most browsers; call back when they arrive.
-export function onVoicesChanged(cb) {
-  if (!speechSupported()) return;
-  window.speechSynthesis.addEventListener?.('voiceschanged', cb);
 }

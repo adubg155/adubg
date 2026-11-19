@@ -1,0 +1,857 @@
+[
+    {
+        "h":  "就",
+        "vi":  "thì, liền, ngay",
+        "en":  "then; just; right away"
+    },
+    {
+        "h":  "觉得",
+        "vi":  "cảm thấy, nghĩ rằng"
+    },
+    {
+        "h":  "咖啡",
+        "vi":  "cà phê"
+    },
+    {
+        "h":  "开始",
+        "vi":  "bắt đầu"
+    },
+    {
+        "h":  "考试",
+        "vi":  "thi, kỳ thi"
+    },
+    {
+        "h":  "可能",
+        "vi":  "có thể, có khả năng"
+    },
+    {
+        "h":  "可以",
+        "vi":  "có thể, được"
+    },
+    {
+        "h":  "课",
+        "vi":  "bài học, môn học"
+    },
+    {
+        "h":  "快",
+        "vi":  "nhanh"
+    },
+    {
+        "h":  "快乐",
+        "vi":  "vui vẻ, hạnh phúc"
+    },
+    {
+        "h":  "累",
+        "vi":  "mệt",
+        "p":  "lèi",
+        "en":  "tired"
+    },
+    {
+        "h":  "离",
+        "vi":  "rời, cách, xa",
+        "p":  "lí",
+        "en":  "leave; away from"
+    },
+    {
+        "h":  "两",
+        "vi":  "hai"
+    },
+    {
+        "h":  "路",
+        "vi":  "đường",
+        "en":  "road; way"
+    },
+    {
+        "h":  "旅游",
+        "vi":  "du lịch"
+    },
+    {
+        "h":  "卖",
+        "vi":  "bán"
+    },
+    {
+        "h":  "慢",
+        "vi":  "chậm"
+    },
+    {
+        "h":  "忙",
+        "vi":  "bận"
+    },
+    {
+        "h":  "每",
+        "vi":  "mỗi"
+    },
+    {
+        "h":  "妹妹",
+        "vi":  "em gái"
+    },
+    {
+        "h":  "门",
+        "vi":  "cửa",
+        "p":  "mén",
+        "en":  "door; gate"
+    },
+    {
+        "h":  "男人",
+        "vi":  "đàn ông"
+    },
+    {
+        "h":  "您",
+        "vi":  "ngài, ông, bà (lịch sự)"
+    },
+    {
+        "h":  "牛奶",
+        "vi":  "sữa bò"
+    },
+    {
+        "h":  "女人",
+        "vi":  "phụ nữ"
+    },
+    {
+        "h":  "旁边",
+        "vi":  "bên cạnh"
+    },
+    {
+        "h":  "跑步",
+        "vi":  "chạy bộ"
+    },
+    {
+        "h":  "票",
+        "vi":  "vé"
+    },
+    {
+        "h":  "妻子",
+        "vi":  "vợ"
+    },
+    {
+        "h":  "起床",
+        "vi":  "thức dậy"
+    },
+    {
+        "h":  "千",
+        "vi":  "nghìn"
+    },
+    {
+        "h":  "晴",
+        "vi":  "nắng, trời quang"
+    },
+    {
+        "h":  "去年",
+        "vi":  "năm ngoái"
+    },
+    {
+        "h":  "让",
+        "vi":  "để, cho phép, khiến"
+    },
+    {
+        "h":  "上班",
+        "vi":  "đi làm"
+    },
+    {
+        "h":  "身体",
+        "vi":  "cơ thể, sức khỏe"
+    },
+    {
+        "h":  "生病",
+        "vi":  "bị ốm, bệnh"
+    },
+    {
+        "h":  "生日",
+        "vi":  "sinh nhật"
+    },
+    {
+        "h":  "时间",
+        "vi":  "thời gian"
+    },
+    {
+        "h":  "事情",
+        "vi":  "việc, công việc"
+    },
+    {
+        "h":  "手表",
+        "vi":  "đồng hồ đeo tay"
+    },
+    {
+        "h":  "手机",
+        "vi":  "điện thoại di động"
+    },
+    {
+        "h":  "送",
+        "vi":  "tặng, đưa, tiễn"
+    },
+    {
+        "h":  "所以",
+        "vi":  "cho nên, vì vậy"
+    },
+    {
+        "h":  "它",
+        "vi":  "nó (vật, con vật)"
+    },
+    {
+        "h":  "踢",
+        "vi":  "đá (bóng)"
+    },
+    {
+        "h":  "题",
+        "vi":  "đề, câu hỏi",
+        "p":  "tí",
+        "en":  "topic; question; title"
+    },
+    {
+        "h":  "跳舞",
+        "vi":  "nhảy múa"
+    },
+    {
+        "h":  "外",
+        "vi":  "ngoài, bên ngoài"
+    },
+    {
+        "h":  "完",
+        "vi":  "xong, hoàn thành"
+    },
+    {
+        "h":  "玩",
+        "vi":  "chơi"
+    },
+    {
+        "h":  "晚上",
+        "vi":  "buổi tối"
+    },
+    {
+        "h":  "为",
+        "vi":  "vì, để"
+    },
+    {
+        "h":  "问",
+        "vi":  "hỏi"
+    },
+    {
+        "h":  "问题",
+        "vi":  "câu hỏi, vấn đề"
+    },
+    {
+        "h":  "希望",
+        "vi":  "hy vọng, mong muốn"
+    },
+    {
+        "h":  "洗",
+        "vi":  "rửa, giặt"
+    },
+    {
+        "h":  "西瓜",
+        "vi":  "dưa hấu"
+    },
+    {
+        "h":  "向",
+        "vi":  "về phía, hướng tới",
+        "p":  "xiàng",
+        "en":  "towards; to"
+    },
+    {
+        "h":  "小时",
+        "vi":  "giờ (đơn vị thời gian)"
+    },
+    {
+        "h":  "笑",
+        "vi":  "cười",
+        "en":  "to smile; to laugh"
+    },
+    {
+        "h":  "新",
+        "vi":  "mới",
+        "p":  "xīn",
+        "en":  "new"
+    },
+    {
+        "h":  "姓",
+        "vi":  "họ (họ tên)"
+    },
+    {
+        "h":  "休息",
+        "vi":  "nghỉ ngơi"
+    },
+    {
+        "h":  "雪",
+        "vi":  "tuyết",
+        "p":  "xuě",
+        "en":  "snow"
+    },
+    {
+        "h":  "颜色",
+        "vi":  "màu sắc"
+    },
+    {
+        "h":  "眼睛",
+        "vi":  "mắt"
+    },
+    {
+        "h":  "羊肉",
+        "vi":  "thịt cừu"
+    },
+    {
+        "h":  "药",
+        "vi":  "thuốc",
+        "en":  "medicine; drug"
+    },
+    {
+        "h":  "要",
+        "vi":  "muốn, cần, phải",
+        "p":  "yào",
+        "en":  "to want; to need; must"
+    },
+    {
+        "h":  "也",
+        "vi":  "cũng",
+        "p":  "yě",
+        "en":  "also; too"
+    },
+    {
+        "h":  "一起",
+        "vi":  "cùng nhau"
+    },
+    {
+        "h":  "已经",
+        "vi":  "đã"
+    },
+    {
+        "h":  "意思",
+        "vi":  "ý nghĩa, ý"
+    },
+    {
+        "h":  "因为",
+        "vi":  "bởi vì"
+    },
+    {
+        "h":  "阴",
+        "vi":  "âm u, có mây",
+        "p":  "yīn",
+        "en":  "cloudy; overcast"
+    },
+    {
+        "h":  "游泳",
+        "vi":  "bơi lội"
+    },
+    {
+        "h":  "右边",
+        "vi":  "bên phải"
+    },
+    {
+        "h":  "鱼",
+        "vi":  "con cá",
+        "p":  "yú",
+        "en":  "fish"
+    },
+    {
+        "h":  "元",
+        "vi":  "đồng (tiền tệ)",
+        "p":  "yuán",
+        "en":  "yuan (currency unit)"
+    },
+    {
+        "h":  "远",
+        "vi":  "xa"
+    },
+    {
+        "h":  "运动",
+        "vi":  "vận động, thể thao"
+    },
+    {
+        "h":  "再",
+        "vi":  "lại, nữa"
+    },
+    {
+        "h":  "早上",
+        "vi":  "buổi sáng sớm"
+    },
+    {
+        "h":  "张",
+        "vi":  "tờ, cái (lượng từ vật phẳng)",
+        "p":  "zhāng",
+        "en":  "(measure word for flat things)"
+    },
+    {
+        "h":  "长",
+        "vi":  "dài"
+    },
+    {
+        "h":  "丈夫",
+        "vi":  "chồng"
+    },
+    {
+        "h":  "找",
+        "vi":  "tìm"
+    },
+    {
+        "h":  "着",
+        "vi":  "(trợ từ) đang, ở trạng thái",
+        "p":  "zhe",
+        "en":  "(aspect particle)"
+    },
+    {
+        "h":  "真",
+        "vi":  "thật, thật sự"
+    },
+    {
+        "h":  "正在",
+        "vi":  "đang"
+    },
+    {
+        "h":  "知道",
+        "vi":  "biết"
+    },
+    {
+        "h":  "准备",
+        "vi":  "chuẩn bị"
+    },
+    {
+        "h":  "自行车",
+        "vi":  "xe đạp"
+    },
+    {
+        "h":  "走",
+        "vi":  "đi bộ, đi"
+    },
+    {
+        "h":  "最",
+        "vi":  "nhất",
+        "en":  "most; -est"
+    },
+    {
+        "h":  "左边",
+        "vi":  "bên trái"
+    },
+    {
+        "h":  "阿姨",
+        "vi":  "dì, cô (em gái của mẹ hoặc người lớn tuổi)"
+    },
+    {
+        "h":  "啊",
+        "vi":  "à, ồ (thán từ)"
+    },
+    {
+        "h":  "矮",
+        "vi":  "thấp (người, vật)"
+    },
+    {
+        "h":  "爱好",
+        "vi":  "sở thích"
+    },
+    {
+        "h":  "安静",
+        "vi":  "yên tĩnh"
+    },
+    {
+        "h":  "把",
+        "vi":  "(trợ từ đưa tân ngữ lên trước động từ)",
+        "en":  "(marks object before the verb)"
+    },
+    {
+        "h":  "班",
+        "vi":  "lớp; ca (làm việc)",
+        "p":  "bān",
+        "en":  "class; shift; team"
+    },
+    {
+        "h":  "搬",
+        "vi":  "chuyển, dọn, khuân"
+    },
+    {
+        "h":  "办法",
+        "vi":  "cách, biện pháp"
+    },
+    {
+        "h":  "办公室",
+        "vi":  "văn phòng"
+    },
+    {
+        "h":  "半",
+        "vi":  "một nửa, rưỡi"
+    },
+    {
+        "h":  "帮忙",
+        "vi":  "giúp đỡ"
+    },
+    {
+        "h":  "包",
+        "vi":  "bao, túi; gói",
+        "p":  "bāo",
+        "en":  "to wrap; bag"
+    },
+    {
+        "h":  "饱",
+        "vi":  "no"
+    },
+    {
+        "h":  "北方",
+        "vi":  "phương Bắc"
+    },
+    {
+        "h":  "被",
+        "vi":  "bị (bị động)",
+        "en":  "(passive marker); by"
+    },
+    {
+        "h":  "鼻子",
+        "vi":  "mũi"
+    },
+    {
+        "h":  "比较",
+        "vi":  "tương đối, so sánh"
+    },
+    {
+        "h":  "比赛",
+        "vi":  "thi đấu, trận đấu"
+    },
+    {
+        "h":  "必须",
+        "vi":  "phải, buộc phải"
+    },
+    {
+        "h":  "变化",
+        "vi":  "thay đổi, biến đổi"
+    },
+    {
+        "h":  "表示",
+        "vi":  "biểu thị, bày tỏ"
+    },
+    {
+        "h":  "表演",
+        "vi":  "biểu diễn"
+    },
+    {
+        "h":  "别人",
+        "vi":  "người khác"
+    },
+    {
+        "h":  "宾馆",
+        "vi":  "khách sạn"
+    },
+    {
+        "h":  "冰箱",
+        "vi":  "tủ lạnh"
+    },
+    {
+        "h":  "才",
+        "vi":  "mới, chỉ",
+        "en":  "only; just; not until"
+    },
+    {
+        "h":  "菜单",
+        "vi":  "thực đơn"
+    },
+    {
+        "h":  "参加",
+        "vi":  "tham gia"
+    },
+    {
+        "h":  "草",
+        "vi":  "cỏ",
+        "p":  "cǎo",
+        "en":  "grass"
+    },
+    {
+        "h":  "层",
+        "vi":  "tầng, lớp"
+    },
+    {
+        "h":  "差",
+        "vi":  "kém, tệ; khác biệt",
+        "p":  "chà",
+        "en":  "bad; poor; not good"
+    },
+    {
+        "h":  "超市",
+        "vi":  "siêu thị"
+    },
+    {
+        "h":  "衬衫",
+        "vi":  "áo sơ mi"
+    },
+    {
+        "h":  "成绩",
+        "vi":  "thành tích, điểm số"
+    },
+    {
+        "h":  "城市",
+        "vi":  "thành phố"
+    },
+    {
+        "h":  "迟到",
+        "vi":  "đến muộn"
+    },
+    {
+        "h":  "出现",
+        "vi":  "xuất hiện"
+    },
+    {
+        "h":  "除了",
+        "vi":  "ngoài ... ra"
+    },
+    {
+        "h":  "厨房",
+        "vi":  "nhà bếp"
+    },
+    {
+        "h":  "春",
+        "vi":  "mùa xuân",
+        "p":  "chūn",
+        "en":  "spring"
+    },
+    {
+        "h":  "词语",
+        "vi":  "từ ngữ"
+    },
+    {
+        "h":  "聪明",
+        "vi":  "thông minh"
+    },
+    {
+        "h":  "打扫",
+        "vi":  "quét dọn, dọn dẹp"
+    },
+    {
+        "h":  "打算",
+        "vi":  "dự định, định"
+    },
+    {
+        "h":  "带",
+        "vi":  "mang, dẫn"
+    },
+    {
+        "h":  "担心",
+        "vi":  "lo lắng"
+    },
+    {
+        "h":  "蛋糕",
+        "vi":  "bánh ngọt"
+    },
+    {
+        "h":  "当然",
+        "vi":  "đương nhiên"
+    },
+    {
+        "h":  "地",
+        "vi":  "(trợ từ) một cách",
+        "en":  "(structural particle before verb/adjective)"
+    },
+    {
+        "h":  "地方",
+        "vi":  "nơi, chỗ"
+    },
+    {
+        "h":  "地铁",
+        "vi":  "tàu điện ngầm"
+    },
+    {
+        "h":  "地图",
+        "vi":  "bản đồ"
+    },
+    {
+        "h":  "灯",
+        "vi":  "đèn"
+    },
+    {
+        "h":  "低",
+        "vi":  "thấp"
+    },
+    {
+        "h":  "电梯",
+        "vi":  "thang máy"
+    },
+    {
+        "h":  "电子",
+        "vi":  "điện tử"
+    },
+    {
+        "h":  "东",
+        "vi":  "đông, phía đông",
+        "p":  "dōng",
+        "en":  "east"
+    },
+    {
+        "h":  "冬",
+        "vi":  "mùa đông"
+    },
+    {
+        "h":  "动物",
+        "vi":  "động vật"
+    },
+    {
+        "h":  "短",
+        "vi":  "ngắn"
+    },
+    {
+        "h":  "段",
+        "vi":  "đoạn, khúc",
+        "p":  "duàn",
+        "en":  "section; segment"
+    },
+    {
+        "h":  "锻炼",
+        "vi":  "rèn luyện, tập thể dục"
+    },
+    {
+        "h":  "多么",
+        "vi":  "biết bao, thật là"
+    },
+    {
+        "h":  "饿",
+        "vi":  "đói"
+    },
+    {
+        "h":  "而且",
+        "vi":  "hơn nữa, và"
+    },
+    {
+        "h":  "耳朵",
+        "vi":  "tai"
+    },
+    {
+        "h":  "发烧",
+        "vi":  "sốt"
+    },
+    {
+        "h":  "发现",
+        "vi":  "phát hiện"
+    },
+    {
+        "h":  "方便",
+        "vi":  "tiện lợi"
+    },
+    {
+        "h":  "放",
+        "vi":  "đặt, để"
+    },
+    {
+        "h":  "放心",
+        "vi":  "yên tâm"
+    },
+    {
+        "h":  "分",
+        "vi":  "chia; phút",
+        "p":  "fēn",
+        "en":  "to divide; minute"
+    },
+    {
+        "h":  "附近",
+        "vi":  "gần đây, lân cận"
+    },
+    {
+        "h":  "复习",
+        "vi":  "ôn tập"
+    },
+    {
+        "h":  "敢",
+        "vi":  "dám"
+    },
+    {
+        "h":  "感冒",
+        "vi":  "cảm cúm"
+    },
+    {
+        "h":  "干净",
+        "vi":  "sạch sẽ"
+    },
+    {
+        "h":  "刚才",
+        "vi":  "vừa rồi"
+    },
+    {
+        "h":  "根据",
+        "vi":  "căn cứ vào, theo"
+    },
+    {
+        "h":  "跟",
+        "vi":  "với, theo"
+    },
+    {
+        "h":  "更",
+        "vi":  "hơn, càng",
+        "p":  "gèng",
+        "en":  "more; even more"
+    },
+    {
+        "h":  "公园",
+        "vi":  "công viên"
+    },
+    {
+        "h":  "故事",
+        "vi":  "câu chuyện",
+        "en":  "story"
+    },
+    {
+        "h":  "刮",
+        "vi":  "thổi, cạo"
+    },
+    {
+        "h":  "关",
+        "vi":  "đóng, tắt"
+    },
+    {
+        "h":  "关系",
+        "vi":  "quan hệ, mối quan hệ"
+    },
+    {
+        "h":  "关心",
+        "vi":  "quan tâm"
+    },
+    {
+        "h":  "关于",
+        "vi":  "về, liên quan đến"
+    },
+    {
+        "h":  "国家",
+        "vi":  "quốc gia, đất nước"
+    },
+    {
+        "h":  "果汁",
+        "vi":  "nước ép trái cây"
+    },
+    {
+        "h":  "过去",
+        "vi":  "quá khứ, trước đây"
+    },
+    {
+        "h":  "还是",
+        "vi":  "hay là, vẫn"
+    },
+    {
+        "h":  "害怕",
+        "vi":  "sợ hãi"
+    },
+    {
+        "h":  "河",
+        "vi":  "sông"
+    },
+    {
+        "h":  "黑板",
+        "vi":  "bảng đen"
+    },
+    {
+        "h":  "护照",
+        "vi":  "hộ chiếu"
+    },
+    {
+        "h":  "花",
+        "vi":  "hoa; tiêu (tiền)",
+        "p":  "huā",
+        "en":  "flower; to spend"
+    },
+    {
+        "h":  "花园",
+        "vi":  "vườn hoa"
+    },
+    {
+        "h":  "画",
+        "vi":  "tranh; vẽ",
+        "en":  "picture; to draw"
+    },
+    {
+        "h":  "坏",
+        "vi":  "xấu, hỏng"
+    },
+    {
+        "h":  "环境",
+        "vi":  "môi trường"
+    }
+]

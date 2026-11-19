@@ -1,14 +1,12 @@
 {
   "name": "hsk-app",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "private": true,
   "type": "module",
-  "description": "Ôn tập HSK 1–4, offline-capable PWA",
+  "description": "Ôn HSK 1–4 và tiếng Trung công việc, chạy offline",
   "scripts": {
-    "test": "node --test tests/*.test.js",
+    "check:data": "python3 tools/check-excel.py",
     "test:e2e": "node --test tests/e2e.test.mjs",
-    "test:all": "npm test && npm run test:e2e",
-    "icons": "node tools/make-icons.cjs",
-    "build:data": "python3 tools/build-words.py"
+    "test": "npm run check:data && npm run test:e2e"
   }
 }

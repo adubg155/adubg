@@ -1,0 +1,13 @@
+[
+{"h":"我","p":"wǒ","vi":"tôi","en":"I","r":"S","c":"pronoun"},
+{"h":"我们","p":"wǒmen","vi":"chúng tôi","en":"we","r":"S","c":"pronoun"},
+{"h":"他","p":"tā","vi":"anh ấy","en":"he","r":"S","c":"pronoun"},
+{"h":"她","p":"tā","vi":"cô ấy","en":"she","r":"S","c":"pronoun"},
+{"h":"他们","p":"tāmen","vi":"họ","en":"they","r":"S","c":"pronoun"},
+{"h":"今天","p":"jīntiān","vi":"hôm nay","en":"today","r":"T","c":"now"},
+{"h":"上午","p":"shàngwǔ","vi":"buổi sáng","en":"morning","r":"T","c":"now"},
+{"h":"下午","p":"xiàwǔ","vi":"buổi chiều","en":"afternoon","r":"T","c":"now"},
+{"h":"每天","p":"měitiān","vi":"mỗi ngày","en":"every day","r":"T","c":"habit"},
+{"h":"明天","p":"míngtiān","vi":"ngày mai","en":"tomorrow","r":"T","c":"future"},
+{"h":"昨天","p":"zuótiān","vi":"hôm qua","en":"yesterday","r":"T","c":"past"}
+]

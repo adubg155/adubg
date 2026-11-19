@@ -1,36 +1,39 @@
-// End-to-end checks in a real Chromium: user flows, persistence, storage recovery, layout.
-// Run with: npm run test:e2e   (uses the Chromium at CHROME_PATH, default /opt/pw-browsers/chromium)
-import { test, before, after } from 'node:test';
-import assert from 'node:assert/strict';
-import http from 'node:http';
-import fs from 'node:fs';
-import path from 'node:path';
-import { createRequire } from 'node:module';
-import { fileURLToPath } from 'node:url';
+// End-to-end checks in a real Chromium against the static app.
+// Run: npm run test:e2e   (PLAYWRIGHT_PATH / CHROME_PATH override the defaults below)
+import { test, before, after } from "node:test";
+import assert from "node:assert/strict";
+import http from "node:http";
+import fs from "node:fs";
+import path from "node:path";
+import { createRequire } from "node:module";
+import { fileURLToPath } from "node:url";
 
 const require = createRequire(import.meta.url);
-// Playwright is taken from PLAYWRIGHT_PATH if set, otherwise from the global install in this container.
-const { chromium } = require(process.env.PLAYWRIGHT_PATH || '/opt/node22/lib/node_modules/playwright');
+const { chromium } = require(process.env.PLAYWRIGHT_PATH || "/opt/node22/lib/node_modules/playwright");
 
-const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
-const TYPES = { '.html': 'text/html', '.js': 'text/javascript', '.css': 'text/css', '.json': 'application/json', '.svg': 'image/svg+xml', '.png': 'image/png', '.woff2': 'font/woff2', '.txt': 'text/plain' };
+const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
+const TYPES = {
+  ".html": "text/html", ".js": "text/javascript", ".css": "text/css", ".json": "application/json",
+  ".svg": "image/svg+xml", ".png": "image/png",
+};
+const STORAGE_KEY = "hsk-progress-v1";
 
 let server, base, browser;
 
 before(async () => {
   server = http.createServer((req, res) => {
-    const urlPath = decodeURIComponent(new URL(req.url, 'http://x').pathname);
-    const file = path.join(root, urlPath === '/' ? 'index.html' : urlPath);
+    const urlPath = decodeURIComponent(new URL(req.url, "http://x").pathname);
+    const file = path.join(root, urlPath === "/" ? "index.html" : urlPath);
     if (!file.startsWith(root) || !fs.existsSync(file) || fs.statSync(file).isDirectory()) {
-      res.writeHead(404).end('not found');
+      res.writeHead(404).end("not found");
       return;
     }
-    res.writeHead(200, { 'content-type': TYPES[path.extname(file)] || 'application/octet-stream' });
+    res.writeHead(200, { "content-type": TYPES[path.extname(file)] || "application/octet-stream" });
     fs.createReadStream(file).pipe(res);
   });
-  await new Promise((r) => server.listen(0, '127.0.0.1', r));
-  base = `http://127.0.0.1:${server.address().port}/`;
-  browser = await chromium.launch({ executablePath: process.env.CHROME_PATH || '/opt/pw-browsers/chromium', args: ['--no-sandbox'] });
+  await new Promise((r) => server.listen(0, "127.0.0.1", r));
+  base = `http://127.0.0.1:${server.address().port}/index.html`;
+  browser = await chromium.launch({ executablePath: process.env.CHROME_PATH || "/opt/pw-browsers/chromium", args: ["--no-sandbox"] });
 });
 
 after(async () => {
@@ -38,182 +41,194 @@ after(async () => {
   server?.close();
 });
 
-async function newPage(opts = {}) {
+async function open(hash = "#/home", opts = {}) {
   const ctx = await browser.newContext({ viewport: { width: 390, height: 844 }, acceptDownloads: true, ...opts });
   const page = await ctx.newPage();
   page.errors = [];
-  page.on('pageerror', (e) => page.errors.push(e.message));
-  page.on('console', (m) => { if (m.type() === 'error') page.errors.push(m.text()); });
-  await page.goto(base);
-  await page.waitForSelector('.card');
+  page.on("pageerror", (e) => page.errors.push(e.message));
+  page.on("console", (m) => { if (m.type() === "error") page.errors.push(m.text()); });
+  await page.goto(base + hash);
+  await page.waitForFunction(() => !document.querySelector("#app")?.textContent.includes("Đang tải"));
   return page;
 }
 
-async function tab(page, name) {
-  await page.click(`.tabbar button[data-tab="${name}"]`);
+async function go(page, hash) {
+  await page.evaluate((h) => { location.hash = h; }, hash);
+  await page.waitForFunction(() => !document.querySelector("#app")?.textContent.includes("Đang tải"));
 }
 
-const stored = (page) => page.evaluate(() => JSON.parse(localStorage.getItem('hsk-state') || 'null'));
+const stored = (page) => page.evaluate((k) => JSON.parse(localStorage.getItem(k) || "null"), STORAGE_KEY);
+const appText = (page) => page.evaluate(() => document.querySelector("#app").innerText);
 
-test('loads the full dataset and shows the word count', async () => {
-  const page = await newPage();
-  assert.equal(await page.textContent('#level-chip'), '1192 từ');
+test("home loads with HSK and work data and no errors", async () => {
+  const page = await open();
+  const text = await appText(page);
+  assert.match(text, /Giáo trình HSK/);
+  assert.match(text, /HSK 4/);
   assert.deepEqual(page.errors, []);
   await page.context().close();
 });
 
-test('review: reveal, grade, progress is saved and the card advances', async () => {
-  const page = await newPage();
-  assert.equal(await page.locator('[data-act="speak"]').count(), 0, 'no speaker button without a Chinese voice');
-  await page.click('[data-act="reveal"]');
-  assert.ok(await page.locator('.grade').isVisible());
-  await page.click('[data-act="grade"][data-q="5"]');
-  assert.match(await page.textContent('.muted.center'), /2 \/ 10/);
-  const s = await stored(page);
-  assert.equal(Object.keys(s.cards).length, 1);
-  const card = Object.values(s.cards)[0];
-  assert.equal(card.reps, 1);
-  assert.equal(card.interval, 1);
+test("work lesson list shows topic titles only, without lesson numbers", async () => {
+  const page = await open("#/work");
+  const text = await appText(page);
+  assert.match(text, /Hành chính - nhân sự/);
+  assert.match(text, /Quyển 1/);
+  assert.match(text, /Quyển 2/);
+  assert.doesNotMatch(text, /Bài\s*\d/, "no 'Bài N' label");
+  assert.doesNotMatch(text, /第.{1,4}课/, "no Chinese lesson number");
+  assert.equal(await page.locator(".lesson-num").count(), 0);
+  const rows = await page.locator(".lesson-row").count();
+  assert.equal(rows, 40, "20 lessons in each of the two books");
+  assert.deepEqual(page.errors, []);
   await page.context().close();
 });
 
-test('progress survives a reload and the graded word is not queued again today', async () => {
-  const page = await newPage();
-  const gradedWord = await page.textContent('.hanzi');
-  await page.click('[data-act="reveal"]');
-  await page.click('[data-act="grade"][data-q="4"]');
-  await page.reload();
-  await page.waitForSelector('.card');
-  assert.equal(Object.keys((await stored(page)).cards).length, 1, 'the one graded card is kept after reload');
-  // The graded word is no longer new, so the queue must not start with it again.
-  assert.notEqual(await page.textContent('.hanzi'), gradedWord);
-  await page.context().close();
-});
-
-test('a failed answer is logged in the mistakes tab', async () => {
-  const page = await newPage();
-  const hanzi = await page.textContent('.hanzi');
-  await page.click('[data-act="reveal"]');
-  await page.click('[data-act="grade"][data-q="1"]');
-  await tab(page, 'mistakes');
-  assert.match(await page.textContent('.list'), new RegExp(hanzi));
-  await page.context().close();
-});
-
-test('placement test scores 25 questions and stores the result', async () => {
-  const page = await newPage();
-  await tab(page, 'test');
-  await page.click('[data-act="start-test"][data-level="1"]');
-  for (let i = 0; i < 25; i++) {
-    // Always pick the first option; the test checks the stored result matches what is shown.
-    await page.click('[data-act="answer-test"]');
+test("lesson page has a title, no lesson number, and all four tabs work", async () => {
+  const page = await open("#/work/q1-01");
+  const text = await appText(page);
+  assert.match(text, /Hành chính - nhân sự/);
+  assert.doesNotMatch(text, /Bài\s*\d/);
+  for (const tab of ["grammar", "sentences"]) {
+    await go(page, `#/work/q1-01/${tab}`);
+    assert.ok((await appText(page)).length > 50, `${tab} tab has content`);
   }
-  const shown = await page.textContent('.card.center .big');
-  const match = shown.match(/^(\d+) \/ 25/);
-  assert.ok(match, `result text was: ${shown}`);
-  const s = await stored(page);
-  assert.equal(s.placement.hsk1.of, 25);
-  assert.equal(s.placement.hsk1.score, Number(match[1]));
-  await page.context().close();
-});
-
-test('match game: pairing the right hanzi and meaning marks it matched', async () => {
-  const page = await newPage();
-  await tab(page, 'games');
-  const hanzi = page.locator('[data-act="pick-hanzi"]').first();
-  const id = await hanzi.getAttribute('data-id');
-  await hanzi.click();
-  await page.locator(`[data-act="pick-meaning"][data-id="${id}"]`).click();
-  assert.ok(await page.locator(`[data-act="pick-hanzi"][data-id="${id}"]`).evaluate((el) => el.classList.contains('matched')));
-  await page.context().close();
-});
-
-test('listen game: a wrong pinyin is marked and the next question appears', async () => {
-  const page = await newPage();
-  await tab(page, 'games');
-  const options = page.locator('[data-act="answer-listen"]');
-  // Pick the last option; it may or may not be correct, and both outcomes are valid here.
-  await options.nth(3).click();
-  assert.ok(await page.locator('[data-act="next-listen"]').isVisible());
-  await page.click('[data-act="next-listen"]');
-  assert.equal(await page.locator('[data-act="next-listen"]').count(), 0);
-  await page.context().close();
-});
-
-test('settings: theme and new-words-per-day are saved', async () => {
-  const page = await newPage();
-  await tab(page, 'settings');
-  await page.selectOption('#theme', 'dark');
-  assert.equal(await page.getAttribute('html', 'data-theme'), 'dark');
-  await page.fill('#newPerDay', '15');
-  await page.dispatchEvent('#newPerDay', 'change');
-  const s = await stored(page);
-  assert.equal(s.settings.theme, 'dark');
-  assert.equal(s.settings.newPerDay, 15);
-  await page.context().close();
-});
-
-test('settings: an invalid new-words-per-day value is rejected', async () => {
-  const page = await newPage();
-  await tab(page, 'settings');
-  await page.fill('#newPerDay', '500');
-  await page.dispatchEvent('#newPerDay', 'change');
-  assert.match(await page.textContent('.notice'), /1 đến 100/);
-  const s = await stored(page);
-  assert.ok(!s || s.settings.newPerDay !== 500, 'invalid value must not be saved');
-  await page.context().close();
-});
-
-test('corrupt saved data is backed up and the app still starts', async () => {
-  const ctx = await browser.newContext({ viewport: { width: 390, height: 844 } });
-  const page = await ctx.newPage();
-  page.errors = [];
-  page.on('pageerror', (e) => page.errors.push(e.message));
-  await page.goto(base);
-  await page.evaluate(() => localStorage.setItem('hsk-state', '{broken'));
-  await page.reload();
-  await page.waitForSelector('.card');
-  assert.match(await page.textContent('.notice'), /khóa hsk-state-backup/);
-  assert.equal(await page.evaluate(() => localStorage.getItem('hsk-state-backup')), '{broken');
+  await go(page, "#/work/q2-01/dialogues");
+  assert.match(await appText(page), /Hội thoại 1/);
   assert.deepEqual(page.errors, []);
-  await ctx.close();
+  await page.context().close();
 });
 
-test('export downloads a backup and import accepts it back', async () => {
-  const page = await newPage();
-  await tab(page, 'settings');
-  const [download] = await Promise.all([page.waitForEvent('download'), page.click('button:has-text("Xuất dữ liệu")')]);
-  assert.match(download.suggestedFilename(), /^hsk-backup-\d{4}-\d{2}-\d{2}\.json$/);
+test("home resume link uses the lesson title, not its number", async () => {
+  const page = await open("#/work/q1-02");
+  await go(page, "#/home");
+  const resume = await page.locator(".resume").innerText();
+  assert.match(resume, /Tài chính - kế toán/);
+  assert.doesNotMatch(resume, /Bài\s*\d|Q\d/);
+  await page.context().close();
+});
+
+test("reviewing a new word saves progress that survives a reload", async () => {
+  const page = await open();
+  await page.click('[data-action="start"][data-kind="new"]');
+  await page.click('[data-action="reveal"]');
+  await page.click('[data-action="rate"] >> nth=2');
+  const s = await stored(page);
+  assert.ok(s && Object.keys(s.cards).length >= 1, "a card was saved");
+  await page.reload();
+  await page.waitForFunction(() => !document.querySelector("#app")?.textContent.includes("Đang tải"));
+  assert.equal(Object.keys((await stored(page)).cards).length, Object.keys(s.cards).length);
+  assert.deepEqual(page.errors, []);
+  await page.context().close();
+});
+
+async function solveOrderRound(page) {
+  // Pieces are indexed in their correct order; tap 0, 1, 2... then check.
+  for (let i = 0; ; i += 1) {
+    const chip = page.locator(`[data-action="g-place"][data-index="${i}"]`);
+    if (!(await chip.count())) break;
+    await chip.click();
+  }
+  await page.click('[data-action="g-check"]');
+}
+
+test("sentence ordering: placing pieces in the right order is marked correct", async () => {
+  const page = await open("#/work/q1-01/sentences");
+  await page.click('[data-action="practice"][data-mode="order"]');
+  await page.waitForSelector('[data-action="g-place"]');
+  await solveOrderRound(page);
+  assert.match(await page.locator(".feedback").innerText(), /Đúng/);
+  assert.deepEqual(page.errors, []);
+  await page.context().close();
+});
+
+test("grammar practice for a lesson runs and grades the first sentence", async () => {
+  const page = await open("#/work/q1-01/grammar");
+  await page.click('[data-action="practice"][data-mode="grammar-due"]');
+  await page.waitForSelector('[data-action="g-place"]');
+  assert.ok((await page.locator(".formula, .hint").count()) > 0, "shows the grammar pattern");
+  await solveOrderRound(page);
+  assert.match(await page.locator(".feedback").innerText(), /Đúng/);
+  assert.ok(Object.keys((await stored(page)).cards).some((k) => k.startsWith("g")), "grammar result stored");
+  assert.deepEqual(page.errors, []);
+  await page.context().close();
+});
+
+test("HSK grammar practice includes points from the HSK sheets", async () => {
+  const page = await open("#/hsk/4");
+  await page.evaluate(() => { location.hash = "#/practice"; });
+  await page.waitForSelector('[data-action="practice"][data-mode="grammar-due"]');
+  await page.click('[data-action="practice"][data-mode="grammar-due"]');
+  await page.waitForSelector('[data-action="g-place"]');
+  await solveOrderRound(page);
+  assert.match(await page.locator(".feedback").innerText(), /Đúng/);
+  assert.deepEqual(page.errors, []);
+  await page.context().close();
+});
+
+test("the G055 example is a complete sentence and can be practised", async () => {
+  const page = await open();
+  const ex = await page.evaluate(async () => {
+    const g = await (await fetch("data/work/grammar.json")).json();
+    return g.find((x) => x.id === "G055").examples[0];
+  });
+  assert.doesNotMatch(ex.zh, /…|\.\.\./);
+  assert.ok(ex.vi.length > 0);
+  await page.context().close();
+});
+
+test("dialogue practice runs to the end", async () => {
+  const page = await open("#/work/q2-01/dialogues");
+  await page.click('[data-action="practice"][data-mode="dialogue"] >> nth=0');
+  for (let step = 0; step < 60; step += 1) {
+    if (await page.locator('[data-action="dl-done"]').count()) break;
+    if (await page.locator('[data-action="dl-pick"]').count()) await page.click('[data-action="dl-pick"] >> nth=0');
+    else if (await page.locator('[data-action="dl-next"]').count()) await page.click('[data-action="dl-next"]');
+  }
+  assert.equal(await page.locator('[data-action="dl-done"]').count(), 1, "reached the end of the dialogue");
+  assert.deepEqual(page.errors, []);
+  await page.context().close();
+});
+
+test("export downloads a backup and import restores it", async () => {
+  const page = await open();
+  await page.click('[data-action="start"][data-kind="new"]');
+  await page.click('[data-action="reveal"]');
+  await page.click('[data-action="rate"] >> nth=2');
+  const before = await stored(page);
+  await go(page, "#/settings");
+  const [download] = await Promise.all([page.waitForEvent("download"), page.click('[data-action="export"]')]);
+  assert.match(download.suggestedFilename(), /^hsk-progress-\d{4}-\d{2}-\d{2}\.json$/);
   const file = await download.path();
-  page.once('dialog', (d) => d.accept());
-  await page.setInputFiles('input[type="file"]', file);
-  await page.waitForFunction(() => document.querySelector('.notice')?.textContent.includes('Đã nhập'));
+  await page.evaluate((k) => localStorage.removeItem(k), STORAGE_KEY);
+  await page.setInputFiles("#import-file", file);
+  await page.waitForFunction(() => document.querySelector("#toast")?.textContent.includes("Đã nhập"));
+  assert.deepEqual(Object.keys((await stored(page)).cards).sort(), Object.keys(before.cards).sort());
+  assert.deepEqual(page.errors, []);
   await page.context().close();
 });
 
-test('import rejects a file that is not a backup', async () => {
-  const page = await newPage();
-  await tab(page, 'settings');
-  await page.setInputFiles('input[type="file"]', { name: 'x.json', mimeType: 'application/json', buffer: Buffer.from('{"hello":1}') });
-  await page.waitForFunction(() => document.querySelector('.notice')?.textContent.includes('không đúng định dạng'));
+test("import rejects a file that is not a backup", async () => {
+  const page = await open("#/settings");
+  await page.setInputFiles("#import-file", { name: "x.json", mimeType: "application/json", buffer: Buffer.from('{"hello":1}') });
+  await page.waitForFunction(() => document.querySelector("#toast")?.textContent.includes("không hợp lệ"));
   await page.context().close();
 });
 
-test('phone layout has no horizontal scroll on every tab', async () => {
-  const page = await newPage();
-  for (const t of ['review', 'test', 'games', 'mistakes', 'stats', 'settings']) {
-    await tab(page, t);
+test("no horizontal scroll at phone width on the main screens", async () => {
+  const page = await open();
+  for (const hash of ["#/home", "#/hsk", "#/work", "#/work/q1-05", "#/practice", "#/stats", "#/settings"]) {
+    await go(page, hash);
     const overflow = await page.evaluate(() => document.documentElement.scrollWidth - window.innerWidth);
-    assert.ok(overflow <= 0, `${t} overflows by ${overflow}px`);
+    assert.ok(overflow <= 0, `${hash} overflows by ${overflow}px`);
   }
   assert.deepEqual(page.errors, []);
   await page.context().close();
 });
 
-test('dark theme renders without console errors', async () => {
-  const page = await newPage({ colorScheme: 'dark' });
-  await tab(page, 'stats');
-  await tab(page, 'games');
+test("dark mode renders the work list without errors", async () => {
+  const page = await open("#/work", { colorScheme: "dark" });
+  assert.equal(await page.locator(".lesson-row").count(), 40);
   assert.deepEqual(page.errors, []);
   await page.context().close();
 });

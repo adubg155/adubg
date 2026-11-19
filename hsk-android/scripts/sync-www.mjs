@@ -9,7 +9,7 @@ const here = path.dirname(fileURLToPath(import.meta.url));
 const src = path.resolve(here, '../../hsk-app');
 const dest = path.resolve(here, '../www');
 
-const EXCLUDE = new Set(['tests', 'tools', 'package.json', 'package-lock.json', 'node_modules', 'sw.js']);
+const EXCLUDE = new Set(['tests', 'tools', 'source', 'package.json', 'package-lock.json', 'node_modules', 'sw.js']);
 
 if (!existsSync(src)) {
   console.error(`Không thấy thư mục nguồn: ${src}`);

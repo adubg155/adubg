@@ -1,30 +1,20 @@
-# HSK 1–4 · Ôn tập
+# Ôn HSK 1–4 · v2
 
-Ứng dụng ôn từ vựng HSK 1–4 chạy offline, dùng được như PWA hoặc đóng gói thành APK Android (Capacitor).
+Ứng dụng ôn tiếng Trung chạy offline: giáo trình HSK 1–4, tiếng Trung công việc (Quyển 1: từ vựng chuyên ngành và mẫu câu, Quyển 2: hội thoại), ôn và luyện ngữ pháp. Chạy trên trình duyệt hoặc đóng gói thành APK bằng `../hsk-android`.
 
-## Chạy thử
-- Trình duyệt: mở `index.html` qua máy chủ tĩnh (ví dụ `python3 -m http.server`).
-- Kiểm thử: `npm test` (unit), `npm run test:e2e` (Chromium), `npm run test:all` (cả hai).
+## Nội dung
+- **HSK:** 1193 từ (`data/hsk.json`), 107 mẫu ngữ pháp HSK 1–4 (`data/grammar/hsk.json`), 19 cặp dễ nhầm (`data/grammar/pairs.json`).
+- **Công việc:** 40 bài, chỉ hiện tên chủ đề (`data/work/`): 1227 mục từ, 106 mẫu ngữ pháp, 197 mẫu câu, 40 đoạn hội thoại.
+- **Luyện tập:** thẻ ghi nhớ (lặp lại ngắt quãng), xếp câu, luyện ngữ pháp, hội thoại, ghép nghĩa, nghe.
 
-## Cấu trúc
-- `src/srs.js` — thuật toán SM-2 và xếp hàng ôn mỗi ngày.
-- `src/store.js` — lưu trữ có số phiên bản, sao lưu dữ liệu hỏng, kiểm tra khi nhập.
-- `src/games.js` — tạo câu hỏi cho minigame và kiểm tra xếp lớp.
-- `src/audio.js` — giọng đọc tiếng Trung; chỉ bật khi thiết bị có giọng `zh`.
-- `data/words.json` — 1192 từ HSK 1–4 (sinh từ `tools/build-words.py`).
-- `tools/` — script ghép dữ liệu và tạo icon. Chú thích từ vựng nằm trong `tools/annotations/`.
+## Tài liệu gốc
+`source/` chứa 3 file Excel là nguồn chuẩn của dữ liệu. Chạy `npm run check:data` (cần `pip install openpyxl`) để so dữ liệu app với Excel theo từng bài. Kết quả hiện tại: khớp, chỉ còn 2 dòng trống trong file HSK 4 (STT 27, 28).
 
-## Nguồn dữ liệu
-- Danh sách từ theo cấp: HSK 2.0 (`@leonsilicon/hsk2.0`).
-- Phiên âm và nghĩa tiếng Anh: CC-CEDICT (`cedict-json`), giấy phép CC BY-SA 4.0.
-- Nghĩa tiếng Việt và phiên âm đã chỉnh: biên soạn cho dự án này; chưa đối chiếu toàn bộ với nguồn ngoài.
-- Font chữ Hán: Noto Sans SC, SIL OFL 1.1 (`fonts/LICENSE-NotoSansSC.txt`).
+## Kiểm thử
+- `npm test`: kiểm tra dữ liệu với Excel và chạy test đầu cuối trong Chromium.
+- `npm run test:e2e`: chỉ chạy test đầu cuối (biến `PLAYWRIGHT_PATH`, `CHROME_PATH` để đổi đường dẫn).
 
-## Build APK
-Trong thư mục `hsk-android/`:
-1. `npm install`
-2. `npm run cap:sync` (sao chép web sang `www/` rồi đồng bộ Capacitor)
-3. `cd android && ./gradlew assembleDebug` (APK debug)
-4. `./gradlew assembleRelease` (APK release; cần `android/keystore.properties`, không đưa vào mã nguồn)
-
-Cần Android SDK (platform 36, build-tools 36.0.0) và JDK 21.
+## Ghi chú
+- Tiến độ lưu trong `localStorage` với khóa `hsk-progress-v1`.
+- Trong APK, "Xuất file" ghi file sao lưu rồi mở bảng chia sẻ của Android; trên trình duyệt thì tải file về.
+- Giọng đọc dùng plugin `@capacitor-community/text-to-speech` trong APK, và `speechSynthesis` trên trình duyệt.
