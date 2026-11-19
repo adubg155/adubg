@@ -4,7 +4,7 @@ import { withFreshDay, withCard } from "../store.js";
 import {
   app, getState, setState, cardOf, gradeCard, remainingReviews, remainingNew, go, showToast,
 } from "../core.js";
-import { data, lessonMeta, lessonShortLabel } from "../data.js";
+import { data, lessonMeta, lessonShortLabel, parseScope, scopeWords } from "../data.js";
 import { esc, speakButton } from "../ui.js";
 
 const MINUTE = 60_000;
@@ -149,7 +149,7 @@ export function viewPlacement() {
         <h1>Xong</h1>
         <p>Bạn đã biết <strong>${known}</strong> từ HSK ${level}. Các từ này sẽ được ôn lại sau 14 ngày.</p>
       </section>
-      <div class="actions"><button class="primary big" data-action="nav" data-target="hsk/${level}">Về HSK ${level}</button></div>`;
+      <div class="actions"><button class="primary big" data-action="nav" data-target="hsk/${placement.kind === "hsk30" ? "3.0" : "2.0"}/${level}">Về HSK ${level}</button></div>`;
     return;
   }
   const word = data.byId.get(placement.queue[placement.index]);
@@ -184,10 +184,11 @@ export const actions = {
     session.typed = null;
     viewReview();
   },
-  "placement-start": ({ level }) => {
-    const pool = data.hsk.filter((w) => w.level === Number(level) && cardOf(w.id).isNew).map((w) => w.id);
+  "placement-start": ({ level, version }) => {
+    const kind = version === "3.0" ? "hsk30" : "hsk";
+    const pool = scopeWords(parseScope(`${kind}:${level}`)).filter((w) => cardOf(w.id).isNew).map((w) => w.id);
     if (pool.length === 0) return showToast(`Bạn đã bắt đầu học hết từ HSK ${level}.`);
-    placement = { level: Number(level), queue: shuffle(pool).slice(0, PLACEMENT_SIZE), index: 0, known: 0, revealed: false };
+    placement = { level: Number(level), kind, queue: shuffle(pool).slice(0, PLACEMENT_SIZE), index: 0, known: 0, revealed: false };
     go("placement");
   },
   "placement-reveal": () => {

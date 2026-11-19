@@ -8,6 +8,7 @@ import { loadData, parseScope, scopeLabel } from "./data.js";
 import { esc, wordSheetHtml } from "./ui.js";
 import { viewHome, actions as homeActions } from "./views/home.js";
 import { viewHsk, actions as hskActions } from "./views/hsk.js";
+import { viewChars, actions as charsActions } from "./views/chars.js";
 import { viewWork } from "./views/work.js";
 import { viewPractice, actions as practiceActions } from "./views/practice.js";
 import { viewReview, viewPlacement, actions as reviewActions } from "./views/review.js";
@@ -19,6 +20,7 @@ const sheet = document.getElementById("sheet");
 const VIEWS = {
   home: viewHome,
   hsk: viewHsk,
+  chars: viewChars,
   work: viewWork,
   practice: viewPractice,
   review: viewReview,
@@ -49,6 +51,8 @@ function openSheet(word) {
 function route() {
   const [name, ...args] = pathParts();
   const view = VIEWS[name] ? name : "home";
+  // Each area gets its own accent colour (header and bottom bar), see styles.css [data-area].
+  document.body.dataset.area = NAV_FOR[view] || view;
   document.querySelectorAll("nav a").forEach((a) => {
     a.classList.toggle("active", a.dataset.nav === (NAV_FOR[view] || view));
   });
@@ -59,6 +63,7 @@ function route() {
 const ACTIONS = {
   ...homeActions,
   ...hskActions,
+  ...charsActions,
   ...practiceActions,
   ...reviewActions,
   ...statsActions,

@@ -1,0 +1,6153 @@
+[
+ {
+  "h": "阿姨",
+  "p": "ā yí",
+  "en": "maternal aunt; step-mother",
+  "vi": "dì, cô (em gái của mẹ hoặc người lớn tuổi)",
+  "l": 4
+ },
+ {
+  "h": "啊",
+  "p": "ā",
+  "en": "interjection of surprise; Ah!",
+  "vi": "à, ồ (thán từ)",
+  "l": 4
+ },
+ {
+  "h": "矮",
+  "p": "ǎi",
+  "en": "low; short",
+  "vi": "thấp (người, vật)",
+  "l": 4
+ },
+ {
+  "h": "矮小",
+  "p": "ǎi xiǎo",
+  "en": "short and small; low and small; undersized",
+  "l": 4
+ },
+ {
+  "h": "爱国",
+  "p": "ài guó",
+  "en": "to love one's country; patriotic",
+  "l": 4
+ },
+ {
+  "h": "爱护",
+  "p": "ài hù",
+  "en": "to cherish; to treasure; to take care of",
+  "l": 4
+ },
+ {
+  "h": "安",
+  "p": "ān",
+  "en": "calm; peaceful; to calm; to set at ease; safe; secure; in good health",
+  "l": 4
+ },
+ {
+  "h": "安置",
+  "p": "ān zhì",
+  "en": "to find a place for; to help settle down; to arrange for",
+  "l": 4
+ },
+ {
+  "h": "按时",
+  "p": "àn shí",
+  "en": "on time; before deadline",
+  "vi": "đúng giờ",
+  "l": 4
+ },
+ {
+  "h": "暗",
+  "p": "àn",
+  "en": "variant of 暗",
+  "vi": "tối, tối tăm",
+  "l": 4
+ },
+ {
+  "h": "暗示",
+  "p": "àn shì",
+  "en": "to hint; to suggest; hint; suggestion",
+  "l": 4
+ },
+ {
+  "h": "巴士",
+  "p": "bā shì",
+  "en": "bus (loanword); motor coach",
+  "l": 4
+ },
+ {
+  "h": "百货",
+  "p": "bǎi huò",
+  "en": "general merchandise",
+  "l": 4
+ },
+ {
+  "h": "摆",
+  "p": "bǎi",
+  "en": "to arrange; to exhibit; to move to and fro",
+  "l": 4
+ },
+ {
+  "h": "摆动",
+  "p": "bǎi dòng",
+  "en": "to sway; to swing; to move back and forth",
+  "l": 4
+ },
+ {
+  "h": "摆脱",
+  "p": "bǎi tuō",
+  "en": "to break away from; to cast off (old ideas etc); to get rid of",
+  "l": 4
+ },
+ {
+  "h": "败",
+  "p": "bài",
+  "en": "to defeat; to damage; to lose (to an opponent)",
+  "l": 4
+ },
+ {
+  "h": "办事",
+  "p": "bàn shì",
+  "en": "to handle (affairs); to work",
+  "l": 4
+ },
+ {
+  "h": "包裹",
+  "p": "bāo guǒ",
+  "en": "to wrap up; to bind up; bundle",
+  "l": 4
+ },
+ {
+  "h": "包含",
+  "p": "bāo hán",
+  "en": "to contain; to embody; to include",
+  "l": 4
+ },
+ {
+  "h": "包括",
+  "p": "bāo kuò",
+  "en": "to comprise; to include",
+  "vi": "bao gồm",
+  "l": 4
+ },
+ {
+  "h": "薄",
+  "p": "báo",
+  "en": "thin; cold in manner; indifferent",
+  "l": 4
+ },
+ {
+  "h": "宝",
+  "p": "bǎo",
+  "en": "jewel; gem; treasure",
+  "l": 4
+ },
+ {
+  "h": "宝宝",
+  "p": "bǎo bao",
+  "en": "darling; baby",
+  "l": 4
+ },
+ {
+  "h": "宝贝",
+  "p": "bǎo bèi",
+  "en": "treasured object; treasure; darling",
+  "l": 4
+ },
+ {
+  "h": "宝贵",
+  "p": "bǎo guì",
+  "en": "valuable; precious; to value",
+  "l": 4
+ },
+ {
+  "h": "宝石",
+  "p": "bǎo shí",
+  "en": "precious stone; gem",
+  "l": 4
+ },
+ {
+  "h": "保密",
+  "p": "bǎo mì",
+  "en": "to keep sth confidential; to maintain secrecy",
+  "l": 4
+ },
+ {
+  "h": "保守",
+  "p": "bǎo shǒu",
+  "en": "conservative; to guard; to keep",
+  "l": 4
+ },
+ {
+  "h": "抱",
+  "p": "bào",
+  "en": "to hold; to carry",
+  "vi": "ôm, bế",
+  "l": 4
+ },
+ {
+  "h": "背景",
+  "p": "bèi jǐng",
+  "en": "background; backdrop; context; (fig.) powerful backer",
+  "l": 4
+ },
+ {
+  "h": "倍",
+  "p": "bèi",
+  "en": "-fold; times",
+  "vi": "lần, gấp (lượng từ)",
+  "l": 4
+ },
+ {
+  "h": "被迫",
+  "p": "bèi pò",
+  "en": "to be compelled; to be forced",
+  "l": 4
+ },
+ {
+  "h": "本科",
+  "p": "běn kē",
+  "en": "undergraduate course; undergraduate (attributive)",
+  "l": 4
+ },
+ {
+  "h": "笨",
+  "p": "bèn",
+  "en": "stupid; foolish",
+  "vi": "ngốc, chậm hiểu",
+  "l": 4
+ },
+ {
+  "h": "比分",
+  "p": "bǐ fēn",
+  "en": "score (of a game or competition)",
+  "l": 4
+ },
+ {
+  "h": "毕业",
+  "p": "bì yè",
+  "en": "graduation; to graduate",
+  "vi": "tốt nghiệp",
+  "l": 4
+ },
+ {
+  "h": "毕业生",
+  "p": "bì yè shēng",
+  "en": "graduate",
+  "l": 4
+ },
+ {
+  "h": "避",
+  "p": "bì",
+  "en": "to avoid; to shun; to flee",
+  "l": 4
+ },
+ {
+  "h": "避免",
+  "p": "bì miǎn",
+  "en": "to avert; to prevent; to avoid",
+  "l": 4
+ },
+ {
+  "h": "编",
+  "p": "biān",
+  "en": "to weave; to plait; to organize",
+  "l": 4
+ },
+ {
+  "h": "辩论",
+  "p": "biàn lùn",
+  "en": "debate; argument; to argue over",
+  "l": 4
+ },
+ {
+  "h": "标志",
+  "p": "biāo zhì",
+  "en": "sign; mark; symbol; logo; to symbolize; to indicate; to mark",
+  "l": 4
+ },
+ {
+  "h": "表情",
+  "p": "biǎo qíng",
+  "en": "(facial) expression; to express one's feelings",
+  "l": 4
+ },
+ {
+  "h": "表扬",
+  "p": "biǎo yáng",
+  "en": "to praise; to commend",
+  "vi": "khen ngợi",
+  "l": 4
+ },
+ {
+  "h": "别",
+  "p": "bié",
+  "en": "don't; other",
+  "vi": "đừng, chớ",
+  "l": 4
+ },
+ {
+  "h": "冰",
+  "p": "bīng",
+  "en": "ice; to chill sth; (of an object or substance) to feel cold",
+  "l": 4
+ },
+ {
+  "h": "冰箱",
+  "p": "bīng xiāng",
+  "en": "icebox; freezer cabinet",
+  "vi": "tủ lạnh",
+  "l": 4
+ },
+ {
+  "h": "冰雪",
+  "p": "bīng xuě",
+  "en": "ice and snow",
+  "l": 4
+ },
+ {
+  "h": "兵",
+  "p": "bīng",
+  "en": "soldiers; a force; an army",
+  "l": 4
+ },
+ {
+  "h": "并",
+  "p": "bìng",
+  "en": "and; furthermore; also",
+  "l": 4
+ },
+ {
+  "h": "不要紧",
+  "p": "bù yào jǐn",
+  "en": "unimportant; not serious; it doesn't matter",
+  "l": 4
+ },
+ {
+  "h": "不在乎",
+  "p": "bù zài hu",
+  "en": "not to care",
+  "l": 4
+ },
+ {
+  "h": "不管",
+  "p": "bù guǎn",
+  "en": "not to be concerned; regardless of",
+  "vi": "bất kể, dù",
+  "l": 4
+ },
+ {
+  "h": "不然",
+  "p": "bù rán",
+  "en": "not so; no; or else",
+  "l": 4
+ },
+ {
+  "h": "布置",
+  "p": "bù zhì",
+  "en": "to put in order; to arrange; to decorate",
+  "l": 4
+ },
+ {
+  "h": "步行",
+  "p": "bù xíng",
+  "en": "to go on foot; to walk",
+  "l": 4
+ },
+ {
+  "h": "擦",
+  "p": "cā",
+  "en": "to rub; to scratch",
+  "vi": "lau, chùi",
+  "l": 4
+ },
+ {
+  "h": "才",
+  "p": "cái",
+  "en": "only; just; not until",
+  "vi": "mới, chỉ",
+  "l": 4
+ },
+ {
+  "h": "材料",
+  "p": "cái liào",
+  "en": "material; data",
+  "vi": "vật liệu, tài liệu",
+  "l": 4
+ },
+ {
+  "h": "财产",
+  "p": "cái chǎn",
+  "en": "property; assets; estate",
+  "l": 4
+ },
+ {
+  "h": "财富",
+  "p": "cái fù",
+  "en": "wealth; riches",
+  "l": 4
+ },
+ {
+  "h": "采访",
+  "p": "cǎi fǎng",
+  "en": "to interview; to gather news; to hunt for and collect",
+  "l": 4
+ },
+ {
+  "h": "参考",
+  "p": "cān kǎo",
+  "en": "consultation; reference; to consult",
+  "l": 4
+ },
+ {
+  "h": "参与",
+  "p": "cān yù",
+  "en": "to participate (in sth)",
+  "l": 4
+ },
+ {
+  "h": "操场",
+  "p": "cāo chǎng",
+  "en": "playground; sports field; drill ground",
+  "l": 4
+ },
+ {
+  "h": "操作",
+  "p": "cāo zuò",
+  "en": "to work; to operate; to manipulate",
+  "l": 4
+ },
+ {
+  "h": "测",
+  "p": "cè",
+  "en": "to survey; to measure; to conjecture",
+  "l": 4
+ },
+ {
+  "h": "测量",
+  "p": "cè liáng",
+  "en": "survey; to measure; to gauge",
+  "l": 4
+ },
+ {
+  "h": "测试",
+  "p": "cè shì",
+  "en": "to test (machinery etc); to test (a person's skill in a particular area); a test",
+  "l": 4
+ },
+ {
+  "h": "曾",
+  "p": "céng",
+  "en": "once; already; ever (in the past)",
+  "l": 4
+ },
+ {
+  "h": "茶叶",
+  "p": "chá yè",
+  "en": "tea; tea leaves",
+  "l": 4
+ },
+ {
+  "h": "产品",
+  "p": "chǎn pǐn",
+  "en": "goods; merchandise; product",
+  "l": 4
+ },
+ {
+  "h": "长途",
+  "p": "cháng tú",
+  "en": "long distance; long-distance phone call (abbr. for 長途電話; long-distance coach (abbr. for 長途汽車",
+  "l": 4
+ },
+ {
+  "h": "常识",
+  "p": "cháng shí",
+  "en": "common sense; general knowledge",
+  "l": 4
+ },
+ {
+  "h": "唱片",
+  "p": "chàng piàn",
+  "en": "gramophone record; LP; music CD",
+  "l": 4
+ },
+ {
+  "h": "抄",
+  "p": "chāo",
+  "en": "to make a copy; to plagiarize; to search and seize",
+  "l": 4
+ },
+ {
+  "h": "抄写",
+  "p": "chāo xiě",
+  "en": "to copy; to transcribe",
+  "l": 4
+ },
+ {
+  "h": "潮",
+  "p": "cháo",
+  "en": "tide; damp; moist; humid; fashionable; trendy",
+  "l": 4
+ },
+ {
+  "h": "潮流",
+  "p": "cháo liú",
+  "en": "tide; current; trend",
+  "l": 4
+ },
+ {
+  "h": "潮湿",
+  "p": "cháo shī",
+  "en": "damp; moist",
+  "l": 4
+ },
+ {
+  "h": "彻底",
+  "p": "chè dǐ",
+  "en": "thorough; thoroughly; complete",
+  "l": 4
+ },
+ {
+  "h": "沉",
+  "p": "chén",
+  "en": "to submerge; to immerse; to sink",
+  "l": 4
+ },
+ {
+  "h": "沉默",
+  "p": "chén mò",
+  "en": "taciturn; uncommunicative; silent",
+  "l": 4
+ },
+ {
+  "h": "沉重",
+  "p": "chén zhòng",
+  "en": "heavy; hard; serious",
+  "l": 4
+ },
+ {
+  "h": "称赞",
+  "p": "chēng zàn",
+  "en": "to praise; to commend; to compliment",
+  "l": 4
+ },
+ {
+  "h": "成人",
+  "p": "chéng rén",
+  "en": "to reach adulthood; an adult",
+  "l": 4
+ },
+ {
+  "h": "诚实",
+  "p": "chéng shí",
+  "en": "honest",
+  "vi": "thành thật",
+  "l": 4
+ },
+ {
+  "h": "诚信",
+  "p": "chéng xìn",
+  "en": "honesty; trustworthiness; good faith",
+  "l": 4
+ },
+ {
+  "h": "承担",
+  "p": "chéng dān",
+  "en": "to undertake; to assume (responsibility etc)",
+  "l": 4
+ },
+ {
+  "h": "承认",
+  "p": "chéng rèn",
+  "en": "to admit; to concede; to recognize",
+  "l": 4
+ },
+ {
+  "h": "承受",
+  "p": "chéng shòu",
+  "en": "to bear; to support; to inherit",
+  "l": 4
+ },
+ {
+  "h": "程序",
+  "p": "chéng xù",
+  "en": "procedures; sequence; order",
+  "l": 4
+ },
+ {
+  "h": "吃惊",
+  "p": "chī jīng",
+  "en": "to be startled; to be shocked",
+  "vi": "giật mình, ngạc nhiên",
+  "l": 4
+ },
+ {
+  "h": "迟到",
+  "p": "chí dào",
+  "en": "to arrive late",
+  "vi": "đến muộn",
+  "l": 4
+ },
+ {
+  "h": "尺",
+  "p": "chě",
+  "en": "one of the characters used to represent a musical note in gongche notation, 工尺譜",
+  "l": 4
+ },
+ {
+  "h": "尺寸",
+  "p": "chǐ cun",
+  "en": "size; dimensions; measurements (esp. of clothes); (coll.) propriety",
+  "l": 4
+ },
+ {
+  "h": "尺子",
+  "p": "chǐ zi",
+  "en": "ruler (measuring instrument)",
+  "l": 4
+ },
+ {
+  "h": "冲",
+  "p": "chōng",
+  "en": "thoroughfare; to go straight ahead; to rush",
+  "l": 4
+ },
+ {
+  "h": "充电",
+  "p": "chōng diàn",
+  "en": "to recharge (a battery); (fig.) to recharge one's batteries (through leisure); to update one's skills and knowledge",
+  "l": 4
+ },
+ {
+  "h": "充电器",
+  "p": "chōng diàn qì",
+  "en": "battery charger",
+  "l": 4
+ },
+ {
+  "h": "充分",
+  "p": "chōng fèn",
+  "en": "ample; sufficient; adequate",
+  "l": 4
+ },
+ {
+  "h": "虫子",
+  "p": "chóng zi",
+  "en": "insect; bug; worm",
+  "l": 4
+ },
+ {
+  "h": "抽",
+  "p": "chōu",
+  "en": "to draw out; to pull out from in between; to remove part of the whole",
+  "l": 4
+ },
+ {
+  "h": "抽奖",
+  "p": "chōu jiǎng",
+  "en": "to draw a prize; a lottery; a raffle",
+  "l": 4
+ },
+ {
+  "h": "抽烟",
+  "p": "chōu yān",
+  "en": "to smoke",
+  "vi": "hút thuốc",
+  "l": 4
+ },
+ {
+  "h": "出口",
+  "p": "chū kǒu",
+  "en": "an exit; to speak; to export",
+  "l": 4
+ },
+ {
+  "h": "出色",
+  "p": "chū sè",
+  "en": "remarkable; outstanding",
+  "l": 4
+ },
+ {
+  "h": "出售",
+  "p": "chū shòu",
+  "en": "to sell; to offer for sale; to put on the market",
+  "l": 4
+ },
+ {
+  "h": "出席",
+  "p": "chū xí",
+  "en": "to attend; to participate; present",
+  "l": 4
+ },
+ {
+  "h": "处于",
+  "p": "chǔ yú",
+  "en": "to be in (some state, position, or condition)",
+  "l": 4
+ },
+ {
+  "h": "处",
+  "p": "chǔ",
+  "en": "to reside; to live; to dwell",
+  "l": 4
+ },
+ {
+  "h": "穿上",
+  "p": "chuān shang",
+  "en": "to put on (clothes etc)",
+  "l": 4
+ },
+ {
+  "h": "传统",
+  "p": "chuán tǒng",
+  "en": "tradition; traditional; convention",
+  "l": 4
+ },
+ {
+  "h": "窗户",
+  "p": "chuāng hu",
+  "en": "window",
+  "vi": "cửa sổ",
+  "l": 4
+ },
+ {
+  "h": "窗台",
+  "p": "chuāng tái",
+  "en": "windowsill; window ledge",
+  "l": 4
+ },
+ {
+  "h": "窗子",
+  "p": "chuāng zi",
+  "en": "window",
+  "l": 4
+ },
+ {
+  "h": "春季",
+  "p": "chūn jì",
+  "en": "springtime",
+  "l": 4
+ },
+ {
+  "h": "纯",
+  "p": "chún",
+  "en": "pure; simple; unmixed",
+  "l": 4
+ },
+ {
+  "h": "纯净水",
+  "p": "chún jìng shuǐ",
+  "en": "purified water",
+  "l": 4
+ },
+ {
+  "h": "词汇",
+  "p": "cí huì",
+  "en": "vocabulary; list of words (e.g. for language teaching purposes); word",
+  "l": 4
+ },
+ {
+  "h": "此",
+  "p": "cǐ",
+  "en": "this; these",
+  "l": 4
+ },
+ {
+  "h": "此外",
+  "p": "cǐ wài",
+  "en": "besides; in addition; moreover; furthermore",
+  "l": 4
+ },
+ {
+  "h": "次",
+  "p": "cì",
+  "en": "time; occasion; measure word",
+  "vi": "lần",
+  "l": 4
+ },
+ {
+  "h": "刺",
+  "p": "cì",
+  "en": "thorn; sting; thrust",
+  "l": 4
+ },
+ {
+  "h": "刺激",
+  "p": "cì jī",
+  "en": "to provoke; to irritate; to upset; to stimulate; to excite; irritant",
+  "l": 4
+ },
+ {
+  "h": "从此",
+  "p": "cóng cǐ",
+  "en": "from now on; since then; henceforth",
+  "l": 4
+ },
+ {
+  "h": "粗",
+  "p": "cū",
+  "en": "remote; distant",
+  "l": 4
+ },
+ {
+  "h": "粗心",
+  "p": "cū xīn",
+  "en": "careless; thoughtless",
+  "vi": "cẩu thả, bất cẩn",
+  "l": 4
+ },
+ {
+  "h": "促进",
+  "p": "cù jìn",
+  "en": "to promote (an idea or cause); to advance; boost",
+  "l": 4
+ },
+ {
+  "h": "促使",
+  "p": "cù shǐ",
+  "en": "to prompt; to induce; to spur",
+  "l": 4
+ },
+ {
+  "h": "促销",
+  "p": "cù xiāo",
+  "en": "to promote sales",
+  "l": 4
+ },
+ {
+  "h": "措施",
+  "p": "cuò shī",
+  "en": "measure; step",
+  "l": 4
+ },
+ {
+  "h": "打",
+  "p": "dá",
+  "en": "(loanword) dozen; Taiwan pr.",
+  "l": 4
+ },
+ {
+  "h": "答案",
+  "p": "dá àn",
+  "en": "answer; solution",
+  "vi": "đáp án, lời giải",
+  "l": 4
+ },
+ {
+  "h": "打败",
+  "p": "dǎ bài",
+  "en": "to defeat; to overpower; to beat",
+  "l": 4
+ },
+ {
+  "h": "打雷",
+  "p": "dǎ léi",
+  "en": "to rumble with thunder; clap of thunder",
+  "l": 4
+ },
+ {
+  "h": "打扫",
+  "p": "dǎ sǎo",
+  "en": "to clean; to sweep",
+  "vi": "quét dọn, dọn dẹp",
+  "l": 4
+ },
+ {
+  "h": "打折",
+  "p": "dǎ zhé",
+  "en": "to give a discount",
+  "vi": "giảm giá",
+  "l": 4
+ },
+ {
+  "h": "打针",
+  "p": "dǎ zhēn",
+  "en": "to give or have an injection",
+  "vi": "tiêm, chích",
+  "l": 4
+ },
+ {
+  "h": "大巴",
+  "p": "dà bā",
+  "en": "(coll.) large bus; coach; (abbr. for 大型巴士)",
+  "l": 4
+ },
+ {
+  "h": "大多",
+  "p": "dà duō",
+  "en": "for the most part; many; most",
+  "l": 4
+ },
+ {
+  "h": "大方",
+  "p": "dà fāng",
+  "en": "expert; scholar; mother earth",
+  "l": 4
+ },
+ {
+  "h": "大哥",
+  "p": "dà gē",
+  "en": "eldest brother; big brother (polite address for a man of about the same age as oneself); gang leader; boss",
+  "l": 4
+ },
+ {
+  "h": "大规模",
+  "p": "dà guī mó",
+  "en": "large scale; extensive; wide scale",
+  "l": 4
+ },
+ {
+  "h": "大会",
+  "p": "dà huì",
+  "en": "general assembly; general meeting; convention",
+  "l": 4
+ },
+ {
+  "h": "大姐",
+  "p": "dà jiě",
+  "en": "big sister; elder sister; older sister (also polite term of address for a girl or woman slightly older than the speaker)",
+  "l": 4
+ },
+ {
+  "h": "大楼",
+  "p": "dà lóu",
+  "en": "building (a relatively large, multistory one)",
+  "l": 4
+ },
+ {
+  "h": "大陆",
+  "p": "Dà lù",
+  "en": "mainland China (reference to the PRC)",
+  "l": 4
+ },
+ {
+  "h": "大妈",
+  "p": "dà mā",
+  "en": "father's elder brother's wife; aunt (affectionate term for an elderly woman)",
+  "l": 4
+ },
+ {
+  "h": "大型",
+  "p": "dà xíng",
+  "en": "large; large-scale",
+  "l": 4
+ },
+ {
+  "h": "大爷",
+  "p": "dà yé",
+  "en": "arrogant idler; self-centered show-off",
+  "l": 4
+ },
+ {
+  "h": "大众",
+  "p": "Dà zhòng",
+  "en": "Volkswagen (automobile manufacturer)",
+  "l": 4
+ },
+ {
+  "h": "代替",
+  "p": "dài tì",
+  "en": "to replace; to take the place of",
+  "vi": "thay thế",
+  "l": 4
+ },
+ {
+  "h": "待遇",
+  "p": "dài yù",
+  "en": "treatment; pay; salary",
+  "l": 4
+ },
+ {
+  "h": "袋",
+  "p": "dài",
+  "en": "pouch; bag; sack",
+  "l": 4
+ },
+ {
+  "h": "戴",
+  "p": "dài",
+  "en": "to wear (glasses, hat)",
+  "vi": "đeo (kính, mũ)",
+  "l": 4
+ },
+ {
+  "h": "担保",
+  "p": "dān bǎo",
+  "en": "to guarantee; to vouch for",
+  "l": 4
+ },
+ {
+  "h": "担任",
+  "p": "dān rèn",
+  "en": "to hold a governmental office or post; to assume office of; to take charge of",
+  "l": 4
+ },
+ {
+  "h": "担心",
+  "p": "dān xīn",
+  "en": "anxious; worried",
+  "vi": "lo lắng",
+  "l": 4
+ },
+ {
+  "h": "单",
+  "p": "dān",
+  "en": "bill; list; form",
+  "l": 4
+ },
+ {
+  "h": "单纯",
+  "p": "dān chún",
+  "en": "simple; pure; unsophisticated",
+  "l": 4
+ },
+ {
+  "h": "单调",
+  "p": "dān diào",
+  "en": "monotonous",
+  "l": 4
+ },
+ {
+  "h": "单独",
+  "p": "dān dú",
+  "en": "alone; by oneself; on one's own",
+  "l": 4
+ },
+ {
+  "h": "淡",
+  "p": "dàn",
+  "en": "insipid; diluted; weak",
+  "l": 4
+ },
+ {
+  "h": "导游",
+  "p": "dǎo yóu",
+  "en": "tour guide; guidebook",
+  "vi": "hướng dẫn viên du lịch",
+  "l": 4
+ },
+ {
+  "h": "导致",
+  "p": "dǎo zhì",
+  "en": "to lead to; to create; to cause; to bring about",
+  "l": 4
+ },
+ {
+  "h": "倒闭",
+  "p": "dǎo bì",
+  "en": "to go bankrupt; to close down",
+  "l": 4
+ },
+ {
+  "h": "倒车",
+  "p": "dǎo chē",
+  "en": "to change buses, trains etc",
+  "l": 4
+ },
+ {
+  "h": "得意",
+  "p": "dé yì",
+  "en": "proud of oneself; pleased with oneself",
+  "vi": "đắc ý, tự hào",
+  "l": 4
+ },
+ {
+  "h": "得",
+  "p": "de",
+  "en": "(structural particle)",
+  "vi": "(trợ từ) được, phải",
+  "l": 4
+ },
+ {
+  "h": "灯光",
+  "p": "dēng guāng",
+  "en": "(stage) lighting; light",
+  "l": 4
+ },
+ {
+  "h": "登",
+  "p": "dēng",
+  "en": "to scale (a height); to ascend; to mount",
+  "l": 4
+ },
+ {
+  "h": "登记",
+  "p": "dēng jì",
+  "en": "to register (one's name)",
+  "l": 4
+ },
+ {
+  "h": "登录",
+  "p": "dēng lù",
+  "en": "to register; to log in",
+  "l": 4
+ },
+ {
+  "h": "登山",
+  "p": "dēng shān",
+  "en": "to climb a mountain; climbing; mountaineering",
+  "l": 4
+ },
+ {
+  "h": "的确",
+  "p": "dí què",
+  "en": "really; indeed",
+  "l": 4
+ },
+ {
+  "h": "敌人",
+  "p": "dí rén",
+  "en": "enemy",
+  "l": 4
+ },
+ {
+  "h": "底",
+  "p": "dǐ",
+  "en": "bottom; base",
+  "vi": "đáy, phía dưới",
+  "l": 4
+ },
+ {
+  "h": "地方",
+  "p": "dì fāng",
+  "en": "region; regional",
+  "vi": "nơi, chỗ",
+  "l": 4
+ },
+ {
+  "h": "地面",
+  "p": "dì miàn",
+  "en": "floor; ground; surface",
+  "l": 4
+ },
+ {
+  "h": "地位",
+  "p": "dì wèi",
+  "en": "position; status; place",
+  "l": 4
+ },
+ {
+  "h": "地下",
+  "p": "dì xià",
+  "en": "underground; subterranean; covert",
+  "l": 4
+ },
+ {
+  "h": "地址",
+  "p": "dì zhǐ",
+  "en": "address",
+  "vi": "địa chỉ",
+  "l": 4
+ },
+ {
+  "h": "典型",
+  "p": "diǎn xíng",
+  "en": "model; typical case; archetype",
+  "l": 4
+ },
+ {
+  "h": "点名",
+  "p": "diǎn míng",
+  "en": "roll call; to mention sb by name; (to call or praise or criticize sb) by name",
+  "l": 4
+ },
+ {
+  "h": "电灯",
+  "p": "diàn dēng",
+  "en": "electric light",
+  "l": 4
+ },
+ {
+  "h": "电动车",
+  "p": "diàn dòng chē",
+  "en": "electric vehicle (commonly refers to e-bikes, scooters or electric cars)",
+  "l": 4
+ },
+ {
+  "h": "电梯",
+  "p": "diàn tī",
+  "en": "elevator; escalator",
+  "vi": "thang máy",
+  "l": 4
+ },
+ {
+  "h": "电源",
+  "p": "diàn yuán",
+  "en": "electric power source",
+  "l": 4
+ },
+ {
+  "h": "顶",
+  "p": "dǐng",
+  "en": "apex; crown of the head; top",
+  "l": 4
+ },
+ {
+  "h": "定",
+  "p": "dìng",
+  "en": "to fix; to set; to make definite; to subscribe to (a newspaper etc); to book (tickets etc); to order (goods etc); to congeal; to coagulate",
+  "l": 4
+ },
+ {
+  "h": "冬季",
+  "p": "dōng jì",
+  "en": "winter",
+  "l": 4
+ },
+ {
+  "h": "动画片",
+  "p": "dòng huà piàn",
+  "en": "animated film",
+  "l": 4
+ },
+ {
+  "h": "动摇",
+  "p": "dòng yáo",
+  "en": "to sway; to waver; to rock",
+  "l": 4
+ },
+ {
+  "h": "豆腐",
+  "p": "dòu fu",
+  "en": "tofu; bean curd",
+  "l": 4
+ },
+ {
+  "h": "独立",
+  "p": "dú lì",
+  "en": "independent; independence; to stand alone",
+  "l": 4
+ },
+ {
+  "h": "独特",
+  "p": "dú tè",
+  "en": "unique; distinctive",
+  "l": 4
+ },
+ {
+  "h": "独自",
+  "p": "dú zì",
+  "en": "alone",
+  "l": 4
+ },
+ {
+  "h": "堵",
+  "p": "dǔ",
+  "en": "to block up (a road, pipe etc); to stop up (a hole); (fig.) (of a person) choked up with anxiety or stress",
+  "l": 4
+ },
+ {
+  "h": "堵车",
+  "p": "dǔ chē",
+  "en": "traffic jam; to get congested",
+  "vi": "tắc đường",
+  "l": 4
+ },
+ {
+  "h": "肚子",
+  "p": "dù zi",
+  "en": "belly; abdomen",
+  "vi": "bụng",
+  "l": 4
+ },
+ {
+  "h": "度过",
+  "p": "dù guò",
+  "en": "to pass; to spend (time); to survive",
+  "l": 4
+ },
+ {
+  "h": "锻炼",
+  "p": "duàn liàn",
+  "en": "to toughen; to temper",
+  "vi": "rèn luyện, tập thể dục",
+  "l": 4
+ },
+ {
+  "h": "对比",
+  "p": "duì bǐ",
+  "en": "to contrast; contrast; ratio",
+  "l": 4
+ },
+ {
+  "h": "对付",
+  "p": "duì fu",
+  "en": "to handle; to deal with; to tackle; to get by with; to make do; (dialect) (usu. used in the negative) to get along with (sb)",
+  "l": 4
+ },
+ {
+  "h": "对于",
+  "p": "duì yú",
+  "en": "regarding; as far as (sth) is concerned; with regard to",
+  "l": 4
+ },
+ {
+  "h": "多次",
+  "p": "duō cì",
+  "en": "many times; repeatedly",
+  "l": 4
+ },
+ {
+  "h": "多年",
+  "p": "duō nián",
+  "en": "many years; for many years; longstanding",
+  "l": 4
+ },
+ {
+  "h": "多样",
+  "p": "duō yàng",
+  "en": "diverse; diversity; manifold",
+  "l": 4
+ },
+ {
+  "h": "多种",
+  "p": "duō zhǒng",
+  "en": "many kinds of; multiple; diverse; multi-",
+  "l": 4
+ },
+ {
+  "h": "恶心",
+  "p": "ě xīn",
+  "en": "nausea; to feel sick; disgust",
+  "l": 4
+ },
+ {
+  "h": "儿童",
+  "p": "ér tóng",
+  "en": "child",
+  "vi": "trẻ em, thiếu nhi",
+  "l": 4
+ },
+ {
+  "h": "而",
+  "p": "ér",
+  "en": "and; but; yet",
+  "vi": "và, mà, nhưng",
+  "l": 4
+ },
+ {
+  "h": "而是",
+  "p": "ér shì",
+  "en": "rather",
+  "l": 4
+ },
+ {
+  "h": "耳机",
+  "p": "ěr jī",
+  "en": "headphones; earphones; telephone receiver",
+  "l": 4
+ },
+ {
+  "h": "二手",
+  "p": "èr shǒu",
+  "en": "indirectly acquired; second-hand (information, equipment etc); assistant",
+  "l": 4
+ },
+ {
+  "h": "发挥",
+  "p": "fā huī",
+  "en": "to display; to exhibit; to bring out implicit or innate qualities",
+  "l": 4
+ },
+ {
+  "h": "发票",
+  "p": "fā piào",
+  "en": "invoice; receipt; bill; uniform invoice (abbr. for 統一發票",
+  "l": 4
+ },
+ {
+  "h": "发烧",
+  "p": "fā shāo",
+  "en": "to have a high temperature; to have a fever",
+  "vi": "sốt",
+  "l": 4
+ },
+ {
+  "h": "法",
+  "p": "Fǎ",
+  "en": "France; French; abbr. for 法國",
+  "l": 4
+ },
+ {
+  "h": "法官",
+  "p": "fǎ guān",
+  "en": "judge (in court)",
+  "l": 4
+ },
+ {
+  "h": "法律",
+  "p": "fǎ lǜ",
+  "en": "law",
+  "vi": "pháp luật",
+  "l": 4
+ },
+ {
+  "h": "法院",
+  "p": "fǎ yuàn",
+  "en": "court of law; court",
+  "l": 4
+ },
+ {
+  "h": "翻",
+  "p": "fān",
+  "en": "to turn over; to flip over; to overturn",
+  "l": 4
+ },
+ {
+  "h": "翻译",
+  "p": "fān yì",
+  "en": "to translate; to interpret",
+  "vi": "phiên dịch, dịch",
+  "l": 4
+ },
+ {
+  "h": "烦",
+  "p": "fán",
+  "en": "to feel vexed; to bother; to trouble",
+  "l": 4
+ },
+ {
+  "h": "反",
+  "p": "fǎn",
+  "en": "contrary; in reverse; inside out or upside down",
+  "l": 4
+ },
+ {
+  "h": "反而",
+  "p": "fǎn ér",
+  "en": "on the contrary; instead",
+  "l": 4
+ },
+ {
+  "h": "反映",
+  "p": "fǎn yìng",
+  "en": "to mirror; to reflect",
+  "vi": "phản ánh",
+  "l": 4
+ },
+ {
+  "h": "方",
+  "p": "fāng",
+  "en": "square; power or involution (math.); upright",
+  "l": 4
+ },
+ {
+  "h": "方案",
+  "p": "fāng àn",
+  "en": "plan; program (for action etc); proposal",
+  "l": 4
+ },
+ {
+  "h": "方针",
+  "p": "fāng zhēn",
+  "en": "policy; guidelines",
+  "l": 4
+ },
+ {
+  "h": "放松",
+  "p": "fàng sōng",
+  "en": "to relax; to slacken; to loosen",
+  "l": 4
+ },
+ {
+  "h": "非",
+  "p": "fēi",
+  "en": "to not be; not; wrong; incorrect; non-; un-; in-; de-",
+  "l": 4
+ },
+ {
+  "h": "肥",
+  "p": "féi",
+  "en": "fat; fertile; loose-fitting or large",
+  "l": 4
+ },
+ {
+  "h": "分布",
+  "p": "fēn bù",
+  "en": "to scatter; to distribute; to be distributed (over an area etc)",
+  "l": 4
+ },
+ {
+  "h": "分散",
+  "p": "fēn sàn",
+  "en": "to scatter; to disperse; to distribute",
+  "l": 4
+ },
+ {
+  "h": "分手",
+  "p": "fēn shǒu",
+  "en": "to part company; to split up; to break up",
+  "l": 4
+ },
+ {
+  "h": "分为",
+  "p": "fēn wéi",
+  "en": "to divide sth into (parts); to subdivide",
+  "l": 4
+ },
+ {
+  "h": "纷纷",
+  "p": "fēn fēn",
+  "en": "one after another; in succession; one by one",
+  "l": 4
+ },
+ {
+  "h": "奋斗",
+  "p": "fèn dòu",
+  "en": "to strive; to struggle",
+  "l": 4
+ },
+ {
+  "h": "风格",
+  "p": "fēng gé",
+  "en": "style",
+  "l": 4
+ },
+ {
+  "h": "风景",
+  "p": "fēng jǐng",
+  "en": "scenery; landscape",
+  "vi": "phong cảnh",
+  "l": 4
+ },
+ {
+  "h": "风俗",
+  "p": "fēng sú",
+  "en": "social custom",
+  "l": 4
+ },
+ {
+  "h": "封闭",
+  "p": "fēng bì",
+  "en": "to close; to seal off; to close down (an illegal venue); closed (i.e. isolated from outside input)",
+  "l": 4
+ },
+ {
+  "h": "否则",
+  "p": "fǒu zé",
+  "en": "otherwise; if not",
+  "vi": "nếu không thì",
+  "l": 4
+ },
+ {
+  "h": "夫妇",
+  "p": "fū fù",
+  "en": "a (married) couple; husband and wife",
+  "l": 4
+ },
+ {
+  "h": "夫妻",
+  "p": "fū qī",
+  "en": "husband and wife; married couple",
+  "l": 4
+ },
+ {
+  "h": "夫人",
+  "p": "fū ren",
+  "en": "lady; madam; Mrs.",
+  "l": 4
+ },
+ {
+  "h": "符号",
+  "p": "fú hào",
+  "en": "symbol; mark; sign",
+  "l": 4
+ },
+ {
+  "h": "符合",
+  "p": "fú hé",
+  "en": "in keeping with; in accordance with",
+  "vi": "phù hợp với",
+  "l": 4
+ },
+ {
+  "h": "付出",
+  "p": "fù chū",
+  "en": "to pay; to expend; to invest (energy or time)",
+  "l": 4
+ },
+ {
+  "h": "负担",
+  "p": "fù dān",
+  "en": "to bear (an expense, a responsibility etc); burden",
+  "l": 4
+ },
+ {
+  "h": "附近",
+  "p": "fù jìn",
+  "en": "nearby; neighboring",
+  "vi": "gần đây, lân cận",
+  "l": 4
+ },
+ {
+  "h": "复制",
+  "p": "fù zhì",
+  "en": "to duplicate; to make a copy of; to copy",
+  "l": 4
+ },
+ {
+  "h": "改善",
+  "p": "gǎi shàn",
+  "en": "to make better; to improve",
+  "l": 4
+ },
+ {
+  "h": "改正",
+  "p": "gǎi zhèng",
+  "en": "to correct; to amend; to put right",
+  "l": 4
+ },
+ {
+  "h": "盖",
+  "p": "gài",
+  "en": "lid; top; cover",
+  "l": 4
+ },
+ {
+  "h": "概括",
+  "p": "gài kuò",
+  "en": "to summarize; to generalize; briefly; in broad outline",
+  "l": 4
+ },
+ {
+  "h": "感兴趣",
+  "p": "gǎn xìng qù",
+  "en": "to be interested",
+  "l": 4
+ },
+ {
+  "h": "高潮",
+  "p": "gāo cháo",
+  "en": "high tide; high water; upsurge; peak of activity; climax (of a story, a competition etc)",
+  "l": 4
+ },
+ {
+  "h": "高价",
+  "p": "gāo jià",
+  "en": "high price",
+  "l": 4
+ },
+ {
+  "h": "高尚",
+  "p": "gāo shàng",
+  "en": "noble; lofty; refined",
+  "l": 4
+ },
+ {
+  "h": "高铁",
+  "p": "gāo tiě",
+  "en": "high speed rail",
+  "l": 4
+ },
+ {
+  "h": "格外",
+  "p": "gé wài",
+  "en": "especially; particularly; even more than usual; extra; additional",
+  "l": 4
+ },
+ {
+  "h": "隔",
+  "p": "gé",
+  "en": "to separate; to partition; to stand or lie between",
+  "l": 4
+ },
+ {
+  "h": "隔开",
+  "p": "gé kāi",
+  "en": "to separate",
+  "l": 4
+ },
+ {
+  "h": "个别",
+  "p": "gè bié",
+  "en": "individually; one by one; just one or two; exceptional; rare",
+  "l": 4
+ },
+ {
+  "h": "个体",
+  "p": "gè tǐ",
+  "en": "individual",
+  "l": 4
+ },
+ {
+  "h": "各个",
+  "p": "gè gè",
+  "en": "every; various; separately, one by one",
+  "l": 4
+ },
+ {
+  "h": "根",
+  "p": "gēn",
+  "en": "root; basis; classifier for long slender objects, e.g. cigarettes, guitar strings",
+  "l": 4
+ },
+ {
+  "h": "根据",
+  "p": "gēn jù",
+  "en": "according to; based on",
+  "vi": "căn cứ vào, theo",
+  "l": 4
+ },
+ {
+  "h": "工程",
+  "p": "gōng chéng",
+  "en": "engineering; an engineering project; project",
+  "l": 4
+ },
+ {
+  "h": "公元",
+  "p": "gōng yuán",
+  "en": "CE (Common Era); Christian Era; AD (Anno Domini)",
+  "l": 4
+ },
+ {
+  "h": "供应",
+  "p": "gōng yìng",
+  "en": "to supply; to provide (goods, services etc)",
+  "l": 4
+ },
+ {
+  "h": "共",
+  "p": "gòng",
+  "en": "common; general; to share",
+  "l": 4
+ },
+ {
+  "h": "构成",
+  "p": "gòu chéng",
+  "en": "to constitute; to form; to compose",
+  "l": 4
+ },
+ {
+  "h": "构造",
+  "p": "gòu zào",
+  "en": "structure; composition; tectonic (geology)",
+  "l": 4
+ },
+ {
+  "h": "购买",
+  "p": "gòu mǎi",
+  "en": "to purchase; to buy",
+  "l": 4
+ },
+ {
+  "h": "购物",
+  "p": "gòu wù",
+  "en": "shopping",
+  "vi": "mua sắm",
+  "l": 4
+ },
+ {
+  "h": "骨头",
+  "p": "gǔ tou",
+  "en": "bone; moral character; bitterness",
+  "l": 4
+ },
+ {
+  "h": "固定",
+  "p": "gù dìng",
+  "en": "to fix; to fasten; to set rigidly in place",
+  "l": 4
+ },
+ {
+  "h": "瓜",
+  "p": "guā",
+  "en": "melon; gourd; squash; (slang) a piece of gossip",
+  "l": 4
+ },
+ {
+  "h": "怪",
+  "p": "guài",
+  "en": "bewildering; odd; strange",
+  "l": 4
+ },
+ {
+  "h": "关",
+  "p": "Guān",
+  "en": "surname Guan",
+  "vi": "đóng, tắt",
+  "l": 4
+ },
+ {
+  "h": "关闭",
+  "p": "guān bì",
+  "en": "to close; to shut (a window etc); (of a shop, school etc) to shut down",
+  "l": 4
+ },
+ {
+  "h": "关于",
+  "p": "guān yú",
+  "en": "pertaining to; concerning",
+  "vi": "về, liên quan đến",
+  "l": 4
+ },
+ {
+  "h": "官",
+  "p": "guān",
+  "en": "government official; governmental; official",
+  "l": 4
+ },
+ {
+  "h": "官方",
+  "p": "guān fāng",
+  "en": "government; official (approved or issued by an authority)",
+  "l": 4
+ },
+ {
+  "h": "光临",
+  "p": "guāng lín",
+  "en": "(formal) to honor with one's presence; to attend",
+  "l": 4
+ },
+ {
+  "h": "光盘",
+  "p": "guāng pán",
+  "en": "compact disc (CD); DVD; CD-ROM",
+  "l": 4
+ },
+ {
+  "h": "逛",
+  "p": "guàng",
+  "en": "to stroll; to visit",
+  "vi": "đi dạo, đi chơi",
+  "l": 4
+ },
+ {
+  "h": "归",
+  "p": "guī",
+  "en": "to return; to go back to; to give back to",
+  "l": 4
+ },
+ {
+  "h": "规律",
+  "p": "guī lǜ",
+  "en": "rule (e.g. of science); law of behavior; regular pattern",
+  "l": 4
+ },
+ {
+  "h": "规模",
+  "p": "guī mó",
+  "en": "scale; scope; extent",
+  "l": 4
+ },
+ {
+  "h": "规则",
+  "p": "guī zé",
+  "en": "rule; regulation; regular; orderly; fixed",
+  "l": 4
+ },
+ {
+  "h": "果实",
+  "p": "guǒ shí",
+  "en": "fruit (produced by a plant); (fig.) fruits (of success etc); results",
+  "l": 4
+ },
+ {
+  "h": "过分",
+  "p": "guò fèn",
+  "en": "excessive; undue; unduly; overly",
+  "l": 4
+ },
+ {
+  "h": "海水",
+  "p": "hǎi shuǐ",
+  "en": "seawater",
+  "l": 4
+ },
+ {
+  "h": "海鲜",
+  "p": "hǎi xiān",
+  "en": "seafood",
+  "l": 4
+ },
+ {
+  "h": "含",
+  "p": "hán",
+  "en": "to keep in the mouth; to contain",
+  "l": 4
+ },
+ {
+  "h": "含量",
+  "p": "hán liàng",
+  "en": "content; quantity contained",
+  "l": 4
+ },
+ {
+  "h": "含义",
+  "p": "hán yì",
+  "en": "meaning (implicit in a phrase); implied meaning; hidden meaning",
+  "l": 4
+ },
+ {
+  "h": "含有",
+  "p": "hán yǒu",
+  "en": "to contain; including",
+  "l": 4
+ },
+ {
+  "h": "寒假",
+  "p": "hán jià",
+  "en": "winter vacation",
+  "vi": "nghỉ đông",
+  "l": 4
+ },
+ {
+  "h": "寒冷",
+  "p": "hán lěng",
+  "en": "cold (climate); frigid; very cold",
+  "l": 4
+ },
+ {
+  "h": "行业",
+  "p": "háng yè",
+  "en": "trade; profession; industry; business",
+  "l": 4
+ },
+ {
+  "h": "航班",
+  "p": "háng bān",
+  "en": "flight; sailing",
+  "vi": "chuyến bay",
+  "l": 4
+ },
+ {
+  "h": "航空",
+  "p": "háng kōng",
+  "en": "aviation",
+  "l": 4
+ },
+ {
+  "h": "毫米",
+  "p": "háo mǐ",
+  "en": "millimeter",
+  "l": 4
+ },
+ {
+  "h": "毫升",
+  "p": "háo shēng",
+  "en": "milliliter",
+  "l": 4
+ },
+ {
+  "h": "好友",
+  "p": "hǎo yǒu",
+  "en": "close friend; pal; (social networking website) friend",
+  "l": 4
+ },
+ {
+  "h": "号码",
+  "p": "hào mǎ",
+  "en": "number",
+  "vi": "số, số điện thoại",
+  "l": 4
+ },
+ {
+  "h": "好",
+  "p": "hǎo",
+  "en": "good; appropriate",
+  "vi": "tốt, hay; khỏe",
+  "l": 4
+ },
+ {
+  "h": "合同",
+  "p": "hé tong",
+  "en": "contract; agreement",
+  "l": 4
+ },
+ {
+  "h": "黑暗",
+  "p": "hēi àn",
+  "en": "dark; darkly; darkness",
+  "l": 4
+ },
+ {
+  "h": "红包",
+  "p": "hóng bāo",
+  "en": "money wrapped in red as a gift; bonus payment; kickback",
+  "l": 4
+ },
+ {
+  "h": "后头",
+  "p": "hòu tou",
+  "en": "behind; the back; the rear",
+  "l": 4
+ },
+ {
+  "h": "厚",
+  "p": "hòu",
+  "en": "thick; deep or profound",
+  "vi": "dày",
+  "l": 4
+ },
+ {
+  "h": "呼吸",
+  "p": "hū xī",
+  "en": "to breathe",
+  "l": 4
+ },
+ {
+  "h": "忽视",
+  "p": "hū shì",
+  "en": "to neglect; to overlook; to disregard; to ignore",
+  "l": 4
+ },
+ {
+  "h": "户",
+  "p": "hù",
+  "en": "a household; door; family",
+  "l": 4
+ },
+ {
+  "h": "护士",
+  "p": "hù shi",
+  "en": "nurse",
+  "vi": "y tá",
+  "l": 4
+ },
+ {
+  "h": "花",
+  "p": "huā",
+  "en": "flower; to spend",
+  "vi": "hoa; tiêu (tiền)",
+  "l": 4
+ },
+ {
+  "h": "划",
+  "p": "huá",
+  "en": "to row; to paddle; profitable",
+  "l": 4
+ },
+ {
+  "h": "怀念",
+  "p": "huái niàn",
+  "en": "to cherish the memory of; to think of; to reminisce",
+  "l": 4
+ },
+ {
+  "h": "怀疑",
+  "p": "huái yí",
+  "en": "to doubt; to be skeptical of",
+  "vi": "nghi ngờ",
+  "l": 4
+ },
+ {
+  "h": "缓解",
+  "p": "huǎn jiě",
+  "en": "to bring relief; to alleviate (a crisis); to dull (a pain)",
+  "l": 4
+ },
+ {
+  "h": "黄瓜",
+  "p": "huáng guā",
+  "en": "cucumber",
+  "l": 4
+ },
+ {
+  "h": "黄金",
+  "p": "huáng jīn",
+  "en": "gold; golden (opportunity); prime (time)",
+  "l": 4
+ },
+ {
+  "h": "回复",
+  "p": "huí fù",
+  "en": "to recover; to revert; to return to (good health, normal condition etc)",
+  "l": 4
+ },
+ {
+  "h": "汇",
+  "p": "huì",
+  "en": "to remit; to converge (of rivers); to exchange",
+  "l": 4
+ },
+ {
+  "h": "汇报",
+  "p": "huì bào",
+  "en": "to report; to give an account of; to collect information and report back",
+  "l": 4
+ },
+ {
+  "h": "汇率",
+  "p": "huì lǜ",
+  "en": "exchange rate",
+  "l": 4
+ },
+ {
+  "h": "婚礼",
+  "p": "hūn lǐ",
+  "en": "wedding ceremony; wedding",
+  "l": 4
+ },
+ {
+  "h": "火",
+  "p": "huǒ",
+  "en": "fire",
+  "vi": "lửa",
+  "l": 4
+ },
+ {
+  "h": "伙",
+  "p": "huǒ",
+  "en": "meals (abbr. for 伙食)",
+  "l": 4
+ },
+ {
+  "h": "伙伴",
+  "p": "huǒ bàn",
+  "en": "partner; companion; comrade",
+  "l": 4
+ },
+ {
+  "h": "或许",
+  "p": "huò xǔ",
+  "en": "perhaps; maybe",
+  "l": 4
+ },
+ {
+  "h": "货",
+  "p": "huò",
+  "en": "goods; money; commodity",
+  "l": 4
+ },
+ {
+  "h": "获",
+  "p": "huò",
+  "en": "(literary) to catch; to capture; (literary) to get; to obtain; to win",
+  "l": 4
+ },
+ {
+  "h": "获得",
+  "p": "huò dé",
+  "en": "to obtain; to receive",
+  "vi": "đạt được, giành được",
+  "l": 4
+ },
+ {
+  "h": "获奖",
+  "p": "huò jiǎng",
+  "en": "to win an award",
+  "l": 4
+ },
+ {
+  "h": "获取",
+  "p": "huò qǔ",
+  "en": "to gain; to get; to acquire",
+  "l": 4
+ },
+ {
+  "h": "几乎",
+  "p": "jī hū",
+  "en": "almost; nearly",
+  "vi": "gần như, suýt",
+  "l": 4
+ },
+ {
+  "h": "机构",
+  "p": "jī gòu",
+  "en": "mechanism; structure; organization",
+  "l": 4
+ },
+ {
+  "h": "机遇",
+  "p": "jī yù",
+  "en": "opportunity; favorable turn of events; stroke of luck",
+  "l": 4
+ },
+ {
+  "h": "积累",
+  "p": "jī lěi",
+  "en": "to accumulate; accumulation",
+  "vi": "tích lũy",
+  "l": 4
+ },
+ {
+  "h": "激动",
+  "p": "jī dòng",
+  "en": "to move emotionally; to stir up",
+  "vi": "xúc động, phấn khích",
+  "l": 4
+ },
+ {
+  "h": "激烈",
+  "p": "jī liè",
+  "en": "(of competition or fighting) intense; fierce; (of pain) acute",
+  "l": 4
+ },
+ {
+  "h": "及格",
+  "p": "jí gé",
+  "en": "to pass an exam or a test; to meet a minimum standard",
+  "l": 4
+ },
+ {
+  "h": "极",
+  "p": "jí",
+  "en": "extremely; pole",
+  "vi": "vô cùng, cực kỳ",
+  "l": 4
+ },
+ {
+  "h": "极其",
+  "p": "jí qí",
+  "en": "extremely",
+  "vi": "vô cùng, cực kỳ",
+  "l": 4
+ },
+ {
+  "h": "即将",
+  "p": "jí jiāng",
+  "en": "about to; on the point of; soon",
+  "l": 4
+ },
+ {
+  "h": "急忙",
+  "p": "jí máng",
+  "en": "hastily",
+  "l": 4
+ },
+ {
+  "h": "集合",
+  "p": "jí hé",
+  "en": "to gather; to assemble",
+  "vi": "tập hợp",
+  "l": 4
+ },
+ {
+  "h": "记载",
+  "p": "jì zǎi",
+  "en": "to write down; to record; written account",
+  "l": 4
+ },
+ {
+  "h": "纪律",
+  "p": "jì lǜ",
+  "en": "discipline",
+  "l": 4
+ },
+ {
+  "h": "技巧",
+  "p": "jì qiǎo",
+  "en": "skill; technique",
+  "l": 4
+ },
+ {
+  "h": "系",
+  "p": "xì",
+  "en": "to connect; to relate to; to tie up",
+  "l": 4
+ },
+ {
+  "h": "季",
+  "p": "jì",
+  "en": "season; the last month of a season; fourth or youngest amongst brothers",
+  "l": 4
+ },
+ {
+  "h": "季度",
+  "p": "jì dù",
+  "en": "quarter of a year; season (sports)",
+  "l": 4
+ },
+ {
+  "h": "季节",
+  "p": "jì jié",
+  "en": "time; season",
+  "vi": "mùa, thời tiết",
+  "l": 4
+ },
+ {
+  "h": "既",
+  "p": "jì",
+  "en": "already; since; both... (and...)",
+  "l": 4
+ },
+ {
+  "h": "既然",
+  "p": "jì rán",
+  "en": "since; as",
+  "vi": "đã ... thì",
+  "l": 4
+ },
+ {
+  "h": "寄",
+  "p": "jì",
+  "en": "to send; to mail",
+  "vi": "gửi (thư, bưu kiện)",
+  "l": 4
+ },
+ {
+  "h": "加班",
+  "p": "jiā bān",
+  "en": "to work overtime",
+  "vi": "làm thêm giờ",
+  "l": 4
+ },
+ {
+  "h": "加入",
+  "p": "jiā rù",
+  "en": "to become a member; to join; to mix into",
+  "l": 4
+ },
+ {
+  "h": "加油站",
+  "p": "jiā yóu zhàn",
+  "en": "gas station",
+  "vi": "trạm xăng",
+  "l": 4
+ },
+ {
+  "h": "家务",
+  "p": "jiā wù",
+  "en": "household duties; housework",
+  "l": 4
+ },
+ {
+  "h": "假如",
+  "p": "jiǎ rú",
+  "en": "if",
+  "l": 4
+ },
+ {
+  "h": "坚固",
+  "p": "jiān gù",
+  "en": "firm; firmly; hard",
+  "l": 4
+ },
+ {
+  "h": "检测",
+  "p": "jiǎn cè",
+  "en": "to detect; to test; detection",
+  "l": 4
+ },
+ {
+  "h": "减",
+  "p": "jiǎn",
+  "en": "to lower; to decrease; to reduce",
+  "l": 4
+ },
+ {
+  "h": "减肥",
+  "p": "jiǎn féi",
+  "en": "to lose weight",
+  "vi": "giảm cân",
+  "l": 4
+ },
+ {
+  "h": "减少",
+  "p": "jiǎn shǎo",
+  "en": "to lessen; to decrease",
+  "vi": "giảm bớt",
+  "l": 4
+ },
+ {
+  "h": "简历",
+  "p": "jiǎn lì",
+  "en": "curriculum vitae (CV); résumé; biographical notes",
+  "l": 4
+ },
+ {
+  "h": "健身",
+  "p": "jiàn shēn",
+  "en": "to exercise; to keep fit; to work out",
+  "l": 4
+ },
+ {
+  "h": "渐渐",
+  "p": "jiàn jiàn",
+  "en": "gradually",
+  "l": 4
+ },
+ {
+  "h": "江",
+  "p": "jiāng",
+  "en": "river",
+  "l": 4
+ },
+ {
+  "h": "讲究",
+  "p": "jiǎng jiu",
+  "en": "to pay particular attention to; carefully selected for quality; tastefully chosen",
+  "l": 4
+ },
+ {
+  "h": "讲座",
+  "p": "jiǎng zuò",
+  "en": "course of lectures; lecture series; chair (academic position)",
+  "l": 4
+ },
+ {
+  "h": "奖",
+  "p": "jiǎng",
+  "en": "prize; award; bonus; reward; to encourage; to commend; to praise; to award; to give as a reward",
+  "l": 4
+ },
+ {
+  "h": "奖金",
+  "p": "jiǎng jīn",
+  "en": "premium; award money",
+  "vi": "tiền thưởng",
+  "l": 4
+ },
+ {
+  "h": "奖学金",
+  "p": "jiǎng xué jīn",
+  "en": "scholarship",
+  "l": 4
+ },
+ {
+  "h": "降",
+  "p": "jiàng",
+  "en": "to drop; to fall; to come down",
+  "l": 4
+ },
+ {
+  "h": "降低",
+  "p": "jiàng dī",
+  "en": "to reduce; to lower",
+  "vi": "hạ thấp, giảm",
+  "l": 4
+ },
+ {
+  "h": "降价",
+  "p": "jiàng jià",
+  "en": "to cut the price; to drive down the price; to get cheaper",
+  "l": 4
+ },
+ {
+  "h": "降落",
+  "p": "jiàng luò",
+  "en": "to descend; to land",
+  "l": 4
+ },
+ {
+  "h": "降温",
+  "p": "jiàng wēn",
+  "en": "to become cooler; to lower the temperature; cooling",
+  "l": 4
+ },
+ {
+  "h": "交换",
+  "p": "jiāo huàn",
+  "en": "to exchange; to swap; to switch (telecom)",
+  "l": 4
+ },
+ {
+  "h": "交际",
+  "p": "jiāo jì",
+  "en": "communication; social intercourse",
+  "l": 4
+ },
+ {
+  "h": "教授",
+  "p": "jiào shòu",
+  "en": "professor; to instruct",
+  "vi": "giáo sư",
+  "l": 4
+ },
+ {
+  "h": "教训",
+  "p": "jiào xun",
+  "en": "to provide guidance; to lecture sb; to upbraid; a talking-to; a bitter lesson",
+  "l": 4
+ },
+ {
+  "h": "阶段",
+  "p": "jiē duàn",
+  "en": "stage; section; phase",
+  "l": 4
+ },
+ {
+  "h": "街道",
+  "p": "jiē dào",
+  "en": "street; subdistrict",
+  "vi": "đường phố",
+  "l": 4
+ },
+ {
+  "h": "节省",
+  "p": "jié shěng",
+  "en": "saving; to save; to use sparingly",
+  "l": 4
+ },
+ {
+  "h": "结",
+  "p": "jié",
+  "en": "knot; sturdy; bond",
+  "l": 4
+ },
+ {
+  "h": "结构",
+  "p": "jié gòu",
+  "en": "structure; composition; makeup",
+  "l": 4
+ },
+ {
+  "h": "结论",
+  "p": "jié lùn",
+  "en": "conclusion; verdict; to conclude",
+  "l": 4
+ },
+ {
+  "h": "姐妹",
+  "p": "jiě mèi",
+  "en": "sisters; siblings; sister (school, city etc)",
+  "l": 4
+ },
+ {
+  "h": "解释",
+  "p": "jiě shì",
+  "en": "explanation; to explain",
+  "vi": "giải thích",
+  "l": 4
+ },
+ {
+  "h": "尽快",
+  "p": "jǐn kuài",
+  "en": "as quickly as possible; as soon as possible",
+  "l": 4
+ },
+ {
+  "h": "紧密",
+  "p": "jǐn mì",
+  "en": "inseparably close",
+  "l": 4
+ },
+ {
+  "h": "尽力",
+  "p": "jìn lì",
+  "en": "to strive one's hardest; to spare no effort",
+  "l": 4
+ },
+ {
+  "h": "进口",
+  "p": "jìn kǒu",
+  "en": "to import; imported; entrance",
+  "l": 4
+ },
+ {
+  "h": "近代",
+  "p": "jìn dài",
+  "en": "the not-very-distant past; modern times, excluding recent decades; (in the context of Chinese history) the period from the Opium Wars until the May 4th Movement (mid-19th century to 1919)",
+  "l": 4
+ },
+ {
+  "h": "禁止",
+  "p": "jìn zhǐ",
+  "en": "to prohibit; to forbid",
+  "vi": "cấm",
+  "l": 4
+ },
+ {
+  "h": "经典",
+  "p": "jīng diǎn",
+  "en": "the classics; scriptures; classical",
+  "l": 4
+ },
+ {
+  "h": "精力",
+  "p": "jīng lì",
+  "en": "energy",
+  "l": 4
+ },
+ {
+  "h": "竟然",
+  "p": "jìng rán",
+  "en": "unexpectedly; to one's surprise",
+  "vi": "không ngờ, lại",
+  "l": 4
+ },
+ {
+  "h": "镜头",
+  "p": "jìng tóu",
+  "en": "camera lens; camera shot (in a movie etc); scene",
+  "l": 4
+ },
+ {
+  "h": "镜子",
+  "p": "jìng zi",
+  "en": "mirror",
+  "vi": "gương",
+  "l": 4
+ },
+ {
+  "h": "究竟",
+  "p": "jiū jìng",
+  "en": "to go to the bottom of a matter; after all",
+  "vi": "rốt cuộc",
+  "l": 4
+ },
+ {
+  "h": "酒吧",
+  "p": "jiǔ bā",
+  "en": "bar (place to buy drinks)",
+  "l": 4
+ },
+ {
+  "h": "居民",
+  "p": "jū mín",
+  "en": "resident; inhabitant",
+  "l": 4
+ },
+ {
+  "h": "居住",
+  "p": "jū zhù",
+  "en": "to reside; to dwell; to live in a place",
+  "l": 4
+ },
+ {
+  "h": "局",
+  "p": "jú",
+  "en": "narrow",
+  "l": 4
+ },
+ {
+  "h": "巨大",
+  "p": "jù dà",
+  "en": "huge; immense; enormous; gigantic",
+  "l": 4
+ },
+ {
+  "h": "具备",
+  "p": "jù bèi",
+  "en": "to possess; to have; equipped with",
+  "l": 4
+ },
+ {
+  "h": "距离",
+  "p": "jù lí",
+  "en": "distance; to be apart from",
+  "vi": "khoảng cách",
+  "l": 4
+ },
+ {
+  "h": "聚",
+  "p": "jù",
+  "en": "to assemble; to gather (transitive or intransitive); (chemistry) poly-",
+  "l": 4
+ },
+ {
+  "h": "聚会",
+  "p": "jù huì",
+  "en": "party; gathering; to meet",
+  "l": 4
+ },
+ {
+  "h": "卷",
+  "p": "juǎn",
+  "en": "to roll up; (fig.) to sweep up; to engulf; to drag into (a situation); (slang) to compete to an unhealthy degree; hypercompetitive",
+  "l": 4
+ },
+ {
+  "h": "角色",
+  "p": "jué sè",
+  "en": "role; part (in a play or movie etc); also pr.",
+  "l": 4
+ },
+ {
+  "h": "开花",
+  "p": "kāi huā",
+  "en": "to bloom; to blossom; to flower; (fig.) to burst; to split open; (fig.) to burst with joy",
+  "l": 4
+ },
+ {
+  "h": "开水",
+  "p": "kāi shuǐ",
+  "en": "boiled water; boiling water",
+  "l": 4
+ },
+ {
+  "h": "看不起",
+  "p": "kàn bu qǐ",
+  "en": "to look down upon; to despise",
+  "l": 4
+ },
+ {
+  "h": "看来",
+  "p": "kàn lai",
+  "en": "apparently; it seems that",
+  "l": 4
+ },
+ {
+  "h": "看望",
+  "p": "kàn wàng",
+  "en": "to pay a visit to; to see (sb)",
+  "l": 4
+ },
+ {
+  "h": "考察",
+  "p": "kǎo chá",
+  "en": "to inspect; to observe and study; on-the-spot investigation",
+  "l": 4
+ },
+ {
+  "h": "考虑",
+  "p": "kǎo lǜ",
+  "en": "to think over; to consider",
+  "vi": "cân nhắc, suy nghĩ",
+  "l": 4
+ },
+ {
+  "h": "棵",
+  "p": "kē",
+  "en": "classifier for trees, cabbages, plants etc",
+  "vi": "(lượng từ) cây, cội",
+  "l": 4
+ },
+ {
+  "h": "可见",
+  "p": "kě jiàn",
+  "en": "it can clearly be seen (that this is the case); it is (thus) clear; clear",
+  "l": 4
+ },
+ {
+  "h": "空间",
+  "p": "kōng jiān",
+  "en": "space; room; (fig.) scope; leeway; (astronomy) outer space",
+  "l": 4
+ },
+ {
+  "h": "空",
+  "p": "kōng",
+  "en": "empty; air; sky",
+  "l": 4
+ },
+ {
+  "h": "口袋",
+  "p": "kǒu dài",
+  "en": "pocket; bag; sack",
+  "l": 4
+ },
+ {
+  "h": "口语",
+  "p": "kǒu yǔ",
+  "en": "colloquial speech; spoken language; vernacular language",
+  "l": 4
+ },
+ {
+  "h": "苦",
+  "p": "kǔ",
+  "en": "bitter; hardship",
+  "vi": "đắng; khổ cực",
+  "l": 4
+ },
+ {
+  "h": "会计",
+  "p": "kuài jì",
+  "en": "accountant; accountancy; accounting",
+  "l": 4
+ },
+ {
+  "h": "快递",
+  "p": "kuài dì",
+  "en": "express delivery",
+  "l": 4
+ },
+ {
+  "h": "宽",
+  "p": "kuān",
+  "en": "wide; broad",
+  "vi": "rộng",
+  "l": 4
+ },
+ {
+  "h": "宽广",
+  "p": "kuān guǎng",
+  "en": "wide; broad; extensive",
+  "l": 4
+ },
+ {
+  "h": "矿泉水",
+  "p": "kuàng quán shuǐ",
+  "en": "mineral water",
+  "l": 4
+ },
+ {
+  "h": "扩大",
+  "p": "kuò dà",
+  "en": "to expand; to enlarge",
+  "vi": "mở rộng",
+  "l": 4
+ },
+ {
+  "h": "扩展",
+  "p": "kuò zhǎn",
+  "en": "to extend; to expand; extension",
+  "l": 4
+ },
+ {
+  "h": "括号",
+  "p": "kuò hào",
+  "en": "parentheses; brackets",
+  "l": 4
+ },
+ {
+  "h": "垃圾",
+  "p": "lā jī",
+  "en": "trash; refuse; garbage",
+  "l": 4
+ },
+ {
+  "h": "拉开",
+  "p": "lā kāi",
+  "en": "to pull open; to pull apart; to space out",
+  "l": 4
+ },
+ {
+  "h": "辣",
+  "p": "là",
+  "en": "spicy; hot",
+  "vi": "cay",
+  "l": 4
+ },
+ {
+  "h": "来不及",
+  "p": "lái bu jí",
+  "en": "there's not enough time; it's too late",
+  "vi": "không kịp",
+  "l": 4
+ },
+ {
+  "h": "来得及",
+  "p": "lái de jí",
+  "en": "to have enough time; can do it in time",
+  "vi": "kịp, còn kịp",
+  "l": 4
+ },
+ {
+  "h": "来源",
+  "p": "lái yuán",
+  "en": "source (of information etc); origin",
+  "l": 4
+ },
+ {
+  "h": "老公",
+  "p": "lǎo gōng",
+  "en": "(coll.) husband",
+  "l": 4
+ },
+ {
+  "h": "老家",
+  "p": "lǎo jiā",
+  "en": "native place; place of origin; home state or region",
+  "l": 4
+ },
+ {
+  "h": "老婆",
+  "p": "lǎo pó",
+  "en": "(coll.) wife",
+  "l": 4
+ },
+ {
+  "h": "老实",
+  "p": "lǎo shi",
+  "en": "honest; sincere; well-behaved; naive; gullible",
+  "l": 4
+ },
+ {
+  "h": "乐趣",
+  "p": "lè qù",
+  "en": "delight; pleasure; joy",
+  "l": 4
+ },
+ {
+  "h": "泪",
+  "p": "lèi",
+  "en": "tears; teardrops",
+  "l": 4
+ },
+ {
+  "h": "泪水",
+  "p": "lèi shuǐ",
+  "en": "teardrop; tears",
+  "l": 4
+ },
+ {
+  "h": "类型",
+  "p": "lèi xíng",
+  "en": "type; kind; category; (computer programming) type",
+  "l": 4
+ },
+ {
+  "h": "冷静",
+  "p": "lěng jìng",
+  "en": "calm; cool-headed",
+  "vi": "bình tĩnh",
+  "l": 4
+ },
+ {
+  "h": "厘米",
+  "p": "lí mǐ",
+  "en": "centimeter",
+  "l": 4
+ },
+ {
+  "h": "离不开",
+  "p": "lí bu kāi",
+  "en": "inseparable; inevitably linked to",
+  "l": 4
+ },
+ {
+  "h": "力气",
+  "p": "lì qi",
+  "en": "strength",
+  "vi": "sức lực",
+  "l": 4
+ },
+ {
+  "h": "历史",
+  "p": "lì shǐ",
+  "en": "history",
+  "vi": "lịch sử",
+  "l": 4
+ },
+ {
+  "h": "立即",
+  "p": "lì jí",
+  "en": "immediately",
+  "l": 4
+ },
+ {
+  "h": "利息",
+  "p": "lì xī",
+  "en": "interest (on a loan)",
+  "l": 4
+ },
+ {
+  "h": "利益",
+  "p": "lì yì",
+  "en": "benefit; (in sb's) interest",
+  "l": 4
+ },
+ {
+  "h": "俩",
+  "p": "liǎ",
+  "en": "two; both",
+  "vi": "hai (người)",
+  "l": 4
+ },
+ {
+  "h": "良好",
+  "p": "liáng hǎo",
+  "en": "good; favorable; well",
+  "l": 4
+ },
+ {
+  "h": "量",
+  "p": "liáng",
+  "en": "to measure",
+  "l": 4
+ },
+ {
+  "h": "粮食",
+  "p": "liáng shi",
+  "en": "foodstuff; cereals",
+  "l": 4
+ },
+ {
+  "h": "两边",
+  "p": "liǎng biān",
+  "en": "either side; both sides",
+  "l": 4
+ },
+ {
+  "h": "疗养",
+  "p": "liáo yǎng",
+  "en": "to get well; to heal; to recuperate",
+  "l": 4
+ },
+ {
+  "h": "了不起",
+  "p": "liǎo bu qǐ",
+  "en": "amazing; terrific; extraordinary",
+  "l": 4
+ },
+ {
+  "h": "了解",
+  "p": "liǎo jiě",
+  "en": "to understand; to realize",
+  "vi": "hiểu biết, tìm hiểu",
+  "l": 4
+ },
+ {
+  "h": "列",
+  "p": "liè",
+  "en": "to arrange; to line up; file",
+  "l": 4
+ },
+ {
+  "h": "列车",
+  "p": "liè chē",
+  "en": "(railway) train",
+  "l": 4
+ },
+ {
+  "h": "列入",
+  "p": "liè rù",
+  "en": "to include on a list",
+  "l": 4
+ },
+ {
+  "h": "列为",
+  "p": "liè wéi",
+  "en": "to be classified as",
+  "l": 4
+ },
+ {
+  "h": "临时",
+  "p": "lín shí",
+  "en": "as the time draws near; at the last moment; temporary",
+  "l": 4
+ },
+ {
+  "h": "零食",
+  "p": "líng shí",
+  "en": "snack; nibbles",
+  "l": 4
+ },
+ {
+  "h": "流传",
+  "p": "liú chuán",
+  "en": "to spread; to circulate; to hand down",
+  "l": 4
+ },
+ {
+  "h": "楼梯",
+  "p": "lóu tī",
+  "en": "stair; staircase",
+  "l": 4
+ },
+ {
+  "h": "陆地",
+  "p": "lù dì",
+  "en": "dry land (as opposed to the sea)",
+  "l": 4
+ },
+ {
+  "h": "陆续",
+  "p": "lù xù",
+  "en": "in turn; successively; one after the other",
+  "l": 4
+ },
+ {
+  "h": "录取",
+  "p": "lù qǔ",
+  "en": "to accept an applicant (prospective student, employee etc) who passes an entrance exam; to admit (a student); to hire (a job candidate)",
+  "l": 4
+ },
+ {
+  "h": "律师",
+  "p": "lǜ shī",
+  "en": "lawyer",
+  "vi": "luật sư",
+  "l": 4
+ },
+ {
+  "h": "轮",
+  "p": "lún",
+  "en": "wheel; disk; ring; steamship; to take turns; to rotate",
+  "l": 4
+ },
+ {
+  "h": "轮船",
+  "p": "lún chuán",
+  "en": "steamship; steamer; steamboat",
+  "l": 4
+ },
+ {
+  "h": "轮椅",
+  "p": "lún yǐ",
+  "en": "wheelchair",
+  "l": 4
+ },
+ {
+  "h": "轮子",
+  "p": "lún zi",
+  "en": "wheel; (derog.) Falun Gong practitioner",
+  "l": 4
+ },
+ {
+  "h": "论文",
+  "p": "lùn wén",
+  "en": "paper; treatise; thesis",
+  "l": 4
+ },
+ {
+  "h": "落",
+  "p": "là",
+  "en": "to leave out; to be missing; to leave behind or forget to bring",
+  "l": 4
+ },
+ {
+  "h": "毛巾",
+  "p": "máo jīn",
+  "en": "towel",
+  "vi": "khăn lông",
+  "l": 4
+ },
+ {
+  "h": "毛衣",
+  "p": "máo yī",
+  "en": "(wool) sweater",
+  "l": 4
+ },
+ {
+  "h": "帽子",
+  "p": "mào zi",
+  "en": "hat; cap",
+  "vi": "mũ",
+  "l": 4
+ },
+ {
+  "h": "没错",
+  "p": "méi cuò",
+  "en": "that's right; sure!; rest assured!",
+  "l": 4
+ },
+ {
+  "h": "没法儿",
+  "p": "méi fǎ r",
+  "en": "(coll.) can't do anything about it; (coll.) there's no way that ...; it's simply not credible that ...; (coll.) couldn't be (better) (i.e. simply wonderful)",
+  "l": 4
+ },
+ {
+  "h": "没想到",
+  "p": "méi xiǎng dào",
+  "en": "didn't expect",
+  "l": 4
+ },
+ {
+  "h": "美金",
+  "p": "Měi jīn",
+  "en": "US dollar; USD",
+  "l": 4
+ },
+ {
+  "h": "美女",
+  "p": "měi nǚ",
+  "en": "beautiful woman",
+  "l": 4
+ },
+ {
+  "h": "梦",
+  "p": "mèng",
+  "en": "dream; to dream",
+  "vi": "giấc mơ",
+  "l": 4
+ },
+ {
+  "h": "梦见",
+  "p": "mèng jiàn",
+  "en": "to dream about (sth or sb); to see in a dream",
+  "l": 4
+ },
+ {
+  "h": "梦想",
+  "p": "mèng xiǎng",
+  "en": "(fig.) to dream of; dream",
+  "l": 4
+ },
+ {
+  "h": "秘密",
+  "p": "mì mì",
+  "en": "secret; private; confidential; clandestine; a secret (",
+  "l": 4
+ },
+ {
+  "h": "秘书",
+  "p": "mì shū",
+  "en": "secretary",
+  "l": 4
+ },
+ {
+  "h": "密",
+  "p": "mì",
+  "en": "dense; close; thick; intimate; close; secret; confidential",
+  "l": 4
+ },
+ {
+  "h": "密码",
+  "p": "mì mǎ",
+  "en": "cipher; secret code",
+  "vi": "mật khẩu",
+  "l": 4
+ },
+ {
+  "h": "密切",
+  "p": "mì qiè",
+  "en": "close; familiar; intimate",
+  "l": 4
+ },
+ {
+  "h": "免费",
+  "p": "miǎn fèi",
+  "en": "free",
+  "vi": "miễn phí",
+  "l": 4
+ },
+ {
+  "h": "面临",
+  "p": "miàn lín",
+  "en": "to face sth; to be confronted with",
+  "l": 4
+ },
+ {
+  "h": "面试",
+  "p": "miàn shì",
+  "en": "to be interviewed (as a candidate); interview",
+  "l": 4
+ },
+ {
+  "h": "描述",
+  "p": "miáo shù",
+  "en": "to describe; description",
+  "l": 4
+ },
+ {
+  "h": "描写",
+  "p": "miáo xiě",
+  "en": "to describe; to depict; to portray; depiction; portrayal",
+  "l": 4
+ },
+ {
+  "h": "名牌儿",
+  "p": "míng pái r",
+  "en": "erhua form of 名牌",
+  "l": 4
+ },
+ {
+  "h": "名片",
+  "p": "míng piàn",
+  "en": "(business) card",
+  "l": 4
+ },
+ {
+  "h": "名人",
+  "p": "míng rén",
+  "en": "personage; celebrity",
+  "l": 4
+ },
+ {
+  "h": "摸",
+  "p": "mō",
+  "en": "to feel with the hand; to touch; to stroke",
+  "l": 4
+ },
+ {
+  "h": "模特儿",
+  "p": "mó tè r",
+  "en": "(fashion) model (loanword)",
+  "l": 4
+ },
+ {
+  "h": "模型",
+  "p": "mó xíng",
+  "en": "model; mold; matrix",
+  "l": 4
+ },
+ {
+  "h": "末",
+  "p": "mò",
+  "en": "tip; end; final stage",
+  "l": 4
+ },
+ {
+  "h": "默默",
+  "p": "mò mò",
+  "en": "in silence; not speaking",
+  "l": 4
+ },
+ {
+  "h": "哪怕",
+  "p": "nǎ pà",
+  "en": "even; even if; even though",
+  "l": 4
+ },
+ {
+  "h": "哪",
+  "p": "nǎ",
+  "en": "how; which",
+  "vi": "nào, đâu",
+  "l": 4
+ },
+ {
+  "h": "男女",
+  "p": "nán nǚ",
+  "en": "male-female; male and female",
+  "l": 4
+ },
+ {
+  "h": "男士",
+  "p": "nán shì",
+  "en": "man; gentleman",
+  "l": 4
+ },
+ {
+  "h": "难免",
+  "p": "nán miǎn",
+  "en": "hard to avoid; difficult to escape from; will inevitably",
+  "l": 4
+ },
+ {
+  "h": "脑袋",
+  "p": "nǎo dai",
+  "en": "head; skull; brains",
+  "l": 4
+ },
+ {
+  "h": "闹",
+  "p": "nào",
+  "en": "noisy; cacophonous; to make noise",
+  "l": 4
+ },
+ {
+  "h": "闹钟",
+  "p": "nào zhōng",
+  "en": "alarm clock",
+  "l": 4
+ },
+ {
+  "h": "内部",
+  "p": "nèi bù",
+  "en": "interior; inside (part, section); internal",
+  "l": 4
+ },
+ {
+  "h": "内科",
+  "p": "nèi kē",
+  "en": "internal medicine; general medicine",
+  "l": 4
+ },
+ {
+  "h": "能干",
+  "p": "néng gàn",
+  "en": "capable; competent",
+  "l": 4
+ },
+ {
+  "h": "宁静",
+  "p": "níng jìng",
+  "en": "tranquil; tranquility; serenity",
+  "l": 4
+ },
+ {
+  "h": "浓",
+  "p": "nóng",
+  "en": "concentrated; dense; strong (smell etc)",
+  "l": 4
+ },
+ {
+  "h": "女士",
+  "p": "nǚ shì",
+  "en": "lady; madam; Miss",
+  "l": 4
+ },
+ {
+  "h": "暖气",
+  "p": "nuǎn qì",
+  "en": "central heating; heater; warm air",
+  "l": 4
+ },
+ {
+  "h": "拍照",
+  "p": "pāi zhào",
+  "en": "to take a picture",
+  "l": 4
+ },
+ {
+  "h": "排列",
+  "p": "pái liè",
+  "en": "to arrange in order; permutation",
+  "vi": "sắp xếp, xếp hàng",
+  "l": 4
+ },
+ {
+  "h": "牌",
+  "p": "pái",
+  "en": "signboard; plaque; plate; tablet (; brand; trademark (; mahjong tile; domino; playing card (",
+  "l": 4
+ },
+ {
+  "h": "盘",
+  "p": "pán",
+  "en": "tray; plate; dish; (finance) market prices; (computing) disk",
+  "l": 4
+ },
+ {
+  "h": "盘子",
+  "p": "pán zi",
+  "en": "tray; plate",
+  "vi": "đĩa",
+  "l": 4
+ },
+ {
+  "h": "胖子",
+  "p": "pàng zi",
+  "en": "fat person; fatty",
+  "l": 4
+ },
+ {
+  "h": "培训",
+  "p": "péi xùn",
+  "en": "to cultivate; to train; to groom",
+  "l": 4
+ },
+ {
+  "h": "培训班",
+  "p": "péi xùn bān",
+  "en": "training class",
+  "l": 4
+ },
+ {
+  "h": "培养",
+  "p": "péi yǎng",
+  "en": "to cultivate; to breed; to foster",
+  "l": 4
+ },
+ {
+  "h": "培育",
+  "p": "péi yù",
+  "en": "to train; to breed",
+  "l": 4
+ },
+ {
+  "h": "批",
+  "p": "pī",
+  "en": "to ascertain; to act on; to criticize",
+  "l": 4
+ },
+ {
+  "h": "片面",
+  "p": "piàn miàn",
+  "en": "unilateral; one-sided",
+  "l": 4
+ },
+ {
+  "h": "品质",
+  "p": "pǐn zhì",
+  "en": "character; intrinsic quality (of a person); quality (of a product or service, or as in \"quality of life\", \"air quality\" etc)",
+  "l": 4
+ },
+ {
+  "h": "平方",
+  "p": "píng fāng",
+  "en": "square (as in square foot, square mile, square root)",
+  "l": 4
+ },
+ {
+  "h": "平静",
+  "p": "píng jìng",
+  "en": "tranquil; undisturbed; serene",
+  "l": 4
+ },
+ {
+  "h": "平均",
+  "p": "píng jūn",
+  "en": "average; on average; evenly; in equal proportions",
+  "l": 4
+ },
+ {
+  "h": "平稳",
+  "p": "píng wěn",
+  "en": "smooth; steady",
+  "l": 4
+ },
+ {
+  "h": "迫切",
+  "p": "pò qiè",
+  "en": "urgent; pressing",
+  "l": 4
+ },
+ {
+  "h": "破产",
+  "p": "pò chǎn",
+  "en": "to go bankrupt; to become impoverished; bankruptcy",
+  "l": 4
+ },
+ {
+  "h": "妻子",
+  "p": "qī zǐ",
+  "en": "wife and children",
+  "vi": "vợ",
+  "l": 4
+ },
+ {
+  "h": "期待",
+  "p": "qī dài",
+  "en": "to look forward to; to await; expectation",
+  "l": 4
+ },
+ {
+  "h": "期间",
+  "p": "qī jiān",
+  "en": "period of time; time; time period",
+  "l": 4
+ },
+ {
+  "h": "期末",
+  "p": "qī mò",
+  "en": "the end of a term or semester (in school)",
+  "l": 4
+ },
+ {
+  "h": "期限",
+  "p": "qī xiàn",
+  "en": "time limit; deadline; allotted time",
+  "l": 4
+ },
+ {
+  "h": "期中",
+  "p": "qī zhōng",
+  "en": "interim; midterm",
+  "l": 4
+ },
+ {
+  "h": "其余",
+  "p": "qí yú",
+  "en": "the rest; the others; remaining",
+  "l": 4
+ },
+ {
+  "h": "企业",
+  "p": "qǐ yè",
+  "en": "company; firm; enterprise; corporation",
+  "l": 4
+ },
+ {
+  "h": "气球",
+  "p": "qì qiú",
+  "en": "balloon",
+  "l": 4
+ },
+ {
+  "h": "汽水",
+  "p": "qì shuǐ",
+  "en": "soda pop; carbonated soft drink",
+  "l": 4
+ },
+ {
+  "h": "汽油",
+  "p": "qì yóu",
+  "en": "gasoline",
+  "l": 4
+ },
+ {
+  "h": "器官",
+  "p": "qì guān",
+  "en": "(physiology) organ; apparatus",
+  "l": 4
+ },
+ {
+  "h": "前头",
+  "p": "qián tou",
+  "en": "in front; at the head; ahead",
+  "l": 4
+ },
+ {
+  "h": "前途",
+  "p": "qián tú",
+  "en": "prospects; future outlook; journey",
+  "l": 4
+ },
+ {
+  "h": "浅",
+  "p": "jiān",
+  "en": "sound of moving water",
+  "l": 4
+ },
+ {
+  "h": "巧克力",
+  "p": "qiǎo kè lì",
+  "en": "chocolate",
+  "vi": "sô-cô-la",
+  "l": 4
+ },
+ {
+  "h": "切",
+  "p": "qiē",
+  "en": "to cut; to slice; to carve; (math) tangential",
+  "l": 4
+ },
+ {
+  "h": "亲爱",
+  "p": "qīn ài",
+  "en": "dear; beloved; darling",
+  "l": 4
+ },
+ {
+  "h": "亲密",
+  "p": "qīn mì",
+  "en": "intimate; close",
+  "l": 4
+ },
+ {
+  "h": "青春",
+  "p": "qīng chūn",
+  "en": "youth; youthfulness",
+  "l": 4
+ },
+ {
+  "h": "轻松",
+  "p": "qīng sōng",
+  "en": "light; gentle",
+  "vi": "nhẹ nhàng, thoải mái",
+  "l": 4
+ },
+ {
+  "h": "轻易",
+  "p": "qīng yì",
+  "en": "easy; simple; rashly; offhandedly",
+  "l": 4
+ },
+ {
+  "h": "清醒",
+  "p": "qīng xǐng",
+  "en": "clear-headed; sober; awake",
+  "l": 4
+ },
+ {
+  "h": "情景",
+  "p": "qíng jǐng",
+  "en": "scene; spectacle; circumstances; situation",
+  "l": 4
+ },
+ {
+  "h": "穷",
+  "p": "qióng",
+  "en": "poor; destitute",
+  "vi": "nghèo",
+  "l": 4
+ },
+ {
+  "h": "穷人",
+  "p": "qióng rén",
+  "en": "poor people; the poor",
+  "l": 4
+ },
+ {
+  "h": "秋季",
+  "p": "qiū jì",
+  "en": "autumn; fall",
+  "l": 4
+ },
+ {
+  "h": "趋势",
+  "p": "qū shì",
+  "en": "trend; tendency",
+  "l": 4
+ },
+ {
+  "h": "圈",
+  "p": "juān",
+  "en": "to confine; to lock up; to pen in",
+  "l": 4
+ },
+ {
+  "h": "权利",
+  "p": "quán lì",
+  "en": "right (i.e. an entitlement to sth); (classical) power and wealth",
+  "l": 4
+ },
+ {
+  "h": "却",
+  "p": "què",
+  "en": "but; yet",
+  "vi": "nhưng, lại",
+  "l": 4
+ },
+ {
+  "h": "确认",
+  "p": "què rèn",
+  "en": "to confirm; to verify; confirmation",
+  "l": 4
+ },
+ {
+  "h": "然而",
+  "p": "rán ér",
+  "en": "however; yet",
+  "vi": "tuy nhiên",
+  "l": 4
+ },
+ {
+  "h": "燃料",
+  "p": "rán liào",
+  "en": "fuel",
+  "l": 4
+ },
+ {
+  "h": "燃烧",
+  "p": "rán shāo",
+  "en": "to ignite; to combust; to burn",
+  "l": 4
+ },
+ {
+  "h": "热闹",
+  "p": "rè nao",
+  "en": "bustling with noise and excitement; lively",
+  "vi": "náo nhiệt",
+  "l": 4
+ },
+ {
+  "h": "热心",
+  "p": "rè xīn",
+  "en": "enthusiastic; ardent; zealous",
+  "l": 4
+ },
+ {
+  "h": "人家",
+  "p": "rén jiā",
+  "en": "household; dwelling; family",
+  "l": 4
+ },
+ {
+  "h": "日记",
+  "p": "rì jì",
+  "en": "diary",
+  "vi": "nhật ký",
+  "l": 4
+ },
+ {
+  "h": "日历",
+  "p": "rì lì",
+  "en": "calendar",
+  "l": 4
+ },
+ {
+  "h": "如今",
+  "p": "rú jīn",
+  "en": "nowadays; now",
+  "l": 4
+ },
+ {
+  "h": "弱",
+  "p": "ruò",
+  "en": "weak; feeble; young; inferior; not as good as",
+  "l": 4
+ },
+ {
+  "h": "伞",
+  "p": "sǎn",
+  "en": "umbrella; parasol",
+  "vi": "cái ô, dù",
+  "l": 4
+ },
+ {
+  "h": "散",
+  "p": "sǎn",
+  "en": "scattered; loose; to come loose",
+  "l": 4
+ },
+ {
+  "h": "扫",
+  "p": "sǎo",
+  "en": "to sweep (with a brush or broom); to sweep away; to wipe out; to get rid of; to sweep (one's eyes etc) over; to scan",
+  "l": 4
+ },
+ {
+  "h": "色",
+  "p": "sè",
+  "en": "color; look; appearance",
+  "l": 4
+ },
+ {
+  "h": "色彩",
+  "p": "sè cǎi",
+  "en": "tint; coloring; coloration; (fig.) flavor; character",
+  "l": 4
+ },
+ {
+  "h": "森林",
+  "p": "sēn lín",
+  "en": "forest",
+  "vi": "rừng",
+  "l": 4
+ },
+ {
+  "h": "晒",
+  "p": "shài",
+  "en": "",
+  "l": 4
+ },
+ {
+  "h": "闪",
+  "p": "shǎn",
+  "en": "to dodge; to duck out of the way; to beat it",
+  "l": 4
+ },
+ {
+  "h": "闪电",
+  "p": "shǎn diàn",
+  "en": "lightning",
+  "l": 4
+ },
+ {
+  "h": "善良",
+  "p": "shàn liáng",
+  "en": "good and honest; kindhearted",
+  "l": 4
+ },
+ {
+  "h": "善于",
+  "p": "shàn yú",
+  "en": "to be good at; to be adept at",
+  "l": 4
+ },
+ {
+  "h": "伤害",
+  "p": "shāng hài",
+  "en": "to injure; to harm",
+  "l": 4
+ },
+ {
+  "h": "商务",
+  "p": "shāng wù",
+  "en": "commercial affairs; commercial; commerce",
+  "l": 4
+ },
+ {
+  "h": "赏",
+  "p": "shǎng",
+  "en": "to bestow (a reward); to give (to an inferior); to hand down",
+  "l": 4
+ },
+ {
+  "h": "上个月",
+  "p": "shàng gè yuè",
+  "en": "last month",
+  "l": 4
+ },
+ {
+  "h": "上楼",
+  "p": "shàng lóu",
+  "en": "to go upstairs",
+  "l": 4
+ },
+ {
+  "h": "上门",
+  "p": "shàng mén",
+  "en": "to drop in; to visit; to lock a door",
+  "l": 4
+ },
+ {
+  "h": "烧",
+  "p": "shāo",
+  "en": "to burn; to cook; to stew",
+  "l": 4
+ },
+ {
+  "h": "设施",
+  "p": "shè shī",
+  "en": "facilities; installation",
+  "l": 4
+ },
+ {
+  "h": "设置",
+  "p": "shè zhì",
+  "en": "to set up; to install",
+  "l": 4
+ },
+ {
+  "h": "申请",
+  "p": "shēn qǐng",
+  "en": "to apply for sth; application form",
+  "vi": "nộp đơn, xin",
+  "l": 4
+ },
+ {
+  "h": "身材",
+  "p": "shēn cái",
+  "en": "stature; build (height and weight); figure",
+  "l": 4
+ },
+ {
+  "h": "身份",
+  "p": "shēn fèn",
+  "en": "identity; aspect of one's identity (e.g. mayor, father, permanent resident); role; capacity (as in \"in his capacity as ...\" 以 + ... + 的身份); status (social, legal etc); position; rank",
+  "l": 4
+ },
+ {
+  "h": "身高",
+  "p": "shēn gāo",
+  "en": "(a person's) height",
+  "l": 4
+ },
+ {
+  "h": "深厚",
+  "p": "shēn hòu",
+  "en": "deep; profound",
+  "l": 4
+ },
+ {
+  "h": "神话",
+  "p": "shén huà",
+  "en": "legend; fairy tale; myth",
+  "l": 4
+ },
+ {
+  "h": "神秘",
+  "p": "shén mì",
+  "en": "mysterious; mystery",
+  "l": 4
+ },
+ {
+  "h": "甚至",
+  "p": "shèn zhì",
+  "en": "even; so much so that",
+  "vi": "thậm chí",
+  "l": 4
+ },
+ {
+  "h": "失败",
+  "p": "shī bài",
+  "en": "to be defeated; to lose",
+  "vi": "thất bại",
+  "l": 4
+ },
+ {
+  "h": "失望",
+  "p": "shī wàng",
+  "en": "disappointed; to lose hope",
+  "vi": "thất vọng",
+  "l": 4
+ },
+ {
+  "h": "失业",
+  "p": "shī yè",
+  "en": "unemployment; to lose one's job",
+  "l": 4
+ },
+ {
+  "h": "诗",
+  "p": "shī",
+  "en": "poem; poetry; verse",
+  "l": 4
+ },
+ {
+  "h": "诗人",
+  "p": "shī rén",
+  "en": "bard; poet",
+  "l": 4
+ },
+ {
+  "h": "湿",
+  "p": "shī",
+  "en": "moist; wet",
+  "l": 4
+ },
+ {
+  "h": "实施",
+  "p": "shí shī",
+  "en": "to implement; to carry out",
+  "l": 4
+ },
+ {
+  "h": "实用",
+  "p": "shí yòng",
+  "en": "to apply in practice; practical; functional; pragmatic; applied (science)",
+  "l": 4
+ },
+ {
+  "h": "食堂",
+  "p": "shí táng",
+  "en": "dining hall; cafeteria",
+  "l": 4
+ },
+ {
+  "h": "使劲",
+  "p": "shǐ jìn",
+  "en": "to exert all one's strength",
+  "l": 4
+ },
+ {
+  "h": "士兵",
+  "p": "shì bīng",
+  "en": "soldier",
+  "l": 4
+ },
+ {
+  "h": "市区",
+  "p": "shì qū",
+  "en": "urban district; downtown; city center",
+  "l": 4
+ },
+ {
+  "h": "似的",
+  "p": "shì de",
+  "en": "seems as if; rather like; Taiwan pr.",
+  "l": 4
+ },
+ {
+  "h": "事物",
+  "p": "shì wù",
+  "en": "thing; object",
+  "l": 4
+ },
+ {
+  "h": "事先",
+  "p": "shì xiān",
+  "en": "in advance; before the event; beforehand",
+  "l": 4
+ },
+ {
+  "h": "试卷",
+  "p": "shì juàn",
+  "en": "examination paper; test paper",
+  "l": 4
+ },
+ {
+  "h": "是否",
+  "p": "shì fǒu",
+  "en": "whether (or not); if; is or isn't",
+  "l": 4
+ },
+ {
+  "h": "收回",
+  "p": "shōu huí",
+  "en": "to regain; to retake; to take back",
+  "l": 4
+ },
+ {
+  "h": "收获",
+  "p": "shōu huò",
+  "en": "to harvest; to reap; to gain",
+  "l": 4
+ },
+ {
+  "h": "收益",
+  "p": "shōu yì",
+  "en": "earnings; profit",
+  "l": 4
+ },
+ {
+  "h": "手工",
+  "p": "shǒu gōng",
+  "en": "handwork; manual",
+  "l": 4
+ },
+ {
+  "h": "手里",
+  "p": "shǒu lǐ",
+  "en": "in hand; (a situation is) in sb's hands",
+  "l": 4
+ },
+ {
+  "h": "手术",
+  "p": "shǒu shù",
+  "en": "(surgical) operation; surgery",
+  "l": 4
+ },
+ {
+  "h": "手套",
+  "p": "shǒu tào",
+  "en": "glove; mitten",
+  "l": 4
+ },
+ {
+  "h": "守",
+  "p": "shǒu",
+  "en": "to guard; to defend; to keep watch",
+  "l": 4
+ },
+ {
+  "h": "首",
+  "p": "shǒu",
+  "en": "head; chief; first (occasion, thing etc)",
+  "l": 4
+ },
+ {
+  "h": "受不了",
+  "p": "shòu bù liǎo",
+  "en": "unbearable; unable to endure",
+  "vi": "không chịu nổi",
+  "l": 4
+ },
+ {
+  "h": "售货员",
+  "p": "shòu huò yuán",
+  "en": "salesperson",
+  "vi": "nhân viên bán hàng",
+  "l": 4
+ },
+ {
+  "h": "叔叔",
+  "p": "shū shu",
+  "en": "father's younger brother; uncle",
+  "vi": "chú, bác (em trai của bố)",
+  "l": 4
+ },
+ {
+  "h": "舒适",
+  "p": "shū shì",
+  "en": "cozy; snug",
+  "l": 4
+ },
+ {
+  "h": "熟练",
+  "p": "shú liàn",
+  "en": "practiced; proficient; skilled",
+  "l": 4
+ },
+ {
+  "h": "暑假",
+  "p": "shǔ jià",
+  "en": "summer vacation",
+  "l": 4
+ },
+ {
+  "h": "树林",
+  "p": "Shù lín",
+  "en": "Shulin city in New Taipei City 新北市, Taiwan",
+  "l": 4
+ },
+ {
+  "h": "树叶",
+  "p": "shù yè",
+  "en": "tree leaves",
+  "l": 4
+ },
+ {
+  "h": "数据",
+  "p": "shù jù",
+  "en": "data",
+  "l": 4
+ },
+ {
+  "h": "数码",
+  "p": "shù mǎ",
+  "en": "number; numerals; figures",
+  "l": 4
+ },
+ {
+  "h": "刷",
+  "p": "shuā",
+  "en": "to brush; to paint",
+  "vi": "đánh (răng), chà, quét",
+  "l": 4
+ },
+ {
+  "h": "刷牙",
+  "p": "shuā yá",
+  "en": "to brush one's teeth",
+  "l": 4
+ },
+ {
+  "h": "刷子",
+  "p": "shuā zi",
+  "en": "brush; scrub",
+  "l": 4
+ },
+ {
+  "h": "帅",
+  "p": "shuài",
+  "en": "handsome; cool",
+  "vi": "đẹp trai, bảnh bao",
+  "l": 4
+ },
+ {
+  "h": "帅哥",
+  "p": "shuài gē",
+  "en": "handsome guy; lady-killer; handsome (form of address)",
+  "l": 4
+ },
+ {
+  "h": "率先",
+  "p": "shuài xiān",
+  "en": "to take the lead; to show initiative",
+  "l": 4
+ },
+ {
+  "h": "睡着",
+  "p": "shuì zháo",
+  "en": "to fall asleep",
+  "l": 4
+ },
+ {
+  "h": "顺序",
+  "p": "shùn xù",
+  "en": "sequence; order",
+  "vi": "thứ tự",
+  "l": 4
+ },
+ {
+  "h": "说不定",
+  "p": "shuō bu dìng",
+  "en": "can't say for sure; maybe",
+  "l": 4
+ },
+ {
+  "h": "说服",
+  "p": "shuō fú",
+  "en": "to persuade; to convince; to talk sb over",
+  "l": 4
+ },
+ {
+  "h": "思考",
+  "p": "sī kǎo",
+  "en": "to reflect on; to ponder over",
+  "l": 4
+ },
+ {
+  "h": "似乎",
+  "p": "sì hū",
+  "en": "it seems; seemingly; as if",
+  "l": 4
+ },
+ {
+  "h": "松",
+  "p": "sōng",
+  "en": "pine",
+  "l": 4
+ },
+ {
+  "h": "松树",
+  "p": "sōng shù",
+  "en": "pine; pine tree",
+  "l": 4
+ },
+ {
+  "h": "塑料",
+  "p": "sù liào",
+  "en": "plastic; plastics (general term for synthetic polymer materials)",
+  "l": 4
+ },
+ {
+  "h": "塑料袋",
+  "p": "sù liào dài",
+  "en": "plastic bag",
+  "vi": "túi nhựa",
+  "l": 4
+ },
+ {
+  "h": "酸",
+  "p": "suān",
+  "en": "sour; tart",
+  "vi": "chua",
+  "l": 4
+ },
+ {
+  "h": "酸奶",
+  "p": "suān nǎi",
+  "en": "yogurt",
+  "l": 4
+ },
+ {
+  "h": "随手",
+  "p": "suí shǒu",
+  "en": "conveniently; without extra trouble; while doing it",
+  "l": 4
+ },
+ {
+  "h": "孙女",
+  "p": "sūn nǚ",
+  "en": "son's daughter; granddaughter",
+  "l": 4
+ },
+ {
+  "h": "孙子",
+  "p": "sūn zi",
+  "en": "grandson",
+  "vi": "cháu trai (con của con trai)",
+  "l": 4
+ },
+ {
+  "h": "缩短",
+  "p": "suō duǎn",
+  "en": "to shorten; to reduce; to curtail",
+  "l": 4
+ },
+ {
+  "h": "缩小",
+  "p": "suō xiǎo",
+  "en": "to reduce; to decrease; to shrink",
+  "l": 4
+ },
+ {
+  "h": "台阶",
+  "p": "tái jiē",
+  "en": "steps; flight of steps; step (over obstacle)",
+  "l": 4
+ },
+ {
+  "h": "台上",
+  "p": "tái shàng",
+  "en": "on stage",
+  "l": 4
+ },
+ {
+  "h": "躺",
+  "p": "tǎng",
+  "en": "to recline; to lie down",
+  "vi": "nằm",
+  "l": 4
+ },
+ {
+  "h": "套餐",
+  "p": "tào cān",
+  "en": "set meal; (fig.) product or service package (e.g. for a cell phone subscription)",
+  "l": 4
+ },
+ {
+  "h": "特价",
+  "p": "tè jià",
+  "en": "special price",
+  "l": 4
+ },
+ {
+  "h": "特殊",
+  "p": "tè shū",
+  "en": "special; particular; unusual",
+  "l": 4
+ },
+ {
+  "h": "特征",
+  "p": "tè zhēng",
+  "en": "characteristic; diagnostic property; distinctive feature",
+  "l": 4
+ },
+ {
+  "h": "提供",
+  "p": "tí gōng",
+  "en": "to offer; to supply",
+  "vi": "cung cấp",
+  "l": 4
+ },
+ {
+  "h": "提醒",
+  "p": "tí xǐng",
+  "en": "to remind; to call attention to",
+  "vi": "nhắc nhở",
+  "l": 4
+ },
+ {
+  "h": "体操",
+  "p": "tǐ cāo",
+  "en": "gymnastic; gymnastics",
+  "l": 4
+ },
+ {
+  "h": "体检",
+  "p": "tǐ jiǎn",
+  "en": "abbr. for 體格檢查",
+  "l": 4
+ },
+ {
+  "h": "体重",
+  "p": "tǐ zhòng",
+  "en": "body weight",
+  "l": 4
+ },
+ {
+  "h": "替",
+  "p": "tì",
+  "en": "to substitute for; to take the place of; to replace",
+  "l": 4
+ },
+ {
+  "h": "替代",
+  "p": "tì dài",
+  "en": "to substitute for; to replace; to supersede",
+  "l": 4
+ },
+ {
+  "h": "天真",
+  "p": "tiān zhēn",
+  "en": "naive; innocent; artless",
+  "l": 4
+ },
+ {
+  "h": "填",
+  "p": "tián",
+  "en": "to fill or stuff; (of a form etc) to fill in",
+  "l": 4
+ },
+ {
+  "h": "填空",
+  "p": "tián kòng",
+  "en": "to fill a job vacancy; to fill in a blank",
+  "vi": "điền chỗ trống",
+  "l": 4
+ },
+ {
+  "h": "挑",
+  "p": "tiāo",
+  "en": "to carry on a shoulder pole; to choose; to pick",
+  "l": 4
+ },
+ {
+  "h": "挑选",
+  "p": "tiāo xuǎn",
+  "en": "to choose; to select",
+  "l": 4
+ },
+ {
+  "h": "调皮",
+  "p": "tiáo pí",
+  "en": "naughty; mischievous; unruly",
+  "l": 4
+ },
+ {
+  "h": "挑战",
+  "p": "tiǎo zhàn",
+  "en": "to challenge; challenge",
+  "l": 4
+ },
+ {
+  "h": "贴",
+  "p": "tiē",
+  "en": "to stick; to paste; to post (e.g. on a blog)",
+  "l": 4
+ },
+ {
+  "h": "停下",
+  "p": "tíng xià",
+  "en": "to stop",
+  "l": 4
+ },
+ {
+  "h": "挺",
+  "p": "tǐng",
+  "en": "quite; very",
+  "vi": "khá, khá là",
+  "l": 4
+ },
+ {
+  "h": "通知书",
+  "p": "tōng zhī shū",
+  "en": "written notice",
+  "l": 4
+ },
+ {
+  "h": "同情",
+  "p": "tóng qíng",
+  "en": "to sympathize with; sympathy",
+  "vi": "thông cảm, đồng cảm",
+  "l": 4
+ },
+ {
+  "h": "童话",
+  "p": "tóng huà",
+  "en": "children's fairy tales",
+  "l": 4
+ },
+ {
+  "h": "童年",
+  "p": "tóng nián",
+  "en": "childhood",
+  "l": 4
+ },
+ {
+  "h": "统计",
+  "p": "tǒng jì",
+  "en": "statistics; to count; to add up",
+  "l": 4
+ },
+ {
+  "h": "统一",
+  "p": "Tǒng yī",
+  "en": "7-Eleven (convenience store chain)",
+  "l": 4
+ },
+ {
+  "h": "痛快",
+  "p": "tòng kuài",
+  "en": "delighted; to one's heart's content; straightforward",
+  "l": 4
+ },
+ {
+  "h": "投",
+  "p": "tóu",
+  "en": "to throw (sth in a specific direction: ball, javelin, grenade etc); to cast (a ballot); to cast (a glance, a shadow etc)",
+  "l": 4
+ },
+ {
+  "h": "投入",
+  "p": "tóu rù",
+  "en": "to throw into; to put into; to throw oneself into",
+  "l": 4
+ },
+ {
+  "h": "投诉",
+  "p": "tóu sù",
+  "en": "to lodge a complaint",
+  "l": 4
+ },
+ {
+  "h": "投资",
+  "p": "tóu zī",
+  "en": "investment; to invest",
+  "l": 4
+ },
+ {
+  "h": "透",
+  "p": "tòu",
+  "en": "to penetrate; to seep through; to tell secretly; to leak; thoroughly; through and through",
+  "l": 4
+ },
+ {
+  "h": "透明",
+  "p": "tòu míng",
+  "en": "transparent; (fig.) transparent; open to scrutiny",
+  "l": 4
+ },
+ {
+  "h": "图案",
+  "p": "tú àn",
+  "en": "design; pattern",
+  "l": 4
+ },
+ {
+  "h": "途中",
+  "p": "tú zhōng",
+  "en": "en route",
+  "l": 4
+ },
+ {
+  "h": "土地",
+  "p": "tǔ dì",
+  "en": "land; soil; territory",
+  "l": 4
+ },
+ {
+  "h": "推迟",
+  "p": "tuī chí",
+  "en": "to postpone; to put off",
+  "vi": "hoãn lại",
+  "l": 4
+ },
+ {
+  "h": "推销",
+  "p": "tuī xiāo",
+  "en": "to market; to sell",
+  "l": 4
+ },
+ {
+  "h": "脱",
+  "p": "tuō",
+  "en": "to shed; to take off",
+  "vi": "cởi, tuột",
+  "l": 4
+ },
+ {
+  "h": "袜子",
+  "p": "wà zi",
+  "en": "socks; stockings",
+  "vi": "tất, vớ",
+  "l": 4
+ },
+ {
+  "h": "外汇",
+  "p": "wài huì",
+  "en": "foreign (currency) exchange",
+  "l": 4
+ },
+ {
+  "h": "外交官",
+  "p": "wài jiāo guān",
+  "en": "diplomat",
+  "l": 4
+ },
+ {
+  "h": "外套",
+  "p": "wài tào",
+  "en": "coat; jacket",
+  "l": 4
+ },
+ {
+  "h": "弯",
+  "p": "wān",
+  "en": "to bend; bent; a bend; a turn (in a road etc)",
+  "l": 4
+ },
+ {
+  "h": "晚点",
+  "p": "wǎn diǎn",
+  "en": "(of trains etc) late; delayed; behind schedule",
+  "l": 4
+ },
+ {
+  "h": "万一",
+  "p": "wàn yī",
+  "en": "just in case; if by any chance; contingency",
+  "l": 4
+ },
+ {
+  "h": "王",
+  "p": "wáng",
+  "en": "king or monarch; best or strongest of its type; grand",
+  "l": 4
+ },
+ {
+  "h": "网络",
+  "p": "Wǎng luò",
+  "en": "Internet",
+  "l": 4
+ },
+ {
+  "h": "网址",
+  "p": "wǎng zhǐ",
+  "en": "website; web address; URL",
+  "l": 4
+ },
+ {
+  "h": "微笑",
+  "p": "wēi xiào",
+  "en": "smile; to smile",
+  "l": 4
+ },
+ {
+  "h": "微信",
+  "p": "Wēi xìn",
+  "en": "Weixin or WeChat (mobile text and voice messaging service developed by Tencent 騰訊",
+  "l": 4
+ },
+ {
+  "h": "围巾",
+  "p": "wéi jīn",
+  "en": "scarf; shawl",
+  "l": 4
+ },
+ {
+  "h": "维持",
+  "p": "wéi chí",
+  "en": "to keep; to maintain; to preserve",
+  "l": 4
+ },
+ {
+  "h": "维护",
+  "p": "wéi hù",
+  "en": "to defend; to safeguard; to protect",
+  "l": 4
+ },
+ {
+  "h": "维修",
+  "p": "wéi xiū",
+  "en": "maintenance (of equipment); to protect and maintain",
+  "l": 4
+ },
+ {
+  "h": "尾巴",
+  "p": "wěi ba",
+  "en": "tail; colloquial pr.",
+  "l": 4
+ },
+ {
+  "h": "未必",
+  "p": "wèi bì",
+  "en": "not necessarily; maybe not",
+  "l": 4
+ },
+ {
+  "h": "未来",
+  "p": "wèi lái",
+  "en": "future; tomorrow; approaching",
+  "l": 4
+ },
+ {
+  "h": "位于",
+  "p": "wèi yú",
+  "en": "to be located at; to be situated at; to lie",
+  "l": 4
+ },
+ {
+  "h": "位置",
+  "p": "wèi zhi",
+  "en": "position; place; seat",
+  "l": 4
+ },
+ {
+  "h": "味儿",
+  "p": "wèi r",
+  "en": "taste",
+  "l": 4
+ },
+ {
+  "h": "喂",
+  "p": "wéi",
+  "en": "hello",
+  "vi": "alo (khi nghe điện thoại)",
+  "l": 4
+ },
+ {
+  "h": "稳",
+  "p": "wěn",
+  "en": "settled; steady; stable",
+  "l": 4
+ },
+ {
+  "h": "稳定",
+  "p": "wěn dìng",
+  "en": "steady; stable; stability",
+  "l": 4
+ },
+ {
+  "h": "问候",
+  "p": "wèn hòu",
+  "en": "to give one's respects; to send a greeting; (fig.) (coll.) to make offensive reference to (somebody dear to the person to whom one is speaking)",
+  "l": 4
+ },
+ {
+  "h": "无",
+  "p": "wú",
+  "en": "not to have; no",
+  "vi": "không có",
+  "l": 4
+ },
+ {
+  "h": "无法",
+  "p": "wú fǎ",
+  "en": "unable to; incapable of",
+  "l": 4
+ },
+ {
+  "h": "无聊",
+  "p": "wú liáo",
+  "en": "bored; boring",
+  "vi": "buồn chán, vô vị",
+  "l": 4
+ },
+ {
+  "h": "无论",
+  "p": "wú lùn",
+  "en": "no matter what or how; regardless of whether...",
+  "vi": "bất kể, dù",
+  "l": 4
+ },
+ {
+  "h": "无数",
+  "p": "wú shù",
+  "en": "countless; numberless; innumerable",
+  "l": 4
+ },
+ {
+  "h": "无所谓",
+  "p": "wú suǒ wèi",
+  "en": "to be indifferent; not to matter; cannot be said to be",
+  "l": 4
+ },
+ {
+  "h": "无限",
+  "p": "wú xiàn",
+  "en": "unlimited; unbounded",
+  "l": 4
+ },
+ {
+  "h": "五颜六色",
+  "p": "wǔ yán liù sè",
+  "en": "multicolored; every color under the sun",
+  "l": 4
+ },
+ {
+  "h": "误会",
+  "p": "wù huì",
+  "en": "to misunderstand; to mistake",
+  "vi": "hiểu lầm",
+  "l": 4
+ },
+ {
+  "h": "西瓜",
+  "p": "xī guā",
+  "en": "watermelon",
+  "vi": "dưa hấu",
+  "l": 4
+ },
+ {
+  "h": "吸",
+  "p": "xī",
+  "en": "to breathe; to suck in; to absorb",
+  "l": 4
+ },
+ {
+  "h": "吸管",
+  "p": "xī guǎn",
+  "en": "(drinking) straw; pipette; eyedropper",
+  "l": 4
+ },
+ {
+  "h": "吸收",
+  "p": "xī shōu",
+  "en": "to absorb; to assimilate; to ingest",
+  "l": 4
+ },
+ {
+  "h": "吸烟",
+  "p": "xī yān",
+  "en": "to smoke",
+  "l": 4
+ },
+ {
+  "h": "吸引",
+  "p": "xī yǐn",
+  "en": "to attract; to appeal to",
+  "vi": "thu hút",
+  "l": 4
+ },
+ {
+  "h": "喜爱",
+  "p": "xǐ ài",
+  "en": "to like; to love; to be fond of",
+  "l": 4
+ },
+ {
+  "h": "系列",
+  "p": "xì liè",
+  "en": "series; set",
+  "l": 4
+ },
+ {
+  "h": "系统",
+  "p": "xì tǒng",
+  "en": "system",
+  "l": 4
+ },
+ {
+  "h": "细",
+  "p": "xì",
+  "en": "thin or slender; finely particulate; thin and soft",
+  "l": 4
+ },
+ {
+  "h": "细节",
+  "p": "xì jié",
+  "en": "details; particulars",
+  "l": 4
+ },
+ {
+  "h": "细致",
+  "p": "xì zhì",
+  "en": "delicate; fine; careful",
+  "l": 4
+ },
+ {
+  "h": "下个月",
+  "p": "xià gè yuè",
+  "en": "next month",
+  "l": 4
+ },
+ {
+  "h": "下降",
+  "p": "xià jiàng",
+  "en": "to decline; to drop; to fall",
+  "l": 4
+ },
+ {
+  "h": "下楼",
+  "p": "xià lóu",
+  "en": "to go downstairs",
+  "l": 4
+ },
+ {
+  "h": "下载",
+  "p": "xià zǎi",
+  "en": "to download; also pr.",
+  "l": 4
+ },
+ {
+  "h": "夏季",
+  "p": "xià jì",
+  "en": "summer",
+  "l": 4
+ },
+ {
+  "h": "鲜",
+  "p": "xiān",
+  "en": "fresh; bright (in color); delicious",
+  "l": 4
+ },
+ {
+  "h": "鲜花",
+  "p": "xiān huā",
+  "en": "flower; fresh flowers",
+  "l": 4
+ },
+ {
+  "h": "鲜明",
+  "p": "xiān míng",
+  "en": "(of colors) bright; fresh and clear; clear-cut; distinct",
+  "l": 4
+ },
+ {
+  "h": "咸",
+  "p": "xián",
+  "en": "salty",
+  "vi": "mặn",
+  "l": 4
+ },
+ {
+  "h": "显著",
+  "p": "xiǎn zhù",
+  "en": "outstanding; notable; remarkable",
+  "l": 4
+ },
+ {
+  "h": "县",
+  "p": "xiàn",
+  "en": "county",
+  "l": 4
+ },
+ {
+  "h": "限制",
+  "p": "xiàn zhì",
+  "en": "to restrict; to limit",
+  "vi": "hạn chế",
+  "l": 4
+ },
+ {
+  "h": "相处",
+  "p": "xiāng chǔ",
+  "en": "to be in contact (with sb); to associate; to interact",
+  "l": 4
+ },
+ {
+  "h": "相反",
+  "p": "xiāng fǎn",
+  "en": "opposite; contrary",
+  "vi": "ngược lại",
+  "l": 4
+ },
+ {
+  "h": "箱",
+  "p": "xiāng",
+  "en": "box; trunk; chest",
+  "l": 4
+ },
+ {
+  "h": "箱子",
+  "p": "xiāng zi",
+  "en": "suitcase; chest; box",
+  "l": 4
+ },
+ {
+  "h": "想念",
+  "p": "xiǎng niàn",
+  "en": "to miss; to remember with longing; to long to see again",
+  "l": 4
+ },
+ {
+  "h": "想象",
+  "p": "xiǎng xiàng",
+  "en": "to imagine; to envision; imagination",
+  "l": 4
+ },
+ {
+  "h": "项",
+  "p": "xiàng",
+  "en": "back of neck; item; thing",
+  "l": 4
+ },
+ {
+  "h": "项目",
+  "p": "xiàng mù",
+  "en": "item; project; (sports) event",
+  "l": 4
+ },
+ {
+  "h": "相片",
+  "p": "xiàng piàn",
+  "en": "image; photograph",
+  "l": 4
+ },
+ {
+  "h": "消化",
+  "p": "xiāo huà",
+  "en": "to digest (food); (fig.) to absorb (information etc); to assimilate; to process",
+  "l": 4
+ },
+ {
+  "h": "销售",
+  "p": "xiāo shòu",
+  "en": "to sell; to market; sales (representative, agreement etc)",
+  "l": 4
+ },
+ {
+  "h": "小吃",
+  "p": "xiǎo chī",
+  "en": "street food; snack",
+  "l": 4
+ },
+ {
+  "h": "小伙子",
+  "p": "xiǎo huǒ zi",
+  "en": "young man; young guy; lad",
+  "l": 4
+ },
+ {
+  "h": "小型",
+  "p": "xiǎo xíng",
+  "en": "small scale; small size",
+  "l": 4
+ },
+ {
+  "h": "效率",
+  "p": "xiào lǜ",
+  "en": "efficiency",
+  "l": 4
+ },
+ {
+  "h": "些",
+  "p": "xiē",
+  "en": "classifier indicating a small amount or small number greate…",
+  "vi": "một ít, vài (lượng từ)",
+  "l": 4
+ },
+ {
+  "h": "心理",
+  "p": "xīn lǐ",
+  "en": "psychology; mentality",
+  "l": 4
+ },
+ {
+  "h": "新郎",
+  "p": "xīn láng",
+  "en": "bridegroom; groom",
+  "l": 4
+ },
+ {
+  "h": "新娘",
+  "p": "xīn niáng",
+  "en": "bride",
+  "l": 4
+ },
+ {
+  "h": "新鲜",
+  "p": "xīn xiān",
+  "en": "fresh; freshness",
+  "vi": "tươi, mới mẻ",
+  "l": 4
+ },
+ {
+  "h": "新型",
+  "p": "xīn xíng",
+  "en": "new type; new kind",
+  "l": 4
+ },
+ {
+  "h": "兴奋",
+  "p": "xīng fèn",
+  "en": "excited; excitement",
+  "vi": "phấn khích",
+  "l": 4
+ },
+ {
+  "h": "形容",
+  "p": "xíng róng",
+  "en": "to describe; (literary) countenance; appearance",
+  "l": 4
+ },
+ {
+  "h": "形势",
+  "p": "xíng shì",
+  "en": "circumstances; situation; terrain",
+  "l": 4
+ },
+ {
+  "h": "型",
+  "p": "xíng",
+  "en": "mold; type; style",
+  "l": 4
+ },
+ {
+  "h": "型号",
+  "p": "xíng hào",
+  "en": "model (particular version of a manufactured article); type (product specification in terms of color, size etc)",
+  "l": 4
+ },
+ {
+  "h": "醒",
+  "p": "xǐng",
+  "en": "to wake up; to be awake",
+  "vi": "tỉnh dậy",
+  "l": 4
+ },
+ {
+  "h": "兴趣",
+  "p": "xìng qù",
+  "en": "interest; interest",
+  "vi": "sở thích, hứng thú",
+  "l": 4
+ },
+ {
+  "h": "性质",
+  "p": "xìng zhì",
+  "en": "nature; characteristic",
+  "l": 4
+ },
+ {
+  "h": "兄弟",
+  "p": "xiōng dì",
+  "en": "brothers; younger brother; I, me (humble term used by men in public speech)",
+  "l": 4
+ },
+ {
+  "h": "胸部",
+  "p": "xiōng bù",
+  "en": "chest; bosom",
+  "l": 4
+ },
+ {
+  "h": "修理",
+  "p": "xiū lǐ",
+  "en": "to repair; to fix; to prune",
+  "l": 4
+ },
+ {
+  "h": "选择",
+  "p": "xuǎn zé",
+  "en": "to select; to pick",
+  "vi": "lựa chọn",
+  "l": 4
+ },
+ {
+  "h": "学分",
+  "p": "xué fēn",
+  "en": "course credit",
+  "l": 4
+ },
+ {
+  "h": "学年",
+  "p": "xué nián",
+  "en": "academic year",
+  "l": 4
+ },
+ {
+  "h": "学时",
+  "p": "xué shí",
+  "en": "class hour; period",
+  "l": 4
+ },
+ {
+  "h": "学术",
+  "p": "xué shù",
+  "en": "learning; science; academic",
+  "l": 4
+ },
+ {
+  "h": "学问",
+  "p": "xué wèn",
+  "en": "learning; knowledge; scholarship; a body of specialized knowledge (; (fig.) any activity that demands expertise, skill or experience (e.g. gathering forensic evidence, selecting clothing, managing relationships)",
+  "l": 4
+ },
+ {
+  "h": "寻找",
+  "p": "xún zhǎo",
+  "en": "to seek; to look for",
+  "l": 4
+ },
+ {
+  "h": "迅速",
+  "p": "xùn sù",
+  "en": "rapid; speedy; fast",
+  "l": 4
+ },
+ {
+  "h": "牙",
+  "p": "yá",
+  "en": "tooth; ivory",
+  "l": 4
+ },
+ {
+  "h": "牙刷",
+  "p": "yá shuā",
+  "en": "toothbrush",
+  "l": 4
+ },
+ {
+  "h": "亚运会",
+  "p": "Yà yùn huì",
+  "en": "Asian Games",
+  "l": 4
+ },
+ {
+  "h": "呀",
+  "p": "ya",
+  "en": "(particle equivalent to 啊 after a vowel, expressing surpris…",
+  "vi": "a, ồ (trợ từ)",
+  "l": 4
+ },
+ {
+  "h": "延长",
+  "p": "Yán cháng",
+  "en": "Yanchang county in Yan'an 延安, Shaanxi",
+  "l": 4
+ },
+ {
+  "h": "延期",
+  "p": "yán qī",
+  "en": "to delay; to extend; to postpone",
+  "l": 4
+ },
+ {
+  "h": "延续",
+  "p": "yán xù",
+  "en": "to continue; to go on; to last",
+  "l": 4
+ },
+ {
+  "h": "严",
+  "p": "yán",
+  "en": "tight (closely sealed); stern; strict",
+  "l": 4
+ },
+ {
+  "h": "严格",
+  "p": "yán gé",
+  "en": "strict; stringent",
+  "vi": "nghiêm ngặt",
+  "l": 4
+ },
+ {
+  "h": "严重",
+  "p": "yán zhòng",
+  "en": "grave; serious",
+  "vi": "nghiêm trọng",
+  "l": 4
+ },
+ {
+  "h": "研究",
+  "p": "yán jiū",
+  "en": "research; a study; to research",
+  "l": 4
+ },
+ {
+  "h": "研究生",
+  "p": "yán jiū shēng",
+  "en": "graduate student; postgraduate student",
+  "vi": "nghiên cứu sinh",
+  "l": 4
+ },
+ {
+  "h": "研制",
+  "p": "yán zhì",
+  "en": "to research and manufacture; to research and to develop",
+  "l": 4
+ },
+ {
+  "h": "盐",
+  "p": "yán",
+  "en": "salt",
+  "vi": "muối",
+  "l": 4
+ },
+ {
+  "h": "眼镜",
+  "p": "yǎn jìng",
+  "en": "spectacles; eyeglasses",
+  "vi": "kính mắt",
+  "l": 4
+ },
+ {
+  "h": "眼泪",
+  "p": "yǎn lèi",
+  "en": "tear; teardrop",
+  "l": 4
+ },
+ {
+  "h": "眼里",
+  "p": "yǎn lǐ",
+  "en": "in one's eyes",
+  "l": 4
+ },
+ {
+  "h": "演讲",
+  "p": "yǎn jiǎng",
+  "en": "to give a lecture; to make a speech",
+  "l": 4
+ },
+ {
+  "h": "阳台",
+  "p": "yáng tái",
+  "en": "balcony; porch",
+  "l": 4
+ },
+ {
+  "h": "养成",
+  "p": "yǎng chéng",
+  "en": "to cultivate; to raise",
+  "vi": "hình thành (thói quen)",
+  "l": 4
+ },
+ {
+  "h": "腰",
+  "p": "yāo",
+  "en": "the waist and lower back; kidney of an animal (as food); the waist of trousers or a skirt",
+  "l": 4
+ },
+ {
+  "h": "摇",
+  "p": "yáo",
+  "en": "to shake; to rock; to row",
+  "l": 4
+ },
+ {
+  "h": "药物",
+  "p": "yào wù",
+  "en": "medicaments; pharmaceuticals; medication",
+  "l": 4
+ },
+ {
+  "h": "要",
+  "p": "yào",
+  "en": "to want; to need; must",
+  "vi": "muốn, cần, phải",
+  "l": 4
+ },
+ {
+  "h": "业余",
+  "p": "yè yú",
+  "en": "in one's spare time; outside working hours; amateur (historian etc)",
+  "l": 4
+ },
+ {
+  "h": "叶子",
+  "p": "yè zi",
+  "en": "leaf; marijuana",
+  "vi": "lá cây",
+  "l": 4
+ },
+ {
+  "h": "医疗",
+  "p": "yī liáo",
+  "en": "medical treatment",
+  "l": 4
+ },
+ {
+  "h": "医学",
+  "p": "yī xué",
+  "en": "medicine; medical science; study of medicine",
+  "l": 4
+ },
+ {
+  "h": "依靠",
+  "p": "yī kào",
+  "en": "to rely on sth (for support etc); to depend on",
+  "l": 4
+ },
+ {
+  "h": "依然",
+  "p": "yī rán",
+  "en": "still; as before",
+  "l": 4
+ },
+ {
+  "h": "一律",
+  "p": "yī lǜ",
+  "en": "same; identical; uniformly; all; without exception",
+  "l": 4
+ },
+ {
+  "h": "一再",
+  "p": "yī zài",
+  "en": "repeatedly",
+  "l": 4
+ },
+ {
+  "h": "一致",
+  "p": "yī zhì",
+  "en": "consistent; unanimous; in agreement; together; in unison",
+  "l": 4
+ },
+ {
+  "h": "移",
+  "p": "yí",
+  "en": "to move; to shift; to change",
+  "l": 4
+ },
+ {
+  "h": "移动",
+  "p": "yí dòng",
+  "en": "to move; movement; migration",
+  "l": 4
+ },
+ {
+  "h": "移民",
+  "p": "yí mín",
+  "en": "to immigrate; to migrate; emigrant",
+  "l": 4
+ },
+ {
+  "h": "遗产",
+  "p": "yí chǎn",
+  "en": "heritage; legacy; inheritance",
+  "l": 4
+ },
+ {
+  "h": "遗传",
+  "p": "yí chuán",
+  "en": "heredity; to inherit (a trait); to pass on (to one's offspring)",
+  "l": 4
+ },
+ {
+  "h": "疑问",
+  "p": "yí wèn",
+  "en": "question; interrogation; doubt",
+  "l": 4
+ },
+ {
+  "h": "以及",
+  "p": "yǐ jí",
+  "en": "and; as well as",
+  "l": 4
+ },
+ {
+  "h": "以内",
+  "p": "yǐ nèi",
+  "en": "within; less than",
+  "l": 4
+ },
+ {
+  "h": "一般来说",
+  "p": "yī bān lái shuō",
+  "en": "generally speaking",
+  "l": 4
+ },
+ {
+  "h": "义务",
+  "p": "yì wù",
+  "en": "duty; obligation (; volunteer (work etc)",
+  "l": 4
+ },
+ {
+  "h": "议论",
+  "p": "yì lùn",
+  "en": "to comment; to talk about; to discuss",
+  "l": 4
+ },
+ {
+  "h": "引",
+  "p": "yǐn",
+  "en": "to draw (e.g. a bow); to pull; to stretch sth",
+  "l": 4
+ },
+ {
+  "h": "引导",
+  "p": "yǐn dǎo",
+  "en": "to guide; to lead (around); to conduct",
+  "l": 4
+ },
+ {
+  "h": "引进",
+  "p": "yǐn jìn",
+  "en": "to recommend; to introduce (from outside)",
+  "l": 4
+ },
+ {
+  "h": "引起",
+  "p": "yǐn qǐ",
+  "en": "to give rise to; to lead to",
+  "vi": "gây ra",
+  "l": 4
+ },
+ {
+  "h": "应",
+  "p": "yīng",
+  "en": "to agree (to do sth); should; ought to",
+  "l": 4
+ },
+ {
+  "h": "英勇",
+  "p": "yīng yǒng",
+  "en": "heroic; gallant; valiant",
+  "l": 4
+ },
+ {
+  "h": "营业",
+  "p": "yíng yè",
+  "en": "to do business; to trade",
+  "l": 4
+ },
+ {
+  "h": "赢得",
+  "p": "yíng dé",
+  "en": "to win; to gain",
+  "l": 4
+ },
+ {
+  "h": "影子",
+  "p": "yǐng zi",
+  "en": "shadow; reflection; (fig.) hint",
+  "l": 4
+ },
+ {
+  "h": "勇敢",
+  "p": "yǒng gǎn",
+  "en": "brave; courageous",
+  "vi": "dũng cảm",
+  "l": 4
+ },
+ {
+  "h": "勇气",
+  "p": "yǒng qì",
+  "en": "courage",
+  "l": 4
+ },
+ {
+  "h": "用途",
+  "p": "yòng tú",
+  "en": "use; application",
+  "l": 4
+ },
+ {
+  "h": "优良",
+  "p": "yōu liáng",
+  "en": "fine; good; first-rate",
+  "l": 4
+ },
+ {
+  "h": "优美",
+  "p": "yōu měi",
+  "en": "graceful; fine; elegant",
+  "l": 4
+ },
+ {
+  "h": "优秀",
+  "p": "yōu xiù",
+  "en": "outstanding; excellent",
+  "vi": "xuất sắc",
+  "l": 4
+ },
+ {
+  "h": "邮局",
+  "p": "yóu jú",
+  "en": "post office",
+  "l": 4
+ },
+ {
+  "h": "有劲儿",
+  "p": "yǒu jìnr",
+  "en": "energetic; strong",
+  "l": 4
+ },
+ {
+  "h": "有趣",
+  "p": "yǒu qù",
+  "en": "interesting; fascinating",
+  "vi": "thú vị",
+  "l": 4
+ },
+ {
+  "h": "有限",
+  "p": "yǒu xiàn",
+  "en": "limited; finite",
+  "l": 4
+ },
+ {
+  "h": "幼儿园",
+  "p": "yòu ér yuán",
+  "en": "kindergarten; nursery school",
+  "l": 4
+ },
+ {
+  "h": "于是",
+  "p": "yú shì",
+  "en": "thereupon; as a result",
+  "vi": "thế là, vì vậy",
+  "l": 4
+ },
+ {
+  "h": "语法",
+  "p": "yǔ fǎ",
+  "en": "grammar",
+  "vi": "ngữ pháp",
+  "l": 4
+ },
+ {
+  "h": "语音",
+  "p": "yǔ yīn",
+  "en": "speech sounds; pronunciation; colloquial (rather than literary) pronunciation of a Chinese character",
+  "l": 4
+ },
+ {
+  "h": "玉",
+  "p": "yù",
+  "en": "jade",
+  "l": 4
+ },
+ {
+  "h": "玉米",
+  "p": "yù mǐ",
+  "en": "corn; maize",
+  "l": 4
+ },
+ {
+  "h": "预测",
+  "p": "yù cè",
+  "en": "to forecast; to predict",
+  "l": 4
+ },
+ {
+  "h": "预订",
+  "p": "yù dìng",
+  "en": "to place an order; to book ahead",
+  "l": 4
+ },
+ {
+  "h": "遇",
+  "p": "yù",
+  "en": "to encounter; to happen upon; to meet unplanned; to treat; to receive",
+  "l": 4
+ },
+ {
+  "h": "遇到",
+  "p": "yù dào",
+  "en": "to meet; to run into",
+  "vi": "gặp phải",
+  "l": 4
+ },
+ {
+  "h": "遇见",
+  "p": "yù jiàn",
+  "en": "to meet",
+  "l": 4
+ },
+ {
+  "h": "原料",
+  "p": "yuán liào",
+  "en": "raw material",
+  "l": 4
+ },
+ {
+  "h": "原则",
+  "p": "yuán zé",
+  "en": "principle; doctrine",
+  "l": 4
+ },
+ {
+  "h": "圆",
+  "p": "yuán",
+  "en": "circle; round",
+  "vi": "tròn",
+  "l": 4
+ },
+ {
+  "h": "圆满",
+  "p": "yuán mǎn",
+  "en": "satisfactory; consummate; perfect",
+  "l": 4
+ },
+ {
+  "h": "约会",
+  "p": "yuē huì",
+  "en": "appointment; engagement",
+  "vi": "hẹn hò, cuộc hẹn",
+  "l": 4
+ },
+ {
+  "h": "月底",
+  "p": "yuè dǐ",
+  "en": "end of the month",
+  "l": 4
+ },
+ {
+  "h": "阅读",
+  "p": "yuè dú",
+  "en": "to read; reading",
+  "vi": "đọc",
+  "l": 4
+ },
+ {
+  "h": "运动会",
+  "p": "yùn dòng huì",
+  "en": "sports competition",
+  "l": 4
+ },
+ {
+  "h": "运动员",
+  "p": "yùn dòng yuán",
+  "en": "athlete",
+  "l": 4
+ },
+ {
+  "h": "运气",
+  "p": "yùn qi",
+  "en": "luck (good or bad)",
+  "l": 4
+ },
+ {
+  "h": "运用",
+  "p": "yùn yòng",
+  "en": "to use; to put to use",
+  "l": 4
+ },
+ {
+  "h": "再三",
+  "p": "zài sān",
+  "en": "over and over again; again and again",
+  "l": 4
+ },
+ {
+  "h": "在乎",
+  "p": "zài hu",
+  "en": "to rest with; to lie in; to be due to (a certain attribute); (often used in the negative) to care about",
+  "l": 4
+ },
+ {
+  "h": "在于",
+  "p": "zài yú",
+  "en": "to rest with; to lie in; to be due to (a certain attribute); (of a matter) to be determined by; to be up to (sb)",
+  "l": 4
+ },
+ {
+  "h": "赞成",
+  "p": "zàn chéng",
+  "en": "to approve; to endorse; (literary) to assist",
+  "l": 4
+ },
+ {
+  "h": "赞赏",
+  "p": "zàn shǎng",
+  "en": "to admire; to praise; to appreciate",
+  "l": 4
+ },
+ {
+  "h": "赞助",
+  "p": "zàn zhù",
+  "en": "to support; to assist; to sponsor",
+  "l": 4
+ },
+ {
+  "h": "造型",
+  "p": "zào xíng",
+  "en": "to model; to shape; appearance; style; design; form; pose",
+  "l": 4
+ },
+ {
+  "h": "战斗",
+  "p": "zhàn dòu",
+  "en": "to fight; to engage in combat; struggle",
+  "l": 4
+ },
+ {
+  "h": "战胜",
+  "p": "zhàn shèng",
+  "en": "to prevail over; to defeat; to surmount",
+  "l": 4
+ },
+ {
+  "h": "战士",
+  "p": "zhàn shì",
+  "en": "fighter; soldier; warrior",
+  "l": 4
+ },
+ {
+  "h": "战争",
+  "p": "zhàn zhēng",
+  "en": "war; conflict",
+  "l": 4
+ },
+ {
+  "h": "丈夫",
+  "p": "zhàng fu",
+  "en": "husband",
+  "vi": "chồng",
+  "l": 4
+ },
+ {
+  "h": "招呼",
+  "p": "zhāo hu",
+  "en": "to call out to; to greet; to say hello to",
+  "l": 4
+ },
+ {
+  "h": "着",
+  "p": "zhe",
+  "en": "(aspect particle)",
+  "vi": "(trợ từ) đang, ở trạng thái",
+  "l": 4
+ },
+ {
+  "h": "着火",
+  "p": "zháo huǒ",
+  "en": "to catch fire",
+  "l": 4
+ },
+ {
+  "h": "着急",
+  "p": "zháo jí",
+  "en": "to worry; to feel anxious",
+  "vi": "lo lắng, sốt ruột",
+  "l": 4
+ },
+ {
+  "h": "召开",
+  "p": "zhào kāi",
+  "en": "to convene (a conference or meeting); to convoke; to call together",
+  "l": 4
+ },
+ {
+  "h": "折",
+  "p": "shé",
+  "en": "to snap; to break (a stick, a bone etc); to sustain a loss (in business)",
+  "l": 4
+ },
+ {
+  "h": "针",
+  "p": "zhēn",
+  "en": "needle; pin; injection",
+  "l": 4
+ },
+ {
+  "h": "针对",
+  "p": "zhēn duì",
+  "en": "to target; to focus on; to be aimed at or against; in response to",
+  "l": 4
+ },
+ {
+  "h": "阵",
+  "p": "zhèn",
+  "en": "disposition of troops; wave; spate",
+  "l": 4
+ },
+ {
+  "h": "争论",
+  "p": "zhēng lùn",
+  "en": "to argue; to debate; to contend",
+  "l": 4
+ },
+ {
+  "h": "征服",
+  "p": "zhēng fú",
+  "en": "to conquer; to subdue; to vanquish",
+  "l": 4
+ },
+ {
+  "h": "征求",
+  "p": "zhēng qiú",
+  "en": "to solicit; to seek; to request (opinions, feedback etc)",
+  "l": 4
+ },
+ {
+  "h": "政府",
+  "p": "zhèng fǔ",
+  "en": "government",
+  "l": 4
+ },
+ {
+  "h": "政治",
+  "p": "zhèng zhì",
+  "en": "politics; political",
+  "l": 4
+ },
+ {
+  "h": "之后",
+  "p": "zhī hòu",
+  "en": "after; behind; (at the beginning of a sentence) afterwards; since then",
+  "l": 4
+ },
+ {
+  "h": "之间",
+  "p": "zhī jiān",
+  "en": "(after a noun) between; among; amid; (used after certain bisyllabic words to form expressions indicating a short period of time, e.g. 彈指之間",
+  "l": 4
+ },
+ {
+  "h": "之前",
+  "p": "zhī qián",
+  "en": "before; prior to; ago",
+  "l": 4
+ },
+ {
+  "h": "之一",
+  "p": "zhī yī",
+  "en": "one of (sth); one out of a multitude; one (third, quarter, percent etc)",
+  "l": 4
+ },
+ {
+  "h": "支",
+  "p": "zhī",
+  "en": "to support; to sustain; to erect",
+  "l": 4
+ },
+ {
+  "h": "植物",
+  "p": "zhí wù",
+  "en": "plant; vegetation",
+  "vi": "thực vật",
+  "l": 4
+ },
+ {
+  "h": "指挥",
+  "p": "zhǐ huī",
+  "en": "to conduct; to command; to direct",
+  "l": 4
+ },
+ {
+  "h": "制订",
+  "p": "zhì dìng",
+  "en": "to work out; to formulate",
+  "l": 4
+ },
+ {
+  "h": "质量",
+  "p": "zhì liàng",
+  "en": "quality; mass",
+  "vi": "chất lượng",
+  "l": 4
+ },
+ {
+  "h": "治",
+  "p": "zhì",
+  "en": "to rule; to govern; to manage",
+  "l": 4
+ },
+ {
+  "h": "治疗",
+  "p": "zhì liáo",
+  "en": "to treat (an illness); medical treatment; therapy",
+  "l": 4
+ },
+ {
+  "h": "智力",
+  "p": "zhì lì",
+  "en": "intelligence; intellect",
+  "l": 4
+ },
+ {
+  "h": "智能",
+  "p": "zhì néng",
+  "en": "intelligent; able; smart (phone, system, bomb etc)",
+  "l": 4
+ },
+ {
+  "h": "中介",
+  "p": "zhōng jiè",
+  "en": "to act as intermediary; to link; intermediate",
+  "l": 4
+ },
+ {
+  "h": "种类",
+  "p": "zhǒng lèi",
+  "en": "kind; genus; type",
+  "l": 4
+ },
+ {
+  "h": "中奖",
+  "p": "zhòng jiǎng",
+  "en": "to win a prize (in a lottery etc)",
+  "l": 4
+ },
+ {
+  "h": "种",
+  "p": "zhǒng",
+  "en": "seed; species",
+  "vi": "loại, giống",
+  "l": 4
+ },
+ {
+  "h": "种植",
+  "p": "zhòng zhí",
+  "en": "to plant; to grow (a crop); to cultivate",
+  "l": 4
+ },
+ {
+  "h": "重量",
+  "p": "zhòng liàng",
+  "en": "weight",
+  "l": 4
+ },
+ {
+  "h": "逐步",
+  "p": "zhú bù",
+  "en": "progressively; step by step",
+  "l": 4
+ },
+ {
+  "h": "逐渐",
+  "p": "zhú jiàn",
+  "en": "gradually",
+  "vi": "dần dần",
+  "l": 4
+ },
+ {
+  "h": "主题",
+  "p": "zhǔ tí",
+  "en": "theme; subject",
+  "l": 4
+ },
+ {
+  "h": "主席",
+  "p": "zhǔ xí",
+  "en": "chairperson; premier; chairman",
+  "l": 4
+ },
+ {
+  "h": "祝福",
+  "p": "zhù fú",
+  "en": "blessings; to wish sb well",
+  "l": 4
+ },
+ {
+  "h": "著名",
+  "p": "zhù míng",
+  "en": "famous; noted",
+  "vi": "nổi tiếng",
+  "l": 4
+ },
+ {
+  "h": "著作",
+  "p": "zhù zuò",
+  "en": "to write; literary work; book",
+  "l": 4
+ },
+ {
+  "h": "抓紧",
+  "p": "zhuā jǐn",
+  "en": "to keep a firm grip on; to pay close attention to; to lose no time in (doing sth)",
+  "l": 4
+ },
+ {
+  "h": "专心",
+  "p": "zhuān xīn",
+  "en": "to focus one's attention; to concentrate on (doing sth)",
+  "l": 4
+ },
+ {
+  "h": "转动",
+  "p": "zhuǎn dòng",
+  "en": "to turn sth around; to swivel",
+  "l": 4
+ },
+ {
+  "h": "转告",
+  "p": "zhuǎn gào",
+  "en": "to pass on; to communicate; to transmit",
+  "l": 4
+ },
+ {
+  "h": "转身",
+  "p": "zhuǎn shēn",
+  "en": "(of a person) to turn round; to face about; (of a widow) to remarry (archaic)",
+  "l": 4
+ },
+ {
+  "h": "转弯",
+  "p": "zhuǎn wān",
+  "en": "to turn; to go around a corner",
+  "l": 4
+ },
+ {
+  "h": "转移",
+  "p": "zhuǎn yí",
+  "en": "to shift; to relocate; to transfer; (fig.) to shift (attention); to change (the subject etc); (medicine) to metastasize",
+  "l": 4
+ },
+ {
+  "h": "装修",
+  "p": "zhuāng xiū",
+  "en": "to decorate; interior decoration; to fit up",
+  "l": 4
+ },
+ {
+  "h": "装置",
+  "p": "zhuāng zhì",
+  "en": "to install; installation; equipment",
+  "l": 4
+ },
+ {
+  "h": "追求",
+  "p": "zhuī qiú",
+  "en": "to pursue (a goal etc) stubbornly; to seek after; to woo",
+  "l": 4
+ },
+ {
+  "h": "准时",
+  "p": "zhǔn shí",
+  "en": "on time; punctual",
+  "vi": "đúng giờ",
+  "l": 4
+ },
+ {
+  "h": "资料",
+  "p": "zī liào",
+  "en": "material; resources; data",
+  "l": 4
+ },
+ {
+  "h": "资源",
+  "p": "zī yuán",
+  "en": "natural resource (such as water or minerals); resource (such as manpower or tourism)",
+  "l": 4
+ },
+ {
+  "h": "自",
+  "p": "zì",
+  "en": "self; oneself; from; since; naturally; as a matter of course",
+  "l": 4
+ },
+ {
+  "h": "自信",
+  "p": "zì xìn",
+  "en": "to have confidence in oneself; self-confidence",
+  "l": 4
+ },
+ {
+  "h": "字母",
+  "p": "zì mǔ",
+  "en": "letter (of the alphabet)",
+  "l": 4
+ },
+ {
+  "h": "综合",
+  "p": "zōng hé",
+  "en": "comprehensive; composite; synthesized",
+  "l": 4
+ },
+ {
+  "h": "总共",
+  "p": "zǒng gòng",
+  "en": "altogether; in sum; in all; in total",
+  "l": 4
+ },
+ {
+  "h": "总理",
+  "p": "zǒng lǐ",
+  "en": "premier; prime minister",
+  "l": 4
+ },
+ {
+  "h": "总统",
+  "p": "zǒng tǒng",
+  "en": "president (of a country)",
+  "l": 4
+ },
+ {
+  "h": "总之",
+  "p": "zǒng zhī",
+  "en": "in a word; in short; in brief",
+  "l": 4
+ },
+ {
+  "h": "阻止",
+  "p": "zǔ zhǐ",
+  "en": "to prevent; to block",
+  "l": 4
+ },
+ {
+  "h": "嘴巴",
+  "p": "zuǐ ba",
+  "en": "mouth (; slap in the face (",
+  "l": 4
+ },
+ {
+  "h": "最初",
+  "p": "zuì chū",
+  "en": "first; primary; initial",
+  "l": 4
+ },
+ {
+  "h": "作出",
+  "p": "zuò chū",
+  "en": "to put out; to come up with; to make (a choice, decision, proposal, response, comment etc)",
+  "l": 4
+ },
+ {
+  "h": "作为",
+  "p": "zuò wéi",
+  "en": "one's conduct; deed; activity",
+  "l": 4
+ },
+ {
+  "h": "做梦",
+  "p": "zuò mèng",
+  "en": "to dream; to have a dream; fig. illusion",
+  "l": 4
+ }
+]

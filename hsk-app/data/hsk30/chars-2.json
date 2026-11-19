@@ -1,0 +1,1904 @@
+[
+ {
+  "h": "万",
+  "p": "wàn",
+  "en": "ten thousand; a great number",
+  "vi": "vạn, mười nghìn",
+  "l": 2
+ },
+ {
+  "h": "且",
+  "p": "qiě",
+  "en": "and; moreover; yet",
+  "l": 2
+ },
+ {
+  "h": "业",
+  "p": "yè",
+  "en": "line of business; industry; occupation",
+  "l": 2
+ },
+ {
+  "h": "为",
+  "p": "wéi",
+  "en": "as (in the capacity of); to take sth as; to act as",
+  "vi": "vì, để",
+  "l": 2
+ },
+ {
+  "h": "主",
+  "p": "zhǔ",
+  "en": "owner; master; host",
+  "l": 2
+ },
+ {
+  "h": "举",
+  "p": "jǔ",
+  "en": "to lift; to hold up; to cite",
+  "l": 2
+ },
+ {
+  "h": "久",
+  "p": "jiǔ",
+  "en": "(of a period of time) long",
+  "vi": "lâu",
+  "l": 2
+ },
+ {
+  "h": "乐",
+  "p": "lè",
+  "en": "happy; cheerful; to laugh",
+  "l": 2
+ },
+ {
+  "h": "于",
+  "p": "yú",
+  "en": "to go; to take; sentence-final interrogative particle",
+  "l": 2
+ },
+ {
+  "h": "云",
+  "p": "yún",
+  "en": "cloud",
+  "vi": "mây",
+  "l": 2
+ },
+ {
+  "h": "交",
+  "p": "jiāo",
+  "en": "to hand over; to deliver; to pay (money); to turn over; to make friends; (of lines) to intersect",
+  "vi": "nộp, giao; kết giao",
+  "l": 2
+ },
+ {
+  "h": "亮",
+  "p": "liàng",
+  "en": "bright; light; to shine; to flash; loud and clear",
+  "vi": "sáng",
+  "l": 2
+ },
+ {
+  "h": "亿",
+  "p": "yì",
+  "en": "100 million",
+  "vi": "trăm triệu",
+  "l": 2
+ },
+ {
+  "h": "以",
+  "p": "yǐ",
+  "en": "to use; by means of; according to",
+  "vi": "bằng, lấy, để",
+  "l": 2
+ },
+ {
+  "h": "件",
+  "p": "jiàn",
+  "en": "item; component; classifier for events, things, clothes etc",
+  "vi": "cái, chiếc (lượng từ)",
+  "l": 2
+ },
+ {
+  "h": "份",
+  "p": "fèn",
+  "en": "classifier for gifts, newspaper, magazine, papers, reports, contracts etc",
+  "vi": "phần, bản (lượng từ)",
+  "l": 2
+ },
+ {
+  "h": "但",
+  "p": "dàn",
+  "en": "but; yet; however; still; merely; only; just",
+  "l": 2
+ },
+ {
+  "h": "位",
+  "p": "wèi",
+  "en": "position; location; place",
+  "vi": "vị, người (lượng từ lịch sự)",
+  "l": 2
+ },
+ {
+  "h": "低",
+  "p": "dī",
+  "en": "low; beneath; to lower (one's head)",
+  "vi": "thấp",
+  "l": 2
+ },
+ {
+  "h": "使",
+  "p": "shǐ",
+  "en": "to make; to cause; to enable",
+  "vi": "làm cho, khiến",
+  "l": 2
+ },
+ {
+  "h": "例",
+  "p": "lì",
+  "en": "example; precedent; rule",
+  "l": 2
+ },
+ {
+  "h": "便",
+  "p": "biàn",
+  "en": "plain; informal; suitable",
+  "l": 2
+ },
+ {
+  "h": "信",
+  "p": "xìn",
+  "en": "letter; mail; to trust",
+  "vi": "thư",
+  "l": 2
+ },
+ {
+  "h": "倒",
+  "p": "dǎo",
+  "en": "to fall; to collapse; to lie horizontally; to fail; to go bankrupt; to overthrow",
+  "l": 2
+ },
+ {
+  "h": "借",
+  "p": "jiè",
+  "en": "to borrow; (used in combination with 給; to make use of; to avail oneself of",
+  "vi": "mượn, cho mượn",
+  "l": 2
+ },
+ {
+  "h": "停",
+  "p": "tíng",
+  "en": "to stop; to halt; to park (a car)",
+  "l": 2
+ },
+ {
+  "h": "健",
+  "p": "jiàn",
+  "en": "healthy; to invigorate; to strengthen",
+  "l": 2
+ },
+ {
+  "h": "像",
+  "p": "xiàng",
+  "en": "to resemble; to be like; to look as if",
+  "vi": "giống như",
+  "l": 2
+ },
+ {
+  "h": "克",
+  "p": "kè",
+  "en": "to be able to; to subdue; to restrain",
+  "l": 2
+ },
+ {
+  "h": "入",
+  "p": "rù",
+  "en": "to enter; to go into; to join; to become a member of; to conform to (as in 入時",
+  "l": 2
+ },
+ {
+  "h": "全",
+  "p": "quán",
+  "en": "all; whole; entire",
+  "l": 2
+ },
+ {
+  "h": "公",
+  "p": "gōng",
+  "en": "public; collectively owned; common",
+  "l": 2
+ },
+ {
+  "h": "共",
+  "p": "gòng",
+  "en": "common; general; to share",
+  "l": 2
+ },
+ {
+  "h": "其",
+  "p": "qí",
+  "en": "his; her; its",
+  "l": 2
+ },
+ {
+  "h": "典",
+  "p": "diǎn",
+  "en": "canon; law; standard work of scholarship",
+  "l": 2
+ },
+ {
+  "h": "养",
+  "p": "yǎng",
+  "en": "to raise (animals); to bring up (children); to keep (pets)",
+  "l": 2
+ },
+ {
+  "h": "冬",
+  "p": "dōng",
+  "en": "winter",
+  "vi": "mùa đông",
+  "l": 2
+ },
+ {
+  "h": "凉",
+  "p": "Liáng",
+  "en": "the five Liang of the Sixteen Kingdoms, namely: Former Liang 前涼",
+  "l": 2
+ },
+ {
+  "h": "划",
+  "p": "huá",
+  "en": "to row; to paddle; profitable",
+  "l": 2
+ },
+ {
+  "h": "刚",
+  "p": "gāng",
+  "en": "hard; firm; strong",
+  "l": 2
+ },
+ {
+  "h": "利",
+  "p": "lì",
+  "en": "sharp; favorable; advantage",
+  "l": 2
+ },
+ {
+  "h": "刻",
+  "p": "kè",
+  "en": "quarter (hour); moment; to carve",
+  "vi": "khắc; mười lăm phút",
+  "l": 2
+ },
+ {
+  "h": "力",
+  "p": "lì",
+  "en": "power; force; strength",
+  "l": 2
+ },
+ {
+  "h": "办",
+  "p": "bàn",
+  "en": "to take care of (a matter); to deal with (a task, procedure etc); to organize (an event); to establish; to set up; to manage; to run (an enterprise); (law) to handle; to investigate; to prosecute (a case or suspect)",
+  "l": 2
+ },
+ {
+  "h": "加",
+  "p": "Jiā",
+  "en": "Canada (abbr. for 加拿大); surname Jia",
+  "l": 2
+ },
+ {
+  "h": "务",
+  "p": "wù",
+  "en": "affair; business; matter",
+  "l": 2
+ },
+ {
+  "h": "助",
+  "p": "zhù",
+  "en": "to help; to assist",
+  "l": 2
+ },
+ {
+  "h": "努",
+  "p": "nǔ",
+  "en": "to exert; to strive",
+  "l": 2
+ },
+ {
+  "h": "千",
+  "p": "qiān",
+  "en": "thousand",
+  "vi": "nghìn",
+  "l": 2
+ },
+ {
+  "h": "单",
+  "p": "dān",
+  "en": "bill; list; form",
+  "l": 2
+ },
+ {
+  "h": "卖",
+  "p": "mài",
+  "en": "to sell; to betray; to spare no effort",
+  "vi": "bán",
+  "l": 2
+ },
+ {
+  "h": "占",
+  "p": "zhān",
+  "en": "to observe; to divine",
+  "l": 2
+ },
+ {
+  "h": "卡",
+  "p": "kǎ",
+  "en": "to stop; to block; (computing) (coll.) slow",
+  "l": 2
+ },
+ {
+  "h": "印",
+  "p": "yìn",
+  "en": "to print; to mark; to engrave",
+  "l": 2
+ },
+ {
+  "h": "原",
+  "p": "yuán",
+  "en": "former; original; primary",
+  "l": 2
+ },
+ {
+  "h": "参",
+  "p": "cān",
+  "en": "to take part in; to participate; to join",
+  "l": 2
+ },
+ {
+  "h": "又",
+  "p": "yòu",
+  "en": "(once) again; also; both... and...",
+  "vi": "lại, cũng, lần nữa",
+  "l": 2
+ },
+ {
+  "h": "发",
+  "p": "fā",
+  "en": "to send out; to show (one's feeling); to issue",
+  "vi": "phát ra, gửi",
+  "l": 2
+ },
+ {
+  "h": "取",
+  "p": "qǔ",
+  "en": "to take; to get; to choose",
+  "vi": "lấy, rút",
+  "l": 2
+ },
+ {
+  "h": "受",
+  "p": "shòu",
+  "en": "to receive; to accept; to suffer",
+  "l": 2
+ },
+ {
+  "h": "变",
+  "p": "biàn",
+  "en": "to change; to become different; to transform",
+  "l": 2
+ },
+ {
+  "h": "句",
+  "p": "jù",
+  "en": "sentence; clause; phrase",
+  "l": 2
+ },
+ {
+  "h": "只",
+  "p": "zhǐ",
+  "en": "only; merely; just",
+  "vi": "chỉ",
+  "l": 2
+ },
+ {
+  "h": "可",
+  "p": "kě",
+  "en": "(prefix) can; may; able to; -able; to approve; to permit; to suit",
+  "l": 2
+ },
+ {
+  "h": "司",
+  "p": "sī",
+  "en": "to take charge of; to manage; department (under a ministry)",
+  "l": 2
+ },
+ {
+  "h": "合",
+  "p": "gě",
+  "en": "100 ml; one-tenth of a peck; measure for dry grain equal to one-tenth of sheng 升 or liter, or one-hundredth dou 斗",
+  "l": 2
+ },
+ {
+  "h": "向",
+  "p": "xiàng",
+  "en": "towards; to face; to turn towards",
+  "vi": "về phía, hướng tới",
+  "l": 2
+ },
+ {
+  "h": "吹",
+  "p": "chuī",
+  "en": "to blow; to play a wind instrument; to blast",
+  "l": 2
+ },
+ {
+  "h": "周",
+  "p": "zhōu",
+  "en": "to make a circuit; to circle; circle",
+  "l": 2
+ },
+ {
+  "h": "味",
+  "p": "wèi",
+  "en": "taste; smell; (fig.) (noun suffix) feel",
+  "l": 2
+ },
+ {
+  "h": "咱",
+  "p": "zán",
+  "en": "I or me; we (including both the speaker and the person spoken to)",
+  "l": 2
+ },
+ {
+  "h": "响",
+  "p": "xiǎng",
+  "en": "echo; sound; noise",
+  "vi": "vang, kêu",
+  "l": 2
+ },
+ {
+  "h": "哭",
+  "p": "kū",
+  "en": "to cry; to weep",
+  "vi": "khóc",
+  "l": 2
+ },
+ {
+  "h": "啊",
+  "p": "ā",
+  "en": "interjection of surprise; Ah!; Oh!",
+  "vi": "à, ồ (thán từ)",
+  "l": 2
+ },
+ {
+  "h": "喂",
+  "p": "wéi",
+  "en": "hello (when answering the phone)",
+  "vi": "alo (khi nghe điện thoại)",
+  "l": 2
+ },
+ {
+  "h": "喊",
+  "p": "hǎn",
+  "en": "to yell; to shout; to call out for (a person)",
+  "l": 2
+ },
+ {
+  "h": "嘴",
+  "p": "zuǐ",
+  "en": "mouth; beak; nozzle",
+  "vi": "miệng",
+  "l": 2
+ },
+ {
+  "h": "因",
+  "p": "yīn",
+  "en": "cause; reason; because",
+  "l": 2
+ },
+ {
+  "h": "园",
+  "p": "yuán",
+  "en": "land used for growing plants; site used for public recreation; abbr. for a place ending in 園",
+  "l": 2
+ },
+ {
+  "h": "堂",
+  "p": "táng",
+  "en": "(main) hall; large room for a specific purpose; relationship between cousins etc on the paternal side of a family",
+  "l": 2
+ },
+ {
+  "h": "墙",
+  "p": "qiáng",
+  "en": "wall (; (slang) to block (a website) (usu. in the passive: 被牆",
+  "vi": "bức tường",
+  "l": 2
+ },
+ {
+  "h": "声",
+  "p": "shēng",
+  "en": "sound; voice; tone",
+  "l": 2
+ },
+ {
+  "h": "处",
+  "p": "chǔ",
+  "en": "to reside; to live; to dwell",
+  "l": 2
+ },
+ {
+  "h": "复",
+  "p": "fù",
+  "en": "to go and return; to return; to resume",
+  "l": 2
+ },
+ {
+  "h": "夏",
+  "p": "xià",
+  "en": "the Xia or Hsia dynasty c. 2000 BC; Xia of the Sixteen Kingdoms (407–432); surname Xia",
+  "vi": "mùa hè",
+  "l": 2
+ },
+ {
+  "h": "夜",
+  "p": "yè",
+  "en": "night",
+  "l": 2
+ },
+ {
+  "h": "够",
+  "p": "gòu",
+  "en": "enough (sufficient); enough (too much); (coll.) (before adj.) really",
+  "vi": "đủ",
+  "l": 2
+ },
+ {
+  "h": "头",
+  "p": "tóu",
+  "en": "head; hair style; the top",
+  "l": 2
+ },
+ {
+  "h": "套",
+  "p": "tào",
+  "en": "to cover; to encase; cover",
+  "l": 2
+ },
+ {
+  "h": "如",
+  "p": "rú",
+  "en": "as; as if; such as",
+  "l": 2
+ },
+ {
+  "h": "姓",
+  "p": "xìng",
+  "en": "family name; surname; to be surnamed ...",
+  "vi": "họ (họ tên)",
+  "l": 2
+ },
+ {
+  "h": "它",
+  "p": "tā",
+  "en": "it",
+  "vi": "nó (vật, con vật)",
+  "l": 2
+ },
+ {
+  "h": "安",
+  "p": "ān",
+  "en": "calm; peaceful; to calm; to set at ease; safe; secure; in good health",
+  "l": 2
+ },
+ {
+  "h": "完",
+  "p": "wán",
+  "en": "to finish; to be over; whole",
+  "vi": "xong, hoàn thành",
+  "l": 2
+ },
+ {
+  "h": "定",
+  "p": "dìng",
+  "en": "to fix; to set; to make definite; to subscribe to (a newspaper etc); to book (tickets etc); to order (goods etc); to congeal; to coagulate",
+  "l": 2
+ },
+ {
+  "h": "宜",
+  "p": "yí",
+  "en": "proper; should; suitable",
+  "l": 2
+ },
+ {
+  "h": "实",
+  "p": "shí",
+  "en": "real; true; honest",
+  "l": 2
+ },
+ {
+  "h": "室",
+  "p": "shì",
+  "en": "room; work unit; grave",
+  "l": 2
+ },
+ {
+  "h": "封",
+  "p": "fēng",
+  "en": "to confer; to grant; to bestow a title",
+  "l": 2
+ },
+ {
+  "h": "层",
+  "p": "céng",
+  "en": "to pile on top of one another; layer; stratum; floor (of a building); story",
+  "vi": "tầng, lớp",
+  "l": 2
+ },
+ {
+  "h": "己",
+  "p": "jǐ",
+  "en": "self; oneself; sixth of the ten Heavenly Stems 十天干",
+  "l": 2
+ },
+ {
+  "h": "已",
+  "p": "yǐ",
+  "en": "already; to stop; then",
+  "l": 2
+ },
+ {
+  "h": "市",
+  "p": "shì",
+  "en": "market; city; municipality (administrative unit)",
+  "l": 2
+ },
+ {
+  "h": "带",
+  "p": "dài",
+  "en": "band; belt; girdle",
+  "vi": "mang, dẫn",
+  "l": 2
+ },
+ {
+  "h": "平",
+  "p": "píng",
+  "en": "flat; level; equal",
+  "l": 2
+ },
+ {
+  "h": "广",
+  "p": "yǎn",
+  "en": "\"house on a cliff\" radical in Chinese characters (Kangxi radical 53), occurring in 店, 序, 底 etc",
+  "l": 2
+ },
+ {
+  "h": "应",
+  "p": "yīng",
+  "en": "to agree (to do sth); should; ought to",
+  "l": 2
+ },
+ {
+  "h": "度",
+  "p": "dù",
+  "en": "to pass; to spend (time); measure",
+  "l": 2
+ },
+ {
+  "h": "座",
+  "p": "zuò",
+  "en": "seat; base; stand; constellation",
+  "vi": "(lượng từ) chiếc, tòa (núi, nhà)",
+  "l": 2
+ },
+ {
+  "h": "庭",
+  "p": "tíng",
+  "en": "main hall; front courtyard; law court",
+  "l": 2
+ },
+ {
+  "h": "康",
+  "p": "kāng",
+  "en": "healthy; peaceful; abundant",
+  "l": 2
+ },
+ {
+  "h": "弄",
+  "p": "nòng",
+  "en": "lane; alley",
+  "vi": "làm, xử lý",
+  "l": 2
+ },
+ {
+  "h": "当",
+  "p": "dāng",
+  "en": "to be; to act as; manage",
+  "vi": "làm, đảm nhiệm; lúc, khi",
+  "l": 2
+ },
+ {
+  "h": "往",
+  "p": "wǎng",
+  "en": "to go (in a direction); to; towards",
+  "vi": "về phía, hướng tới",
+  "l": 2
+ },
+ {
+  "h": "心",
+  "p": "xīn",
+  "en": "heart; mind; intention",
+  "l": 2
+ },
+ {
+  "h": "必",
+  "p": "bì",
+  "en": "certainly; must; will",
+  "l": 2
+ },
+ {
+  "h": "忽",
+  "p": "hū",
+  "en": "to neglect; to overlook; to ignore",
+  "l": 2
+ },
+ {
+  "h": "态",
+  "p": "tài",
+  "en": "appearance; shape; form",
+  "l": 2
+ },
+ {
+  "h": "怕",
+  "p": "pà",
+  "en": "to be afraid; to fear; to dread",
+  "l": 2
+ },
+ {
+  "h": "思",
+  "p": "sī",
+  "en": "to think; to consider",
+  "l": 2
+ },
+ {
+  "h": "急",
+  "p": "jí",
+  "en": "urgent; pressing; rapid",
+  "l": 2
+ },
+ {
+  "h": "情",
+  "p": "qíng",
+  "en": "feelings; emotion; sentiment; passion; situation; condition",
+  "l": 2
+ },
+ {
+  "h": "惯",
+  "p": "guàn",
+  "en": "accustomed to; used to; indulge",
+  "l": 2
+ },
+ {
+  "h": "意",
+  "p": "Yì",
+  "en": "Italy; Italian (abbr. for 意大利)",
+  "l": 2
+ },
+ {
+  "h": "感",
+  "p": "gǎn",
+  "en": "to feel; to move; to touch",
+  "l": 2
+ },
+ {
+  "h": "愿",
+  "p": "yuàn",
+  "en": "honest and prudent",
+  "l": 2
+ },
+ {
+  "h": "懂",
+  "p": "dǒng",
+  "en": "to understand; to comprehend",
+  "vi": "hiểu",
+  "l": 2
+ },
+ {
+  "h": "成",
+  "p": "chéng",
+  "en": "to succeed; to finish; to complete",
+  "l": 2
+ },
+ {
+  "h": "或",
+  "p": "huò",
+  "en": "maybe; perhaps; might",
+  "l": 2
+ },
+ {
+  "h": "所",
+  "p": "suǒ",
+  "en": "actually; place; classifier for houses, small buildings, institutions etc",
+  "l": 2
+ },
+ {
+  "h": "才",
+  "p": "cái",
+  "en": "ability; talent; sb of a certain type; a capable individual",
+  "vi": "mới, chỉ",
+  "l": 2
+ },
+ {
+  "h": "护",
+  "p": "hù",
+  "en": "to protect",
+  "l": 2
+ },
+ {
+  "h": "报",
+  "p": "bào",
+  "en": "to report; to inform; to announce; to respond; to reply; to sign up for; to register for (abbr. for 報名",
+  "l": 2
+ },
+ {
+  "h": "拉",
+  "p": "lā",
+  "en": "to pull; to play (a bowed instrument); to drag",
+  "vi": "kéo",
+  "l": 2
+ },
+ {
+  "h": "挺",
+  "p": "tǐng",
+  "en": "straight; erect; to stick out (a part of the body)",
+  "vi": "khá, khá là",
+  "l": 2
+ },
+ {
+  "h": "换",
+  "p": "huàn",
+  "en": "to exchange; to change (clothes etc); to substitute",
+  "vi": "đổi, thay",
+  "l": 2
+ },
+ {
+  "h": "掉",
+  "p": "diào",
+  "en": "to fall; to drop; to lag behind",
+  "vi": "rơi, làm rơi",
+  "l": 2
+ },
+ {
+  "h": "排",
+  "p": "pái",
+  "en": "a row; a line; to set in order",
+  "l": 2
+ },
+ {
+  "h": "接",
+  "p": "jiē",
+  "en": "to receive; to answer (the phone); to meet or welcome sb",
+  "vi": "nhận, đón, nghe (điện thoại)",
+  "l": 2
+ },
+ {
+  "h": "推",
+  "p": "tuī",
+  "en": "to push; to cut; to refuse",
+  "vi": "đẩy",
+  "l": 2
+ },
+ {
+  "h": "提",
+  "p": "tí",
+  "en": "to carry (hanging down from the hand); to lift; to put forward",
+  "l": 2
+ },
+ {
+  "h": "收",
+  "p": "shōu",
+  "en": "to receive; to accept; to collect",
+  "vi": "nhận, thu",
+  "l": 2
+ },
+ {
+  "h": "改",
+  "p": "gǎi",
+  "en": "to change; to alter; to transform",
+  "l": 2
+ },
+ {
+  "h": "故",
+  "p": "gù",
+  "en": "happening; instance; reason",
+  "l": 2
+ },
+ {
+  "h": "数",
+  "p": "shǔ",
+  "en": "to count; to count as; to regard as; to enumerate; to list",
+  "l": 2
+ },
+ {
+  "h": "斤",
+  "p": "jīn",
+  "en": "catty; (PRC) weight equal to 500 g; (Tw) weight equal to 600 g",
+  "l": 2
+ },
+ {
+  "h": "旅",
+  "p": "lǚ",
+  "en": "trip; travel; to travel",
+  "l": 2
+ },
+ {
+  "h": "春",
+  "p": "chūn",
+  "en": "spring (season); gay; joyful",
+  "vi": "mùa xuân",
+  "l": 2
+ },
+ {
+  "h": "晨",
+  "p": "chén",
+  "en": "morning; dawn; daybreak",
+  "l": 2
+ },
+ {
+  "h": "普",
+  "p": "pǔ",
+  "en": "general; popular; everywhere",
+  "l": 2
+ },
+ {
+  "h": "晴",
+  "p": "qíng",
+  "en": "clear; fine (weather)",
+  "vi": "nắng, trời quang",
+  "l": 2
+ },
+ {
+  "h": "更",
+  "p": "gèng",
+  "en": "to change or replace; to experience; one of the five two-hour periods into which the night was formerly divided",
+  "vi": "hơn, càng",
+  "l": 2
+ },
+ {
+  "h": "末",
+  "p": "mò",
+  "en": "tip; end; final stage",
+  "l": 2
+ },
+ {
+  "h": "板",
+  "p": "bǎn",
+  "en": "board; plank; plate",
+  "l": 2
+ },
+ {
+  "h": "查",
+  "p": "chá",
+  "en": "to research; to check; to investigate",
+  "l": 2
+ },
+ {
+  "h": "检",
+  "p": "jiǎn",
+  "en": "to check; to examine; to inspect",
+  "l": 2
+ },
+ {
+  "h": "椅",
+  "p": "yǐ",
+  "en": "chair",
+  "l": 2
+ },
+ {
+  "h": "楚",
+  "p": "chǔ",
+  "en": "distinct; clear; orderly",
+  "l": 2
+ },
+ {
+  "h": "段",
+  "p": "duàn",
+  "en": "paragraph; section; segment",
+  "vi": "đoạn, khúc",
+  "l": 2
+ },
+ {
+  "h": "永",
+  "p": "yǒng",
+  "en": "forever; always; perpetual",
+  "l": 2
+ },
+ {
+  "h": "求",
+  "p": "qiú",
+  "en": "to seek; to look for; to request",
+  "l": 2
+ },
+ {
+  "h": "河",
+  "p": "hé",
+  "en": "river (; the Yellow River; the Milky Way",
+  "vi": "sông",
+  "l": 2
+ },
+ {
+  "h": "油",
+  "p": "yóu",
+  "en": "oil; fat; grease",
+  "l": 2
+ },
+ {
+  "h": "法",
+  "p": "Fǎ",
+  "en": "France; French; abbr. for 法國",
+  "l": 2
+ },
+ {
+  "h": "活",
+  "p": "huó",
+  "en": "to live; alive; living",
+  "l": 2
+ },
+ {
+  "h": "流",
+  "p": "liú",
+  "en": "to flow; to disseminate; to circulate or spread",
+  "l": 2
+ },
+ {
+  "h": "海",
+  "p": "hǎi",
+  "en": "ocean; sea; great number of people or things",
+  "l": 2
+ },
+ {
+  "h": "清",
+  "p": "Qīng",
+  "en": "Qing (Wade-Giles: Ch'ing) dynasty of China (1644–1911); surname Qing",
+  "l": 2
+ },
+ {
+  "h": "温",
+  "p": "wēn",
+  "en": "warm; lukewarm; to warm up; temperature",
+  "l": 2
+ },
+ {
+  "h": "游",
+  "p": "yóu",
+  "en": "to swim",
+  "l": 2
+ },
+ {
+  "h": "湖",
+  "p": "hú",
+  "en": "lake",
+  "l": 2
+ },
+ {
+  "h": "满",
+  "p": "mǎn",
+  "en": "Manchu ethnic group",
+  "vi": "đầy",
+  "l": 2
+ },
+ {
+  "h": "漂",
+  "p": "piāo",
+  "en": "to float; to drift",
+  "l": 2
+ },
+ {
+  "h": "澡",
+  "p": "zǎo",
+  "en": "bath",
+  "l": 2
+ },
+ {
+  "h": "灯",
+  "p": "dēng",
+  "en": "lamp; light; lantern",
+  "vi": "đèn",
+  "l": 2
+ },
+ {
+  "h": "然",
+  "p": "rán",
+  "en": "correct; right; so",
+  "l": 2
+ },
+ {
+  "h": "照",
+  "p": "zhào",
+  "en": "according to; in accordance with; to shine",
+  "l": 2
+ },
+ {
+  "h": "熟",
+  "p": "shú",
+  "en": "ripe; mature; thoroughly cooked; done; familiar; acquainted",
+  "l": 2
+ },
+ {
+  "h": "爬",
+  "p": "pá",
+  "en": "to crawl; to climb; to get up or sit up",
+  "l": 2
+ },
+ {
+  "h": "片",
+  "p": "piān",
+  "en": "disk; sheet",
+  "l": 2
+ },
+ {
+  "h": "物",
+  "p": "wù",
+  "en": "thing; (literary) the outside world as distinct from oneself; people other than oneself",
+  "l": 2
+ },
+ {
+  "h": "特",
+  "p": "tè",
+  "en": "special; unique; distinguished",
+  "l": 2
+ },
+ {
+  "h": "狗",
+  "p": "gǒu",
+  "en": "dog",
+  "vi": "con chó",
+  "l": 2
+ },
+ {
+  "h": "猫",
+  "p": "māo",
+  "en": "cat (; (dialect) to hide oneself; (loanword) (coll.) modem",
+  "vi": "con mèo",
+  "l": 2
+ },
+ {
+  "h": "王",
+  "p": "wáng",
+  "en": "king or monarch; best or strongest of its type; grand",
+  "l": 2
+ },
+ {
+  "h": "理",
+  "p": "lǐ",
+  "en": "texture; grain (of wood); inner essence",
+  "l": 2
+ },
+ {
+  "h": "瓶",
+  "p": "píng",
+  "en": "bottle; vase; pitcher",
+  "l": 2
+ },
+ {
+  "h": "由",
+  "p": "yóu",
+  "en": "to follow; from; because of; due to",
+  "vi": "do, từ",
+  "l": 2
+ },
+ {
+  "h": "画",
+  "p": "huà",
+  "en": "to draw; to paint; picture; painting (; to draw (a line) (variant of 劃",
+  "vi": "tranh; vẽ",
+  "l": 2
+ },
+ {
+  "h": "留",
+  "p": "liú",
+  "en": "to leave (a message etc); to retain; to stay",
+  "vi": "ở lại; để lại",
+  "l": 2
+ },
+ {
+  "h": "疼",
+  "p": "téng",
+  "en": "(it) hurts; sore; to love dearly",
+  "vi": "đau",
+  "l": 2
+ },
+ {
+  "h": "目",
+  "p": "mù",
+  "en": "eye; (literary) to look; to regard; eye (of a net); mesh",
+  "l": 2
+ },
+ {
+  "h": "直",
+  "p": "zhí",
+  "en": "straight; to straighten; fair and reasonable",
+  "l": 2
+ },
+ {
+  "h": "相",
+  "p": "xiāng",
+  "en": "each other; one another; mutually",
+  "l": 2
+ },
+ {
+  "h": "省",
+  "p": "shěng",
+  "en": "to save; to economize; to be frugal; to omit; to delete; to leave out; province",
+  "vi": "tiết kiệm; tỉnh",
+  "l": 2
+ },
+ {
+  "h": "眼",
+  "p": "yǎn",
+  "en": "eye (; (often used with 一) a look; a glance; small hole",
+  "l": 2
+ },
+ {
+  "h": "睛",
+  "p": "jīng",
+  "en": "eye; eyeball",
+  "l": 2
+ },
+ {
+  "h": "短",
+  "p": "duǎn",
+  "en": "short; brief; to lack",
+  "vi": "ngắn",
+  "l": 2
+ },
+ {
+  "h": "确",
+  "p": "què",
+  "en": "authenticated; solid; firm",
+  "l": 2
+ },
+ {
+  "h": "碗",
+  "p": "wǎn",
+  "en": "bowl; cup",
+  "vi": "cái bát, chén",
+  "l": 2
+ },
+ {
+  "h": "碰",
+  "p": "pèng",
+  "en": "to touch; to meet with; to bump",
+  "l": 2
+ },
+ {
+  "h": "示",
+  "p": "shì",
+  "en": "to show; to reveal",
+  "l": 2
+ },
+ {
+  "h": "礼",
+  "p": "lǐ",
+  "en": "gift; rite; ceremony",
+  "l": 2
+ },
+ {
+  "h": "离",
+  "p": "lí",
+  "en": "mythical beast (archaic)",
+  "vi": "rời, cách, xa",
+  "l": 2
+ },
+ {
+  "h": "秋",
+  "p": "qiū",
+  "en": "autumn; fall; harvest time",
+  "vi": "mùa thu",
+  "l": 2
+ },
+ {
+  "h": "科",
+  "p": "kē",
+  "en": "branch of study; administrative section; division",
+  "l": 2
+ },
+ {
+  "h": "租",
+  "p": "zū",
+  "en": "to hire; to rent; to charter",
+  "vi": "thuê",
+  "l": 2
+ },
+ {
+  "h": "称",
+  "p": "chèn",
+  "en": "to fit; to match; to suit; (coll.) to have; to possess; Taiwan pr.",
+  "l": 2
+ },
+ {
+  "h": "空",
+  "p": "kōng",
+  "en": "empty; air; sky",
+  "l": 2
+ },
+ {
+  "h": "笔",
+  "p": "bǐ",
+  "en": "writing brush; writing implement (pen, pencil etc) (; brushstroke; stroke (in painting or calligraphy); style of writing; literary manner; technique of brushwork",
+  "l": 2
+ },
+ {
+  "h": "筷",
+  "p": "kuài",
+  "en": "chopstick",
+  "l": 2
+ },
+ {
+  "h": "算",
+  "p": "suàn",
+  "en": "to regard as; to figure; to calculate",
+  "vi": "tính; coi là",
+  "l": 2
+ },
+ {
+  "h": "篇",
+  "p": "piān",
+  "en": "sheet; piece of writing; bound set of bamboo slips used for record keeping (old)",
+  "vi": "(lượng từ) bài, trang (văn bản)",
+  "l": 2
+ },
+ {
+  "h": "篮",
+  "p": "lán",
+  "en": "basket (receptacle); basket (in basketball)",
+  "l": 2
+ },
+ {
+  "h": "红",
+  "p": "hóng",
+  "en": "red; popular; revolutionary",
+  "vi": "đỏ",
+  "l": 2
+ },
+ {
+  "h": "级",
+  "p": "jí",
+  "en": "level; grade; rank",
+  "l": 2
+ },
+ {
+  "h": "纸",
+  "p": "zhǐ",
+  "en": "paper (; classifier for documents, letters etc",
+  "l": 2
+ },
+ {
+  "h": "练",
+  "p": "liàn",
+  "en": "to practice; to train; to drill",
+  "l": 2
+ },
+ {
+  "h": "组",
+  "p": "zǔ",
+  "en": "to form; to organize; group",
+  "l": 2
+ },
+ {
+  "h": "经",
+  "p": "jīng",
+  "en": "classics; sacred book; scripture",
+  "l": 2
+ },
+ {
+  "h": "结",
+  "p": "jié",
+  "en": "knot; sturdy; bond",
+  "l": 2
+ },
+ {
+  "h": "绩",
+  "p": "jì",
+  "en": "to spin (hemp etc); merit; accomplishment",
+  "l": 2
+ },
+ {
+  "h": "绿",
+  "p": "lǜ",
+  "en": "green; (slang) (derived from 綠帽子",
+  "vi": "xanh lá",
+  "l": 2
+ },
+ {
+  "h": "者",
+  "p": "zhě",
+  "en": "(after a verb or adjective) one who (is) ...; (after a noun) person involved in ...; -er",
+  "l": 2
+ },
+ {
+  "h": "而",
+  "p": "ér",
+  "en": "and; as well as; and so",
+  "vi": "và, mà, nhưng",
+  "l": 2
+ },
+ {
+  "h": "育",
+  "p": "yù",
+  "en": "to have children; to raise or bring up; to educate",
+  "l": 2
+ },
+ {
+  "h": "背",
+  "p": "bēi",
+  "en": "to be burdened; to carry on the back or shoulder",
+  "l": 2
+ },
+ {
+  "h": "脏",
+  "p": "zāng",
+  "en": "viscera; (anatomy) organ",
+  "vi": "bẩn",
+  "l": 2
+ },
+ {
+  "h": "脚",
+  "p": "jiǎo",
+  "en": "foot; leg (of an animal or an object); base (of an object)",
+  "vi": "chân",
+  "l": 2
+ },
+ {
+  "h": "脸",
+  "p": "liǎn",
+  "en": "face",
+  "vi": "mặt",
+  "l": 2
+ },
+ {
+  "h": "腿",
+  "p": "tuǐ",
+  "en": "leg",
+  "vi": "chân (phần từ đùi trở xuống)",
+  "l": 2
+ },
+ {
+  "h": "自",
+  "p": "zì",
+  "en": "self; oneself; from; since; naturally; as a matter of course",
+  "l": 2
+ },
+ {
+  "h": "舒",
+  "p": "shū",
+  "en": "to stretch; to unfold; to relax",
+  "l": 2
+ },
+ {
+  "h": "般",
+  "p": "bān",
+  "en": "sort; kind; class",
+  "l": 2
+ },
+ {
+  "h": "船",
+  "p": "chuán",
+  "en": "boat; vessel; ship",
+  "vi": "thuyền, tàu",
+  "l": 2
+ },
+ {
+  "h": "色",
+  "p": "sè",
+  "en": "color; look; appearance",
+  "l": 2
+ },
+ {
+  "h": "节",
+  "p": "jié",
+  "en": "joint; node; section; segment; solar term (one of the 24 divisions of the year in the traditional Chinese calendar)",
+  "l": 2
+ },
+ {
+  "h": "英",
+  "p": "Yīng",
+  "en": "United Kingdom; British; England",
+  "l": 2
+ },
+ {
+  "h": "草",
+  "p": "cǎo",
+  "en": "grass; straw; manuscript",
+  "vi": "cỏ",
+  "l": 2
+ },
+ {
+  "h": "药",
+  "p": "yào",
+  "en": "leaf of the iris",
+  "vi": "thuốc",
+  "l": 2
+ },
+ {
+  "h": "蓝",
+  "p": "lán",
+  "en": "blue; indigo plant",
+  "vi": "xanh dương",
+  "l": 2
+ },
+ {
+  "h": "虽",
+  "p": "suī",
+  "en": "although; even though",
+  "l": 2
+ },
+ {
+  "h": "街",
+  "p": "jiē",
+  "en": "street",
+  "l": 2
+ },
+ {
+  "h": "表",
+  "p": "biǎo",
+  "en": "exterior surface; family relationship via females; to show (one's opinion)",
+  "l": 2
+ },
+ {
+  "h": "装",
+  "p": "zhuāng",
+  "en": "adornment; to adorn; dress",
+  "l": 2
+ },
+ {
+  "h": "观",
+  "p": "guān",
+  "en": "to look at; to watch; to observe",
+  "l": 2
+ },
+ {
+  "h": "角",
+  "p": "jiǎo",
+  "en": "angle; corner; horn",
+  "vi": "góc",
+  "l": 2
+ },
+ {
+  "h": "言",
+  "p": "yán",
+  "en": "words; speech; to say",
+  "l": 2
+ },
+ {
+  "h": "计",
+  "p": "jì",
+  "en": "to calculate; to compute; to count",
+  "l": 2
+ },
+ {
+  "h": "讨",
+  "p": "tǎo",
+  "en": "to invite; to provoke; to demand or ask for",
+  "l": 2
+ },
+ {
+  "h": "让",
+  "p": "ràng",
+  "en": "to yield; to permit; to let sb do sth",
+  "vi": "để, cho phép, khiến",
+  "l": 2
+ },
+ {
+  "h": "讲",
+  "p": "jiǎng",
+  "en": "to speak; to explain; to negotiate",
+  "vi": "nói, giảng",
+  "l": 2
+ },
+ {
+  "h": "许",
+  "p": "xǔ",
+  "en": "to allow; to permit; to promise",
+  "l": 2
+ },
+ {
+  "h": "论",
+  "p": "lùn",
+  "en": "opinion; view; theory",
+  "l": 2
+ },
+ {
+  "h": "词",
+  "p": "cí",
+  "en": "word; statement; speech; lyrics; a form of lyric poetry, flourishing in the Song dynasty 宋朝 (",
+  "l": 2
+ },
+ {
+  "h": "该",
+  "p": "gāi",
+  "en": "should; ought to; probably",
+  "l": 2
+ },
+ {
+  "h": "超",
+  "p": "chāo",
+  "en": "to exceed; to overtake; to surpass",
+  "l": 2
+ },
+ {
+  "h": "越",
+  "p": "yuè",
+  "en": "generic word for peoples or states of south China or south Asia at different historical periods; abbr. for Vietnam 越南",
+  "vi": "càng ... càng",
+  "l": 2
+ },
+ {
+  "h": "轻",
+  "p": "qīng",
+  "en": "light; easy; gentle",
+  "vi": "nhẹ",
+  "l": 2
+ },
+ {
+  "h": "辆",
+  "p": "liàng",
+  "en": "classifier for vehicles",
+  "vi": "(lượng từ) chiếc (xe)",
+  "l": 2
+ },
+ {
+  "h": "迎",
+  "p": "yíng",
+  "en": "to welcome; to meet; to forge ahead (esp. in the face of difficulties); to meet face to face",
+  "l": 2
+ },
+ {
+  "h": "运",
+  "p": "yùn",
+  "en": "to move; to transport; to use",
+  "l": 2
+ },
+ {
+  "h": "近",
+  "p": "jìn",
+  "en": "near; close to; approximately",
+  "vi": "gần",
+  "l": 2
+ },
+ {
+  "h": "适",
+  "p": "shì",
+  "en": "to fit; suitable; proper",
+  "l": 2
+ },
+ {
+  "h": "选",
+  "p": "xuǎn",
+  "en": "to choose; to pick; to select",
+  "l": 2
+ },
+ {
+  "h": "通",
+  "p": "tōng",
+  "en": "to go through; to know well; (suffix) expert",
+  "l": 2
+ },
+ {
+  "h": "遍",
+  "p": "biàn",
+  "en": "everywhere; all over; classifier for actions: one time",
+  "vi": "lần, khắp (lượng từ)",
+  "l": 2
+ },
+ {
+  "h": "部",
+  "p": "bù",
+  "en": "ministry; department; section",
+  "l": 2
+ },
+ {
+  "h": "酒",
+  "p": "jiǔ",
+  "en": "wine (esp. rice wine); liquor; spirits",
+  "l": 2
+ },
+ {
+  "h": "量",
+  "p": "liáng",
+  "en": "to measure",
+  "l": 2
+ },
+ {
+  "h": "钟",
+  "p": "zhōng",
+  "en": "handleless cup; goblet; to concentrate (one's affection etc)",
+  "l": 2
+ },
+ {
+  "h": "铁",
+  "p": "tiě",
+  "en": "iron (metal); arms; weapons",
+  "l": 2
+ },
+ {
+  "h": "银",
+  "p": "yín",
+  "en": "silver; silver-colored; relating to money or currency",
+  "l": 2
+ },
+ {
+  "h": "长",
+  "p": "cháng",
+  "en": "long; length; strong point; forte",
+  "vi": "dài",
+  "l": 2
+ },
+ {
+  "h": "闻",
+  "p": "wén",
+  "en": "to hear; news; well-known",
+  "l": 2
+ },
+ {
+  "h": "队",
+  "p": "duì",
+  "en": "squadron; team; group",
+  "l": 2
+ },
+ {
+  "h": "阳",
+  "p": "yáng",
+  "en": "positive (electric.); sun; male principle (Taoism)",
+  "l": 2
+ },
+ {
+  "h": "阴",
+  "p": "yīn",
+  "en": "overcast (weather); cloudy; shady",
+  "vi": "âm u, có mây",
+  "l": 2
+ },
+ {
+  "h": "际",
+  "p": "jì",
+  "en": "border; edge; boundary",
+  "l": 2
+ },
+ {
+  "h": "随",
+  "p": "suí",
+  "en": "to follow; to comply with; varying according to...",
+  "l": 2
+ },
+ {
+  "h": "雪",
+  "p": "xuě",
+  "en": "snow; (literary) to wipe away (a humiliation etc)",
+  "vi": "tuyết",
+  "l": 2
+ },
+ {
+  "h": "青",
+  "p": "qīng",
+  "en": "green; blue; black",
+  "l": 2
+ },
+ {
+  "h": "静",
+  "p": "jìng",
+  "en": "still; calm; quiet",
+  "l": 2
+ },
+ {
+  "h": "靠",
+  "p": "kào",
+  "en": "to lean against or on; to stand by the side of; to come near to",
+  "l": 2
+ },
+ {
+  "h": "鞋",
+  "p": "xié",
+  "en": "shoe",
+  "vi": "giày",
+  "l": 2
+ },
+ {
+  "h": "音",
+  "p": "yīn",
+  "en": "sound; noise; note (of musical scale)",
+  "l": 2
+ },
+ {
+  "h": "顺",
+  "p": "shùn",
+  "en": "to obey; to follow; to arrange",
+  "l": 2
+ },
+ {
+  "h": "须",
+  "p": "xū",
+  "en": "must; to have to; to wait",
+  "l": 2
+ },
+ {
+  "h": "顾",
+  "p": "gù",
+  "en": "to look after; to take into consideration; to attend to",
+  "l": 2
+ },
+ {
+  "h": "题",
+  "p": "tí",
+  "en": "topic; problem for discussion; exam question",
+  "vi": "đề, câu hỏi",
+  "l": 2
+ },
+ {
+  "h": "颜",
+  "p": "yán",
+  "en": "color; face; countenance",
+  "l": 2
+ },
+ {
+  "h": "食",
+  "p": "shí",
+  "en": "to eat; food; animal feed",
+  "l": 2
+ },
+ {
+  "h": "餐",
+  "p": "cān",
+  "en": "meal; to eat; classifier for meals",
+  "l": 2
+ },
+ {
+  "h": "饱",
+  "p": "bǎo",
+  "en": "to eat till full; satisfied",
+  "vi": "no",
+  "l": 2
+ },
+ {
+  "h": "饺",
+  "p": "jiǎo",
+  "en": "dumplings with meat filling",
+  "l": 2
+ },
+ {
+  "h": "骑",
+  "p": "qí",
+  "en": "to sit astride; to ride (a horse, bike etc); classifier for saddle horses",
+  "vi": "cưỡi, đi (xe đạp, xe máy)",
+  "l": 2
+ },
+ {
+  "h": "鱼",
+  "p": "yú",
+  "en": "fish (; used in the names of various aquatic animals that are not fish (including abalone 鮑魚",
+  "vi": "con cá",
+  "l": 2
+ },
+ {
+  "h": "鸟",
+  "p": "niǎo",
+  "en": "bird; \"bird\" radical in Chinese characters (Kangxi radical 196); (dialect) to pay attention to",
+  "vi": "con chim",
+  "l": 2
+ },
+ {
+  "h": "黄",
+  "p": "huáng",
+  "en": "yellow; pornographic; to fall through",
+  "vi": "vàng",
+  "l": 2
+ },
+ {
+  "h": "黑",
+  "p": "hēi",
+  "en": "black; dark; sinister",
+  "vi": "đen",
+  "l": 2
+ }
+]

@@ -3,7 +3,8 @@
 
 const STORAGE_KEY = "hsk-progress-v1";
 // scope: what the learner is studying now, e.g. "hsk:all", "hsk:3", "work:all", "work:q1-07".
-const DEFAULT_SETTINGS = Object.freeze({ reviewLimit: 40, newPerDay: 5, scope: "hsk:all" });
+// hskVersion: "3.0" (default, HSK 3.0 levels 1–6) or "2.0" (HSK 1–4 textbook).
+const DEFAULT_SETTINGS = Object.freeze({ reviewLimit: 40, newPerDay: 5, scope: "hsk30:all", hskVersion: "3.0" });
 
 // v3 stored settings.track ("hsk" or a job domain); v4 uses a scope instead.
 function migrateSettings(saved = {}) {

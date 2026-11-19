@@ -3,11 +3,14 @@
 // is studying now: "hsk:all", "hsk:3", "work:all" or "work:q1-07".
 import { adaptWord, loadTracks } from "./words.js";
 
-export const HSK_LEVELS = [1, 2, 3, 4];
+export const HSK_LEVELS = [1, 2, 3, 4];          // HSK 2.0 textbook
+export const HSK30_LEVELS = [1, 2, 3, 4, 5, 6];  // HSK 3.0 (levels 7–9 not included yet)
 const HAN_RUN = /\p{Script=Han}+/gu;
 
 export const data = {
-  hsk: [],          // adapted HSK words, id "hsk:<hanzi>"
+  hsk: [],          // adapted HSK 2.0 words, id "hsk:<hanzi>"
+  hsk30: [],        // adapted HSK 3.0 words, id "hsk30:<hanzi>", .level 1–6
+  hsk30Chars: [],   // HSK 3.0 characters (same card key as the word with that hanzi)
   work: [],         // adapted work words, id "work:<hanzi>", with .lessons
   workIndex: [],    // [{ id, book, num, title, titleZh, counts }]
   sentences: [],    // [{ id, l, kind: s|d|g, zh, p, vi, g? }]
@@ -27,7 +30,7 @@ const lessonCache = new Map();
 
 // Merges every word list into one dictionary: HSK entries win for pinyin/meaning, work entries add
 // the lessons a word appears in, extra words fill the gaps used for segmentation.
-export function buildLookup(hsk, work, extra) {
+export function buildLookup(hsk, work, extra, hsk30 = [], hsk30Chars = []) {
   const lookup = new Map();
   const put = (h, fields) => lookup.set(h, { ...(lookup.get(h) || { h, en: "", level: null, lessons: [] }), ...fields });
   for (const w of extra) put(w.h, { p: w.p, vi: w.vi });
@@ -36,13 +39,18 @@ export function buildLookup(hsk, work, extra) {
       put(form, { p: w.pinyin, vi: w.meaningVi, lessons: w.lessons, main: w.hanzi });
     }
   }
-  for (const w of hsk) put(w.hanzi, { p: w.pinyin, vi: w.meaningVi, en: w.meaning, level: w.level });
+  for (const w of hsk30) put(w.hanzi, { p: w.pinyin, vi: w.meaningVi, en: w.meaning, level: w.level, track: "hsk30" });
+  for (const c of hsk30Chars) put(c.hanzi, { p: c.pinyin, vi: c.meaningVi, en: c.meaning, level: c.level, track: "hsk30" });
+  for (const w of hsk) put(w.hanzi, { p: w.pinyin, vi: w.meaningVi, en: w.meaning, level: w.level, track: "hsk" });
   return lookup;
 }
 
 export async function loadData(fetchJson) {
   fetcher = fetchJson;
-  const [tracks, workIndex, workWords, sentences, lessonGrammar, hskGrammar, pairs, extra, patterns, core] =
+  const hsk30Index = await fetchJson("data/hsk30/index.json");
+  const hsk30Levels = hsk30Index.levels.map((l) => l.level);
+  const [tracks, workIndex, workWords, sentences, lessonGrammar, hskGrammar, pairs, extra, patterns, core,
+    hsk30Words, hsk30CharList] =
     await Promise.all([
       loadTracks(fetchJson),
       fetchJson("data/work/index.json"),
@@ -54,7 +62,11 @@ export async function loadData(fetchJson) {
       fetchJson("data/extra-words.json"),
       fetchJson("data/grammar/patterns.json"),
       fetchJson("data/grammar/core.json"),
+      Promise.all(hsk30Levels.map((lv) => fetchJson(`data/hsk30/words-${lv}.json`))),
+      Promise.all(hsk30Levels.map((lv) => fetchJson(`data/hsk30/chars-${lv}.json`))),
     ]);
+  const hsk30 = hsk30Words.flatMap((list) => list).map((w) => adaptWord(w, "hsk30"));
+  const hsk30Chars = hsk30CharList.flatMap((list) => list).map((c) => adaptWord(c, "hsk30"));
   const work = workWords.map((w) => ({ ...adaptWord(w, "work"), lessons: w.lessons, alt: w.alt || [] }));
   Object.assign(data, {
     hsk: tracks.words.hsk,
@@ -68,8 +80,9 @@ export async function loadData(fetchJson) {
     grammarCore: core,
     domainRaw: Object.fromEntries(Object.entries(tracks.raw).filter(([id]) => id !== "hsk")),
   });
-  data.byId = new Map([...data.hsk, ...data.work].map((w) => [w.id, w]));
-  data.lookup = buildLookup(data.hsk, work, extra);
+  Object.assign(data, { hsk30, hsk30Chars });
+  data.byId = new Map([...data.hsk, ...data.hsk30, ...data.work].map((w) => [w.id, w]));
+  data.lookup = buildLookup(data.hsk, work, extra, hsk30, hsk30Chars);
   data.dict = new Set(data.lookup.keys());
 }
 
@@ -83,6 +96,7 @@ export async function loadLesson(id) {
 export function parseScope(text) {
   const [kind, value] = String(text || "").split(":");
   if (kind === "work") return { kind: "work", value: value || "all" };
+  if (kind === "hsk30") return { kind: "hsk30", value: HSK30_LEVELS.includes(Number(value)) ? value : "all" };
   return { kind: "hsk", value: HSK_LEVELS.includes(Number(value)) ? value : "all" };
 }
 
@@ -101,20 +115,25 @@ export function lessonShortLabel(meta) {
 }
 
 export function scopeLabel(scope, d = data) {
-  if (scope.kind === "hsk") return scope.value === "all" ? "Tất cả HSK" : `HSK ${scope.value}`;
+  if (scope.kind === "hsk30") return scope.value === "all" ? "Tất cả HSK 3.0" : `HSK 3.0 · cấp ${scope.value}`;
+  if (scope.kind === "hsk") return scope.value === "all" ? "Tất cả HSK 2.0" : `HSK 2.0 · ${scope.value}`;
   if (scope.value === "all") return "Tất cả công việc";
   const meta = lessonMeta(scope.value, d);
   return meta ? lessonShortLabel(meta) : "Công việc";
 }
 
 export function scopeHash(scope) {
-  if (scope.kind === "hsk") return scope.value === "all" ? "hsk" : `hsk/${scope.value}`;
+  if (scope.kind === "hsk30") return scope.value === "all" ? "hsk/3.0" : `hsk/3.0/${scope.value}`;
+  if (scope.kind === "hsk") return scope.value === "all" ? "hsk/2.0" : `hsk/2.0/${scope.value}`;
   return scope.value === "all" ? "work" : `work/${scope.value}`;
 }
 
 export function scopeWords(scope, d = data) {
   if (scope.kind === "work") {
     return scope.value === "all" ? d.work : d.work.filter((w) => w.lessons.includes(scope.value));
+  }
+  if (scope.kind === "hsk30") {
+    return scope.value === "all" ? d.hsk30 : d.hsk30.filter((w) => w.level === Number(scope.value));
   }
   return scope.value === "all" ? d.hsk : d.hsk.filter((w) => w.level === Number(scope.value));
 }
@@ -177,6 +196,7 @@ export function sentencesWithWord(h, d = data, limit = 5) {
 // The deck a looked-up word belongs to, so it can be added to review.
 export function cardIdForWord(entry) {
   if (!entry) return null;
+  if (entry.track === "hsk30") return `hsk30:${entry.h}`;
   if (entry.level) return `hsk:${entry.h}`;
   if (entry.lessons && entry.lessons.length) return `work:${entry.main || entry.h}`;
   return null;

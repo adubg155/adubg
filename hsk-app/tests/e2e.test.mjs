@@ -232,3 +232,92 @@ test("dark mode renders the work list without errors", async () => {
   assert.deepEqual(page.errors, []);
   await page.context().close();
 });
+
+// ---------- v2.1: HSK 3.0, character grid, version switch ----------
+
+test("HSK 3.0 is the default version and shows levels 1–6", async () => {
+  const page = await open("#/hsk");
+  const text = await appText(page);
+  assert.match(text, /HSK 3\.0/);
+  assert.equal(await page.locator(".level-row").count(), 6);
+  assert.equal(await page.locator(".seg button.active").innerText(), "HSK 3.0");
+  assert.deepEqual(page.errors, []);
+  await page.context().close();
+});
+
+test("switching to HSK 2.0 shows the four textbook levels and the grammar tab", async () => {
+  const page = await open("#/hsk");
+  await page.click('[data-action="set-hsk-version"][data-version="2.0"]');
+  await page.waitForFunction(() => document.querySelectorAll(".level-row").length === 4);
+  await page.click(".level-row >> nth=3");
+  await page.waitForSelector(".tabs");
+  assert.match(await appText(page), /Ngữ pháp/);
+  assert.deepEqual(page.errors, []);
+  await page.context().close();
+});
+
+test("character grid shows 100 cells per page across 18 pages for all 1800 characters", async () => {
+  const page = await open("#/chars");
+  assert.equal(await page.locator(".char-cell").count(), 100);
+  assert.match(await page.locator(".pager").innerText(), /1\/18/);
+  assert.equal(await page.evaluate(() => document.body.dataset.area), "chars");
+  await page.click('[data-action="chars-page"][data-delta="1"]');
+  assert.match(await page.locator(".pager").innerText(), /2\/18/);
+  assert.deepEqual(page.errors, []);
+  await page.context().close();
+});
+
+test("choosing level 1 limits the characters to 300", async () => {
+  const page = await open("#/chars");
+  await page.click('[data-action="chars-level"][data-level="1"]');
+  assert.match(await page.locator(".pager").innerText(), /1\/3/);
+  await page.context().close();
+});
+
+test("tapping a character opens its detail sheet with pinyin", async () => {
+  const page = await open("#/chars");
+  await page.click('[data-action="chars-level"][data-level="1"]');
+  const cell = page.locator(".char-cell").first();
+  const hanzi = await cell.innerText();
+  await cell.click();
+  await page.waitForSelector("#sheet:not([hidden]) .sheet-hz");
+  assert.equal((await page.locator("#sheet .sheet-hz").innerText()).trim(), hanzi);
+  assert.ok((await page.locator("#sheet .pinyin").innerText()).length > 0, "has pinyin");
+  await page.context().close();
+});
+
+test("search filters characters by pinyin", async () => {
+  const page = await open("#/chars");
+  await page.fill(".search", "bù");
+  await page.dispatchEvent(".search", "change");
+  const count = await page.locator(".char-cell").count();
+  assert.ok(count > 0 && count < 100, `filtered to ${count}`);
+  await page.context().close();
+});
+
+test("a HSK 3.0 word is saved under its own track key", async () => {
+  const page = await open("#/hsk/3.0/1");
+  await page.click('[data-action="scope-start"][data-kind="new"]');
+  await page.click('[data-action="reveal"]');
+  await page.click('[data-action="rate"] >> nth=2');
+  const s = await stored(page);
+  assert.ok(Object.keys(s.cards).some((k) => k.startsWith("hsk30:")), "a hsk30 card was saved");
+  assert.ok(!Object.keys(s.cards).some((k) => k.startsWith("hsk:")), "no HSK 2.0 card was created");
+  await page.context().close();
+});
+
+test("the bottom bar of a HSK 3.0 level has listening and check actions", async () => {
+  const page = await open("#/hsk/3.0/2");
+  await page.waitForSelector(".subbar");
+  assert.equal(await page.locator(".subbar button").count(), 4);
+  await page.click('.subbar [data-action="placement-start"]');
+  assert.ok(await page.locator(".card, .progress-line, .big").count() > 0, "placement screen opens");
+  await page.context().close();
+});
+
+test("no horizontal scroll on the character grid at phone width", async () => {
+  const page = await open("#/chars");
+  const overflow = await page.evaluate(() => document.documentElement.scrollWidth - window.innerWidth);
+  assert.ok(overflow <= 0, `overflows by ${overflow}px`);
+  await page.context().close();
+});

@@ -7,6 +7,7 @@
   "scripts": {
     "check:data": "python3 tools/check-excel.py",
     "test:e2e": "node --test tests/e2e.test.mjs",
-    "test": "npm run check:data && npm run test:e2e"
+    "test:data": "node --test tests/hsk30.test.mjs",
+    "test": "npm run check:data && npm run test:data && npm run test:e2e"
   }
 }
