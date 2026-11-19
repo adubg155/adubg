@@ -1,0 +1,263 @@
+/* Bundled Chinese glyphs (Noto Sans SC, SIL OFL 1.1 — see fonts/LICENSE-NotoSansSC.txt).
+   Vietnamese and Latin text falls back to the system font, which has those glyphs. */
+@font-face {
+  font-family: "HSK Han";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("fonts/noto-sans-sc-chinese-simplified-400-normal.woff2") format("woff2");
+}
+@font-face {
+  font-family: "HSK Han";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("fonts/noto-sans-sc-chinese-simplified-700-normal.woff2") format("woff2");
+}
+
+/* Color tokens. Dark mode follows the system unless the user picks a theme in Settings. */
+:root {
+  --bg: #f6f3ee;
+  --surface: #ffffff;
+  --fg: #1c1b1f;
+  --muted: #5f5b63;
+  --line: #e2ddd5;
+  --accent: #b3261e;
+  --accent-fg: #ffffff;
+  --ok: #2e7d32;
+  --ok-bg: #e3f1e4;
+  --bad: #b3261e;
+  --bad-bg: #f9dedc;
+  --radius: 16px;
+  --tap: 48px;
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #141316;
+    --surface: #1f1d22;
+    --fg: #ece8f0;
+    --muted: #aba6b0;
+    --line: #34313a;
+    --accent: #ffb4a9;
+    --accent-fg: #5c0b06;
+    --ok: #9fd8a2;
+    --ok-bg: #1d3320;
+    --bad: #ffb4a9;
+    --bad-bg: #4a1d19;
+    color-scheme: dark;
+  }
+}
+
+:root[data-theme="dark"] {
+  --bg: #141316;
+  --surface: #1f1d22;
+  --fg: #ece8f0;
+  --muted: #aba6b0;
+  --line: #34313a;
+  --accent: #ffb4a9;
+  --accent-fg: #5c0b06;
+  --ok: #9fd8a2;
+  --ok-bg: #1d3320;
+  --bad: #ffb4a9;
+  --bad-bg: #4a1d19;
+  color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Noto Sans", "HSK Han", "Noto Sans SC", "PingFang SC", "Microsoft YaHei", sans-serif;
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
+  padding-top: env(safe-area-inset-top);
+  padding-left: env(safe-area-inset-left);
+  padding-right: env(safe-area-inset-right);
+}
+
+.topbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 14px 16px;
+  position: sticky;
+  top: 0;
+  background: var(--bg);
+  z-index: 2;
+}
+.topbar h1 { font-size: 20px; margin: 0; font-weight: 700; }
+
+.chip {
+  font-size: 13px;
+  padding: 4px 10px;
+  border-radius: 999px;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  color: var(--muted);
+}
+
+.content {
+  flex: 1;
+  padding: 4px 16px 96px;
+  max-width: 560px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.tabbar {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  background: var(--surface);
+  border-top: 1px solid var(--line);
+  padding: 6px 4px calc(6px + env(safe-area-inset-bottom));
+  z-index: 3;
+}
+.tabbar button {
+  min-height: var(--tap);
+  background: none;
+  border: 0;
+  color: var(--muted);
+  font-size: 18px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2px;
+  cursor: pointer;
+  padding: 0;
+}
+.tabbar button span { font-size: 11px; }
+.tabbar button[aria-current="page"] { color: var(--accent); font-weight: 700; }
+
+.card {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 20px;
+  margin: 12px 0;
+}
+
+.hanzi {
+  font-size: 88px;
+  line-height: 1.1;
+  text-align: center;
+  margin: 12px 0 4px;
+  font-family: "HSK Han", "Noto Sans SC", "PingFang SC", "Microsoft YaHei", sans-serif;
+}
+
+.center { text-align: center; }
+.muted { color: var(--muted); }
+.big { font-size: 22px; font-weight: 600; margin: 6px 0; }
+.pinyin { font-size: 20px; color: var(--muted); }
+
+.btn {
+  min-height: var(--tap);
+  padding: 0 18px;
+  border-radius: 12px;
+  border: 1px solid var(--line);
+  background: var(--surface);
+  color: var(--fg);
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.btn.primary { background: var(--accent); color: var(--accent-fg); border-color: transparent; }
+.btn:disabled { opacity: 0.5; cursor: default; }
+.btn.block { width: 100%; }
+
+.grade {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 8px;
+  margin-top: 12px;
+}
+.grade .btn { padding: 0 4px; font-size: 14px; }
+.grade .btn small { display: block; font-size: 11px; font-weight: 400; color: var(--muted); }
+
+.options {
+  display: grid;
+  gap: 10px;
+  margin-top: 12px;
+}
+.options .btn { text-align: left; }
+.options .btn.correct { background: var(--ok-bg); border-color: var(--ok); color: var(--ok); }
+.options .btn.wrong { background: var(--bad-bg); border-color: var(--bad); color: var(--bad); }
+
+.progress {
+  height: 6px;
+  border-radius: 999px;
+  background: var(--line);
+  overflow: hidden;
+  margin: 8px 0;
+}
+.progress > div { height: 100%; background: var(--accent); transition: width .2s ease; }
+
+.match-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+.match-grid .btn { min-height: 64px; font-size: 18px; }
+.match-grid .btn.matched { background: var(--ok-bg); color: var(--ok); border-color: var(--ok); }
+.match-grid .btn.selected { border-color: var(--accent); border-width: 2px; }
+
+.list { list-style: none; padding: 0; margin: 0; }
+.list li {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 12px 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.stat-row { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+.stat {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 14px;
+}
+.stat b { display: block; font-size: 26px; }
+
+.field { display: grid; gap: 6px; margin: 12px 0; }
+.field label { font-weight: 600; }
+.field input, .field select {
+  min-height: var(--tap);
+  font-size: 16px;
+  padding: 0 12px;
+  border-radius: 12px;
+  border: 1px solid var(--line);
+  background: var(--surface);
+  color: var(--fg);
+}
+
+.notice {
+  padding: 12px 14px;
+  border-radius: 12px;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  margin: 12px 0;
+  font-size: 14px;
+}
+
+.speak { font-size: 22px; min-width: var(--tap); min-height: var(--tap); background: none; border: 0; cursor: pointer; color: var(--fg); }
+
+h2 { font-size: 17px; margin: 18px 0 6px; }
+
+@media (min-width: 720px) {
+  .hanzi { font-size: 120px; }
+}

@@ -1,0 +1,7112 @@
+[
+ {
+  "hanzi": "一",
+  "pinyin": "yī",
+  "en": "one; single; a (article)",
+  "level": 1
+ },
+ {
+  "hanzi": "一点儿",
+  "pinyin": "yī diǎn r",
+  "en": "",
+  "level": 1
+ },
+ {
+  "hanzi": "七",
+  "pinyin": "qī",
+  "en": "seven; 7",
+  "level": 1
+ },
+ {
+  "hanzi": "三",
+  "pinyin": "sān",
+  "en": "three; 3",
+  "level": 1
+ },
+ {
+  "hanzi": "上",
+  "pinyin": "shǎng",
+  "en": "used in 上聲",
+  "level": 1
+ },
+ {
+  "hanzi": "上午",
+  "pinyin": "shàng wǔ",
+  "en": "morning",
+  "level": 1
+ },
+ {
+  "hanzi": "下",
+  "pinyin": "xià",
+  "en": "down; downwards; below",
+  "level": 1
+ },
+ {
+  "hanzi": "下午",
+  "pinyin": "xià wǔ",
+  "en": "afternoon; p.m.",
+  "level": 1
+ },
+ {
+  "hanzi": "下雨",
+  "pinyin": "xià yǔ",
+  "en": "to rain",
+  "level": 1
+ },
+ {
+  "hanzi": "不",
+  "pinyin": "bù",
+  "en": "no; not so; not; un-",
+  "level": 1
+ },
+ {
+  "hanzi": "不客气",
+  "pinyin": "bù kè qi",
+  "en": "you're welcome; don't mention it; impolite",
+  "level": 1
+ },
+ {
+  "hanzi": "东西",
+  "pinyin": "dōng xī",
+  "en": "east and west",
+  "level": 1
+ },
+ {
+  "hanzi": "个",
+  "pinyin": "gè",
+  "en": "(classifier used before a noun that has no specific classifier); individual",
+  "level": 1
+ },
+ {
+  "hanzi": "中午",
+  "pinyin": "zhōng wǔ",
+  "en": "noon; midday",
+  "level": 1
+ },
+ {
+  "hanzi": "中国",
+  "pinyin": "Zhōng guó",
+  "en": "China",
+  "level": 1
+ },
+ {
+  "hanzi": "九",
+  "pinyin": "jǐu",
+  "en": "nine; 9",
+  "level": 1
+ },
+ {
+  "hanzi": "书",
+  "pinyin": "shū",
+  "en": "book; letter; document",
+  "level": 1
+ },
+ {
+  "hanzi": "买",
+  "pinyin": "mǎi",
+  "en": "to buy; to purchase",
+  "level": 1
+ },
+ {
+  "hanzi": "了",
+  "pinyin": "le",
+  "en": "(completed action marker); (modal particle indicating change of state, situation now); (modal particle intensifying preceding clause)",
+  "level": 1
+ },
+ {
+  "hanzi": "二",
+  "pinyin": "èr",
+  "en": "two; 2; (Beijing dialect) stupid",
+  "level": 1
+ },
+ {
+  "hanzi": "五",
+  "pinyin": "wǔ",
+  "en": "five; 5",
+  "level": 1
+ },
+ {
+  "hanzi": "些",
+  "pinyin": "xiē",
+  "en": "classifier indicating a small amount or small number greater than 1: some, a few, several",
+  "level": 1
+ },
+ {
+  "hanzi": "人",
+  "pinyin": "rén",
+  "en": "person; people",
+  "level": 1
+ },
+ {
+  "hanzi": "什么",
+  "pinyin": "shén me",
+  "en": "what?; something; anything",
+  "level": 1
+ },
+ {
+  "hanzi": "今天",
+  "pinyin": "jīn tiān",
+  "en": "today; the present time; now",
+  "level": 1
+ },
+ {
+  "hanzi": "他",
+  "pinyin": "tā",
+  "en": "(third-person singular) (since the early 20th century, usu. male) he; him; his; other; another; some other (as in 他日 and 他人)",
+  "level": 1
+ },
+ {
+  "hanzi": "会",
+  "pinyin": "huì",
+  "en": "can; to have the skill; to know how to; to be likely to; to be sure to; to meet; to get together",
+  "level": 1
+ },
+ {
+  "hanzi": "住",
+  "pinyin": "zhù",
+  "en": "to live; to dwell; to stay",
+  "level": 1
+ },
+ {
+  "hanzi": "你",
+  "pinyin": "nǐ",
+  "en": "you (informal, as opposed to courteous 您)",
+  "level": 1
+ },
+ {
+  "hanzi": "做",
+  "pinyin": "zuò",
+  "en": "to make; to produce; to write; to compose; to do; to engage in; to hold (a party etc)",
+  "level": 1
+ },
+ {
+  "hanzi": "儿子",
+  "pinyin": "ér zi",
+  "en": "son",
+  "level": 1
+ },
+ {
+  "hanzi": "先生",
+  "pinyin": "xiān sheng",
+  "en": "teacher; gentleman; sir; mister (Mr.); husband",
+  "level": 1
+ },
+ {
+  "hanzi": "八",
+  "pinyin": "bā",
+  "en": "eight",
+  "level": 1
+ },
+ {
+  "hanzi": "六",
+  "pinyin": "lìu",
+  "en": "six; 6",
+  "level": 1
+ },
+ {
+  "hanzi": "再见",
+  "pinyin": "zài jiàn",
+  "en": "goodbye",
+  "level": 1
+ },
+ {
+  "hanzi": "写",
+  "pinyin": "xiě",
+  "en": "to write",
+  "level": 1
+ },
+ {
+  "hanzi": "冷",
+  "pinyin": "lěng",
+  "en": "cold",
+  "level": 1
+ },
+ {
+  "hanzi": "几",
+  "pinyin": "jī",
+  "en": "small table",
+  "level": 1
+ },
+ {
+  "hanzi": "出租车",
+  "pinyin": "chū zū chē",
+  "en": "taxi; (Tw) rental car",
+  "level": 1
+ },
+ {
+  "hanzi": "分钟",
+  "pinyin": "fēn zhōng",
+  "en": "minute",
+  "level": 1
+ },
+ {
+  "hanzi": "前面",
+  "pinyin": "qián miàn",
+  "en": "ahead; in front; preceding",
+  "level": 1
+ },
+ {
+  "hanzi": "北京",
+  "pinyin": "Běi jīng",
+  "en": "Beijing municipality, capital of the People's Republic of China (abbr. to 京)",
+  "level": 1
+ },
+ {
+  "hanzi": "医生",
+  "pinyin": "yī shēng",
+  "en": "doctor",
+  "level": 1
+ },
+ {
+  "hanzi": "医院",
+  "pinyin": "yī yuàn",
+  "en": "hospital",
+  "level": 1
+ },
+ {
+  "hanzi": "十",
+  "pinyin": "shí",
+  "en": "ten; 10",
+  "level": 1
+ },
+ {
+  "hanzi": "去",
+  "pinyin": "qù",
+  "en": "to go; to go to (a place); (of a time etc) last",
+  "level": 1
+ },
+ {
+  "hanzi": "叫",
+  "pinyin": "jiào",
+  "en": "to shout; to call; to order",
+  "level": 1
+ },
+ {
+  "hanzi": "号",
+  "pinyin": "háo",
+  "en": "roar; cry",
+  "level": 1
+ },
+ {
+  "hanzi": "吃",
+  "pinyin": "chī",
+  "en": "to eat; to consume; to eat at (a cafeteria etc); to eradicate; to destroy",
+  "level": 1
+ },
+ {
+  "hanzi": "同学",
+  "pinyin": "tóng xué",
+  "en": "to study at the same school; fellow student; classmate",
+  "level": 1
+ },
+ {
+  "hanzi": "名字",
+  "pinyin": "míng zi",
+  "en": "name (of a person or thing)",
+  "level": 1
+ },
+ {
+  "hanzi": "后面",
+  "pinyin": "hòu mian",
+  "en": "the back; the rear; the last bit; behind; near the end; at the back; later; afterwards",
+  "level": 1
+ },
+ {
+  "hanzi": "吗",
+  "pinyin": "má",
+  "en": "(coll.) what?",
+  "level": 1
+ },
+ {
+  "hanzi": "听",
+  "pinyin": "yǐn",
+  "en": "smile (archaic)",
+  "level": 1
+ },
+ {
+  "hanzi": "呢",
+  "pinyin": "ne",
+  "en": "particle indicating that a previously asked question is to be applied to the preceding word (\"What about ...?\", \"And ...?\"); particle for inquiring about location (\"Where is ...?\"); particle signaling a pause, to emphasize the preceding words and allow the listener time to take them on board (\"ok?\", \"are you with me?\")",
+  "level": 1
+ },
+ {
+  "hanzi": "和",
+  "pinyin": "hé",
+  "en": "(joining two nouns) and; together with; with (Taiwan pr. ); (math.) sum; to make peace",
+  "level": 1
+ },
+ {
+  "hanzi": "哪",
+  "pinyin": "nǎ",
+  "en": "how; which",
+  "level": 1
+ },
+ {
+  "hanzi": "哪儿",
+  "pinyin": "nǎ r",
+  "en": "where?; wherever; anywhere; somewhere; (used in rhetorical questions) how can ...?; how could ...?",
+  "level": 1
+ },
+ {
+  "hanzi": "商店",
+  "pinyin": "shāng diàn",
+  "en": "store; shop",
+  "level": 1
+ },
+ {
+  "hanzi": "喂",
+  "pinyin": "wéi",
+  "en": "hello (when answering the phone)",
+  "level": 1
+ },
+ {
+  "hanzi": "喜欢",
+  "pinyin": "xǐ huan",
+  "en": "to like; to be fond of",
+  "level": 1
+ },
+ {
+  "hanzi": "喝",
+  "pinyin": "hē",
+  "en": "to drink",
+  "level": 1
+ },
+ {
+  "hanzi": "四",
+  "pinyin": "sì",
+  "en": "four; 4",
+  "level": 1
+ },
+ {
+  "hanzi": "回",
+  "pinyin": "huí",
+  "en": "to circle; to go back; to turn around",
+  "level": 1
+ },
+ {
+  "hanzi": "在",
+  "pinyin": "zài",
+  "en": "to exist; to be alive; (of sb or sth) to be (located) at; (used before a verb to indicate an action in progress)",
+  "level": 1
+ },
+ {
+  "hanzi": "坐",
+  "pinyin": "zuò",
+  "en": "to sit; to take a seat; to take (a bus, airplane etc)",
+  "level": 1
+ },
+ {
+  "hanzi": "块",
+  "pinyin": "kuài",
+  "en": "lump; chunk; piece; classifier for pieces of cloth, cake, soap etc; (coll.) classifier for money and currency units",
+  "level": 1
+ },
+ {
+  "hanzi": "多",
+  "pinyin": "duō",
+  "en": "many; much; more; a lot of; too many; in excess; (after a numeral) ... odd",
+  "level": 1
+ },
+ {
+  "hanzi": "多少",
+  "pinyin": "duō shǎo",
+  "en": "number; amount; somewhat",
+  "level": 1
+ },
+ {
+  "hanzi": "大",
+  "pinyin": "dà",
+  "en": "big; large; great; older (than another person); eldest (as in 大姐)",
+  "level": 1
+ },
+ {
+  "hanzi": "天气",
+  "pinyin": "tiān qì",
+  "en": "weather",
+  "level": 1
+ },
+ {
+  "hanzi": "太",
+  "pinyin": "tài",
+  "en": "highest; greatest; too (much)",
+  "level": 1
+ },
+ {
+  "hanzi": "女儿",
+  "pinyin": "nǚ ér",
+  "en": "daughter",
+  "level": 1
+ },
+ {
+  "hanzi": "她",
+  "pinyin": "tā",
+  "en": "she",
+  "level": 1
+ },
+ {
+  "hanzi": "好",
+  "pinyin": "hǎo",
+  "en": "good; appropriate; proper; all right!",
+  "level": 1
+ },
+ {
+  "hanzi": "妈妈",
+  "pinyin": "mā ma",
+  "en": "mama; mommy; mother",
+  "level": 1
+ },
+ {
+  "hanzi": "字",
+  "pinyin": "zì",
+  "en": "letter; symbol; character",
+  "level": 1
+ },
+ {
+  "hanzi": "学习",
+  "pinyin": "xué xí",
+  "en": "to learn; to study",
+  "level": 1
+ },
+ {
+  "hanzi": "学校",
+  "pinyin": "xué xiào",
+  "en": "school",
+  "level": 1
+ },
+ {
+  "hanzi": "学生",
+  "pinyin": "xué sheng",
+  "en": "student; schoolchild",
+  "level": 1
+ },
+ {
+  "hanzi": "家",
+  "pinyin": "jiā",
+  "en": "home; family; (polite) my (sister, uncle etc)",
+  "level": 1
+ },
+ {
+  "hanzi": "对不起",
+  "pinyin": "duì bu qǐ",
+  "en": "I'm sorry; excuse me; I beg your pardon; to let (sb) down; to disappoint",
+  "level": 1
+ },
+ {
+  "hanzi": "小",
+  "pinyin": "xiǎo",
+  "en": "small; tiny; few",
+  "level": 1
+ },
+ {
+  "hanzi": "小姐",
+  "pinyin": "xiǎo jie",
+  "en": "young lady; miss; (slang) prostitute",
+  "level": 1
+ },
+ {
+  "hanzi": "少",
+  "pinyin": "shǎo",
+  "en": "few; less; to lack",
+  "level": 1
+ },
+ {
+  "hanzi": "岁",
+  "pinyin": "suì",
+  "en": "classifier for years (of age); year; year (of crop harvests)",
+  "level": 1
+ },
+ {
+  "hanzi": "工作",
+  "pinyin": "gōng zuò",
+  "en": "to work; (of a machine) to operate; job",
+  "level": 1
+ },
+ {
+  "hanzi": "年",
+  "pinyin": "nián",
+  "en": "year",
+  "level": 1
+ },
+ {
+  "hanzi": "开",
+  "pinyin": "kāi",
+  "en": "to open (transitive or intransitive); (of ships, vehicles, troops etc) to start; to turn on; to put in operation; to operate; to run",
+  "level": 1
+ },
+ {
+  "hanzi": "很",
+  "pinyin": "hěn",
+  "en": "very; quite; (also, often used before an adjective without intensifying its meaning, i.e. as a meaningless syntactic element)",
+  "level": 1
+ },
+ {
+  "hanzi": "怎么",
+  "pinyin": "zěn me",
+  "en": "how?; what?; why?",
+  "level": 1
+ },
+ {
+  "hanzi": "怎么样",
+  "pinyin": "zěn me yàng",
+  "en": "how?; how about?; how was it?",
+  "level": 1
+ },
+ {
+  "hanzi": "想",
+  "pinyin": "xiǎng",
+  "en": "to think (about); to think of; to devise; to think (that); to believe (that)",
+  "level": 1
+ },
+ {
+  "hanzi": "我",
+  "pinyin": "wǒ",
+  "en": "I; me; my",
+  "level": 1
+ },
+ {
+  "hanzi": "我们",
+  "pinyin": "wǒ men",
+  "en": "we; us; ourselves; our",
+  "level": 1
+ },
+ {
+  "hanzi": "打电话",
+  "pinyin": "dǎ diàn huà",
+  "en": "to make a telephone call",
+  "level": 1
+ },
+ {
+  "hanzi": "时候",
+  "pinyin": "shí hou",
+  "en": "time; length of time; moment",
+  "level": 1
+ },
+ {
+  "hanzi": "明天",
+  "pinyin": "míng tiān",
+  "en": "tomorrow",
+  "level": 1
+ },
+ {
+  "hanzi": "星期",
+  "pinyin": "xīng qī",
+  "en": "week; day of the week; Sunday",
+  "level": 1
+ },
+ {
+  "hanzi": "昨天",
+  "pinyin": "zuó tiān",
+  "en": "yesterday",
+  "level": 1
+ },
+ {
+  "hanzi": "是",
+  "pinyin": "shì",
+  "en": "to be (followed by substantives only); correct; right; true; (respectful acknowledgement of a command) very well",
+  "level": 1
+ },
+ {
+  "hanzi": "月",
+  "pinyin": "yuè",
+  "en": "moon; month; monthly",
+  "level": 1
+ },
+ {
+  "hanzi": "有",
+  "pinyin": "yǒu",
+  "en": "to have; there is; having; with; -ful; -ed; -al (as in 有意 intentional)",
+  "level": 1
+ },
+ {
+  "hanzi": "朋友",
+  "pinyin": "péng you",
+  "en": "friend",
+  "level": 1
+ },
+ {
+  "hanzi": "本",
+  "pinyin": "běn",
+  "en": "root; stem; origin; source; one's own; this",
+  "level": 1
+ },
+ {
+  "hanzi": "来",
+  "pinyin": "lái",
+  "en": "to come; (used as a substitute for a more specific verb); hither (directional complement for motion toward the speaker, as in 回來",
+  "level": 1
+ },
+ {
+  "hanzi": "杯子",
+  "pinyin": "bēi zi",
+  "en": "cup; glass",
+  "level": 1
+ },
+ {
+  "hanzi": "桌子",
+  "pinyin": "zhuō zi",
+  "en": "table; desk",
+  "level": 1
+ },
+ {
+  "hanzi": "椅子",
+  "pinyin": "yǐ zi",
+  "en": "chair",
+  "level": 1
+ },
+ {
+  "hanzi": "水",
+  "pinyin": "shuǐ",
+  "en": "water; (after a name) ... River; to swim (used mostly in 會水",
+  "level": 1
+ },
+ {
+  "hanzi": "水果",
+  "pinyin": "shuǐ guǒ",
+  "en": "fruit",
+  "level": 1
+ },
+ {
+  "hanzi": "汉语",
+  "pinyin": "Hàn yǔ",
+  "en": "Chinese language",
+  "level": 1
+ },
+ {
+  "hanzi": "没关系",
+  "pinyin": "méi guān xi",
+  "en": "it doesn't matter",
+  "level": 1
+ },
+ {
+  "hanzi": "没有",
+  "pinyin": "méi yǒu",
+  "en": "haven't; hasn't; doesn't exist",
+  "level": 1
+ },
+ {
+  "hanzi": "漂亮",
+  "pinyin": "piào liang",
+  "en": "pretty; beautiful",
+  "level": 1
+ },
+ {
+  "hanzi": "点",
+  "pinyin": "diǎn",
+  "en": "to touch briefly; to tap; to mark with a dot; to check off (on a list); to order (food etc); to select",
+  "level": 1
+ },
+ {
+  "hanzi": "热",
+  "pinyin": "rè",
+  "en": "to warm up; to heat up; hot (of weather)",
+  "level": 1
+ },
+ {
+  "hanzi": "爱",
+  "pinyin": "ài",
+  "en": "to love; to be fond of; to like; affection; to be inclined (to do sth); to tend to (happen)",
+  "level": 1
+ },
+ {
+  "hanzi": "爸爸",
+  "pinyin": "bà ba",
+  "en": "(coll.) father; dad",
+  "level": 1
+ },
+ {
+  "hanzi": "狗",
+  "pinyin": "gǒu",
+  "en": "dog",
+  "level": 1
+ },
+ {
+  "hanzi": "猫",
+  "pinyin": "māo",
+  "en": "cat (; (dialect) to hide oneself; (loanword) (coll.) modem",
+  "level": 1
+ },
+ {
+  "hanzi": "现在",
+  "pinyin": "xiàn zài",
+  "en": "now; at present; currently",
+  "level": 1
+ },
+ {
+  "hanzi": "电影",
+  "pinyin": "diàn yǐng",
+  "en": "movie; film",
+  "level": 1
+ },
+ {
+  "hanzi": "电脑",
+  "pinyin": "diàn nǎo",
+  "en": "computer",
+  "level": 1
+ },
+ {
+  "hanzi": "电视",
+  "pinyin": "diàn shì",
+  "en": "television; TV",
+  "level": 1
+ },
+ {
+  "hanzi": "的",
+  "pinyin": "de",
+  "en": "of; ~'s (possessive particle); (used after an attribute when it modifies a noun); (used at the end of a declarative sentence for emphasis)",
+  "level": 1
+ },
+ {
+  "hanzi": "看",
+  "pinyin": "kān",
+  "en": "to look after; to take care of; to watch",
+  "level": 1
+ },
+ {
+  "hanzi": "看见",
+  "pinyin": "kàn jiàn",
+  "en": "to see; to catch sight of",
+  "level": 1
+ },
+ {
+  "hanzi": "睡觉",
+  "pinyin": "shuì jiào",
+  "en": "to go to bed; to sleep",
+  "level": 1
+ },
+ {
+  "hanzi": "米饭",
+  "pinyin": "mǐ fàn",
+  "en": "(cooked) rice",
+  "level": 1
+ },
+ {
+  "hanzi": "老师",
+  "pinyin": "lǎo shī",
+  "en": "teacher",
+  "level": 1
+ },
+ {
+  "hanzi": "能",
+  "pinyin": "néng",
+  "en": "can; to be able to; might possibly",
+  "level": 1
+ },
+ {
+  "hanzi": "苹果",
+  "pinyin": "Píng guǒ",
+  "en": "Apple (American tech company)",
+  "level": 1
+ },
+ {
+  "hanzi": "茶",
+  "pinyin": "chá",
+  "en": "tea; tea plant",
+  "level": 1
+ },
+ {
+  "hanzi": "菜",
+  "pinyin": "cài",
+  "en": "vegetable; greens (; dish (of food) (; (of one's skills etc) weak; poor",
+  "level": 1
+ },
+ {
+  "hanzi": "衣服",
+  "pinyin": "yī fu",
+  "en": "clothes",
+  "level": 1
+ },
+ {
+  "hanzi": "认识",
+  "pinyin": "rèn shi",
+  "en": "to know; to recognize; to be familiar with",
+  "level": 1
+ },
+ {
+  "hanzi": "说",
+  "pinyin": "shuì",
+  "en": "to persuade",
+  "level": 1
+ },
+ {
+  "hanzi": "请",
+  "pinyin": "qǐng",
+  "en": "to ask; to invite; please (do sth)",
+  "level": 1
+ },
+ {
+  "hanzi": "读",
+  "pinyin": "dòu",
+  "en": "comma; phrase marked by pause",
+  "level": 1
+ },
+ {
+  "hanzi": "谁",
+  "pinyin": "shéi",
+  "en": "who; also pr.",
+  "level": 1
+ },
+ {
+  "hanzi": "谢谢",
+  "pinyin": "xiè xie",
+  "en": "to thank; thanks; thank you",
+  "level": 1
+ },
+ {
+  "hanzi": "这",
+  "pinyin": "zhè",
+  "en": "(pronoun) this; these; this; the (followed by a noun); this; these (followed by a classifier) (in this sense, commonly pr. , esp. in Beijing)",
+  "level": 1
+ },
+ {
+  "hanzi": "那",
+  "pinyin": "nà",
+  "en": "(specifier) that; the; those (colloquial pr. ); (pronoun) that (referring to persons, things or situations); then (in that case)",
+  "level": 1
+ },
+ {
+  "hanzi": "都",
+  "pinyin": "dōu",
+  "en": "all; both; entirely; (used for emphasis) even; already",
+  "level": 1
+ },
+ {
+  "hanzi": "里",
+  "pinyin": "lǐ",
+  "en": "lining; interior; inside",
+  "level": 1
+ },
+ {
+  "hanzi": "钱",
+  "pinyin": "qián",
+  "en": "coin; money; unit of weight, one tenth of a tael 兩",
+  "level": 1
+ },
+ {
+  "hanzi": "飞机",
+  "pinyin": "fēi jī",
+  "en": "airplane",
+  "level": 1
+ },
+ {
+  "hanzi": "饭店",
+  "pinyin": "fàn diàn",
+  "en": "restaurant; hotel",
+  "level": 1
+ },
+ {
+  "hanzi": "高兴",
+  "pinyin": "gāo xìng",
+  "en": "happy; glad; willing (to do sth)",
+  "level": 1
+ },
+ {
+  "hanzi": "一下",
+  "pinyin": "yī xià",
+  "en": "(after a verb) a bit; a little (indicating brief duration, or softening the tone, or suggesting giving sth a try); all at once; suddenly",
+  "level": 2
+ },
+ {
+  "hanzi": "一起",
+  "pinyin": "yī qǐ",
+  "en": "(in) the same place; together; in company (with); altogether; in total",
+  "level": 2
+ },
+ {
+  "hanzi": "丈夫",
+  "pinyin": "zhàng fu",
+  "en": "husband",
+  "level": 2
+ },
+ {
+  "hanzi": "上班",
+  "pinyin": "shàng bān",
+  "en": "to go to work; to be on duty; to start work",
+  "level": 2
+ },
+ {
+  "hanzi": "两",
+  "pinyin": "liǎng",
+  "en": "two; both; some",
+  "level": 2
+ },
+ {
+  "hanzi": "为什么",
+  "pinyin": "wèi shén me",
+  "en": "why?; for what reason?",
+  "level": 2
+ },
+ {
+  "hanzi": "也",
+  "pinyin": "yě",
+  "en": "also; too; as well; (not ...) either; (used after a verbal or nominal expression X to indicate that X is an extreme or unexpected case) even (X); (literary) particle having functions similar to 啊",
+  "level": 2
+ },
+ {
+  "hanzi": "事情",
+  "pinyin": "shì qing",
+  "en": "affair; matter; thing; business",
+  "level": 2
+ },
+ {
+  "hanzi": "介绍",
+  "pinyin": "jiè shào",
+  "en": "to introduce (sb to sb); to give a presentation; to present (sb for a job etc)",
+  "level": 2
+ },
+ {
+  "hanzi": "从",
+  "pinyin": "cóng",
+  "en": "from; through; via; to follow; to obey",
+  "level": 2
+ },
+ {
+  "hanzi": "件",
+  "pinyin": "jiàn",
+  "en": "item; component; classifier for events, things, clothes etc",
+  "level": 2
+ },
+ {
+  "hanzi": "休息",
+  "pinyin": "xīu xi",
+  "en": "rest; to rest",
+  "level": 2
+ },
+ {
+  "hanzi": "便宜",
+  "pinyin": "biàn yí",
+  "en": "convenient",
+  "level": 2
+ },
+ {
+  "hanzi": "公共汽车",
+  "pinyin": "gōng gòng qì chē",
+  "en": "bus",
+  "level": 2
+ },
+ {
+  "hanzi": "公司",
+  "pinyin": "gōng sī",
+  "en": "company; firm; corporation",
+  "level": 2
+ },
+ {
+  "hanzi": "再",
+  "pinyin": "zài",
+  "en": "again; once more; re-; further; beyond this point of time; (before an adjective) more",
+  "level": 2
+ },
+ {
+  "hanzi": "准备",
+  "pinyin": "zhǔn bèi",
+  "en": "preparation; to prepare; to intend",
+  "level": 2
+ },
+ {
+  "hanzi": "出",
+  "pinyin": "chū",
+  "en": "to go out; to come out; to arise; to occur; to produce; to yield",
+  "level": 2
+ },
+ {
+  "hanzi": "别",
+  "pinyin": "bié",
+  "en": "to leave; to part (from); (literary) to differentiate; to distinguish; (dialect) to turn away; to turn aside; to avert (one's face, gaze etc)",
+  "level": 2
+ },
+ {
+  "hanzi": "到",
+  "pinyin": "dào",
+  "en": "to reach; to arrive; to leave for; to go to; to (a place); until (a time); up to (a point)",
+  "level": 2
+ },
+ {
+  "hanzi": "千",
+  "pinyin": "qiān",
+  "en": "thousand",
+  "level": 2
+ },
+ {
+  "hanzi": "卖",
+  "pinyin": "mài",
+  "en": "to sell; to betray; to spare no effort",
+  "level": 2
+ },
+ {
+  "hanzi": "去年",
+  "pinyin": "qù nián",
+  "en": "last year",
+  "level": 2
+ },
+ {
+  "hanzi": "可以",
+  "pinyin": "kě yǐ",
+  "en": "can; may; possible",
+  "level": 2
+ },
+ {
+  "hanzi": "可能",
+  "pinyin": "kě néng",
+  "en": "might (happen); possible; probable",
+  "level": 2
+ },
+ {
+  "hanzi": "右边",
+  "pinyin": "yòu bian",
+  "en": "right side; right, to the right",
+  "level": 2
+ },
+ {
+  "hanzi": "吧",
+  "pinyin": "bā",
+  "en": "bar (loanword) (serving drinks, or providing Internet access etc); to puff (on a pipe etc); (onom.) bang",
+  "level": 2
+ },
+ {
+  "hanzi": "告诉",
+  "pinyin": "gào sù",
+  "en": "to press charges; to file a complaint",
+  "level": 2
+ },
+ {
+  "hanzi": "咖啡",
+  "pinyin": "kā fēi",
+  "en": "(loanword) coffee",
+  "level": 2
+ },
+ {
+  "hanzi": "哥哥",
+  "pinyin": "gē ge",
+  "en": "older brother",
+  "level": 2
+ },
+ {
+  "hanzi": "唱歌",
+  "pinyin": "chàng gē",
+  "en": "to sing a song",
+  "level": 2
+ },
+ {
+  "hanzi": "外",
+  "pinyin": "wài",
+  "en": "outside; in addition; foreign",
+  "level": 2
+ },
+ {
+  "hanzi": "大家",
+  "pinyin": "dà jiā",
+  "en": "everyone; influential family; great expert",
+  "level": 2
+ },
+ {
+  "hanzi": "女",
+  "pinyin": "nǚ",
+  "en": "female; woman; daughter",
+  "level": 2
+ },
+ {
+  "hanzi": "好吃",
+  "pinyin": "hǎo chī",
+  "en": "tasty; delicious",
+  "level": 2
+ },
+ {
+  "hanzi": "妹妹",
+  "pinyin": "mèi mei",
+  "en": "younger sister; young woman",
+  "level": 2
+ },
+ {
+  "hanzi": "妻子",
+  "pinyin": "qī zǐ",
+  "en": "wife and children",
+  "level": 2
+ },
+ {
+  "hanzi": "姐姐",
+  "pinyin": "jiě jie",
+  "en": "older sister",
+  "level": 2
+ },
+ {
+  "hanzi": "姓",
+  "pinyin": "xìng",
+  "en": "family name; surname; to be surnamed ...",
+  "level": 2
+ },
+ {
+  "hanzi": "孩子",
+  "pinyin": "hái zi",
+  "en": "child",
+  "level": 2
+ },
+ {
+  "hanzi": "它",
+  "pinyin": "tā",
+  "en": "it",
+  "level": 2
+ },
+ {
+  "hanzi": "完",
+  "pinyin": "wán",
+  "en": "to finish; to be over; whole",
+  "level": 2
+ },
+ {
+  "hanzi": "宾馆",
+  "pinyin": "bīn guǎn",
+  "en": "guesthouse; lodge; hotel",
+  "level": 2
+ },
+ {
+  "hanzi": "对",
+  "pinyin": "duì",
+  "en": "right; correct; towards; at; for; concerning; regarding",
+  "level": 2
+ },
+ {
+  "hanzi": "小时",
+  "pinyin": "xiǎo shí",
+  "en": "hour",
+  "level": 2
+ },
+ {
+  "hanzi": "就",
+  "pinyin": "jìu",
+  "en": "(after a suppositional clause) in that case; then; (after a clause of action) as soon as; immediately after; (same as 就是) merely; nothing else but; simply; just; precisely; exactly",
+  "level": 2
+ },
+ {
+  "hanzi": "左边",
+  "pinyin": "zuǒ bian",
+  "en": "left; the left side; to the left of",
+  "level": 2
+ },
+ {
+  "hanzi": "已经",
+  "pinyin": "yǐ jīng",
+  "en": "already",
+  "level": 2
+ },
+ {
+  "hanzi": "希望",
+  "pinyin": "xī wàng",
+  "en": "to hope; a hope; a wish (",
+  "level": 2
+ },
+ {
+  "hanzi": "帮助",
+  "pinyin": "bāng zhù",
+  "en": "assistance; aid; to help; to assist",
+  "level": 2
+ },
+ {
+  "hanzi": "开始",
+  "pinyin": "kāi shǐ",
+  "en": "to begin; beginning; to start",
+  "level": 2
+ },
+ {
+  "hanzi": "弟弟",
+  "pinyin": "dì di",
+  "en": "younger brother",
+  "level": 2
+ },
+ {
+  "hanzi": "往",
+  "pinyin": "wǎng",
+  "en": "to go (in a direction); to; towards",
+  "level": 2
+ },
+ {
+  "hanzi": "得",
+  "pinyin": "dé",
+  "en": "to obtain; to get; to gain",
+  "level": 2
+ },
+ {
+  "hanzi": "忙",
+  "pinyin": "máng",
+  "en": "busy; hurriedly; to hurry",
+  "level": 2
+ },
+ {
+  "hanzi": "快",
+  "pinyin": "kuài",
+  "en": "rapid; quick; speed",
+  "level": 2
+ },
+ {
+  "hanzi": "快乐",
+  "pinyin": "kuài lè",
+  "en": "happy; joyful",
+  "level": 2
+ },
+ {
+  "hanzi": "您",
+  "pinyin": "nín",
+  "en": "you (courteous, as opposed to informal 你)",
+  "level": 2
+ },
+ {
+  "hanzi": "意思",
+  "pinyin": "yì si",
+  "en": "idea; opinion; meaning",
+  "level": 2
+ },
+ {
+  "hanzi": "慢",
+  "pinyin": "màn",
+  "en": "slow",
+  "level": 2
+ },
+ {
+  "hanzi": "懂",
+  "pinyin": "dǒng",
+  "en": "to understand; to comprehend",
+  "level": 2
+ },
+ {
+  "hanzi": "房间",
+  "pinyin": "fáng jiān",
+  "en": "room",
+  "level": 2
+ },
+ {
+  "hanzi": "手机",
+  "pinyin": "shǒu jī",
+  "en": "cell phone; mobile phone",
+  "level": 2
+ },
+ {
+  "hanzi": "手表",
+  "pinyin": "shǒu biǎo",
+  "en": "wristwatch",
+  "level": 2
+ },
+ {
+  "hanzi": "找",
+  "pinyin": "zhǎo",
+  "en": "to try to find; to look for; to call on sb",
+  "level": 2
+ },
+ {
+  "hanzi": "报纸",
+  "pinyin": "bào zhǐ",
+  "en": "newspaper; newsprint",
+  "level": 2
+ },
+ {
+  "hanzi": "教室",
+  "pinyin": "jiào shì",
+  "en": "classroom",
+  "level": 2
+ },
+ {
+  "hanzi": "新",
+  "pinyin": "xīn",
+  "en": "new; newly; meso- (chemistry)",
+  "level": 2
+ },
+ {
+  "hanzi": "旁边",
+  "pinyin": "páng biān",
+  "en": "side; adjacent place",
+  "level": 2
+ },
+ {
+  "hanzi": "旅游",
+  "pinyin": "lǚ yóu",
+  "en": "trip; journey; tourism",
+  "level": 2
+ },
+ {
+  "hanzi": "日",
+  "pinyin": "rì",
+  "en": "sun; day; date, day of the month",
+  "level": 2
+ },
+ {
+  "hanzi": "早上",
+  "pinyin": "zǎo shang",
+  "en": "early morning",
+  "level": 2
+ },
+ {
+  "hanzi": "时间",
+  "pinyin": "shí jiān",
+  "en": "(concept of) time; (duration of) time; (point in) time",
+  "level": 2
+ },
+ {
+  "hanzi": "晚上",
+  "pinyin": "wǎn shang",
+  "en": "evening; night; in the evening",
+  "level": 2
+ },
+ {
+  "hanzi": "晴",
+  "pinyin": "qíng",
+  "en": "clear; fine (weather)",
+  "level": 2
+ },
+ {
+  "hanzi": "最",
+  "pinyin": "zuì",
+  "en": "(before an adjective or verb) to the highest degree; (the) most ...; -est; (after 之) best or most extreme example (e.g. 世界之最 \"the greatest in the world\")",
+  "level": 2
+ },
+ {
+  "hanzi": "服务员",
+  "pinyin": "fú wù yuán",
+  "en": "waiter; waitress; attendant",
+  "level": 2
+ },
+ {
+  "hanzi": "机场",
+  "pinyin": "jī chǎng",
+  "en": "airport; airfield; (slang) service provider for Shadowsocks or similar software for circumventing Internet censorship",
+  "level": 2
+ },
+ {
+  "hanzi": "次",
+  "pinyin": "cì",
+  "en": "next in sequence; second; the second (day, time etc)",
+  "level": 2
+ },
+ {
+  "hanzi": "正在",
+  "pinyin": "zhèng zài",
+  "en": "to be in the process of (doing sth); to be currently ...-ing",
+  "level": 2
+ },
+ {
+  "hanzi": "每",
+  "pinyin": "měi",
+  "en": "each; every",
+  "level": 2
+ },
+ {
+  "hanzi": "比",
+  "pinyin": "Bǐ",
+  "en": "Belgium; Belgian; abbr. for 比利時",
+  "level": 2
+ },
+ {
+  "hanzi": "洗",
+  "pinyin": "xǐ",
+  "en": "to wash; to bathe; to develop (photographs); to shuffle (cards etc)",
+  "level": 2
+ },
+ {
+  "hanzi": "游泳",
+  "pinyin": "yóu yǒng",
+  "en": "swimming; to swim",
+  "level": 2
+ },
+ {
+  "hanzi": "火车站",
+  "pinyin": "huǒ chē zhàn",
+  "en": "train station",
+  "level": 2
+ },
+ {
+  "hanzi": "牛奶",
+  "pinyin": "níu nǎi",
+  "en": "cow's milk",
+  "level": 2
+ },
+ {
+  "hanzi": "玩",
+  "pinyin": "wán",
+  "en": "to play; to have fun; to trifle with",
+  "level": 2
+ },
+ {
+  "hanzi": "生日",
+  "pinyin": "shēng rì",
+  "en": "birthday",
+  "level": 2
+ },
+ {
+  "hanzi": "生病",
+  "pinyin": "shēng bìng",
+  "en": "to fall ill",
+  "level": 2
+ },
+ {
+  "hanzi": "男",
+  "pinyin": "nán",
+  "en": "male; baron, the lowest of the five ranks of nobility 五等爵位",
+  "level": 2
+ },
+ {
+  "hanzi": "白",
+  "pinyin": "bái",
+  "en": "white; snowy; pure",
+  "level": 2
+ },
+ {
+  "hanzi": "百",
+  "pinyin": "bǎi",
+  "en": "hundred; numerous; all kinds of",
+  "level": 2
+ },
+ {
+  "hanzi": "真",
+  "pinyin": "zhēn",
+  "en": "really; truly; indeed",
+  "level": 2
+ },
+ {
+  "hanzi": "眼睛",
+  "pinyin": "yǎn jing",
+  "en": "eye",
+  "level": 2
+ },
+ {
+  "hanzi": "着",
+  "pinyin": "zhāo",
+  "en": "a move in chess (Taiwan pr. ); trick; tactic; (dialect) okay; all right",
+  "level": 2
+ },
+ {
+  "hanzi": "知道",
+  "pinyin": "zhī dào",
+  "en": "to know; to become aware of; also pr.",
+  "level": 2
+ },
+ {
+  "hanzi": "票",
+  "pinyin": "piào",
+  "en": "ticket; ballot; banknote",
+  "level": 2
+ },
+ {
+  "hanzi": "离",
+  "pinyin": "chī",
+  "en": "mythical beast (archaic)",
+  "level": 2
+ },
+ {
+  "hanzi": "穿",
+  "pinyin": "chuān",
+  "en": "to wear; to put on; to dress",
+  "level": 2
+ },
+ {
+  "hanzi": "笑",
+  "pinyin": "xiào",
+  "en": "to laugh; to smile; to laugh at",
+  "level": 2
+ },
+ {
+  "hanzi": "第一",
+  "pinyin": "dì yī",
+  "en": "first; most important; primary; foremost",
+  "level": 2
+ },
+ {
+  "hanzi": "等",
+  "pinyin": "děng",
+  "en": "to wait for; to await; by the time; when; till; and so on; etc.; et al.",
+  "level": 2
+ },
+ {
+  "hanzi": "累",
+  "pinyin": "lěi",
+  "en": "to accumulate; to involve or implicate (Taiwan pr. ); continuous",
+  "level": 2
+ },
+ {
+  "hanzi": "红",
+  "pinyin": "hóng",
+  "en": "red; popular; revolutionary",
+  "level": 2
+ },
+ {
+  "hanzi": "给",
+  "pinyin": "gěi",
+  "en": "to; for; for the benefit of",
+  "level": 2
+ },
+ {
+  "hanzi": "羊肉",
+  "pinyin": "yáng ròu",
+  "en": "mutton; goat meat",
+  "level": 2
+ },
+ {
+  "hanzi": "考试",
+  "pinyin": "kǎo shì",
+  "en": "to take an exam; exam",
+  "level": 2
+ },
+ {
+  "hanzi": "药",
+  "pinyin": "yào",
+  "en": "leaf of the iris",
+  "level": 2
+ },
+ {
+  "hanzi": "西瓜",
+  "pinyin": "xī guā",
+  "en": "watermelon",
+  "level": 2
+ },
+ {
+  "hanzi": "要",
+  "pinyin": "yào",
+  "en": "to want; to need; to ask for; will; shall; about to; need to; should",
+  "level": 2
+ },
+ {
+  "hanzi": "觉得",
+  "pinyin": "jué de",
+  "en": "to think that ...; to feel that ...; to feel (uncomfortable etc)",
+  "level": 2
+ },
+ {
+  "hanzi": "让",
+  "pinyin": "ràng",
+  "en": "to yield; to permit; to let sb do sth",
+  "level": 2
+ },
+ {
+  "hanzi": "说话",
+  "pinyin": "shuō huà",
+  "en": "to speak; to say; to talk",
+  "level": 2
+ },
+ {
+  "hanzi": "课",
+  "pinyin": "kè",
+  "en": "subject; course; class",
+  "level": 2
+ },
+ {
+  "hanzi": "贵",
+  "pinyin": "guì",
+  "en": "expensive; highly valued; precious; noble; of high rank",
+  "level": 2
+ },
+ {
+  "hanzi": "走",
+  "pinyin": "zǒu",
+  "en": "to walk; to go; to run",
+  "level": 2
+ },
+ {
+  "hanzi": "起床",
+  "pinyin": "qǐ chuáng",
+  "en": "to get out of bed; to get up",
+  "level": 2
+ },
+ {
+  "hanzi": "跑步",
+  "pinyin": "pǎo bù",
+  "en": "to run; to jog; (military) to march at the double",
+  "level": 2
+ },
+ {
+  "hanzi": "路",
+  "pinyin": "lù",
+  "en": "road (; journey; route",
+  "level": 2
+ },
+ {
+  "hanzi": "跳舞",
+  "pinyin": "tiào wǔ",
+  "en": "to dance",
+  "level": 2
+ },
+ {
+  "hanzi": "身体",
+  "pinyin": "shēn tǐ",
+  "en": "the body; one's health",
+  "level": 2
+ },
+ {
+  "hanzi": "过",
+  "pinyin": "guò",
+  "en": "to cross; to go over; to pass (time)",
+  "level": 2
+ },
+ {
+  "hanzi": "运动",
+  "pinyin": "yùn dòng",
+  "en": "to move; to exercise; sports",
+  "level": 2
+ },
+ {
+  "hanzi": "近",
+  "pinyin": "jìn",
+  "en": "near; close to; approximately",
+  "level": 2
+ },
+ {
+  "hanzi": "还",
+  "pinyin": "hái",
+  "en": "still; still in progress; still more",
+  "level": 2
+ },
+ {
+  "hanzi": "进",
+  "pinyin": "jìn",
+  "en": "to go forward; to advance; to go in",
+  "level": 2
+ },
+ {
+  "hanzi": "远",
+  "pinyin": "yuǎn",
+  "en": "far; distant; remote",
+  "level": 2
+ },
+ {
+  "hanzi": "送",
+  "pinyin": "sòng",
+  "en": "to send; to deliver; to transmit; to give (as a present); to see (sb) off",
+  "level": 2
+ },
+ {
+  "hanzi": "铅笔",
+  "pinyin": "qiān bǐ",
+  "en": "(lead) pencil",
+  "level": 2
+ },
+ {
+  "hanzi": "错",
+  "pinyin": "cuò",
+  "en": "mistake; wrong; bad",
+  "level": 2
+ },
+ {
+  "hanzi": "长",
+  "pinyin": "cháng",
+  "en": "long; length; strong point; forte",
+  "level": 2
+ },
+ {
+  "hanzi": "门",
+  "pinyin": "mén",
+  "en": "gate; door; gateway",
+  "level": 2
+ },
+ {
+  "hanzi": "问",
+  "pinyin": "wèn",
+  "en": "to ask; to inquire",
+  "level": 2
+ },
+ {
+  "hanzi": "问题",
+  "pinyin": "wèn tí",
+  "en": "question; problem; issue",
+  "level": 2
+ },
+ {
+  "hanzi": "阴",
+  "pinyin": "yīn",
+  "en": "overcast (weather); cloudy; shady",
+  "level": 2
+ },
+ {
+  "hanzi": "雪",
+  "pinyin": "xuě",
+  "en": "snow; (literary) to wipe away (a humiliation etc)",
+  "level": 2
+ },
+ {
+  "hanzi": "零",
+  "pinyin": "líng",
+  "en": "zero; nought; zero sign",
+  "level": 2
+ },
+ {
+  "hanzi": "非常",
+  "pinyin": "fēi cháng",
+  "en": "very; really; unusual; extraordinary",
+  "level": 2
+ },
+ {
+  "hanzi": "面条",
+  "pinyin": "miàn tiáo",
+  "en": "noodles",
+  "level": 2
+ },
+ {
+  "hanzi": "题",
+  "pinyin": "tí",
+  "en": "topic; problem for discussion; exam question",
+  "level": 2
+ },
+ {
+  "hanzi": "颜色",
+  "pinyin": "yán sè",
+  "en": "color; countenance; appearance",
+  "level": 2
+ },
+ {
+  "hanzi": "高",
+  "pinyin": "gāo",
+  "en": "high; tall; above average",
+  "level": 2
+ },
+ {
+  "hanzi": "鱼",
+  "pinyin": "yú",
+  "en": "fish (; used in the names of various aquatic animals that are not fish (including abalone 鮑魚",
+  "level": 2
+ },
+ {
+  "hanzi": "鸡蛋",
+  "pinyin": "jī dàn",
+  "en": "(chicken) egg; hen's egg",
+  "level": 2
+ },
+ {
+  "hanzi": "黑",
+  "pinyin": "hēi",
+  "en": "black; dark; sinister",
+  "level": 2
+ },
+ {
+  "hanzi": "一会儿",
+  "pinyin": "yī huì r",
+  "en": "a moment; a while; in a moment",
+  "level": 3
+ },
+ {
+  "hanzi": "一共",
+  "pinyin": "yī gòng",
+  "en": "in total; altogether",
+  "level": 3
+ },
+ {
+  "hanzi": "一定",
+  "pinyin": "yī dìng",
+  "en": "surely; certainly; necessarily",
+  "level": 3
+ },
+ {
+  "hanzi": "一样",
+  "pinyin": "yī yàng",
+  "en": "same; like; equal to",
+  "level": 3
+ },
+ {
+  "hanzi": "一直",
+  "pinyin": "yī zhí",
+  "en": "straight (in a straight line); continuously; always; all the way through",
+  "level": 3
+ },
+ {
+  "hanzi": "一般",
+  "pinyin": "yī bān",
+  "en": "same; ordinary; so-so",
+  "level": 3
+ },
+ {
+  "hanzi": "一边",
+  "pinyin": "yī biān",
+  "en": "one side; either side; on the one hand",
+  "level": 3
+ },
+ {
+  "hanzi": "万",
+  "pinyin": "wàn",
+  "en": "ten thousand; a great number",
+  "level": 3
+ },
+ {
+  "hanzi": "上网",
+  "pinyin": "shàng wǎng",
+  "en": "to go online; to connect to the Internet; (of a document etc) to be uploaded to the Internet",
+  "level": 3
+ },
+ {
+  "hanzi": "世界",
+  "pinyin": "shì jiè",
+  "en": "world",
+  "level": 3
+ },
+ {
+  "hanzi": "东",
+  "pinyin": "dōng",
+  "en": "east; host (i.e. sitting on east side of guest); landlord",
+  "level": 3
+ },
+ {
+  "hanzi": "个子",
+  "pinyin": "gè zi",
+  "en": "stature; height; size (of a person or object); (agriculture) bundle of cereal stalks tied together",
+  "level": 3
+ },
+ {
+  "hanzi": "中文",
+  "pinyin": "Zhōng wén",
+  "en": "Chinese language",
+  "level": 3
+ },
+ {
+  "hanzi": "中间",
+  "pinyin": "zhōng jiān",
+  "en": "the middle; the inside; in the middle; within; between; among; during; in the meantime",
+  "level": 3
+ },
+ {
+  "hanzi": "为",
+  "pinyin": "wéi",
+  "en": "as (in the capacity of); to take sth as; to act as",
+  "level": 3
+ },
+ {
+  "hanzi": "为了",
+  "pinyin": "wèi le",
+  "en": "for; for the purpose of; in order to",
+  "level": 3
+ },
+ {
+  "hanzi": "主要",
+  "pinyin": "zhǔ yào",
+  "en": "main; principal; major; primary",
+  "level": 3
+ },
+ {
+  "hanzi": "久",
+  "pinyin": "jǐu",
+  "en": "(of a period of time) long",
+  "level": 3
+ },
+ {
+  "hanzi": "习惯",
+  "pinyin": "xí guàn",
+  "en": "habit; custom; usual practice",
+  "level": 3
+ },
+ {
+  "hanzi": "了解",
+  "pinyin": "liǎo jiě",
+  "en": "to understand; to realize; to find out",
+  "level": 3
+ },
+ {
+  "hanzi": "以前",
+  "pinyin": "yǐ qián",
+  "en": "before; formerly; previous",
+  "level": 3
+ },
+ {
+  "hanzi": "会议",
+  "pinyin": "huì yì",
+  "en": "meeting; conference",
+  "level": 3
+ },
+ {
+  "hanzi": "伞",
+  "pinyin": "sǎn",
+  "en": "umbrella; parasol",
+  "level": 3
+ },
+ {
+  "hanzi": "位",
+  "pinyin": "wèi",
+  "en": "position; location; place",
+  "level": 3
+ },
+ {
+  "hanzi": "体育",
+  "pinyin": "tǐ yù",
+  "en": "sports; physical education",
+  "level": 3
+ },
+ {
+  "hanzi": "作业",
+  "pinyin": "zuò yè",
+  "en": "school assignment; homework; work",
+  "level": 3
+ },
+ {
+  "hanzi": "信用卡",
+  "pinyin": "xìn yòng kǎ",
+  "en": "credit card",
+  "level": 3
+ },
+ {
+  "hanzi": "借",
+  "pinyin": "jiè",
+  "en": "to borrow; (used in combination with 給; to make use of; to avail oneself of",
+  "level": 3
+ },
+ {
+  "hanzi": "健康",
+  "pinyin": "jiàn kāng",
+  "en": "health; healthy",
+  "level": 3
+ },
+ {
+  "hanzi": "像",
+  "pinyin": "xiàng",
+  "en": "to resemble; to be like; to look as if",
+  "level": 3
+ },
+ {
+  "hanzi": "元",
+  "pinyin": "yuán",
+  "en": "currency unit (esp. Chinese yuan); first; original; primary; basic; fundamental",
+  "level": 3
+ },
+ {
+  "hanzi": "先",
+  "pinyin": "xiān",
+  "en": "beforehand; first; earlier; at first; originally; for the time being; for now",
+  "level": 3
+ },
+ {
+  "hanzi": "公园",
+  "pinyin": "gōng yuán",
+  "en": "park (for public recreation)",
+  "level": 3
+ },
+ {
+  "hanzi": "公斤",
+  "pinyin": "gōng jīn",
+  "en": "kilogram (kg)",
+  "level": 3
+ },
+ {
+  "hanzi": "关",
+  "pinyin": "guān",
+  "en": "mountain pass; to close; to shut; to turn off; to confine; to lock (sb) up; to shut (sb in a room, a bird in a cage etc)",
+  "level": 3
+ },
+ {
+  "hanzi": "关于",
+  "pinyin": "guān yú",
+  "en": "pertaining to; concerning; with regard to",
+  "level": 3
+ },
+ {
+  "hanzi": "关心",
+  "pinyin": "guān xīn",
+  "en": "to be concerned about; to care about",
+  "level": 3
+ },
+ {
+  "hanzi": "关系",
+  "pinyin": "guān xi",
+  "en": "relation; relationship; to concern",
+  "level": 3
+ },
+ {
+  "hanzi": "其他",
+  "pinyin": "qí tā",
+  "en": "other; (sth or sb) else; the rest",
+  "level": 3
+ },
+ {
+  "hanzi": "其实",
+  "pinyin": "qí shí",
+  "en": "actually; in fact; really",
+  "level": 3
+ },
+ {
+  "hanzi": "冬",
+  "pinyin": "dōng",
+  "en": "winter",
+  "level": 3
+ },
+ {
+  "hanzi": "冰箱",
+  "pinyin": "bīng xiāng",
+  "en": "refrigerator; (old) icebox",
+  "level": 3
+ },
+ {
+  "hanzi": "决定",
+  "pinyin": "jué dìng",
+  "en": "to decide (to do something); to resolve; decision",
+  "level": 3
+ },
+ {
+  "hanzi": "几乎",
+  "pinyin": "jī hū",
+  "en": "almost; nearly; practically",
+  "level": 3
+ },
+ {
+  "hanzi": "分",
+  "pinyin": "fēn",
+  "en": "to divide; to separate; to distribute; to allocate; to distinguish (good and bad)",
+  "level": 3
+ },
+ {
+  "hanzi": "刚才",
+  "pinyin": "gāng cái",
+  "en": "just now; a moment ago",
+  "level": 3
+ },
+ {
+  "hanzi": "别人",
+  "pinyin": "bié ren",
+  "en": "other people; others; other person",
+  "level": 3
+ },
+ {
+  "hanzi": "刮风",
+  "pinyin": "guā fēng",
+  "en": "to be windy",
+  "level": 3
+ },
+ {
+  "hanzi": "刷牙",
+  "pinyin": "shuā yá",
+  "en": "to brush one's teeth",
+  "level": 3
+ },
+ {
+  "hanzi": "刻",
+  "pinyin": "kè",
+  "en": "quarter (hour); moment; to carve",
+  "level": 3
+ },
+ {
+  "hanzi": "办公室",
+  "pinyin": "bàn gōng shì",
+  "en": "office; business premises",
+  "level": 3
+ },
+ {
+  "hanzi": "办法",
+  "pinyin": "bàn fǎ",
+  "en": "way of handling sth; means; measure; (practical) solution to a problem",
+  "level": 3
+ },
+ {
+  "hanzi": "动物",
+  "pinyin": "dòng wù",
+  "en": "animal",
+  "level": 3
+ },
+ {
+  "hanzi": "努力",
+  "pinyin": "nǔ lì",
+  "en": "to make an effort; to try hard; to strive; hard-working; conscientious",
+  "level": 3
+ },
+ {
+  "hanzi": "包",
+  "pinyin": "bāo",
+  "en": "to cover; to wrap; to hold",
+  "level": 3
+ },
+ {
+  "hanzi": "北方",
+  "pinyin": "běi fāng",
+  "en": "north; the northern part a country; China north of the Yellow River",
+  "level": 3
+ },
+ {
+  "hanzi": "半",
+  "pinyin": "bàn",
+  "en": "half; semi-; incomplete",
+  "level": 3
+ },
+ {
+  "hanzi": "南",
+  "pinyin": "nán",
+  "en": "south",
+  "level": 3
+ },
+ {
+  "hanzi": "历史",
+  "pinyin": "lì shǐ",
+  "en": "history",
+  "level": 3
+ },
+ {
+  "hanzi": "参加",
+  "pinyin": "cān jiā",
+  "en": "to participate; to take part; to join",
+  "level": 3
+ },
+ {
+  "hanzi": "又",
+  "pinyin": "yòu",
+  "en": "(once) again; also; both... and...",
+  "level": 3
+ },
+ {
+  "hanzi": "双",
+  "pinyin": "shuāng",
+  "en": "two; double; pair",
+  "level": 3
+ },
+ {
+  "hanzi": "发",
+  "pinyin": "fā",
+  "en": "to send out; to show (one's feeling); to issue",
+  "level": 3
+ },
+ {
+  "hanzi": "发烧",
+  "pinyin": "fā shāo",
+  "en": "to have a high temperature (from illness); to have a fever; (fig.) to be fascinated with; to obsess over; (fig.) flourishing; thriving; popular",
+  "level": 3
+ },
+ {
+  "hanzi": "发现",
+  "pinyin": "fā xiàn",
+  "en": "to notice; to become aware of; to discover; to find; to detect; a discovery",
+  "level": 3
+ },
+ {
+  "hanzi": "叔叔",
+  "pinyin": "shū shu",
+  "en": "father's younger brother; paternal uncle; form of address used by children for a male one generation older",
+  "level": 3
+ },
+ {
+  "hanzi": "变化",
+  "pinyin": "biàn huà",
+  "en": "(intransitive) to change; to vary; change; variation (",
+  "level": 3
+ },
+ {
+  "hanzi": "口",
+  "pinyin": "kǒu",
+  "en": "mouth; classifier for things with mouths (people, domestic animals, cannons, wells etc); classifier for bites or mouthfuls",
+  "level": 3
+ },
+ {
+  "hanzi": "句子",
+  "pinyin": "jù zi",
+  "en": "sentence",
+  "level": 3
+ },
+ {
+  "hanzi": "只",
+  "pinyin": "zhǐ",
+  "en": "only; merely; just",
+  "level": 3
+ },
+ {
+  "hanzi": "可爱",
+  "pinyin": "kě ài",
+  "en": "adorable; cute; lovely",
+  "level": 3
+ },
+ {
+  "hanzi": "司机",
+  "pinyin": "sī jī",
+  "en": "chauffeur; driver",
+  "level": 3
+ },
+ {
+  "hanzi": "同事",
+  "pinyin": "tóng shì",
+  "en": "colleague; co-worker",
+  "level": 3
+ },
+ {
+  "hanzi": "同意",
+  "pinyin": "tóng yì",
+  "en": "to agree; to consent; to approve",
+  "level": 3
+ },
+ {
+  "hanzi": "后来",
+  "pinyin": "hòu lái",
+  "en": "afterwards; later; newly arrived",
+  "level": 3
+ },
+ {
+  "hanzi": "向",
+  "pinyin": "xiàng",
+  "en": "towards; to face; to turn towards",
+  "level": 3
+ },
+ {
+  "hanzi": "周末",
+  "pinyin": "zhōu mò",
+  "en": "weekend",
+  "level": 3
+ },
+ {
+  "hanzi": "哭",
+  "pinyin": "kū",
+  "en": "to cry; to weep",
+  "level": 3
+ },
+ {
+  "hanzi": "啊",
+  "pinyin": "ā",
+  "en": "interjection of surprise; Ah!; Oh!",
+  "level": 3
+ },
+ {
+  "hanzi": "啤酒",
+  "pinyin": "pí jǐu",
+  "en": "beer (loanword)",
+  "level": 3
+ },
+ {
+  "hanzi": "嘴",
+  "pinyin": "zuǐ",
+  "en": "mouth; beak; nozzle",
+  "level": 3
+ },
+ {
+  "hanzi": "回答",
+  "pinyin": "huí dá",
+  "en": "to reply; to answer; reply; answer",
+  "level": 3
+ },
+ {
+  "hanzi": "国家",
+  "pinyin": "guó jiā",
+  "en": "country; nation; state",
+  "level": 3
+ },
+ {
+  "hanzi": "图书馆",
+  "pinyin": "tú shū guǎn",
+  "en": "library",
+  "level": 3
+ },
+ {
+  "hanzi": "地",
+  "pinyin": "de",
+  "en": "-ly; structural particle: used before a verb or adjective, linking it to preceding modifying adverbial adjunct",
+  "level": 3
+ },
+ {
+  "hanzi": "地图",
+  "pinyin": "dì tú",
+  "en": "map",
+  "level": 3
+ },
+ {
+  "hanzi": "地方",
+  "pinyin": "dì fāng",
+  "en": "region; regional (away from the central administration); local",
+  "level": 3
+ },
+ {
+  "hanzi": "地铁",
+  "pinyin": "dì tiě",
+  "en": "underground railway; subway; subway train",
+  "level": 3
+ },
+ {
+  "hanzi": "坏",
+  "pinyin": "huài",
+  "en": "bad; spoiled; broken",
+  "level": 3
+ },
+ {
+  "hanzi": "城市",
+  "pinyin": "chéng shì",
+  "en": "city; town",
+  "level": 3
+ },
+ {
+  "hanzi": "声音",
+  "pinyin": "shēng yīn",
+  "en": "voice; sound",
+  "level": 3
+ },
+ {
+  "hanzi": "复习",
+  "pinyin": "fù xí",
+  "en": "to review; revision",
+  "level": 3
+ },
+ {
+  "hanzi": "夏",
+  "pinyin": "Xià",
+  "en": "the Xia or Hsia dynasty c. 2000 BC; Xia of the Sixteen Kingdoms (407–432); surname Xia",
+  "level": 3
+ },
+ {
+  "hanzi": "多么",
+  "pinyin": "duō me",
+  "en": "how (wonderful etc); what (a great idea etc); however (difficult it may be etc)",
+  "level": 3
+ },
+ {
+  "hanzi": "太阳",
+  "pinyin": "tài yang",
+  "en": "sun; sunlight; sunshine; temple (on the side of the human head) (abbr. for 太陽穴",
+  "level": 3
+ },
+ {
+  "hanzi": "头发",
+  "pinyin": "tóu fa",
+  "en": "hair (on the head)",
+  "level": 3
+ },
+ {
+  "hanzi": "奇怪",
+  "pinyin": "qí guài",
+  "en": "strange; odd; to marvel",
+  "level": 3
+ },
+ {
+  "hanzi": "奶奶",
+  "pinyin": "nǎi nai",
+  "en": "(informal) grandma (paternal grandmother); (respectful) mistress of the house; (coll.) boobies",
+  "level": 3
+ },
+ {
+  "hanzi": "如果",
+  "pinyin": "rú guǒ",
+  "en": "if; in case; in the event that",
+  "level": 3
+ },
+ {
+  "hanzi": "季节",
+  "pinyin": "jì jié",
+  "en": "time; season; period",
+  "level": 3
+ },
+ {
+  "hanzi": "安静",
+  "pinyin": "ān jìng",
+  "en": "quiet; peaceful; calm",
+  "level": 3
+ },
+ {
+  "hanzi": "完成",
+  "pinyin": "wán chéng",
+  "en": "to complete; to accomplish",
+  "level": 3
+ },
+ {
+  "hanzi": "客人",
+  "pinyin": "kè rén",
+  "en": "visitor; guest; customer",
+  "level": 3
+ },
+ {
+  "hanzi": "害怕",
+  "pinyin": "hài pà",
+  "en": "to be afraid; to be scared",
+  "level": 3
+ },
+ {
+  "hanzi": "容易",
+  "pinyin": "róng yì",
+  "en": "easy; straightforward; likely; liable to; apt to",
+  "level": 3
+ },
+ {
+  "hanzi": "小心",
+  "pinyin": "xiǎo xīn",
+  "en": "to be careful; to take care",
+  "level": 3
+ },
+ {
+  "hanzi": "层",
+  "pinyin": "céng",
+  "en": "to pile on top of one another; layer; stratum; floor (of a building); story",
+  "level": 3
+ },
+ {
+  "hanzi": "差",
+  "pinyin": "chā",
+  "en": "difference; discrepancy; (math.) difference (amount remaining after a subtraction); (literary) a little; somewhat; slightly",
+  "level": 3
+ },
+ {
+  "hanzi": "带",
+  "pinyin": "dài",
+  "en": "band; belt; girdle",
+  "level": 3
+ },
+ {
+  "hanzi": "帮忙",
+  "pinyin": "bāng máng",
+  "en": "to help; to lend a hand; to do a favor",
+  "level": 3
+ },
+ {
+  "hanzi": "帽子",
+  "pinyin": "mào zi",
+  "en": "hat; cap; (fig.) label",
+  "level": 3
+ },
+ {
+  "hanzi": "干净",
+  "pinyin": "gān jìng",
+  "en": "clean; neat",
+  "level": 3
+ },
+ {
+  "hanzi": "年级",
+  "pinyin": "nián jí",
+  "en": "grade; year (in school, college etc)",
+  "level": 3
+ },
+ {
+  "hanzi": "年轻",
+  "pinyin": "nián qīng",
+  "en": "young",
+  "level": 3
+ },
+ {
+  "hanzi": "应该",
+  "pinyin": "yīng gāi",
+  "en": "ought to; should; must",
+  "level": 3
+ },
+ {
+  "hanzi": "张",
+  "pinyin": "zhāng",
+  "en": "to open up; to spread; sheet of paper",
+  "level": 3
+ },
+ {
+  "hanzi": "当然",
+  "pinyin": "dāng rán",
+  "en": "only natural; as it should be; certainly",
+  "level": 3
+ },
+ {
+  "hanzi": "影响",
+  "pinyin": "yǐng xiǎng",
+  "en": "influence; effect; to influence",
+  "level": 3
+ },
+ {
+  "hanzi": "必须",
+  "pinyin": "bì xū",
+  "en": "to have to; must; compulsory",
+  "level": 3
+ },
+ {
+  "hanzi": "忘记",
+  "pinyin": "wàng jì",
+  "en": "to forget",
+  "level": 3
+ },
+ {
+  "hanzi": "总是",
+  "pinyin": "zǒng shì",
+  "en": "always",
+  "level": 3
+ },
+ {
+  "hanzi": "感兴趣",
+  "pinyin": "gǎn xìng qù",
+  "en": "to be interested",
+  "level": 3
+ },
+ {
+  "hanzi": "感冒",
+  "pinyin": "gǎn mào",
+  "en": "to catch cold; (common) cold; (coll.) to be interested in (often used in the negative)",
+  "level": 3
+ },
+ {
+  "hanzi": "愿意",
+  "pinyin": "yuàn yì",
+  "en": "to wish; to want; ready",
+  "level": 3
+ },
+ {
+  "hanzi": "成绩",
+  "pinyin": "chéng jì",
+  "en": "achievement; performance records; grades",
+  "level": 3
+ },
+ {
+  "hanzi": "或者",
+  "pinyin": "huò zhě",
+  "en": "or; possibly; maybe; perhaps",
+  "level": 3
+ },
+ {
+  "hanzi": "打扫",
+  "pinyin": "dǎ sǎo",
+  "en": "to clean; to sweep",
+  "level": 3
+ },
+ {
+  "hanzi": "打算",
+  "pinyin": "dǎ suàn",
+  "en": "to plan; to intend; to calculate",
+  "level": 3
+ },
+ {
+  "hanzi": "把",
+  "pinyin": "bǎ",
+  "en": "to hold; to grasp; to hold a baby in position to help it urinate or defecate; handlebar",
+  "level": 3
+ },
+ {
+  "hanzi": "护照",
+  "pinyin": "hù zhào",
+  "en": "passport",
+  "level": 3
+ },
+ {
+  "hanzi": "担心",
+  "pinyin": "dān xīn",
+  "en": "anxious; worried; uneasy",
+  "level": 3
+ },
+ {
+  "hanzi": "拿",
+  "pinyin": "ná",
+  "en": "to hold; to seize; to catch",
+  "level": 3
+ },
+ {
+  "hanzi": "换",
+  "pinyin": "huàn",
+  "en": "to exchange; to change (clothes etc); to substitute",
+  "level": 3
+ },
+ {
+  "hanzi": "接",
+  "pinyin": "jiē",
+  "en": "to receive; to answer (the phone); to meet or welcome sb",
+  "level": 3
+ },
+ {
+  "hanzi": "提高",
+  "pinyin": "tí gāo",
+  "en": "to raise; to increase; to improve",
+  "level": 3
+ },
+ {
+  "hanzi": "搬",
+  "pinyin": "bān",
+  "en": "to move (i.e. relocate oneself); to move (sth relatively heavy or bulky); to shift",
+  "level": 3
+ },
+ {
+  "hanzi": "放",
+  "pinyin": "fàng",
+  "en": "to put; to place; to release",
+  "level": 3
+ },
+ {
+  "hanzi": "放心",
+  "pinyin": "fàng xīn",
+  "en": "to feel relieved; to feel reassured; to be at ease",
+  "level": 3
+ },
+ {
+  "hanzi": "故事",
+  "pinyin": "gù shì",
+  "en": "old practice",
+  "level": 3
+ },
+ {
+  "hanzi": "教",
+  "pinyin": "jiāo",
+  "en": "to teach; to instruct",
+  "level": 3
+ },
+ {
+  "hanzi": "数学",
+  "pinyin": "shù xué",
+  "en": "mathematics",
+  "level": 3
+ },
+ {
+  "hanzi": "文化",
+  "pinyin": "wén huà",
+  "en": "culture; civilization; cultural",
+  "level": 3
+ },
+ {
+  "hanzi": "新闻",
+  "pinyin": "xīn wén",
+  "en": "news",
+  "level": 3
+ },
+ {
+  "hanzi": "新鲜",
+  "pinyin": "xīn xiān",
+  "en": "fresh (experience, food etc); freshness; novel",
+  "level": 3
+ },
+ {
+  "hanzi": "方便",
+  "pinyin": "fāng biàn",
+  "en": "convenient; suitable; to facilitate; to make things easy; having money to spare",
+  "level": 3
+ },
+ {
+  "hanzi": "旧",
+  "pinyin": "jìu",
+  "en": "old; opposite: new 新; former",
+  "level": 3
+ },
+ {
+  "hanzi": "明白",
+  "pinyin": "míng bai",
+  "en": "clear; obvious; unequivocal; sensible; reasonable; to understand; to realize",
+  "level": 3
+ },
+ {
+  "hanzi": "春",
+  "pinyin": "chūn",
+  "en": "spring (season); gay; joyful",
+  "level": 3
+ },
+ {
+  "hanzi": "更",
+  "pinyin": "gēng",
+  "en": "to change or replace; to experience; one of the five two-hour periods into which the night was formerly divided",
+  "level": 3
+ },
+ {
+  "hanzi": "最后",
+  "pinyin": "zuì hòu",
+  "en": "final; last; ultimate; finally; in the end",
+  "level": 3
+ },
+ {
+  "hanzi": "最近",
+  "pinyin": "zuì jìn",
+  "en": "recently; soon; nearest",
+  "level": 3
+ },
+ {
+  "hanzi": "月亮",
+  "pinyin": "yuè liang",
+  "en": "the moon",
+  "level": 3
+ },
+ {
+  "hanzi": "有名",
+  "pinyin": "yǒu míng",
+  "en": "famous; well-known",
+  "level": 3
+ },
+ {
+  "hanzi": "机会",
+  "pinyin": "jī huì",
+  "en": "opportunity; chance; occasion",
+  "level": 3
+ },
+ {
+  "hanzi": "条",
+  "pinyin": "tiáo",
+  "en": "strip; item; article",
+  "level": 3
+ },
+ {
+  "hanzi": "极",
+  "pinyin": "jí",
+  "en": "extremely; pole (geography, physics); utmost",
+  "level": 3
+ },
+ {
+  "hanzi": "树",
+  "pinyin": "shù",
+  "en": "tree; to cultivate; to set up",
+  "level": 3
+ },
+ {
+  "hanzi": "校长",
+  "pinyin": "xiào zhǎng",
+  "en": "(college, university) president; headmaster",
+  "level": 3
+ },
+ {
+  "hanzi": "根据",
+  "pinyin": "gēn jù",
+  "en": "according to; based on; basis",
+  "level": 3
+ },
+ {
+  "hanzi": "检查",
+  "pinyin": "jiǎn chá",
+  "en": "inspection; to examine; to inspect",
+  "level": 3
+ },
+ {
+  "hanzi": "楼",
+  "pinyin": "lóu",
+  "en": "house with more than 1 story; storied building; floor",
+  "level": 3
+ },
+ {
+  "hanzi": "欢迎",
+  "pinyin": "huān yíng",
+  "en": "to welcome; welcome",
+  "level": 3
+ },
+ {
+  "hanzi": "段",
+  "pinyin": "duàn",
+  "en": "paragraph; section; segment",
+  "level": 3
+ },
+ {
+  "hanzi": "比赛",
+  "pinyin": "bǐ sài",
+  "en": "competition (sports etc); match; to compete",
+  "level": 3
+ },
+ {
+  "hanzi": "比较",
+  "pinyin": "bǐ jiào",
+  "en": "to compare; to contrast; comparatively",
+  "level": 3
+ },
+ {
+  "hanzi": "水平",
+  "pinyin": "shuǐ píng",
+  "en": "horizontal; level; a standard; a level (of ability, development etc)",
+  "level": 3
+ },
+ {
+  "hanzi": "注意",
+  "pinyin": "zhù yì",
+  "en": "to take note of; to pay attention to",
+  "level": 3
+ },
+ {
+  "hanzi": "洗手间",
+  "pinyin": "xǐ shǒu jiān",
+  "en": "toilet; lavatory; washroom",
+  "level": 3
+ },
+ {
+  "hanzi": "洗澡",
+  "pinyin": "xǐ zǎo",
+  "en": "to bathe; to take a shower",
+  "level": 3
+ },
+ {
+  "hanzi": "清楚",
+  "pinyin": "qīng chu",
+  "en": "clear; distinct; to understand thoroughly",
+  "level": 3
+ },
+ {
+  "hanzi": "渴",
+  "pinyin": "kě",
+  "en": "thirsty",
+  "level": 3
+ },
+ {
+  "hanzi": "游戏",
+  "pinyin": "yóu xì",
+  "en": "game; to play",
+  "level": 3
+ },
+ {
+  "hanzi": "满意",
+  "pinyin": "mǎn yì",
+  "en": "satisfied; pleased; to one's satisfaction",
+  "level": 3
+ },
+ {
+  "hanzi": "灯",
+  "pinyin": "dēng",
+  "en": "lamp; light; lantern",
+  "level": 3
+ },
+ {
+  "hanzi": "热情",
+  "pinyin": "rè qíng",
+  "en": "cordial; enthusiastic; passion",
+  "level": 3
+ },
+ {
+  "hanzi": "然后",
+  "pinyin": "rán hòu",
+  "en": "then; after that; afterwards",
+  "level": 3
+ },
+ {
+  "hanzi": "照片",
+  "pinyin": "zhào piàn",
+  "en": "photograph; picture",
+  "level": 3
+ },
+ {
+  "hanzi": "照相机",
+  "pinyin": "zhào xiàng jī",
+  "en": "camera",
+  "level": 3
+ },
+ {
+  "hanzi": "照顾",
+  "pinyin": "zhào gu",
+  "en": "to take care of; to show consideration; to attend to",
+  "level": 3
+ },
+ {
+  "hanzi": "熊猫",
+  "pinyin": "xíong māo",
+  "en": "panda",
+  "level": 3
+ },
+ {
+  "hanzi": "爬山",
+  "pinyin": "pá shān",
+  "en": "to go for a hike (esp. in the hills or mountains)",
+  "level": 3
+ },
+ {
+  "hanzi": "爱好",
+  "pinyin": "ài hào",
+  "en": "to like; to be fond of; to take pleasure in; to be keen on; interest; hobby",
+  "level": 3
+ },
+ {
+  "hanzi": "爷爷",
+  "pinyin": "yé ye",
+  "en": "(coll.) paternal grandfather; grandpa",
+  "level": 3
+ },
+ {
+  "hanzi": "特别",
+  "pinyin": "tè bié",
+  "en": "unusual; special; very; especially; particularly; expressly; for a specific purpose",
+  "level": 3
+ },
+ {
+  "hanzi": "环境",
+  "pinyin": "huán jìng",
+  "en": "environment; circumstances; surroundings",
+  "level": 3
+ },
+ {
+  "hanzi": "班",
+  "pinyin": "bān",
+  "en": "team; class; grade; (military) squad; work shift",
+  "level": 3
+ },
+ {
+  "hanzi": "瓶子",
+  "pinyin": "píng zi",
+  "en": "bottle",
+  "level": 3
+ },
+ {
+  "hanzi": "甜",
+  "pinyin": "tián",
+  "en": "sweet",
+  "level": 3
+ },
+ {
+  "hanzi": "生气",
+  "pinyin": "shēng qì",
+  "en": "to get angry; to be furious; vitality; liveliness",
+  "level": 3
+ },
+ {
+  "hanzi": "用",
+  "pinyin": "yòng",
+  "en": "to use; to make use of; to employ; (coverb) with; using; to need; to have to (usu. used in the negative or in questions)",
+  "level": 3
+ },
+ {
+  "hanzi": "电子邮件",
+  "pinyin": "diàn zǐ yóu jiàn",
+  "en": "email",
+  "level": 3
+ },
+ {
+  "hanzi": "电梯",
+  "pinyin": "diàn tī",
+  "en": "elevator; escalator",
+  "level": 3
+ },
+ {
+  "hanzi": "画",
+  "pinyin": "huà",
+  "en": "to draw; to paint; picture; painting (; to draw (a line) (variant of 劃",
+  "level": 3
+ },
+ {
+  "hanzi": "留学",
+  "pinyin": "líu xué",
+  "en": "to study abroad",
+  "level": 3
+ },
+ {
+  "hanzi": "疼",
+  "pinyin": "téng",
+  "en": "(it) hurts; sore; to love dearly",
+  "level": 3
+ },
+ {
+  "hanzi": "瘦",
+  "pinyin": "shòu",
+  "en": "thin; to lose weight; (of clothing) tight",
+  "level": 3
+ },
+ {
+  "hanzi": "皮鞋",
+  "pinyin": "pí xié",
+  "en": "leather shoes",
+  "level": 3
+ },
+ {
+  "hanzi": "盘子",
+  "pinyin": "pán zi",
+  "en": "tray; plate; dish",
+  "level": 3
+ },
+ {
+  "hanzi": "相信",
+  "pinyin": "xiāng xìn",
+  "en": "to believe; to be convinced; to accept as true",
+  "level": 3
+ },
+ {
+  "hanzi": "着急",
+  "pinyin": "zháo jí",
+  "en": "to worry; to feel anxious; to feel a sense of urgency; to be in a hurry; Taiwan pr.",
+  "level": 3
+ },
+ {
+  "hanzi": "短",
+  "pinyin": "duǎn",
+  "en": "short; brief; to lack",
+  "level": 3
+ },
+ {
+  "hanzi": "矮",
+  "pinyin": "ǎi",
+  "en": "(of a person) short; (of a wall etc) low; (of rank) inferior (to); lower (than)",
+  "level": 3
+ },
+ {
+  "hanzi": "碗",
+  "pinyin": "wǎn",
+  "en": "bowl; cup",
+  "level": 3
+ },
+ {
+  "hanzi": "礼物",
+  "pinyin": "lǐ wù",
+  "en": "gift; present",
+  "level": 3
+ },
+ {
+  "hanzi": "离开",
+  "pinyin": "lí kāi",
+  "en": "to depart; to leave",
+  "level": 3
+ },
+ {
+  "hanzi": "秋",
+  "pinyin": "qīu",
+  "en": "autumn; fall; harvest time",
+  "level": 3
+ },
+ {
+  "hanzi": "种",
+  "pinyin": "zhǒng",
+  "en": "seed; species; kind",
+  "level": 3
+ },
+ {
+  "hanzi": "空调",
+  "pinyin": "kōng tiáo",
+  "en": "air conditioning; air conditioner (including units that have a heating mode)",
+  "level": 3
+ },
+ {
+  "hanzi": "突然",
+  "pinyin": "tū rán",
+  "en": "sudden; abrupt; unexpected",
+  "level": 3
+ },
+ {
+  "hanzi": "站",
+  "pinyin": "zhàn",
+  "en": "station; to stand; to halt",
+  "level": 3
+ },
+ {
+  "hanzi": "笔记本",
+  "pinyin": "bǐ jì běn",
+  "en": "notebook (stationery) (; (computing) laptop; notebook (abbr. for 筆記本電腦",
+  "level": 3
+ },
+ {
+  "hanzi": "筷子",
+  "pinyin": "kuài zi",
+  "en": "chopsticks",
+  "level": 3
+ },
+ {
+  "hanzi": "简单",
+  "pinyin": "jiǎn dān",
+  "en": "simple; not complicated",
+  "level": 3
+ },
+ {
+  "hanzi": "米",
+  "pinyin": "mǐ",
+  "en": "uncooked rice; meter (unit of length); (slang) Chinese yuan",
+  "level": 3
+ },
+ {
+  "hanzi": "练习",
+  "pinyin": "liàn xí",
+  "en": "to practice; exercise; drill",
+  "level": 3
+ },
+ {
+  "hanzi": "终于",
+  "pinyin": "zhōng yú",
+  "en": "at last; in the end; finally",
+  "level": 3
+ },
+ {
+  "hanzi": "经常",
+  "pinyin": "jīng cháng",
+  "en": "frequently; constantly; regularly; often; day-to-day; everyday; daily",
+  "level": 3
+ },
+ {
+  "hanzi": "经理",
+  "pinyin": "jīng lǐ",
+  "en": "manager; director",
+  "level": 3
+ },
+ {
+  "hanzi": "经过",
+  "pinyin": "jīng guò",
+  "en": "to pass; to go through; process",
+  "level": 3
+ },
+ {
+  "hanzi": "结婚",
+  "pinyin": "jié hūn",
+  "en": "to marry; to get married",
+  "level": 3
+ },
+ {
+  "hanzi": "结束",
+  "pinyin": "jié shù",
+  "en": "termination; to finish; to end",
+  "level": 3
+ },
+ {
+  "hanzi": "绿",
+  "pinyin": "lǜ",
+  "en": "green; (slang) (derived from 綠帽子",
+  "level": 3
+ },
+ {
+  "hanzi": "老",
+  "pinyin": "lǎo",
+  "en": "prefix used before the surname of a person or a numeral indicating the order of birth of the children in a family or to indicate affection or familiarity; old (of people); venerable (person)",
+  "level": 3
+ },
+ {
+  "hanzi": "耳朵",
+  "pinyin": "ěr duo",
+  "en": "ear; handle (on a cup)",
+  "level": 3
+ },
+ {
+  "hanzi": "聊天",
+  "pinyin": "liáo tiān",
+  "en": "to chat; to gossip",
+  "level": 3
+ },
+ {
+  "hanzi": "聪明",
+  "pinyin": "cōng ming",
+  "en": "intelligent; clever; bright; acute (of sight and hearing)",
+  "level": 3
+ },
+ {
+  "hanzi": "胖",
+  "pinyin": "pán",
+  "en": "healthy; at ease",
+  "level": 3
+ },
+ {
+  "hanzi": "脚",
+  "pinyin": "jiǎo",
+  "en": "foot; leg (of an animal or an object); base (of an object)",
+  "level": 3
+ },
+ {
+  "hanzi": "脸",
+  "pinyin": "liǎn",
+  "en": "face",
+  "level": 3
+ },
+ {
+  "hanzi": "腿",
+  "pinyin": "tuǐ",
+  "en": "leg",
+  "level": 3
+ },
+ {
+  "hanzi": "自己",
+  "pinyin": "zì jǐ",
+  "en": "oneself; one's own",
+  "level": 3
+ },
+ {
+  "hanzi": "自行车",
+  "pinyin": "zì xíng chē",
+  "en": "bicycle; bike",
+  "level": 3
+ },
+ {
+  "hanzi": "舒服",
+  "pinyin": "shū fu",
+  "en": "comfortable; feeling well",
+  "level": 3
+ },
+ {
+  "hanzi": "船",
+  "pinyin": "chuán",
+  "en": "boat; vessel; ship",
+  "level": 3
+ },
+ {
+  "hanzi": "节日",
+  "pinyin": "jié rì",
+  "en": "holiday; festival",
+  "level": 3
+ },
+ {
+  "hanzi": "节目",
+  "pinyin": "jié mù",
+  "en": "(TV or radio) program; show; item; act; segment; number (on the program of a concert, variety show or cultural event); a planned activity (in one's schedule)",
+  "level": 3
+ },
+ {
+  "hanzi": "花",
+  "pinyin": "huā",
+  "en": "flower; blossom; fancy pattern",
+  "level": 3
+ },
+ {
+  "hanzi": "草",
+  "pinyin": "cǎo",
+  "en": "grass; straw; manuscript",
+  "level": 3
+ },
+ {
+  "hanzi": "菜单",
+  "pinyin": "cài dān",
+  "en": "menu",
+  "level": 3
+ },
+ {
+  "hanzi": "蓝",
+  "pinyin": "lán",
+  "en": "blue; indigo plant",
+  "level": 3
+ },
+ {
+  "hanzi": "蛋糕",
+  "pinyin": "dàn gāo",
+  "en": "cake",
+  "level": 3
+ },
+ {
+  "hanzi": "行李箱",
+  "pinyin": "xíng li xiāng",
+  "en": "suitcase; baggage compartment; overhead bin",
+  "level": 3
+ },
+ {
+  "hanzi": "街道",
+  "pinyin": "jiē dào",
+  "en": "street; subdistrict; residential district",
+  "level": 3
+ },
+ {
+  "hanzi": "衬衫",
+  "pinyin": "chèn shān",
+  "en": "shirt; blouse",
+  "level": 3
+ },
+ {
+  "hanzi": "被",
+  "pinyin": "bèi",
+  "en": "quilt; to cover (with); (literary) to suffer (a misfortune)",
+  "level": 3
+ },
+ {
+  "hanzi": "裙子",
+  "pinyin": "qún zi",
+  "en": "skirt",
+  "level": 3
+ },
+ {
+  "hanzi": "裤子",
+  "pinyin": "kù zi",
+  "en": "trousers; pants",
+  "level": 3
+ },
+ {
+  "hanzi": "西",
+  "pinyin": "Xī",
+  "en": "the West; abbr. for Spain 西班牙; Spanish",
+  "level": 3
+ },
+ {
+  "hanzi": "要求",
+  "pinyin": "yāo qíu",
+  "en": "to request; to require; requirement",
+  "level": 3
+ },
+ {
+  "hanzi": "见面",
+  "pinyin": "jiàn miàn",
+  "en": "to meet; to see each other",
+  "level": 3
+ },
+ {
+  "hanzi": "角",
+  "pinyin": "jiǎo",
+  "en": "angle; corner; horn",
+  "level": 3
+ },
+ {
+  "hanzi": "解决",
+  "pinyin": "jiě jué",
+  "en": "to solve; to resolve; to settle (a problem); to eliminate; to wipe out (an enemy, bandits etc)",
+  "level": 3
+ },
+ {
+  "hanzi": "认为",
+  "pinyin": "rèn wéi",
+  "en": "to believe; to think; to consider; to feel",
+  "level": 3
+ },
+ {
+  "hanzi": "认真",
+  "pinyin": "rèn zhēn",
+  "en": "conscientious; earnest; serious",
+  "level": 3
+ },
+ {
+  "hanzi": "记得",
+  "pinyin": "jì de",
+  "en": "to remember",
+  "level": 3
+ },
+ {
+  "hanzi": "讲",
+  "pinyin": "jiǎng",
+  "en": "to speak; to explain; to negotiate",
+  "level": 3
+ },
+ {
+  "hanzi": "词典",
+  "pinyin": "cí diǎn",
+  "en": "dictionary; also written 辭典",
+  "level": 3
+ },
+ {
+  "hanzi": "试",
+  "pinyin": "shì",
+  "en": "to test; to try; experiment",
+  "level": 3
+ },
+ {
+  "hanzi": "请假",
+  "pinyin": "qǐng jià",
+  "en": "to request leave of absence",
+  "level": 3
+ },
+ {
+  "hanzi": "起来",
+  "pinyin": "qǐ lai",
+  "en": "to stand up; to get up; also pr.",
+  "level": 3
+ },
+ {
+  "hanzi": "起飞",
+  "pinyin": "qǐ fēi",
+  "en": "(of an aircraft or rocket) to take off; to lift off; (fig.) (of an enterprise etc) to start to develop rapidly",
+  "level": 3
+ },
+ {
+  "hanzi": "超市",
+  "pinyin": "chāo shì",
+  "en": "supermarket (abbr. for 超級市場",
+  "level": 3
+ },
+ {
+  "hanzi": "越",
+  "pinyin": "Yuè",
+  "en": "generic word for peoples or states of south China or south Asia at different historical periods; abbr. for Vietnam 越南",
+  "level": 3
+ },
+ {
+  "hanzi": "跟",
+  "pinyin": "gēn",
+  "en": "heel; to follow closely; to go with",
+  "level": 3
+ },
+ {
+  "hanzi": "辆",
+  "pinyin": "liàng",
+  "en": "classifier for vehicles",
+  "level": 3
+ },
+ {
+  "hanzi": "过去",
+  "pinyin": "guò qù",
+  "en": "(in the) past; former; previous; to go over; to pass by",
+  "level": 3
+ },
+ {
+  "hanzi": "还是",
+  "pinyin": "hái shi",
+  "en": "still (as before); had better; unexpectedly",
+  "level": 3
+ },
+ {
+  "hanzi": "迟到",
+  "pinyin": "chí dào",
+  "en": "to arrive late",
+  "level": 3
+ },
+ {
+  "hanzi": "选择",
+  "pinyin": "xuǎn zé",
+  "en": "to select; to pick; choice; option; alternative",
+  "level": 3
+ },
+ {
+  "hanzi": "遇到",
+  "pinyin": "yù dào",
+  "en": "to meet; to run into; to come across",
+  "level": 3
+ },
+ {
+  "hanzi": "邻居",
+  "pinyin": "lín jū",
+  "en": "neighbor",
+  "level": 3
+ },
+ {
+  "hanzi": "重要",
+  "pinyin": "zhòng yào",
+  "en": "important; significant; major",
+  "level": 3
+ },
+ {
+  "hanzi": "银行",
+  "pinyin": "yín háng",
+  "en": "bank",
+  "level": 3
+ },
+ {
+  "hanzi": "锻炼",
+  "pinyin": "duàn liàn",
+  "en": "to toughen; to temper; to engage in physical exercise",
+  "level": 3
+ },
+ {
+  "hanzi": "阿姨",
+  "pinyin": "ā yí",
+  "en": "maternal aunt; step-mother; childcare worker",
+  "level": 3
+ },
+ {
+  "hanzi": "附近",
+  "pinyin": "fù jìn",
+  "en": "nearby; neighboring; (in the) vicinity (of); neighborhood",
+  "level": 3
+ },
+ {
+  "hanzi": "除了",
+  "pinyin": "chú le",
+  "en": "apart from; besides; in addition to (used to exclude, as in 除了他，誰也沒來; (used to introduce one of two habitual alternatives in the pattern 除了 + A + 就是 + B, \"either A or B\")",
+  "level": 3
+ },
+ {
+  "hanzi": "难",
+  "pinyin": "nán",
+  "en": "difficult (to...); problem; difficulty",
+  "level": 3
+ },
+ {
+  "hanzi": "难过",
+  "pinyin": "nán guò",
+  "en": "to feel sad; to feel unwell; (of life) to be difficult",
+  "level": 3
+ },
+ {
+  "hanzi": "需要",
+  "pinyin": "xū yào",
+  "en": "to need; to want; to demand; to require; needs",
+  "level": 3
+ },
+ {
+  "hanzi": "面包",
+  "pinyin": "miàn bāo",
+  "en": "bread",
+  "level": 3
+ },
+ {
+  "hanzi": "音乐",
+  "pinyin": "yīn yuè",
+  "en": "music",
+  "level": 3
+ },
+ {
+  "hanzi": "饮料",
+  "pinyin": "yǐn liào",
+  "en": "drink; beverage",
+  "level": 3
+ },
+ {
+  "hanzi": "饱",
+  "pinyin": "bǎo",
+  "en": "to eat till full; satisfied",
+  "level": 3
+ },
+ {
+  "hanzi": "饿",
+  "pinyin": "è",
+  "en": "hungry; to starve (sb)",
+  "level": 3
+ },
+ {
+  "hanzi": "香蕉",
+  "pinyin": "xiāng jiāo",
+  "en": "banana",
+  "level": 3
+ },
+ {
+  "hanzi": "马",
+  "pinyin": "mǎ",
+  "en": "horse; horse or cavalry piece in Chinese chess; knight in Western chess",
+  "level": 3
+ },
+ {
+  "hanzi": "马上",
+  "pinyin": "mǎ shàng",
+  "en": "at once; right away; immediately",
+  "level": 3
+ },
+ {
+  "hanzi": "骑",
+  "pinyin": "qí",
+  "en": "to sit astride; to ride (a horse, bike etc); classifier for saddle horses",
+  "level": 3
+ },
+ {
+  "hanzi": "鸟",
+  "pinyin": "niǎo",
+  "en": "bird; \"bird\" radical in Chinese characters (Kangxi radical 196); (dialect) to pay attention to",
+  "level": 3
+ },
+ {
+  "hanzi": "黄河",
+  "pinyin": "Huáng Hé",
+  "en": "Yellow River or Huang He",
+  "level": 3
+ },
+ {
+  "hanzi": "黑板",
+  "pinyin": "hēi bǎn",
+  "en": "blackboard",
+  "level": 3
+ },
+ {
+  "hanzi": "鼻子",
+  "pinyin": "bí zi",
+  "en": "nose",
+  "level": 3
+ },
+ {
+  "hanzi": "一切",
+  "pinyin": "yī qiè",
+  "en": "everything; every; all",
+  "level": 4
+ },
+ {
+  "hanzi": "不仅",
+  "pinyin": "bù jǐn",
+  "en": "not just; not limited to; (as a correlative conjunction) not only (..., but also ...)",
+  "level": 4
+ },
+ {
+  "hanzi": "不得不",
+  "pinyin": "bù dé bù",
+  "en": "have no choice or option but to; cannot but; have to",
+  "level": 4
+ },
+ {
+  "hanzi": "不管",
+  "pinyin": "bù guǎn",
+  "en": "not to be concerned; regardless of; no matter",
+  "level": 4
+ },
+ {
+  "hanzi": "不过",
+  "pinyin": "bù guò",
+  "en": "only; merely; no more than",
+  "level": 4
+ },
+ {
+  "hanzi": "与",
+  "pinyin": "yǔ",
+  "en": "and; to give; together with",
+  "level": 4
+ },
+ {
+  "hanzi": "专业",
+  "pinyin": "zhuān yè",
+  "en": "specialty; specialized field; main field of study (at university)",
+  "level": 4
+ },
+ {
+  "hanzi": "专门",
+  "pinyin": "zhuān mén",
+  "en": "specialized; dedicated (to a particular field or purpose); specially; specifically (for a particular purpose); (of institutions, personnel etc) designated or assigned for a specific task; special",
+  "level": 4
+ },
+ {
+  "hanzi": "世纪",
+  "pinyin": "shì jì",
+  "en": "century",
+  "level": 4
+ },
+ {
+  "hanzi": "丢",
+  "pinyin": "dīu",
+  "en": "to lose; to put aside; to throw",
+  "level": 4
+ },
+ {
+  "hanzi": "严格",
+  "pinyin": "yán gé",
+  "en": "strict; stringent; tight; rigorous",
+  "level": 4
+ },
+ {
+  "hanzi": "严重",
+  "pinyin": "yán zhòng",
+  "en": "grave; serious; severe; critical",
+  "level": 4
+ },
+ {
+  "hanzi": "丰富",
+  "pinyin": "fēng fù",
+  "en": "to enrich; rich; plentiful",
+  "level": 4
+ },
+ {
+  "hanzi": "主意",
+  "pinyin": "zhǔ yi",
+  "en": "plan; idea; decision",
+  "level": 4
+ },
+ {
+  "hanzi": "举",
+  "pinyin": "jǔ",
+  "en": "to lift; to hold up; to cite",
+  "level": 4
+ },
+ {
+  "hanzi": "举办",
+  "pinyin": "jǔ bàn",
+  "en": "to conduct; to hold (an event)",
+  "level": 4
+ },
+ {
+  "hanzi": "举行",
+  "pinyin": "jǔ xíng",
+  "en": "to hold (a meeting, ceremony etc)",
+  "level": 4
+ },
+ {
+  "hanzi": "之",
+  "pinyin": "zhī",
+  "en": "(possessive particle, literary equivalent of 的); him; her",
+  "level": 4
+ },
+ {
+  "hanzi": "乒乓球",
+  "pinyin": "pīng pāng qíu",
+  "en": "table tennis; ping-pong; table tennis ball",
+  "level": 4
+ },
+ {
+  "hanzi": "乘坐",
+  "pinyin": "chéng zuò",
+  "en": "to take (a ship, plane etc); to ride (in a train or other vehicle)",
+  "level": 4
+ },
+ {
+  "hanzi": "也许",
+  "pinyin": "yě xǔ",
+  "en": "perhaps; maybe",
+  "level": 4
+ },
+ {
+  "hanzi": "乱",
+  "pinyin": "luàn",
+  "en": "in confusion or disorder; in a confused state of mind; disorder",
+  "level": 4
+ },
+ {
+  "hanzi": "于是",
+  "pinyin": "yú shì",
+  "en": "thereupon; as a result; consequently; thus; hence",
+  "level": 4
+ },
+ {
+  "hanzi": "云",
+  "pinyin": "yún",
+  "en": "cloud",
+  "level": 4
+ },
+ {
+  "hanzi": "互相",
+  "pinyin": "hù xiāng",
+  "en": "each other; mutually; mutual",
+  "level": 4
+ },
+ {
+  "hanzi": "互联网",
+  "pinyin": "Hù lián wǎng",
+  "en": "Internet",
+  "level": 4
+ },
+ {
+  "hanzi": "亚洲",
+  "pinyin": "Yà zhōu",
+  "en": "Asia (abbr. for 亞細亞洲",
+  "level": 4
+ },
+ {
+  "hanzi": "交",
+  "pinyin": "jiāo",
+  "en": "to hand over; to deliver; to pay (money); to turn over; to make friends; (of lines) to intersect",
+  "level": 4
+ },
+ {
+  "hanzi": "交流",
+  "pinyin": "jiāo líu",
+  "en": "to exchange; exchange; communication",
+  "level": 4
+ },
+ {
+  "hanzi": "交通",
+  "pinyin": "jiāo tōng",
+  "en": "to be connected; traffic; transportation",
+  "level": 4
+ },
+ {
+  "hanzi": "京剧",
+  "pinyin": "Jīng jù",
+  "en": "Beijing opera",
+  "level": 4
+ },
+ {
+  "hanzi": "亲戚",
+  "pinyin": "qīn qi",
+  "en": "a relative (i.e. family relation)",
+  "level": 4
+ },
+ {
+  "hanzi": "仍然",
+  "pinyin": "réng rán",
+  "en": "still; as before; yet",
+  "level": 4
+ },
+ {
+  "hanzi": "从来",
+  "pinyin": "cóng lái",
+  "en": "always; at all times; never (if used in negative sentence)",
+  "level": 4
+ },
+ {
+  "hanzi": "仔细",
+  "pinyin": "zǐ xì",
+  "en": "careful; attentive; cautious; to be careful; to look out; (dialect) thrifty; frugal",
+  "level": 4
+ },
+ {
+  "hanzi": "付款",
+  "pinyin": "fù kuǎn",
+  "en": "to pay a sum of money; payment",
+  "level": 4
+ },
+ {
+  "hanzi": "以",
+  "pinyin": "yǐ",
+  "en": "to use; by means of; according to",
+  "level": 4
+ },
+ {
+  "hanzi": "以为",
+  "pinyin": "yǐ wéi",
+  "en": "to think; to believe (often with the implication that the belief is mistaken – unless referring to one's own current belief)",
+  "level": 4
+ },
+ {
+  "hanzi": "价格",
+  "pinyin": "jià gé",
+  "en": "price",
+  "level": 4
+ },
+ {
+  "hanzi": "任何",
+  "pinyin": "rèn hé",
+  "en": "any; whatever; whichever",
+  "level": 4
+ },
+ {
+  "hanzi": "任务",
+  "pinyin": "rèn wu",
+  "en": "mission; assignment; task; duty; role",
+  "level": 4
+ },
+ {
+  "hanzi": "份",
+  "pinyin": "fèn",
+  "en": "classifier for gifts, newspaper, magazine, papers, reports, contracts etc",
+  "level": 4
+ },
+ {
+  "hanzi": "优点",
+  "pinyin": "yōu diǎn",
+  "en": "merit; benefit; strong point",
+  "level": 4
+ },
+ {
+  "hanzi": "优秀",
+  "pinyin": "yōu xìu",
+  "en": "outstanding; excellent",
+  "level": 4
+ },
+ {
+  "hanzi": "传真",
+  "pinyin": "chuán zhēn",
+  "en": "to fax; a fax; (literary) to portray vividly in painting",
+  "level": 4
+ },
+ {
+  "hanzi": "伤心",
+  "pinyin": "shāng xīn",
+  "en": "to grieve; to be broken-hearted; to feel deeply hurt",
+  "level": 4
+ },
+ {
+  "hanzi": "估计",
+  "pinyin": "gū jì",
+  "en": "to estimate; to assess; to calculate; (coll.) to reckon; to think (that ...)",
+  "level": 4
+ },
+ {
+  "hanzi": "低",
+  "pinyin": "dī",
+  "en": "low; beneath; to lower (one's head)",
+  "level": 4
+ },
+ {
+  "hanzi": "作家",
+  "pinyin": "zuò jiā",
+  "en": "author",
+  "level": 4
+ },
+ {
+  "hanzi": "作用",
+  "pinyin": "zuò yòng",
+  "en": "to act on; to affect; action; function; activity; impact; result; effect",
+  "level": 4
+ },
+ {
+  "hanzi": "作者",
+  "pinyin": "zuò zhě",
+  "en": "author; writer",
+  "level": 4
+ },
+ {
+  "hanzi": "使",
+  "pinyin": "shǐ",
+  "en": "to make; to cause; to enable",
+  "level": 4
+ },
+ {
+  "hanzi": "使用",
+  "pinyin": "shǐ yòng",
+  "en": "to use; to employ; to apply",
+  "level": 4
+ },
+ {
+  "hanzi": "例如",
+  "pinyin": "lì rú",
+  "en": "for example; for instance; such as",
+  "level": 4
+ },
+ {
+  "hanzi": "保护",
+  "pinyin": "bǎo hù",
+  "en": "to protect; to defend; to safeguard",
+  "level": 4
+ },
+ {
+  "hanzi": "保证",
+  "pinyin": "bǎo zhèng",
+  "en": "guarantee; to guarantee; to ensure",
+  "level": 4
+ },
+ {
+  "hanzi": "信封",
+  "pinyin": "xìn fēng",
+  "en": "envelope",
+  "level": 4
+ },
+ {
+  "hanzi": "信心",
+  "pinyin": "xìn xīn",
+  "en": "confidence; faith (in sb or sth)",
+  "level": 4
+ },
+ {
+  "hanzi": "信息",
+  "pinyin": "xìn xī",
+  "en": "information; news; message",
+  "level": 4
+ },
+ {
+  "hanzi": "俩",
+  "pinyin": "liǎ",
+  "en": "two (colloquial equivalent of 兩個; both; some",
+  "level": 4
+ },
+ {
+  "hanzi": "修理",
+  "pinyin": "xīu lǐ",
+  "en": "to repair; to fix; to prune",
+  "level": 4
+ },
+ {
+  "hanzi": "倍",
+  "pinyin": "bèi",
+  "en": "(two, three etc) -fold; times (multiplier); double",
+  "level": 4
+ },
+ {
+  "hanzi": "倒",
+  "pinyin": "dǎo",
+  "en": "to fall; to collapse; to lie horizontally; to fail; to go bankrupt; to overthrow",
+  "level": 4
+ },
+ {
+  "hanzi": "值得",
+  "pinyin": "zhí de",
+  "en": "worth the money; to merit; to deserve; to be worth (doing sth)",
+  "level": 4
+ },
+ {
+  "hanzi": "假",
+  "pinyin": "jiǎ",
+  "en": "fake; false; artificial",
+  "level": 4
+ },
+ {
+  "hanzi": "停",
+  "pinyin": "tíng",
+  "en": "to stop; to halt; to park (a car)",
+  "level": 4
+ },
+ {
+  "hanzi": "偶尔",
+  "pinyin": "ǒu ěr",
+  "en": "occasionally; once in a while; sometimes",
+  "level": 4
+ },
+ {
+  "hanzi": "儿童",
+  "pinyin": "ér tóng",
+  "en": "child",
+  "level": 4
+ },
+ {
+  "hanzi": "允许",
+  "pinyin": "yǔn xǔ",
+  "en": "to permit; to allow",
+  "level": 4
+ },
+ {
+  "hanzi": "光",
+  "pinyin": "guāng",
+  "en": "light; ray (; bright; shiny; only; merely",
+  "level": 4
+ },
+ {
+  "hanzi": "免费",
+  "pinyin": "miǎn fèi",
+  "en": "free (of charge)",
+  "level": 4
+ },
+ {
+  "hanzi": "入口",
+  "pinyin": "rù kǒu",
+  "en": "entrance; to import",
+  "level": 4
+ },
+ {
+  "hanzi": "全部",
+  "pinyin": "quán bù",
+  "en": "whole; all",
+  "level": 4
+ },
+ {
+  "hanzi": "公里",
+  "pinyin": "gōng lǐ",
+  "en": "kilometer",
+  "level": 4
+ },
+ {
+  "hanzi": "共同",
+  "pinyin": "gòng tóng",
+  "en": "common; joint; jointly",
+  "level": 4
+ },
+ {
+  "hanzi": "关键",
+  "pinyin": "guān jiàn",
+  "en": "crucial point; crux; key",
+  "level": 4
+ },
+ {
+  "hanzi": "兴奋",
+  "pinyin": "xīng fèn",
+  "en": "excited; excitement; (physiology) excitation",
+  "level": 4
+ },
+ {
+  "hanzi": "其中",
+  "pinyin": "qí zhōng",
+  "en": "among; in; included among these",
+  "level": 4
+ },
+ {
+  "hanzi": "其次",
+  "pinyin": "qí cì",
+  "en": "next; secondly",
+  "level": 4
+ },
+ {
+  "hanzi": "养成",
+  "pinyin": "yǎng chéng",
+  "en": "to cultivate; to raise; to form (a habit)",
+  "level": 4
+ },
+ {
+  "hanzi": "内",
+  "pinyin": "nèi",
+  "en": "inside; inner; internal",
+  "level": 4
+ },
+ {
+  "hanzi": "内容",
+  "pinyin": "nèi róng",
+  "en": "content; substance; details",
+  "level": 4
+ },
+ {
+  "hanzi": "冷静",
+  "pinyin": "lěng jìng",
+  "en": "calm; cool-headed; dispassionate; (of a place) deserted; quiet",
+  "level": 4
+ },
+ {
+  "hanzi": "准时",
+  "pinyin": "zhǔn shí",
+  "en": "on time; punctual; on schedule",
+  "level": 4
+ },
+ {
+  "hanzi": "准确",
+  "pinyin": "zhǔn què",
+  "en": "accurate; exact; precise",
+  "level": 4
+ },
+ {
+  "hanzi": "凉快",
+  "pinyin": "liáng kuai",
+  "en": "pleasantly cool (weather etc); to cool oneself; to cool off; (Tw) (slang) (of clothing) scanty; revealing",
+  "level": 4
+ },
+ {
+  "hanzi": "减少",
+  "pinyin": "jiǎn shǎo",
+  "en": "to lessen; to decrease; to reduce; to lower",
+  "level": 4
+ },
+ {
+  "hanzi": "减肥",
+  "pinyin": "jiǎn féi",
+  "en": "to lose weight",
+  "level": 4
+ },
+ {
+  "hanzi": "出发",
+  "pinyin": "chū fā",
+  "en": "to set off; to start (on a journey)",
+  "level": 4
+ },
+ {
+  "hanzi": "出差",
+  "pinyin": "chū chāi",
+  "en": "to go on an official or business trip",
+  "level": 4
+ },
+ {
+  "hanzi": "出现",
+  "pinyin": "chū xiàn",
+  "en": "to appear; to arise; to emerge",
+  "level": 4
+ },
+ {
+  "hanzi": "出生",
+  "pinyin": "chū shēng",
+  "en": "to be born",
+  "level": 4
+ },
+ {
+  "hanzi": "刀",
+  "pinyin": "dāo",
+  "en": "knife; blade; single-edged sword; cutlass (; (slang) (loanword) dollar; classifier for sets of one hundred sheets (of paper)",
+  "level": 4
+ },
+ {
+  "hanzi": "刚",
+  "pinyin": "gāng",
+  "en": "hard; firm; strong",
+  "level": 4
+ },
+ {
+  "hanzi": "判断",
+  "pinyin": "pàn duàn",
+  "en": "to judge; to determine; judgment",
+  "level": 4
+ },
+ {
+  "hanzi": "到处",
+  "pinyin": "dào chù",
+  "en": "everywhere",
+  "level": 4
+ },
+ {
+  "hanzi": "到底",
+  "pinyin": "dào dǐ",
+  "en": "finally; in the end; when all is said and done",
+  "level": 4
+ },
+ {
+  "hanzi": "剩",
+  "pinyin": "shèng",
+  "en": "to remain; to be left; to have as remainder",
+  "level": 4
+ },
+ {
+  "hanzi": "力气",
+  "pinyin": "lì qi",
+  "en": "physical strength",
+  "level": 4
+ },
+ {
+  "hanzi": "功夫",
+  "pinyin": "gōng fu",
+  "en": "skill; art; kung fu",
+  "level": 4
+ },
+ {
+  "hanzi": "加油站",
+  "pinyin": "jiā yóu zhàn",
+  "en": "gas station",
+  "level": 4
+ },
+ {
+  "hanzi": "加班",
+  "pinyin": "jiā bān",
+  "en": "to work overtime",
+  "level": 4
+ },
+ {
+  "hanzi": "动作",
+  "pinyin": "dòng zuò",
+  "en": "movement; motion; action (; to act; to move",
+  "level": 4
+ },
+ {
+  "hanzi": "勇敢",
+  "pinyin": "yǒng gǎn",
+  "en": "brave; courageous",
+  "level": 4
+ },
+ {
+  "hanzi": "勺子",
+  "pinyin": "sháo zi",
+  "en": "spoon; ladle",
+  "level": 4
+ },
+ {
+  "hanzi": "包子",
+  "pinyin": "bāo zi",
+  "en": "baozi; bao (steamed stuffed bun)",
+  "level": 4
+ },
+ {
+  "hanzi": "区别",
+  "pinyin": "qū bié",
+  "en": "difference; to distinguish; to discriminate",
+  "level": 4
+ },
+ {
+  "hanzi": "十分",
+  "pinyin": "shí fēn",
+  "en": "very; completely; utterly",
+  "level": 4
+ },
+ {
+  "hanzi": "千万",
+  "pinyin": "qiān wàn",
+  "en": "ten million; countless; many",
+  "level": 4
+ },
+ {
+  "hanzi": "博士",
+  "pinyin": "bó shì",
+  "en": "doctor (as an academic degree); (old) person specialized in a skill or trade; (old) court academician",
+  "level": 4
+ },
+ {
+  "hanzi": "占线",
+  "pinyin": "zhàn xiàn",
+  "en": "busy (telephone line)",
+  "level": 4
+ },
+ {
+  "hanzi": "卫生间",
+  "pinyin": "wèi shēng jiān",
+  "en": "bathroom; toilet; WC",
+  "level": 4
+ },
+ {
+  "hanzi": "印象",
+  "pinyin": "yìn xiàng",
+  "en": "impression (sth that stays in one's mind); a memory",
+  "level": 4
+ },
+ {
+  "hanzi": "危险",
+  "pinyin": "wēi xiǎn",
+  "en": "danger; dangerous",
+  "level": 4
+ },
+ {
+  "hanzi": "即使",
+  "pinyin": "jí shǐ",
+  "en": "even if; even though",
+  "level": 4
+ },
+ {
+  "hanzi": "却",
+  "pinyin": "què",
+  "en": "but; yet; however",
+  "level": 4
+ },
+ {
+  "hanzi": "厉害",
+  "pinyin": "lì hai",
+  "en": "(used to describe sb or sth that makes a very strong impression, whether favorable or unfavorable) terrible; intense; severe; devastating; amazing; awesome; outstanding; (of a person) stern; strict; harsh; shrewd; tough; (of an animal) fierce",
+  "level": 4
+ },
+ {
+  "hanzi": "压力",
+  "pinyin": "yā lì",
+  "en": "pressure",
+  "level": 4
+ },
+ {
+  "hanzi": "厕所",
+  "pinyin": "cè suǒ",
+  "en": "toilet; lavatory",
+  "level": 4
+ },
+ {
+  "hanzi": "厚",
+  "pinyin": "hòu",
+  "en": "thick; deep or profound; kind",
+  "level": 4
+ },
+ {
+  "hanzi": "原因",
+  "pinyin": "yuán yīn",
+  "en": "cause; origin; root cause",
+  "level": 4
+ },
+ {
+  "hanzi": "原来",
+  "pinyin": "yuán lái",
+  "en": "original; former; originally; formerly; at first; so, actually, as it turns out",
+  "level": 4
+ },
+ {
+  "hanzi": "原谅",
+  "pinyin": "yuán liàng",
+  "en": "to excuse; to forgive; to pardon",
+  "level": 4
+ },
+ {
+  "hanzi": "厨房",
+  "pinyin": "chú fáng",
+  "en": "kitchen",
+  "level": 4
+ },
+ {
+  "hanzi": "参观",
+  "pinyin": "cān guān",
+  "en": "to visit (a place, e.g. museum or factory); to tour; to look around",
+  "level": 4
+ },
+ {
+  "hanzi": "及时",
+  "pinyin": "jí shí",
+  "en": "timely; at the right time; promptly; without delay",
+  "level": 4
+ },
+ {
+  "hanzi": "友好",
+  "pinyin": "yǒu hǎo",
+  "en": "friendly; amicable; close friend",
+  "level": 4
+ },
+ {
+  "hanzi": "友谊",
+  "pinyin": "yǒu yì",
+  "en": "companionship; fellowship; friendship",
+  "level": 4
+ },
+ {
+  "hanzi": "反对",
+  "pinyin": "fǎn duì",
+  "en": "to oppose; to be against; to object to",
+  "level": 4
+ },
+ {
+  "hanzi": "发展",
+  "pinyin": "fā zhǎn",
+  "en": "development; growth; to develop",
+  "level": 4
+ },
+ {
+  "hanzi": "发生",
+  "pinyin": "fā shēng",
+  "en": "to happen; to occur; to take place; to break out",
+  "level": 4
+ },
+ {
+  "hanzi": "取",
+  "pinyin": "qǔ",
+  "en": "to take; to get; to choose",
+  "level": 4
+ },
+ {
+  "hanzi": "受不了",
+  "pinyin": "shòu bù liǎo",
+  "en": "unbearable; unable to endure; can't stand",
+  "level": 4
+ },
+ {
+  "hanzi": "受到",
+  "pinyin": "shòu dào",
+  "en": "to receive (praise, an education, punishment etc); to be ...ed (praised, educated, punished etc)",
+  "level": 4
+ },
+ {
+  "hanzi": "另外",
+  "pinyin": "lìng wài",
+  "en": "additional; in addition; besides",
+  "level": 4
+ },
+ {
+  "hanzi": "只好",
+  "pinyin": "zhǐ hǎo",
+  "en": "to have no other option but to ...; to have to; to be forced to",
+  "level": 4
+ },
+ {
+  "hanzi": "只要",
+  "pinyin": "zhǐ yào",
+  "en": "so long as; provided; if",
+  "level": 4
+ },
+ {
+  "hanzi": "可怜",
+  "pinyin": "kě lián",
+  "en": "pitiful; pathetic; to have pity on",
+  "level": 4
+ },
+ {
+  "hanzi": "可惜",
+  "pinyin": "kě xī",
+  "en": "it is a pity; what a pity; unfortunately",
+  "level": 4
+ },
+ {
+  "hanzi": "可是",
+  "pinyin": "kě shì",
+  "en": "but; however; (used for emphasis) indeed",
+  "level": 4
+ },
+ {
+  "hanzi": "台",
+  "pinyin": "tái",
+  "en": "desk; table; counter",
+  "level": 4
+ },
+ {
+  "hanzi": "叶子",
+  "pinyin": "yè zi",
+  "en": "leaf (; (slang) marijuana",
+  "level": 4
+ },
+ {
+  "hanzi": "号码",
+  "pinyin": "hào mǎ",
+  "en": "number",
+  "level": 4
+ },
+ {
+  "hanzi": "吃惊",
+  "pinyin": "chī jīng",
+  "en": "to be startled; to be shocked; to be amazed",
+  "level": 4
+ },
+ {
+  "hanzi": "各",
+  "pinyin": "gè",
+  "en": "each; every",
+  "level": 4
+ },
+ {
+  "hanzi": "合格",
+  "pinyin": "hé gé",
+  "en": "to meet the standard required; qualified; eligible (voter etc)",
+  "level": 4
+ },
+ {
+  "hanzi": "合适",
+  "pinyin": "hé shì",
+  "en": "suitable; fitting; appropriate",
+  "level": 4
+ },
+ {
+  "hanzi": "同情",
+  "pinyin": "tóng qíng",
+  "en": "to sympathize with; sympathy",
+  "level": 4
+ },
+ {
+  "hanzi": "同时",
+  "pinyin": "tóng shí",
+  "en": "at the same time; simultaneously",
+  "level": 4
+ },
+ {
+  "hanzi": "后悔",
+  "pinyin": "hòu huǐ",
+  "en": "to regret; to feel remorse",
+  "level": 4
+ },
+ {
+  "hanzi": "否则",
+  "pinyin": "fǒu zé",
+  "en": "otherwise; if not; or (else)",
+  "level": 4
+ },
+ {
+  "hanzi": "吸引",
+  "pinyin": "xī yǐn",
+  "en": "to attract; to appeal to; to fascinate",
+  "level": 4
+ },
+ {
+  "hanzi": "呀",
+  "pinyin": "yā",
+  "en": "ah (used to express surprise); (onom.) creaking",
+  "level": 4
+ },
+ {
+  "hanzi": "周围",
+  "pinyin": "zhōu wéi",
+  "en": "environs; surroundings; periphery",
+  "level": 4
+ },
+ {
+  "hanzi": "味道",
+  "pinyin": "wèi dao",
+  "en": "flavor; taste; (fig.) feeling (of ...); sense (of ...); hint (of ...); (fig.) interest; delight",
+  "level": 4
+ },
+ {
+  "hanzi": "咱们",
+  "pinyin": "zán men",
+  "en": "we or us (including both the speaker and the person(s) spoken to); (dialect) I or me; (dialect) (in a coaxing or familiar way) you",
+  "level": 4
+ },
+ {
+  "hanzi": "咳嗽",
+  "pinyin": "ké sou",
+  "en": "to cough",
+  "level": 4
+ },
+ {
+  "hanzi": "咸",
+  "pinyin": "xián",
+  "en": "all; everyone; each",
+  "level": 4
+ },
+ {
+  "hanzi": "响",
+  "pinyin": "xiǎng",
+  "en": "echo; sound; noise",
+  "level": 4
+ },
+ {
+  "hanzi": "售货员",
+  "pinyin": "shòu huò yuán",
+  "en": "sales clerk; sales associate; retail salesperson",
+  "level": 4
+ },
+ {
+  "hanzi": "商量",
+  "pinyin": "shāng liang",
+  "en": "to consult; to talk over; to discuss",
+  "level": 4
+ },
+ {
+  "hanzi": "回忆",
+  "pinyin": "huí yì",
+  "en": "to recall; memories",
+  "level": 4
+ },
+ {
+  "hanzi": "因此",
+  "pinyin": "yīn cǐ",
+  "en": "thus; consequently; as a result",
+  "level": 4
+ },
+ {
+  "hanzi": "困",
+  "pinyin": "kùn",
+  "en": "to trap; to surround; hard-pressed",
+  "level": 4
+ },
+ {
+  "hanzi": "困难",
+  "pinyin": "kùn nan",
+  "en": "difficult; challenging; straitened circumstances",
+  "level": 4
+ },
+ {
+  "hanzi": "国籍",
+  "pinyin": "guó jí",
+  "en": "nationality",
+  "level": 4
+ },
+ {
+  "hanzi": "国际",
+  "pinyin": "guó jì",
+  "en": "international",
+  "level": 4
+ },
+ {
+  "hanzi": "地址",
+  "pinyin": "dì zhǐ",
+  "en": "address",
+  "level": 4
+ },
+ {
+  "hanzi": "地点",
+  "pinyin": "dì diǎn",
+  "en": "place; site; location",
+  "level": 4
+ },
+ {
+  "hanzi": "地球",
+  "pinyin": "dì qíu",
+  "en": "the earth",
+  "level": 4
+ },
+ {
+  "hanzi": "场",
+  "pinyin": "cháng",
+  "en": "threshing floor; classifier for events and happenings: spell, episode, bout",
+  "level": 4
+ },
+ {
+  "hanzi": "坚持",
+  "pinyin": "jiān chí",
+  "en": "to persevere with; to persist in; to insist on",
+  "level": 4
+ },
+ {
+  "hanzi": "垃圾桶",
+  "pinyin": "lā jī tǒng",
+  "en": "rubbish bin; trash can; garbage can",
+  "level": 4
+ },
+ {
+  "hanzi": "基础",
+  "pinyin": "jī chǔ",
+  "en": "base; foundation; basis; basic; fundamental",
+  "level": 4
+ },
+ {
+  "hanzi": "堵车",
+  "pinyin": "dǔ chē",
+  "en": "traffic jam; (of traffic) to get congested",
+  "level": 4
+ },
+ {
+  "hanzi": "塑料袋",
+  "pinyin": "sù liào dài",
+  "en": "plastic bag",
+  "level": 4
+ },
+ {
+  "hanzi": "填空",
+  "pinyin": "tián kòng",
+  "en": "to fill a job vacancy; to fill in a blank (e.g. on a form, questionnaire or exam paper)",
+  "level": 4
+ },
+ {
+  "hanzi": "增加",
+  "pinyin": "zēng jiā",
+  "en": "to raise; to increase",
+  "level": 4
+ },
+ {
+  "hanzi": "复印",
+  "pinyin": "fù yìn",
+  "en": "to photocopy; to duplicate a document",
+  "level": 4
+ },
+ {
+  "hanzi": "复杂",
+  "pinyin": "fù zá",
+  "en": "complicated; complex",
+  "level": 4
+ },
+ {
+  "hanzi": "够",
+  "pinyin": "gòu",
+  "en": "enough (sufficient); enough (too much); (coll.) (before adj.) really",
+  "level": 4
+ },
+ {
+  "hanzi": "大使馆",
+  "pinyin": "dà shǐ guǎn",
+  "en": "embassy",
+  "level": 4
+ },
+ {
+  "hanzi": "大夫",
+  "pinyin": "dà fū",
+  "en": "senior official (in imperial China)",
+  "level": 4
+ },
+ {
+  "hanzi": "大概",
+  "pinyin": "dà gài",
+  "en": "roughly; probably; rough",
+  "level": 4
+ },
+ {
+  "hanzi": "大约",
+  "pinyin": "dà yuē",
+  "en": "approximately; probably",
+  "level": 4
+ },
+ {
+  "hanzi": "失望",
+  "pinyin": "shī wàng",
+  "en": "disappointed; to lose hope; to despair",
+  "level": 4
+ },
+ {
+  "hanzi": "失败",
+  "pinyin": "shī bài",
+  "en": "to be defeated; to lose; to fail (e.g. experiments)",
+  "level": 4
+ },
+ {
+  "hanzi": "奖金",
+  "pinyin": "jiǎng jīn",
+  "en": "premium; award money; bonus",
+  "level": 4
+ },
+ {
+  "hanzi": "好像",
+  "pinyin": "hǎo xiàng",
+  "en": "as if; to seem like",
+  "level": 4
+ },
+ {
+  "hanzi": "好处",
+  "pinyin": "hǎo chǔ",
+  "en": "easy to get along with",
+  "level": 4
+ },
+ {
+  "hanzi": "存",
+  "pinyin": "cún",
+  "en": "to exist; to deposit; to store",
+  "level": 4
+ },
+ {
+  "hanzi": "孙子",
+  "pinyin": "Sūn zǐ",
+  "en": "Sun Tzu, also known as Sun Wu 孫武",
+  "level": 4
+ },
+ {
+  "hanzi": "学期",
+  "pinyin": "xué qī",
+  "en": "term; semester",
+  "level": 4
+ },
+ {
+  "hanzi": "安全",
+  "pinyin": "ān quán",
+  "en": "safe; secure; safety; security",
+  "level": 4
+ },
+ {
+  "hanzi": "安排",
+  "pinyin": "ān pái",
+  "en": "to arrange; to plan; to set up",
+  "level": 4
+ },
+ {
+  "hanzi": "完全",
+  "pinyin": "wán quán",
+  "en": "complete; whole; totally; entirely",
+  "level": 4
+ },
+ {
+  "hanzi": "实在",
+  "pinyin": "shí zài",
+  "en": "really; actually; indeed",
+  "level": 4
+ },
+ {
+  "hanzi": "实际",
+  "pinyin": "shí jì",
+  "en": "reality; practice; practical",
+  "level": 4
+ },
+ {
+  "hanzi": "客厅",
+  "pinyin": "kè tīng",
+  "en": "living room; sitting room",
+  "level": 4
+ },
+ {
+  "hanzi": "害羞",
+  "pinyin": "hài xīu",
+  "en": "shy; embarrassed; bashful",
+  "level": 4
+ },
+ {
+  "hanzi": "家具",
+  "pinyin": "jiā jù",
+  "en": "furniture",
+  "level": 4
+ },
+ {
+  "hanzi": "寄",
+  "pinyin": "jì",
+  "en": "to entrust; to place in sb's care; to depend on; to attach oneself to; to reside temporarily; foster (as in 寄女 foster daughter)",
+  "level": 4
+ },
+ {
+  "hanzi": "密码",
+  "pinyin": "mì mǎ",
+  "en": "cipher; secret code; password; PIN",
+  "level": 4
+ },
+ {
+  "hanzi": "富",
+  "pinyin": "fù",
+  "en": "rich; abundant; wealthy",
+  "level": 4
+ },
+ {
+  "hanzi": "寒假",
+  "pinyin": "hán jià",
+  "en": "winter vacation",
+  "level": 4
+ },
+ {
+  "hanzi": "对于",
+  "pinyin": "duì yú",
+  "en": "regarding; as far as (sth) is concerned; with regard to",
+  "level": 4
+ },
+ {
+  "hanzi": "对话",
+  "pinyin": "duì huà",
+  "en": "to talk (with sb); dialogue; conversation",
+  "level": 4
+ },
+ {
+  "hanzi": "对面",
+  "pinyin": "duì miàn",
+  "en": "(sitting) opposite; across (the street); directly in front",
+  "level": 4
+ },
+ {
+  "hanzi": "导游",
+  "pinyin": "dǎo yóu",
+  "en": "tour guide; guidebook; to conduct a tour",
+  "level": 4
+ },
+ {
+  "hanzi": "将来",
+  "pinyin": "jiāng lái",
+  "en": "in the future; future; the future",
+  "level": 4
+ },
+ {
+  "hanzi": "尊重",
+  "pinyin": "zūn zhòng",
+  "en": "to esteem; to respect; to honor",
+  "level": 4
+ },
+ {
+  "hanzi": "小伙子",
+  "pinyin": "xiǎo huǒ zi",
+  "en": "young man; young guy; lad",
+  "level": 4
+ },
+ {
+  "hanzi": "小吃",
+  "pinyin": "xiǎo chī",
+  "en": "street food; snack",
+  "level": 4
+ },
+ {
+  "hanzi": "小说",
+  "pinyin": "xiǎo shuō",
+  "en": "novel; fiction",
+  "level": 4
+ },
+ {
+  "hanzi": "尝",
+  "pinyin": "cháng",
+  "en": "to taste; to try (food); to experience; (literary) ever; once",
+  "level": 4
+ },
+ {
+  "hanzi": "尤其",
+  "pinyin": "yóu qí",
+  "en": "especially; particularly",
+  "level": 4
+ },
+ {
+  "hanzi": "尽管",
+  "pinyin": "jǐn guǎn",
+  "en": "despite; although; even though",
+  "level": 4
+ },
+ {
+  "hanzi": "工资",
+  "pinyin": "gōng zī",
+  "en": "wages; pay",
+  "level": 4
+ },
+ {
+  "hanzi": "左右",
+  "pinyin": "zuǒ yòu",
+  "en": "left and right; nearby; approximately",
+  "level": 4
+ },
+ {
+  "hanzi": "巧克力",
+  "pinyin": "qiǎo kè lì",
+  "en": "(loanword) chocolate",
+  "level": 4
+ },
+ {
+  "hanzi": "差不多",
+  "pinyin": "chà bu duō",
+  "en": "almost; nearly; more or less",
+  "level": 4
+ },
+ {
+  "hanzi": "帅",
+  "pinyin": "shuài",
+  "en": "commander-in-chief; to lead; to command; handsome; graceful; dashing; elegant",
+  "level": 4
+ },
+ {
+  "hanzi": "师傅",
+  "pinyin": "shī fu",
+  "en": "master; qualified worker; respectful form of address for older men",
+  "level": 4
+ },
+ {
+  "hanzi": "干",
+  "pinyin": "gān",
+  "en": "dry; dried food; empty; hollow",
+  "level": 4
+ },
+ {
+  "hanzi": "干杯",
+  "pinyin": "gān bēi",
+  "en": "to drink a toast; Cheers! (proposing a toast); Here's to you!",
+  "level": 4
+ },
+ {
+  "hanzi": "平时",
+  "pinyin": "píng shí",
+  "en": "ordinarily; in normal times; in peacetime",
+  "level": 4
+ },
+ {
+  "hanzi": "年龄",
+  "pinyin": "nián líng",
+  "en": "(a person's) age",
+  "level": 4
+ },
+ {
+  "hanzi": "并且",
+  "pinyin": "bìng qiě",
+  "en": "and; besides; moreover; furthermore; in addition",
+  "level": 4
+ },
+ {
+  "hanzi": "幸福",
+  "pinyin": "xìng fú",
+  "en": "happiness; happy; blessed",
+  "level": 4
+ },
+ {
+  "hanzi": "幽默",
+  "pinyin": "yōu mò",
+  "en": "(loanword) humor; humorous",
+  "level": 4
+ },
+ {
+  "hanzi": "广告",
+  "pinyin": "guǎng gào",
+  "en": "to advertise; a commercial; advertisement",
+  "level": 4
+ },
+ {
+  "hanzi": "广播",
+  "pinyin": "guǎng bō",
+  "en": "broadcast; broadcasting; to broadcast",
+  "level": 4
+ },
+ {
+  "hanzi": "应聘",
+  "pinyin": "yìng pìn",
+  "en": "to accept a job offer; to apply for an advertised position",
+  "level": 4
+ },
+ {
+  "hanzi": "底",
+  "pinyin": "de",
+  "en": "(equivalent to 的 as possessive particle)",
+  "level": 4
+ },
+ {
+  "hanzi": "座",
+  "pinyin": "zuò",
+  "en": "seat; base; stand; constellation",
+  "level": 4
+ },
+ {
+  "hanzi": "座位",
+  "pinyin": "zuò wèi",
+  "en": "seat",
+  "level": 4
+ },
+ {
+  "hanzi": "建议",
+  "pinyin": "jiàn yì",
+  "en": "to propose; to suggest; to recommend; proposal; suggestion; recommendation",
+  "level": 4
+ },
+ {
+  "hanzi": "开心",
+  "pinyin": "kāi xīn",
+  "en": "to feel happy; to rejoice; to have a great time",
+  "level": 4
+ },
+ {
+  "hanzi": "开玩笑",
+  "pinyin": "kāi wán xiào",
+  "en": "to play a joke; to make fun of; to joke",
+  "level": 4
+ },
+ {
+  "hanzi": "弄",
+  "pinyin": "lòng",
+  "en": "lane; alley",
+  "level": 4
+ },
+ {
+  "hanzi": "引起",
+  "pinyin": "yǐn qǐ",
+  "en": "to give rise to; to lead to; to cause; to arouse",
+  "level": 4
+ },
+ {
+  "hanzi": "当",
+  "pinyin": "dāng",
+  "en": "to be; to act as; manage",
+  "level": 4
+ },
+ {
+  "hanzi": "当时",
+  "pinyin": "dāng shí",
+  "en": "then; at that time; while",
+  "level": 4
+ },
+ {
+  "hanzi": "往往",
+  "pinyin": "wǎng wǎng",
+  "en": "usually; in many cases; more often than not",
+  "level": 4
+ },
+ {
+  "hanzi": "律师",
+  "pinyin": "lǜ shī",
+  "en": "lawyer",
+  "level": 4
+ },
+ {
+  "hanzi": "得意",
+  "pinyin": "dé yì",
+  "en": "proud of oneself; pleased with oneself; complacent",
+  "level": 4
+ },
+ {
+  "hanzi": "心情",
+  "pinyin": "xīn qíng",
+  "en": "mood; frame of mind",
+  "level": 4
+ },
+ {
+  "hanzi": "怀疑",
+  "pinyin": "huái yí",
+  "en": "to doubt (sth); to be skeptical of; to have one's doubts; to harbor suspicions; to suspect that",
+  "level": 4
+ },
+ {
+  "hanzi": "态度",
+  "pinyin": "tài du",
+  "en": "manner; bearing; attitude",
+  "level": 4
+ },
+ {
+  "hanzi": "性别",
+  "pinyin": "xìng bié",
+  "en": "gender; sex",
+  "level": 4
+ },
+ {
+  "hanzi": "性格",
+  "pinyin": "xìng gé",
+  "en": "nature; disposition; temperament",
+  "level": 4
+ },
+ {
+  "hanzi": "总结",
+  "pinyin": "zǒng jié",
+  "en": "to sum up; to conclude; summary",
+  "level": 4
+ },
+ {
+  "hanzi": "恐怕",
+  "pinyin": "kǒng pà",
+  "en": "fear; to dread; I'm afraid that...",
+  "level": 4
+ },
+ {
+  "hanzi": "情况",
+  "pinyin": "qíng kuàng",
+  "en": "circumstances; state of affairs; situation",
+  "level": 4
+ },
+ {
+  "hanzi": "愉快",
+  "pinyin": "yú kuài",
+  "en": "cheerful; happy; pleasant; delighted",
+  "level": 4
+ },
+ {
+  "hanzi": "意见",
+  "pinyin": "yì jiàn",
+  "en": "idea; opinion; suggestion",
+  "level": 4
+ },
+ {
+  "hanzi": "感动",
+  "pinyin": "gǎn dòng",
+  "en": "to move (sb); to touch (sb emotionally); moving",
+  "level": 4
+ },
+ {
+  "hanzi": "感情",
+  "pinyin": "gǎn qíng",
+  "en": "emotion; sentiment; affection; feelings between two persons",
+  "level": 4
+ },
+ {
+  "hanzi": "感觉",
+  "pinyin": "gǎn jué",
+  "en": "feeling; impression; sensation; to feel; to perceive",
+  "level": 4
+ },
+ {
+  "hanzi": "感谢",
+  "pinyin": "gǎn xiè",
+  "en": "(express) thanks; gratitude; grateful",
+  "level": 4
+ },
+ {
+  "hanzi": "懒",
+  "pinyin": "lǎn",
+  "en": "lazy",
+  "level": 4
+ },
+ {
+  "hanzi": "成为",
+  "pinyin": "chéng wéi",
+  "en": "to become; to turn into",
+  "level": 4
+ },
+ {
+  "hanzi": "成功",
+  "pinyin": "Chéng gōng",
+  "en": "Chenggong or Chengkung town in Taitung County 臺東縣",
+  "level": 4
+ },
+ {
+  "hanzi": "戴",
+  "pinyin": "dài",
+  "en": "to put on or wear (glasses, hat, gloves etc); to respect; to bear",
+  "level": 4
+ },
+ {
+  "hanzi": "房东",
+  "pinyin": "fáng dōng",
+  "en": "landlord",
+  "level": 4
+ },
+ {
+  "hanzi": "所有",
+  "pinyin": "suǒ yǒu",
+  "en": "all; to have; to possess; to own",
+  "level": 4
+ },
+ {
+  "hanzi": "打印",
+  "pinyin": "dǎ yìn",
+  "en": "to affix a seal; to stamp; to print out (with a printer)",
+  "level": 4
+ },
+ {
+  "hanzi": "打扮",
+  "pinyin": "dǎ ban",
+  "en": "to decorate; to dress; to make up",
+  "level": 4
+ },
+ {
+  "hanzi": "打扰",
+  "pinyin": "dǎ rǎo",
+  "en": "to disturb; to bother; to trouble",
+  "level": 4
+ },
+ {
+  "hanzi": "打折",
+  "pinyin": "dǎ zhé",
+  "en": "to give a discount",
+  "level": 4
+ },
+ {
+  "hanzi": "打招呼",
+  "pinyin": "dǎ zhāo hu",
+  "en": "to greet sb by word or action; to give prior notice",
+  "level": 4
+ },
+ {
+  "hanzi": "打针",
+  "pinyin": "dǎ zhēn",
+  "en": "to give or get an injection",
+  "level": 4
+ },
+ {
+  "hanzi": "扔",
+  "pinyin": "rēng",
+  "en": "to throw; to throw away",
+  "level": 4
+ },
+ {
+  "hanzi": "批评",
+  "pinyin": "pī píng",
+  "en": "to criticize; criticism",
+  "level": 4
+ },
+ {
+  "hanzi": "技术",
+  "pinyin": "jì shù",
+  "en": "technology; technique; skill",
+  "level": 4
+ },
+ {
+  "hanzi": "护士",
+  "pinyin": "hù shi",
+  "en": "nurse",
+  "level": 4
+ },
+ {
+  "hanzi": "报名",
+  "pinyin": "bào míng",
+  "en": "to sign up; to enter one's name; to apply",
+  "level": 4
+ },
+ {
+  "hanzi": "抬",
+  "pinyin": "tái",
+  "en": "to lift; to raise; (of two or more persons) to carry",
+  "level": 4
+ },
+ {
+  "hanzi": "抱",
+  "pinyin": "bào",
+  "en": "to hold; to carry (in one's arms); to hug",
+  "level": 4
+ },
+ {
+  "hanzi": "抱歉",
+  "pinyin": "bào qiàn",
+  "en": "to be sorry; to feel apologetic; sorry!",
+  "level": 4
+ },
+ {
+  "hanzi": "抽烟",
+  "pinyin": "chōu yān",
+  "en": "to smoke (tobacco)",
+  "level": 4
+ },
+ {
+  "hanzi": "拉",
+  "pinyin": "lā",
+  "en": "to pull; to play (a bowed instrument); to drag",
+  "level": 4
+ },
+ {
+  "hanzi": "拒绝",
+  "pinyin": "jù jué",
+  "en": "to refuse; to decline; to reject",
+  "level": 4
+ },
+ {
+  "hanzi": "招聘",
+  "pinyin": "zhāo pìn",
+  "en": "to invite applications for a job; to recruit",
+  "level": 4
+ },
+ {
+  "hanzi": "挂",
+  "pinyin": "guà",
+  "en": "to hang; to suspend (from a hook etc); to hang up (the phone); (of a line) to be dead",
+  "level": 4
+ },
+ {
+  "hanzi": "指",
+  "pinyin": "zhǐ",
+  "en": "finger; to point at or to; to indicate or refer to",
+  "level": 4
+ },
+ {
+  "hanzi": "按时",
+  "pinyin": "àn shí",
+  "en": "on time; before deadline; on schedule",
+  "level": 4
+ },
+ {
+  "hanzi": "按照",
+  "pinyin": "àn zhào",
+  "en": "according to; in accordance with; on the basis of",
+  "level": 4
+ },
+ {
+  "hanzi": "挺",
+  "pinyin": "tǐng",
+  "en": "straight; erect; to stick out (a part of the body)",
+  "level": 4
+ },
+ {
+  "hanzi": "掉",
+  "pinyin": "diào",
+  "en": "to fall; to drop; to lag behind",
+  "level": 4
+ },
+ {
+  "hanzi": "排列",
+  "pinyin": "pái liè",
+  "en": "to arrange in order; (math.) permutation",
+  "level": 4
+ },
+ {
+  "hanzi": "排队",
+  "pinyin": "pái duì",
+  "en": "to line up",
+  "level": 4
+ },
+ {
+  "hanzi": "接受",
+  "pinyin": "jiē shòu",
+  "en": "to accept (a suggestion, punishment, bribe etc); to acquiesce",
+  "level": 4
+ },
+ {
+  "hanzi": "接着",
+  "pinyin": "jiē zhe",
+  "en": "to catch and hold on; to continue; to go on to do sth",
+  "level": 4
+ },
+ {
+  "hanzi": "推",
+  "pinyin": "tuī",
+  "en": "to push; to cut; to refuse",
+  "level": 4
+ },
+ {
+  "hanzi": "推迟",
+  "pinyin": "tuī chí",
+  "en": "to postpone; to put off; to defer",
+  "level": 4
+ },
+ {
+  "hanzi": "提",
+  "pinyin": "tí",
+  "en": "to carry (hanging down from the hand); to lift; to put forward",
+  "level": 4
+ },
+ {
+  "hanzi": "提供",
+  "pinyin": "tí gōng",
+  "en": "to offer; to supply; to provide",
+  "level": 4
+ },
+ {
+  "hanzi": "提前",
+  "pinyin": "tí qián",
+  "en": "to shift to an earlier date; to do sth ahead of time; in advance",
+  "level": 4
+ },
+ {
+  "hanzi": "提醒",
+  "pinyin": "tí xǐng",
+  "en": "to remind; to call attention to; to warn of",
+  "level": 4
+ },
+ {
+  "hanzi": "擦",
+  "pinyin": "cā",
+  "en": "to rub; to scratch; to wipe; to polish; to apply (lipstick, lotion etc)",
+  "level": 4
+ },
+ {
+  "hanzi": "支持",
+  "pinyin": "zhī chí",
+  "en": "to be in favor of; to support; to back",
+  "level": 4
+ },
+ {
+  "hanzi": "收",
+  "pinyin": "shōu",
+  "en": "to receive; to accept; to collect",
+  "level": 4
+ },
+ {
+  "hanzi": "收入",
+  "pinyin": "shōu rù",
+  "en": "to take in; income; revenue",
+  "level": 4
+ },
+ {
+  "hanzi": "收拾",
+  "pinyin": "shōu shi",
+  "en": "to put in order; to tidy up; to pack",
+  "level": 4
+ },
+ {
+  "hanzi": "改变",
+  "pinyin": "gǎi biàn",
+  "en": "to change; to alter; to transform",
+  "level": 4
+ },
+ {
+  "hanzi": "放弃",
+  "pinyin": "fàng qì",
+  "en": "to renounce; to abandon; to give up",
+  "level": 4
+ },
+ {
+  "hanzi": "放暑假",
+  "pinyin": "fàng shǔ jià",
+  "en": "to be on summer vacation",
+  "level": 4
+ },
+ {
+  "hanzi": "放松",
+  "pinyin": "fàng sōng",
+  "en": "to relax; to slacken; to loosen",
+  "level": 4
+ },
+ {
+  "hanzi": "故意",
+  "pinyin": "gù yì",
+  "en": "deliberately; on purpose",
+  "level": 4
+ },
+ {
+  "hanzi": "效果",
+  "pinyin": "xiào guǒ",
+  "en": "result; effect; efficacy",
+  "level": 4
+ },
+ {
+  "hanzi": "教授",
+  "pinyin": "jiào shòu",
+  "en": "professor; to instruct; to lecture on",
+  "level": 4
+ },
+ {
+  "hanzi": "教育",
+  "pinyin": "jiào yù",
+  "en": "to educate; to teach; education",
+  "level": 4
+ },
+ {
+  "hanzi": "敢",
+  "pinyin": "gǎn",
+  "en": "to dare; daring; (polite) may I venture",
+  "level": 4
+ },
+ {
+  "hanzi": "散步",
+  "pinyin": "sàn bù",
+  "en": "to take a walk; to go for a walk",
+  "level": 4
+ },
+ {
+  "hanzi": "数字",
+  "pinyin": "shù zì",
+  "en": "numeral; digit; number",
+  "level": 4
+ },
+ {
+  "hanzi": "数量",
+  "pinyin": "shù liàng",
+  "en": "amount; quantity (; quantitative; (math.) scalar quantity",
+  "level": 4
+ },
+ {
+  "hanzi": "敲",
+  "pinyin": "qiāo",
+  "en": "to hit; to strike; to tap",
+  "level": 4
+ },
+ {
+  "hanzi": "整理",
+  "pinyin": "zhěng lǐ",
+  "en": "to arrange; to tidy up; to sort out",
+  "level": 4
+ },
+ {
+  "hanzi": "文章",
+  "pinyin": "wén zhāng",
+  "en": "article; essay; literary works",
+  "level": 4
+ },
+ {
+  "hanzi": "方向",
+  "pinyin": "fāng xiàng",
+  "en": "direction; orientation",
+  "level": 4
+ },
+ {
+  "hanzi": "方法",
+  "pinyin": "fāng fǎ",
+  "en": "method; way; technique; procedure",
+  "level": 4
+ },
+ {
+  "hanzi": "方面",
+  "pinyin": "fāng miàn",
+  "en": "respect; aspect; field",
+  "level": 4
+ },
+ {
+  "hanzi": "旅行",
+  "pinyin": "lǚ xíng",
+  "en": "to travel; journey; trip",
+  "level": 4
+ },
+ {
+  "hanzi": "无",
+  "pinyin": "wú",
+  "en": "not to have; no; none",
+  "level": 4
+ },
+ {
+  "hanzi": "无聊",
+  "pinyin": "wú liáo",
+  "en": "bored; boring; senseless",
+  "level": 4
+ },
+ {
+  "hanzi": "无论",
+  "pinyin": "wú lùn",
+  "en": "no matter what or how; regardless of whether...",
+  "level": 4
+ },
+ {
+  "hanzi": "既然",
+  "pinyin": "jì rán",
+  "en": "since; as; this being the case",
+  "level": 4
+ },
+ {
+  "hanzi": "日记",
+  "pinyin": "rì jì",
+  "en": "diary",
+  "level": 4
+ },
+ {
+  "hanzi": "是否",
+  "pinyin": "shì fǒu",
+  "en": "whether (or not); if; is or isn't",
+  "level": 4
+ },
+ {
+  "hanzi": "普通话",
+  "pinyin": "pǔ tōng huà",
+  "en": "Mandarin (common language); Putonghua (common speech of the Chinese language); ordinary speech",
+  "level": 4
+ },
+ {
+  "hanzi": "普遍",
+  "pinyin": "pǔ biàn",
+  "en": "universal; general; widespread",
+  "level": 4
+ },
+ {
+  "hanzi": "景色",
+  "pinyin": "jǐng sè",
+  "en": "scenery; landscape; view",
+  "level": 4
+ },
+ {
+  "hanzi": "暂时",
+  "pinyin": "zàn shí",
+  "en": "temporary; provisional; for the time being",
+  "level": 4
+ },
+ {
+  "hanzi": "暖和",
+  "pinyin": "nuǎn huo",
+  "en": "warm; nice and warm",
+  "level": 4
+ },
+ {
+  "hanzi": "最好",
+  "pinyin": "zuì hǎo",
+  "en": "best; had better ...; it would be best to ...",
+  "level": 4
+ },
+ {
+  "hanzi": "有趣",
+  "pinyin": "yǒu qù",
+  "en": "interesting; fascinating; amusing",
+  "level": 4
+ },
+ {
+  "hanzi": "本来",
+  "pinyin": "běn lái",
+  "en": "original; originally; at first",
+  "level": 4
+ },
+ {
+  "hanzi": "杂志",
+  "pinyin": "zá zhì",
+  "en": "magazine",
+  "level": 4
+ },
+ {
+  "hanzi": "材料",
+  "pinyin": "cái liào",
+  "en": "(raw) material; data; (fig.) person who has the potential to do the job",
+  "level": 4
+ },
+ {
+  "hanzi": "条件",
+  "pinyin": "tiáo jiàn",
+  "en": "condition; circumstance; term; factor; requirement; prerequisite; qualification; situation; state; condition",
+  "level": 4
+ },
+ {
+  "hanzi": "来不及",
+  "pinyin": "lái bu jí",
+  "en": "there's not enough time (to do sth); it's too late (to do sth)",
+  "level": 4
+ },
+ {
+  "hanzi": "来得及",
+  "pinyin": "lái de jí",
+  "en": "to have enough time; can do it in time; can still make it",
+  "level": 4
+ },
+ {
+  "hanzi": "来自",
+  "pinyin": "lái zì",
+  "en": "to come from (a place); From: (in email header)",
+  "level": 4
+ },
+ {
+  "hanzi": "果汁",
+  "pinyin": "guǒ zhī",
+  "en": "fruit juice",
+  "level": 4
+ },
+ {
+  "hanzi": "标准",
+  "pinyin": "biāo zhǔn",
+  "en": "standard; norm; criterion; (adjective) standard; good; correct; conforming to a standard",
+  "level": 4
+ },
+ {
+  "hanzi": "样子",
+  "pinyin": "yàng zi",
+  "en": "appearance; manner; pattern",
+  "level": 4
+ },
+ {
+  "hanzi": "桥",
+  "pinyin": "qiáo",
+  "en": "bridge",
+  "level": 4
+ },
+ {
+  "hanzi": "梦",
+  "pinyin": "mèng",
+  "en": "dream (; to dream",
+  "level": 4
+ },
+ {
+  "hanzi": "棒",
+  "pinyin": "bàng",
+  "en": "stick; club; cudgel",
+  "level": 4
+ },
+ {
+  "hanzi": "森林",
+  "pinyin": "sēn lín",
+  "en": "forest",
+  "level": 4
+ },
+ {
+  "hanzi": "棵",
+  "pinyin": "kē",
+  "en": "classifier for trees, cabbages, plants etc",
+  "level": 4
+ },
+ {
+  "hanzi": "植物",
+  "pinyin": "zhí wù",
+  "en": "plant; vegetation",
+  "level": 4
+ },
+ {
+  "hanzi": "橡皮",
+  "pinyin": "xiàng pí",
+  "en": "rubber; an eraser",
+  "level": 4
+ },
+ {
+  "hanzi": "正好",
+  "pinyin": "zhèng hǎo",
+  "en": "just (in time); just right; just enough",
+  "level": 4
+ },
+ {
+  "hanzi": "正常",
+  "pinyin": "zhèng cháng",
+  "en": "regular; normal; ordinary",
+  "level": 4
+ },
+ {
+  "hanzi": "正式",
+  "pinyin": "zhèng shì",
+  "en": "formal; official",
+  "level": 4
+ },
+ {
+  "hanzi": "正确",
+  "pinyin": "zhèng què",
+  "en": "correct; sound; right; proper",
+  "level": 4
+ },
+ {
+  "hanzi": "死",
+  "pinyin": "sǐ",
+  "en": "to die; impassable; uncrossable",
+  "level": 4
+ },
+ {
+  "hanzi": "母亲",
+  "pinyin": "mǔ qīn",
+  "en": "mother; also pr.",
+  "level": 4
+ },
+ {
+  "hanzi": "比如",
+  "pinyin": "bǐ rú",
+  "en": "for example; for instance; such as",
+  "level": 4
+ },
+ {
+  "hanzi": "毕业",
+  "pinyin": "bì yè",
+  "en": "graduation; to graduate; to finish school",
+  "level": 4
+ },
+ {
+  "hanzi": "毛",
+  "pinyin": "máo",
+  "en": "hair; feather; down",
+  "level": 4
+ },
+ {
+  "hanzi": "毛巾",
+  "pinyin": "máo jīn",
+  "en": "towel",
+  "level": 4
+ },
+ {
+  "hanzi": "民族",
+  "pinyin": "mín zú",
+  "en": "nationality; ethnic group",
+  "level": 4
+ },
+ {
+  "hanzi": "气候",
+  "pinyin": "qì hòu",
+  "en": "(meteorology) climate; (fig.) climate; prevailing conditions (in human affairs)",
+  "level": 4
+ },
+ {
+  "hanzi": "永远",
+  "pinyin": "yǒng yuǎn",
+  "en": "forever; eternal",
+  "level": 4
+ },
+ {
+  "hanzi": "汗",
+  "pinyin": "hàn",
+  "en": "perspiration; sweat; to be speechless (out of helplessness, embarrassment etc) (Internet slang used as an interjection)",
+  "level": 4
+ },
+ {
+  "hanzi": "污染",
+  "pinyin": "wū rǎn",
+  "en": "to pollute; to contaminate (lit. and fig.)",
+  "level": 4
+ },
+ {
+  "hanzi": "汤",
+  "pinyin": "shāng",
+  "en": "rushing current",
+  "level": 4
+ },
+ {
+  "hanzi": "沙发",
+  "pinyin": "shā fā",
+  "en": "sofa (loanword); (Internet slang) the first reply or replier to a forum post",
+  "level": 4
+ },
+ {
+  "hanzi": "法律",
+  "pinyin": "fǎ lǜ",
+  "en": "law",
+  "level": 4
+ },
+ {
+  "hanzi": "活动",
+  "pinyin": "huó dòng",
+  "en": "to exercise; to move about; to work out; shaky; unsteady; loose (tooth etc); movable; flexible; liquid (capital etc)",
+  "level": 4
+ },
+ {
+  "hanzi": "活泼",
+  "pinyin": "huó po",
+  "en": "lively; vivacious; brisk",
+  "level": 4
+ },
+ {
+  "hanzi": "流利",
+  "pinyin": "líu lì",
+  "en": "fluent",
+  "level": 4
+ },
+ {
+  "hanzi": "流行",
+  "pinyin": "líu xíng",
+  "en": "(of a contagious disease etc) to spread; to propagate; (of a style of clothing, song etc) popular",
+  "level": 4
+ },
+ {
+  "hanzi": "浪漫",
+  "pinyin": "làng màn",
+  "en": "romantic",
+  "level": 4
+ },
+ {
+  "hanzi": "浪费",
+  "pinyin": "làng fèi",
+  "en": "to waste; to squander",
+  "level": 4
+ },
+ {
+  "hanzi": "海洋",
+  "pinyin": "hǎi yáng",
+  "en": "ocean",
+  "level": 4
+ },
+ {
+  "hanzi": "消息",
+  "pinyin": "xiāo xi",
+  "en": "(piece of) news; information; message",
+  "level": 4
+ },
+ {
+  "hanzi": "深",
+  "pinyin": "shēn",
+  "en": "deep (lit. and fig.)",
+  "level": 4
+ },
+ {
+  "hanzi": "温度",
+  "pinyin": "wēn dù",
+  "en": "temperature",
+  "level": 4
+ },
+ {
+  "hanzi": "满",
+  "pinyin": "Mǎn",
+  "en": "Manchu ethnic group",
+  "level": 4
+ },
+ {
+  "hanzi": "演出",
+  "pinyin": "yǎn chū",
+  "en": "to act (in a play); to perform; to put on (a performance)",
+  "level": 4
+ },
+ {
+  "hanzi": "演员",
+  "pinyin": "yǎn yuán",
+  "en": "actor; actress; performer",
+  "level": 4
+ },
+ {
+  "hanzi": "激动",
+  "pinyin": "jī dòng",
+  "en": "to move emotionally; to stir up (emotions); to excite",
+  "level": 4
+ },
+ {
+  "hanzi": "火",
+  "pinyin": "huǒ",
+  "en": "fire; urgent; ammunition",
+  "level": 4
+ },
+ {
+  "hanzi": "烤鸭",
+  "pinyin": "kǎo yā",
+  "en": "roast duck",
+  "level": 4
+ },
+ {
+  "hanzi": "烦恼",
+  "pinyin": "fán nǎo",
+  "en": "to be worried; to be distressed; worries",
+  "level": 4
+ },
+ {
+  "hanzi": "热闹",
+  "pinyin": "rè nao",
+  "en": "bustling with noise and excitement; lively",
+  "level": 4
+ },
+ {
+  "hanzi": "然而",
+  "pinyin": "rán ér",
+  "en": "however; but; yet",
+  "level": 4
+ },
+ {
+  "hanzi": "照",
+  "pinyin": "zhào",
+  "en": "according to; in accordance with; to shine",
+  "level": 4
+ },
+ {
+  "hanzi": "熟悉",
+  "pinyin": "shú xī",
+  "en": "to be familiar with; to know well",
+  "level": 4
+ },
+ {
+  "hanzi": "爱情",
+  "pinyin": "ài qíng",
+  "en": "romance; love (romantic)",
+  "level": 4
+ },
+ {
+  "hanzi": "父亲",
+  "pinyin": "fù qīn",
+  "en": "father; also pr.",
+  "level": 4
+ },
+ {
+  "hanzi": "牙膏",
+  "pinyin": "yá gāo",
+  "en": "toothpaste",
+  "level": 4
+ },
+ {
+  "hanzi": "特点",
+  "pinyin": "tè diǎn",
+  "en": "characteristic (feature); trait; feature",
+  "level": 4
+ },
+ {
+  "hanzi": "猜",
+  "pinyin": "cāi",
+  "en": "to guess",
+  "level": 4
+ },
+ {
+  "hanzi": "现金",
+  "pinyin": "xiàn jīn",
+  "en": "cash",
+  "level": 4
+ },
+ {
+  "hanzi": "理发",
+  "pinyin": "lǐ fà",
+  "en": "to get a haircut; to have one's hair done; to cut (sb's) hair; to give (sb) a haircut",
+  "level": 4
+ },
+ {
+  "hanzi": "理想",
+  "pinyin": "lǐ xiǎng",
+  "en": "an ideal; a dream; ideal",
+  "level": 4
+ },
+ {
+  "hanzi": "理解",
+  "pinyin": "lǐ jiě",
+  "en": "to comprehend; to understand",
+  "level": 4
+ },
+ {
+  "hanzi": "甚至",
+  "pinyin": "shèn zhì",
+  "en": "even; so much so that",
+  "level": 4
+ },
+ {
+  "hanzi": "生命",
+  "pinyin": "shēng mìng",
+  "en": "life (as the characteristic of living beings); living being; creature (",
+  "level": 4
+ },
+ {
+  "hanzi": "生意",
+  "pinyin": "shēng yì",
+  "en": "life force; vitality",
+  "level": 4
+ },
+ {
+  "hanzi": "生活",
+  "pinyin": "shēng huó",
+  "en": "to live; life; livelihood",
+  "level": 4
+ },
+ {
+  "hanzi": "由",
+  "pinyin": "yóu",
+  "en": "to follow; from; because of; due to",
+  "level": 4
+ },
+ {
+  "hanzi": "由于",
+  "pinyin": "yóu yú",
+  "en": "due to; as a result of; thanks to",
+  "level": 4
+ },
+ {
+  "hanzi": "申请",
+  "pinyin": "shēn qǐng",
+  "en": "to apply for sth; application form (",
+  "level": 4
+ },
+ {
+  "hanzi": "留",
+  "pinyin": "líu",
+  "en": "to leave (a message etc); to retain; to stay",
+  "level": 4
+ },
+ {
+  "hanzi": "登机牌",
+  "pinyin": "dēng jī pái",
+  "en": "boarding pass",
+  "level": 4
+ },
+ {
+  "hanzi": "百分之",
+  "pinyin": "bǎi fēn zhī",
+  "en": "percent",
+  "level": 4
+ },
+ {
+  "hanzi": "皮肤",
+  "pinyin": "pí fū",
+  "en": "skin",
+  "level": 4
+ },
+ {
+  "hanzi": "盐",
+  "pinyin": "yán",
+  "en": "salt",
+  "level": 4
+ },
+ {
+  "hanzi": "盒子",
+  "pinyin": "hé zi",
+  "en": "box; case; hezi – a savory turnover-like pie in northern Chinese and Mongolian cuisines",
+  "level": 4
+ },
+ {
+  "hanzi": "目的",
+  "pinyin": "mù dì",
+  "en": "purpose; aim; goal; target; objective",
+  "level": 4
+ },
+ {
+  "hanzi": "直接",
+  "pinyin": "zhí jiē",
+  "en": "direct (opposite: indirect 間接; immediate; straightforward",
+  "level": 4
+ },
+ {
+  "hanzi": "相反",
+  "pinyin": "xiāng fǎn",
+  "en": "opposite; contrary",
+  "level": 4
+ },
+ {
+  "hanzi": "相同",
+  "pinyin": "xiāng tóng",
+  "en": "identical; same",
+  "level": 4
+ },
+ {
+  "hanzi": "省",
+  "pinyin": "shěng",
+  "en": "to save; to economize; to be frugal; to omit; to delete; to leave out; province",
+  "level": 4
+ },
+ {
+  "hanzi": "看法",
+  "pinyin": "kàn fǎ",
+  "en": "way of looking at a thing; view; opinion",
+  "level": 4
+ },
+ {
+  "hanzi": "真正",
+  "pinyin": "zhēn zhèng",
+  "en": "genuine; real; true; really; indeed",
+  "level": 4
+ },
+ {
+  "hanzi": "眼镜",
+  "pinyin": "yǎn jìng",
+  "en": "spectacles; eyeglasses",
+  "level": 4
+ },
+ {
+  "hanzi": "知识",
+  "pinyin": "zhī shi",
+  "en": "knowledge; intellectual",
+  "level": 4
+ },
+ {
+  "hanzi": "短信",
+  "pinyin": "duǎn xìn",
+  "en": "text message; SMS",
+  "level": 4
+ },
+ {
+  "hanzi": "矿泉水",
+  "pinyin": "kuàng quán shuǐ",
+  "en": "mineral water",
+  "level": 4
+ },
+ {
+  "hanzi": "研究",
+  "pinyin": "yán jīu",
+  "en": "research; a study; to research",
+  "level": 4
+ },
+ {
+  "hanzi": "破",
+  "pinyin": "pò",
+  "en": "broken; damaged; worn out",
+  "level": 4
+ },
+ {
+  "hanzi": "硕士",
+  "pinyin": "shuò shì",
+  "en": "master's degree; person who has a master's degree; learned person",
+  "level": 4
+ },
+ {
+  "hanzi": "确实",
+  "pinyin": "què shí",
+  "en": "indeed; really; reliable",
+  "level": 4
+ },
+ {
+  "hanzi": "礼拜天",
+  "pinyin": "Lǐ bài tiān",
+  "en": "Sunday",
+  "level": 4
+ },
+ {
+  "hanzi": "礼貌",
+  "pinyin": "lǐ mào",
+  "en": "courtesy; politeness; manners; courteous; polite",
+  "level": 4
+ },
+ {
+  "hanzi": "社会",
+  "pinyin": "shè huì",
+  "en": "society",
+  "level": 4
+ },
+ {
+  "hanzi": "祝贺",
+  "pinyin": "zhù hè",
+  "en": "to congratulate; congratulations",
+  "level": 4
+ },
+ {
+  "hanzi": "禁止",
+  "pinyin": "jìn zhǐ",
+  "en": "to prohibit; to forbid; to ban",
+  "level": 4
+ },
+ {
+  "hanzi": "科学",
+  "pinyin": "kē xué",
+  "en": "science; scientific knowledge; scientific",
+  "level": 4
+ },
+ {
+  "hanzi": "秒",
+  "pinyin": "miǎo",
+  "en": "second (unit of time); arc second (angular measurement unit); (coll.) instantly",
+  "level": 4
+ },
+ {
+  "hanzi": "租",
+  "pinyin": "zū",
+  "en": "to hire; to rent; to charter",
+  "level": 4
+ },
+ {
+  "hanzi": "积极",
+  "pinyin": "jī jí",
+  "en": "active; energetic; vigorous",
+  "level": 4
+ },
+ {
+  "hanzi": "积累",
+  "pinyin": "jī lěi",
+  "en": "to accumulate; accumulation; cumulative",
+  "level": 4
+ },
+ {
+  "hanzi": "稍微",
+  "pinyin": "shāo wēi",
+  "en": "a little bit",
+  "level": 4
+ },
+ {
+  "hanzi": "究竟",
+  "pinyin": "jīu jìng",
+  "en": "to go to the bottom of a matter; after all; when all is said and done",
+  "level": 4
+ },
+ {
+  "hanzi": "穷",
+  "pinyin": "qíong",
+  "en": "poor; destitute; to use up",
+  "level": 4
+ },
+ {
+  "hanzi": "空",
+  "pinyin": "kōng",
+  "en": "empty; air; sky",
+  "level": 4
+ },
+ {
+  "hanzi": "空气",
+  "pinyin": "kōng qì",
+  "en": "air; atmosphere",
+  "level": 4
+ },
+ {
+  "hanzi": "窗户",
+  "pinyin": "chuāng hu",
+  "en": "window",
+  "level": 4
+ },
+ {
+  "hanzi": "竞争",
+  "pinyin": "jìng zhēng",
+  "en": "to compete; competition",
+  "level": 4
+ },
+ {
+  "hanzi": "竟然",
+  "pinyin": "jìng rán",
+  "en": "unexpectedly; to one's surprise; in spite of everything",
+  "level": 4
+ },
+ {
+  "hanzi": "笑话",
+  "pinyin": "xiào hua",
+  "en": "joke; jest (; to laugh at; to mock; ridiculous; absurd",
+  "level": 4
+ },
+ {
+  "hanzi": "符合",
+  "pinyin": "fú hé",
+  "en": "in accordance with; to agree with; to conform to; to meet (a requirement); (physics) coincidence",
+  "level": 4
+ },
+ {
+  "hanzi": "笨",
+  "pinyin": "bèn",
+  "en": "stupid; foolish; silly",
+  "level": 4
+ },
+ {
+  "hanzi": "答案",
+  "pinyin": "dá àn",
+  "en": "answer; solution",
+  "level": 4
+ },
+ {
+  "hanzi": "签证",
+  "pinyin": "qiān zhèng",
+  "en": "visa; to issue a visa",
+  "level": 4
+ },
+ {
+  "hanzi": "管理",
+  "pinyin": "guǎn lǐ",
+  "en": "to supervise; to manage; to administer",
+  "level": 4
+ },
+ {
+  "hanzi": "篇",
+  "pinyin": "piān",
+  "en": "sheet; piece of writing; bound set of bamboo slips used for record keeping (old)",
+  "level": 4
+ },
+ {
+  "hanzi": "粗心",
+  "pinyin": "cū xīn",
+  "en": "careless; thoughtless",
+  "level": 4
+ },
+ {
+  "hanzi": "精彩",
+  "pinyin": "jīng cǎi",
+  "en": "wonderful; marvelous; brilliant",
+  "level": 4
+ },
+ {
+  "hanzi": "糖",
+  "pinyin": "táng",
+  "en": "sugar; sweets; candy",
+  "level": 4
+ },
+ {
+  "hanzi": "紧张",
+  "pinyin": "jǐn zhāng",
+  "en": "nervous; keyed up; intense",
+  "level": 4
+ },
+ {
+  "hanzi": "约会",
+  "pinyin": "yuē huì",
+  "en": "appointment; engagement; date",
+  "level": 4
+ },
+ {
+  "hanzi": "经历",
+  "pinyin": "jīng lì",
+  "en": "to experience; to go through; experience (",
+  "level": 4
+ },
+ {
+  "hanzi": "经济",
+  "pinyin": "jīng jì",
+  "en": "economy; economic",
+  "level": 4
+ },
+ {
+  "hanzi": "经验",
+  "pinyin": "jīng yàn",
+  "en": "experience; to go through; to experience",
+  "level": 4
+ },
+ {
+  "hanzi": "结果",
+  "pinyin": "jiē guǒ",
+  "en": "to bear fruit",
+  "level": 4
+ },
+ {
+  "hanzi": "继续",
+  "pinyin": "jì xù",
+  "en": "to continue; to proceed with; to go on with",
+  "level": 4
+ },
+ {
+  "hanzi": "缺少",
+  "pinyin": "quē shǎo",
+  "en": "lack; shortage of; shortfall",
+  "level": 4
+ },
+ {
+  "hanzi": "缺点",
+  "pinyin": "quē diǎn",
+  "en": "weak point; fault; shortcoming",
+  "level": 4
+ },
+ {
+  "hanzi": "网球",
+  "pinyin": "wǎng qíu",
+  "en": "tennis; tennis ball",
+  "level": 4
+ },
+ {
+  "hanzi": "网站",
+  "pinyin": "wǎng zhàn",
+  "en": "website",
+  "level": 4
+ },
+ {
+  "hanzi": "美丽",
+  "pinyin": "měi lì",
+  "en": "beautiful",
+  "level": 4
+ },
+ {
+  "hanzi": "羡慕",
+  "pinyin": "xiàn mù",
+  "en": "to envy; to admire",
+  "level": 4
+ },
+ {
+  "hanzi": "羽毛球",
+  "pinyin": "yǔ máo qíu",
+  "en": "badminton; shuttlecock",
+  "level": 4
+ },
+ {
+  "hanzi": "翻译",
+  "pinyin": "fān yì",
+  "en": "to translate; to interpret; translator",
+  "level": 4
+ },
+ {
+  "hanzi": "老虎",
+  "pinyin": "lǎo hǔ",
+  "en": "tiger",
+  "level": 4
+ },
+ {
+  "hanzi": "考虑",
+  "pinyin": "kǎo lǜ",
+  "en": "to think over; to consider; consideration",
+  "level": 4
+ },
+ {
+  "hanzi": "而",
+  "pinyin": "ér",
+  "en": "and; as well as; and so",
+  "level": 4
+ },
+ {
+  "hanzi": "耐心",
+  "pinyin": "nài xīn",
+  "en": "to be patient; patience",
+  "level": 4
+ },
+ {
+  "hanzi": "职业",
+  "pinyin": "zhí yè",
+  "en": "occupation; profession; vocation; professional",
+  "level": 4
+ },
+ {
+  "hanzi": "联系",
+  "pinyin": "lián xì",
+  "en": "connection; contact; relation",
+  "level": 4
+ },
+ {
+  "hanzi": "聚会",
+  "pinyin": "jù huì",
+  "en": "party; gathering; to meet",
+  "level": 4
+ },
+ {
+  "hanzi": "肚子",
+  "pinyin": "dù zi",
+  "en": "belly; abdomen; stomach",
+  "level": 4
+ },
+ {
+  "hanzi": "肯定",
+  "pinyin": "kěn dìng",
+  "en": "to be certain; to be positive; assuredly; definitely; to give recognition; to affirm",
+  "level": 4
+ },
+ {
+  "hanzi": "胳膊",
+  "pinyin": "gē bo",
+  "en": "arm",
+  "level": 4
+ },
+ {
+  "hanzi": "能力",
+  "pinyin": "néng lì",
+  "en": "capability; ability",
+  "level": 4
+ },
+ {
+  "hanzi": "脏",
+  "pinyin": "zàng",
+  "en": "viscera; (anatomy) organ",
+  "level": 4
+ },
+ {
+  "hanzi": "脱",
+  "pinyin": "tuō",
+  "en": "to shed; to take off; to escape",
+  "level": 4
+ },
+ {
+  "hanzi": "脾气",
+  "pinyin": "pí qi",
+  "en": "character; temperament; disposition; bad temper",
+  "level": 4
+ },
+ {
+  "hanzi": "自信",
+  "pinyin": "zì xìn",
+  "en": "to have confidence in oneself; self-confidence",
+  "level": 4
+ },
+ {
+  "hanzi": "自然",
+  "pinyin": "zì rán",
+  "en": "nature; natural; naturally",
+  "level": 4
+ },
+ {
+  "hanzi": "至少",
+  "pinyin": "zhì shǎo",
+  "en": "at least; (to say the) least",
+  "level": 4
+ },
+ {
+  "hanzi": "航班",
+  "pinyin": "háng bān",
+  "en": "(scheduled) flight; (scheduled) sailing",
+  "level": 4
+ },
+ {
+  "hanzi": "艺术",
+  "pinyin": "yì shù",
+  "en": "art",
+  "level": 4
+ },
+ {
+  "hanzi": "节",
+  "pinyin": "jié",
+  "en": "joint; node; section; segment; solar term (one of the 24 divisions of the year in the traditional Chinese calendar)",
+  "level": 4
+ },
+ {
+  "hanzi": "节约",
+  "pinyin": "jié yuē",
+  "en": "to economize; to conserve (resources); economy",
+  "level": 4
+ },
+ {
+  "hanzi": "苦",
+  "pinyin": "kǔ",
+  "en": "bitter; hardship; pain",
+  "level": 4
+ },
+ {
+  "hanzi": "获得",
+  "pinyin": "huò dé",
+  "en": "to obtain; to receive; to get",
+  "level": 4
+ },
+ {
+  "hanzi": "著名",
+  "pinyin": "zhù míng",
+  "en": "famous; noted; well-known",
+  "level": 4
+ },
+ {
+  "hanzi": "葡萄",
+  "pinyin": "pú tao",
+  "en": "grape",
+  "level": 4
+ },
+ {
+  "hanzi": "行",
+  "pinyin": "háng",
+  "en": "row; line; line of business; trade; profession; commercial firm",
+  "level": 4
+ },
+ {
+  "hanzi": "表扬",
+  "pinyin": "biǎo yáng",
+  "en": "to praise; to commend",
+  "level": 4
+ },
+ {
+  "hanzi": "表格",
+  "pinyin": "biǎo gé",
+  "en": "form; table",
+  "level": 4
+ },
+ {
+  "hanzi": "表演",
+  "pinyin": "biǎo yǎn",
+  "en": "play; show; performance",
+  "level": 4
+ },
+ {
+  "hanzi": "表示",
+  "pinyin": "biǎo shì",
+  "en": "(of sb) to express; to state; to show; (of sth) to indicate; to signify; to show; expression; manifestation",
+  "level": 4
+ },
+ {
+  "hanzi": "袜子",
+  "pinyin": "wà zi",
+  "en": "socks; stockings",
+  "level": 4
+ },
+ {
+  "hanzi": "西红柿",
+  "pinyin": "xī hóng shì",
+  "en": "tomato",
+  "level": 4
+ },
+ {
+  "hanzi": "要是",
+  "pinyin": "yào shi",
+  "en": "(coll.) if",
+  "level": 4
+ },
+ {
+  "hanzi": "观众",
+  "pinyin": "guān zhòng",
+  "en": "spectators; audience; visitors (to an exhibition etc)",
+  "level": 4
+ },
+ {
+  "hanzi": "规定",
+  "pinyin": "guī dìng",
+  "en": "to stipulate; to specify; to prescribe; to fix (a price); to set (a quota); regulations; rules; provisions; stipulations",
+  "level": 4
+ },
+ {
+  "hanzi": "解释",
+  "pinyin": "jiě shì",
+  "en": "explanation; to explain; to interpret",
+  "level": 4
+ },
+ {
+  "hanzi": "警察",
+  "pinyin": "jǐng chá",
+  "en": "police; police officer",
+  "level": 4
+ },
+ {
+  "hanzi": "计划",
+  "pinyin": "jì huà",
+  "en": "plan; project; program",
+  "level": 4
+ },
+ {
+  "hanzi": "讨厌",
+  "pinyin": "tǎo yàn",
+  "en": "to dislike; to loathe; disagreeable",
+  "level": 4
+ },
+ {
+  "hanzi": "讨论",
+  "pinyin": "tǎo lùn",
+  "en": "to discuss; to talk over",
+  "level": 4
+ },
+ {
+  "hanzi": "记者",
+  "pinyin": "jì zhě",
+  "en": "reporter; journalist",
+  "level": 4
+ },
+ {
+  "hanzi": "许多",
+  "pinyin": "xǔ duō",
+  "en": "many; a lot of; much",
+  "level": 4
+ },
+ {
+  "hanzi": "证明",
+  "pinyin": "zhèng míng",
+  "en": "proof; certificate; identification",
+  "level": 4
+ },
+ {
+  "hanzi": "词语",
+  "pinyin": "cí yǔ",
+  "en": "word (general term including monosyllables through to short phrases); term (e.g. technical term); expression",
+  "level": 4
+ },
+ {
+  "hanzi": "诚实",
+  "pinyin": "chéng shí",
+  "en": "honest",
+  "level": 4
+ },
+ {
+  "hanzi": "详细",
+  "pinyin": "xiáng xì",
+  "en": "detailed; in detail; minute",
+  "level": 4
+ },
+ {
+  "hanzi": "语法",
+  "pinyin": "yǔ fǎ",
+  "en": "grammar",
+  "level": 4
+ },
+ {
+  "hanzi": "语言",
+  "pinyin": "yǔ yán",
+  "en": "language",
+  "level": 4
+ },
+ {
+  "hanzi": "误会",
+  "pinyin": "wù huì",
+  "en": "to misunderstand; to mistake; misunderstanding",
+  "level": 4
+ },
+ {
+  "hanzi": "说明",
+  "pinyin": "shuō míng",
+  "en": "to explain; to illustrate; to indicate",
+  "level": 4
+ },
+ {
+  "hanzi": "调查",
+  "pinyin": "diào chá",
+  "en": "investigation; inquiry; to investigate",
+  "level": 4
+ },
+ {
+  "hanzi": "谈",
+  "pinyin": "tán",
+  "en": "to speak; to talk; to converse",
+  "level": 4
+ },
+ {
+  "hanzi": "负责",
+  "pinyin": "fù zé",
+  "en": "to be responsible for; to be in charge of; to bear responsibility for; conscientious",
+  "level": 4
+ },
+ {
+  "hanzi": "责任",
+  "pinyin": "zé rèn",
+  "en": "responsibility; blame; duty",
+  "level": 4
+ },
+ {
+  "hanzi": "质量",
+  "pinyin": "zhì liàng",
+  "en": "(physics) mass; quality (i.e. degree of excellence); quality and quantity",
+  "level": 4
+ },
+ {
+  "hanzi": "购物",
+  "pinyin": "gòu wù",
+  "en": "shopping",
+  "level": 4
+ },
+ {
+  "hanzi": "赚",
+  "pinyin": "zhuàn",
+  "en": "to earn; to make a profit",
+  "level": 4
+ },
+ {
+  "hanzi": "赢",
+  "pinyin": "yíng",
+  "en": "to beat; to win; to profit",
+  "level": 4
+ },
+ {
+  "hanzi": "赶",
+  "pinyin": "gǎn",
+  "en": "to overtake; to catch up with; to hurry; to rush; to try to catch (the bus etc)",
+  "level": 4
+ },
+ {
+  "hanzi": "超过",
+  "pinyin": "chāo guò",
+  "en": "to surpass; to exceed; to outstrip",
+  "level": 4
+ },
+ {
+  "hanzi": "趟",
+  "pinyin": "tāng",
+  "en": "to wade; to trample; to turn the soil",
+  "level": 4
+ },
+ {
+  "hanzi": "距离",
+  "pinyin": "jù lí",
+  "en": "distance; to be apart from",
+  "level": 4
+ },
+ {
+  "hanzi": "躺",
+  "pinyin": "tǎng",
+  "en": "to recline; to lie down",
+  "level": 4
+ },
+ {
+  "hanzi": "转",
+  "pinyin": "zhuǎn",
+  "en": "to turn; to change direction; to transfer",
+  "level": 4
+ },
+ {
+  "hanzi": "轻",
+  "pinyin": "qīng",
+  "en": "light; easy; gentle",
+  "level": 4
+ },
+ {
+  "hanzi": "轻松",
+  "pinyin": "qīng sōng",
+  "en": "light; gentle; relaxed",
+  "level": 4
+ },
+ {
+  "hanzi": "输",
+  "pinyin": "shū",
+  "en": "to lose; to be beaten; to transport; (literary) to donate; to contribute",
+  "level": 4
+ },
+ {
+  "hanzi": "辛苦",
+  "pinyin": "xīn kǔ",
+  "en": "exhausting; hard; tough",
+  "level": 4
+ },
+ {
+  "hanzi": "辣",
+  "pinyin": "là",
+  "en": "hot (spicy); pungent; (of chili pepper, raw onions etc) to sting",
+  "level": 4
+ },
+ {
+  "hanzi": "过程",
+  "pinyin": "guò chéng",
+  "en": "course of events; process",
+  "level": 4
+ },
+ {
+  "hanzi": "进行",
+  "pinyin": "jìn xíng",
+  "en": "(of a process etc) to proceed; to be in progress; to be underway; (of people) to carry out; to conduct (an investigation or discussion etc); (of an army etc) to be on the march; to advance",
+  "level": 4
+ },
+ {
+  "hanzi": "连",
+  "pinyin": "lián",
+  "en": "to link; to join; to connect",
+  "level": 4
+ },
+ {
+  "hanzi": "迷路",
+  "pinyin": "mí lù",
+  "en": "to lose the way; lost; labyrinth",
+  "level": 4
+ },
+ {
+  "hanzi": "适合",
+  "pinyin": "shì hé",
+  "en": "to fit; to suit",
+  "level": 4
+ },
+ {
+  "hanzi": "适应",
+  "pinyin": "shì yìng",
+  "en": "to adapt; to fit; to suit",
+  "level": 4
+ },
+ {
+  "hanzi": "通知",
+  "pinyin": "tōng zhī",
+  "en": "to notify; to inform; notice",
+  "level": 4
+ },
+ {
+  "hanzi": "通过",
+  "pinyin": "tōng guò",
+  "en": "to pass through; to get through; to adopt (a resolution); to pass (legislation); to pass (a test)",
+  "level": 4
+ },
+ {
+  "hanzi": "逛",
+  "pinyin": "guàng",
+  "en": "to stroll; to visit",
+  "level": 4
+ },
+ {
+  "hanzi": "速度",
+  "pinyin": "sù dù",
+  "en": "speed; rate; velocity",
+  "level": 4
+ },
+ {
+  "hanzi": "遍",
+  "pinyin": "biàn",
+  "en": "everywhere; all over; classifier for actions: one time",
+  "level": 4
+ },
+ {
+  "hanzi": "道歉",
+  "pinyin": "dào qiàn",
+  "en": "to apologize",
+  "level": 4
+ },
+ {
+  "hanzi": "邀请",
+  "pinyin": "yāo qǐng",
+  "en": "to invite; invitation",
+  "level": 4
+ },
+ {
+  "hanzi": "邮局",
+  "pinyin": "yóu jú",
+  "en": "post office",
+  "level": 4
+ },
+ {
+  "hanzi": "郊区",
+  "pinyin": "Jiāo Qū",
+  "en": "Jiao District or Jiaoqu, a district of Tongling City 銅陵市; Jiao District or Jiaoqu, a district of Jiamusi City 佳木斯市, Heilongjiang; Jiao District or Jiaoqu, a district of Yangquan City 陽泉市",
+  "level": 4
+ },
+ {
+  "hanzi": "部分",
+  "pinyin": "bù fen",
+  "en": "part; portion; piece; Taiwan pr.",
+  "level": 4
+ },
+ {
+  "hanzi": "酸",
+  "pinyin": "suān",
+  "en": "sour; tart; sick at heart",
+  "level": 4
+ },
+ {
+  "hanzi": "醒",
+  "pinyin": "xǐng",
+  "en": "to wake up; to be awake; to become aware",
+  "level": 4
+ },
+ {
+  "hanzi": "重",
+  "pinyin": "chóng",
+  "en": "to repeat; repetition; again",
+  "level": 4
+ },
+ {
+  "hanzi": "重新",
+  "pinyin": "chóng xīn",
+  "en": "again; once more; re-",
+  "level": 4
+ },
+ {
+  "hanzi": "重点",
+  "pinyin": "chóng diǎn",
+  "en": "to recount (e.g. results of election); to re-evaluate",
+  "level": 4
+ },
+ {
+  "hanzi": "重视",
+  "pinyin": "zhòng shì",
+  "en": "to attach importance to sth; to value",
+  "level": 4
+ },
+ {
+  "hanzi": "钥匙",
+  "pinyin": "yào shi",
+  "en": "key",
+  "level": 4
+ },
+ {
+  "hanzi": "错误",
+  "pinyin": "cuò wù",
+  "en": "mistaken; false; wrong; error; mistake",
+  "level": 4
+ },
+ {
+  "hanzi": "镜子",
+  "pinyin": "jìng zi",
+  "en": "mirror",
+  "level": 4
+ },
+ {
+  "hanzi": "长城",
+  "pinyin": "Cháng chéng",
+  "en": "the Great Wall",
+  "level": 4
+ },
+ {
+  "hanzi": "长江",
+  "pinyin": "Cháng Jiāng",
+  "en": "Yangtze River, or Chang Jiang",
+  "level": 4
+ },
+ {
+  "hanzi": "阅读",
+  "pinyin": "yuè dú",
+  "en": "to read; reading",
+  "level": 4
+ },
+ {
+  "hanzi": "阳光",
+  "pinyin": "yáng guāng",
+  "en": "sunshine; (of personality) upbeat; energetic; transparent (open to public scrutiny)",
+  "level": 4
+ },
+ {
+  "hanzi": "降低",
+  "pinyin": "jiàng dī",
+  "en": "to reduce; to lower; to bring down",
+  "level": 4
+ },
+ {
+  "hanzi": "降落",
+  "pinyin": "jiàng luò",
+  "en": "to descend; to land",
+  "level": 4
+ },
+ {
+  "hanzi": "陪",
+  "pinyin": "péi",
+  "en": "to accompany; to keep sb company; to assist",
+  "level": 4
+ },
+ {
+  "hanzi": "随便",
+  "pinyin": "suí biàn",
+  "en": "as one wishes; as one pleases; at random",
+  "level": 4
+ },
+ {
+  "hanzi": "随着",
+  "pinyin": "suí zhe",
+  "en": "along with; in the wake of; following",
+  "level": 4
+ },
+ {
+  "hanzi": "难受",
+  "pinyin": "nán shòu",
+  "en": "to feel unwell; to suffer pain; to be difficult to bear",
+  "level": 4
+ },
+ {
+  "hanzi": "难道",
+  "pinyin": "nán dào",
+  "en": "don't tell me ...; could it be that...?",
+  "level": 4
+ },
+ {
+  "hanzi": "零钱",
+  "pinyin": "líng qián",
+  "en": "change (of money); small change; pocket money",
+  "level": 4
+ },
+ {
+  "hanzi": "页",
+  "pinyin": "xié",
+  "en": "head",
+  "level": 4
+ },
+ {
+  "hanzi": "顺便",
+  "pinyin": "shùn biàn",
+  "en": "conveniently; in passing; without much extra effort",
+  "level": 4
+ },
+ {
+  "hanzi": "顺利",
+  "pinyin": "shùn lì",
+  "en": "smoothly; without a hitch",
+  "level": 4
+ },
+ {
+  "hanzi": "顺序",
+  "pinyin": "shùn xù",
+  "en": "sequence; order",
+  "level": 4
+ },
+ {
+  "hanzi": "顾客",
+  "pinyin": "gù kè",
+  "en": "customer; client",
+  "level": 4
+ },
+ {
+  "hanzi": "预习",
+  "pinyin": "yù xí",
+  "en": "to prepare a lesson",
+  "level": 4
+ },
+ {
+  "hanzi": "餐厅",
+  "pinyin": "cān tīng",
+  "en": "dining hall; dining room; restaurant",
+  "level": 4
+ },
+ {
+  "hanzi": "饺子",
+  "pinyin": "jiǎo zi",
+  "en": "dumpling; pot-sticker",
+  "level": 4
+ },
+ {
+  "hanzi": "饼干",
+  "pinyin": "bǐng gān",
+  "en": "biscuit; cracker; cookie",
+  "level": 4
+ },
+ {
+  "hanzi": "首先",
+  "pinyin": "shǒu xiān",
+  "en": "first (of all); in the first place",
+  "level": 4
+ },
+ {
+  "hanzi": "首都",
+  "pinyin": "shǒu dū",
+  "en": "capital (city)",
+  "level": 4
+ },
+ {
+  "hanzi": "香",
+  "pinyin": "xiāng",
+  "en": "fragrant; sweet smelling; aromatic",
+  "level": 4
+ },
+ {
+  "hanzi": "马虎",
+  "pinyin": "mǎ hu",
+  "en": "careless; sloppy; negligent",
+  "level": 4
+ },
+ {
+  "hanzi": "骄傲",
+  "pinyin": "jiāo ào",
+  "en": "pride; arrogance; conceited",
+  "level": 4
+ },
+ {
+  "hanzi": "骗",
+  "pinyin": "piàn",
+  "en": "to cheat; to swindle; to deceive",
+  "level": 4
+ },
+ {
+  "hanzi": "高速公路",
+  "pinyin": "gāo sù gōng lù",
+  "en": "expressway; highway; freeway",
+  "level": 4
+ },
+ {
+  "hanzi": "麻烦",
+  "pinyin": "má fan",
+  "en": "trouble; inconvenience; inconvenient; troublesome; annoying; to bother sb; to put sb to trouble",
+  "level": 4
+ },
+ {
+  "hanzi": "鼓励",
+  "pinyin": "gǔ lì",
+  "en": "to encourage",
+  "level": 4
+ }
+]

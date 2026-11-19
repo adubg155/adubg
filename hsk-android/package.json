@@ -1,0 +1,19 @@
+{
+  "name": "hsk-android",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Đóng gói ứng dụng HSK 1–4 thành APK bằng Capacitor",
+  "scripts": {
+    "sync-www": "node scripts/sync-www.mjs",
+    "cap:sync": "node scripts/sync-www.mjs && npx cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/android": "8.6.2",
+    "@capacitor/app": "8.1.2",
+    "@capacitor/core": "8.6.2"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "8.6.2"
+  }
+}

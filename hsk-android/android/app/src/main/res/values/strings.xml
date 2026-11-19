@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">HSK Ôn tập</string>
+    <string name="title_activity_main">HSK Ôn tập</string>
+    <string name="package_name">vn.hsk.review</string>
+    <string name="custom_url_scheme">vn.hsk.review</string>
+</resources>

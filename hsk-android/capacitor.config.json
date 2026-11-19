@@ -1,0 +1,10 @@
+{
+  "appId": "vn.hsk.review",
+  "appName": "HSK Ôn tập",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": false,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": false
+  }
+}
