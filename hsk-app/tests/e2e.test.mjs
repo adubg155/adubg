@@ -338,3 +338,76 @@ test("the English-meaning setting hides and shows English on the review card", a
   assert.deepEqual(page.errors, []);
   await page.context().close();
 });
+
+// ---------- v2.1.2: no "undefined", stacked sheet, press and hold ----------
+
+async function holdFor(page, locator, ms) {
+  const box = await locator.boundingBox();
+  const x = box.x + box.width / 2;
+  const y = box.y + box.height / 2;
+  await page.mouse.move(x, y);
+  await page.mouse.down();
+  await page.waitForTimeout(ms);
+  await page.mouse.up();
+}
+
+test("no list shows the word 'undefined'", async () => {
+  const page = await open("#/hsk/3.0/3");
+  assert.doesNotMatch(await appText(page), /undefined/);
+  await go(page, "#/chars");
+  assert.doesNotMatch(await appText(page), /undefined/);
+  await go(page, "#/practice");
+  await page.click('[data-action="practice"][data-mode="match"]').catch(() => {});
+  assert.doesNotMatch(await appText(page), /undefined/);
+  await page.context().close();
+});
+
+test("tapping a word in an example sentence opens it in the sheet and back returns", async () => {
+  const page = await open("#/chars");
+  await page.click('[data-action="chars-level"][data-level="1"]');
+  await page.locator(".char-cell", { hasText: "三" }).first().click();
+  await page.waitForSelector("#sheet:not([hidden]) .sheet-hz");
+  const first = await page.locator("#sheet .sheet-hz").innerText();
+  const inSentence = page.locator('#sheet .sent-zh [data-action="lookup-in-sheet"]').first();
+  if (!(await inSentence.count())) { await page.context().close(); return; }
+  const next = (await inSentence.innerText()).trim();
+  await inSentence.click();
+  assert.equal((await page.locator("#sheet .sheet-hz").innerText()).trim(), next, "opened the tapped word");
+  await page.click('#sheet [data-action="sheet-back"]');
+  assert.equal((await page.locator("#sheet .sheet-hz").innerText()).trim(), first.trim(), "back to the first word");
+  await page.context().close();
+});
+
+test("holding a word for 2.5 s shows its card; a short tap does not", async () => {
+  const page = await open("#/hsk/3.0/1");
+  const row = page.locator(".word-row").first();
+  await holdFor(page, row, 400);
+  assert.equal(await page.locator("#peek").count(), 0, "short tap: no card");
+  // A short tap opens the word sheet, which covers the list; close it before the long press.
+  await page.click('#sheet [data-action="close-sheet"]').catch(() => {});
+  await page.waitForTimeout(300);
+  await holdFor(page, row, 2500);
+  await page.waitForSelector("#peek");
+  assert.ok((await page.locator("#peek .pinyin").innerText()).length > 0);
+  assert.equal(await page.locator("#editor").count(), 0, "no editor yet");
+  await page.context().close();
+});
+
+test("holding a word for 5.5 s opens the editor; a saved meaning survives reload", async () => {
+  const page = await open("#/hsk/3.0/1");
+  const row = page.locator(".word-row").first();
+  const hanzi = await row.locator(".hz").innerText();
+  await holdFor(page, row, 5500);
+  await page.waitForSelector("#editor");
+  await page.fill("#editor-text", "thử nghiệm");
+  await page.click("#editor-save");
+  await page.waitForTimeout(200);
+  const s = await stored(page);
+  assert.equal(s.customMeanings[hanzi], "thử nghiệm");
+  await page.reload();
+  await page.waitForSelector(".word-row");
+  const saved = page.locator(".word-row", { hasText: hanzi }).first();
+  assert.match(await saved.innerText(), /thử nghiệm/);
+  assert.deepEqual(page.errors, []);
+  await page.context().close();
+});

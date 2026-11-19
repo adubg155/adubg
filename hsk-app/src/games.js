@@ -19,7 +19,9 @@ export function shortMeaning(meaning, max = 36) {
 
 // Matching game: tap a hanzi, then its meaning. Wrong taps on a word lower its rating.
 export function renderMatch(root, pool, grade, onDone) {
-  const round = shuffle(pool).slice(0, MATCH_ROUND_SIZE);
+  const withVi = pool.filter((w) => w.meaningVi);
+  const usable = withVi.length >= MATCH_ROUND_SIZE ? withVi : pool;
+  const round = shuffle(usable).slice(0, MATCH_ROUND_SIZE);
   const wrongTaps = new Map();
   const matched = new Set();
   let selected = null;
@@ -38,7 +40,7 @@ export function renderMatch(root, pool, grade, onDone) {
     });
     const right = rightOrder.map((w) => {
       const classes = ["tile", "meaning", matched.has(w.id) ? "done" : ""].join(" ");
-      return `<button class="${classes}" data-action="match-right" data-id="${esc(w.id)}" ${matched.has(w.id) ? "disabled" : ""}>${esc(shortMeaning(w.meaningVi, 40))}</button>`;
+      return `<button class="${classes}" data-action="match-right" data-id="${esc(w.id)}" ${matched.has(w.id) ? "disabled" : ""}>${esc(shortMeaning(w.meaningVi || w.meaning, 40))}</button>`;
     });
     root.innerHTML = `
       <p class="hint">Chạm hán tự, rồi chạm đúng nghĩa.</p>

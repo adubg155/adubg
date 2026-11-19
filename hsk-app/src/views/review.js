@@ -103,7 +103,7 @@ export function viewReview() {
     app.innerHTML = `
       <div class="progress-line">${position}</div>
       <section class="card study">
-        <div class="big-hanzi">${esc(word.hanzi)}</div>
+        <div class="big-hanzi" data-word="${esc(word.hanzi)}">${esc(word.hanzi)}</div>
         <p class="muted">Bạn có nhớ cách đọc và nghĩa không?</p>
         <label class="field">Gõ pinyin (không cần dấu thanh)
           <input id="typed" type="text" autocomplete="off" autocapitalize="off" spellcheck="false">
@@ -119,9 +119,9 @@ export function viewReview() {
   app.innerHTML = `
     <div class="progress-line">${position}</div>
     <section class="card study">
-      <div class="big-hanzi">${esc(word.hanzi)}</div>
+      <div class="big-hanzi" data-word="${esc(word.hanzi)}">${esc(word.hanzi)}</div>
       <div class="pinyin">${esc(word.pinyin)}</div>
-      <div class="meaning">${esc(word.meaningVi)}</div>
+      ${word.meaningVi ? `<div class="meaning">${esc(word.meaningVi)}</div>` : ""}
       ${word.meaning ? `<div class="meaning-en">${esc(word.meaning)}</div>` : ""}
       <div class="meta">${metaLine(word)}</div>
       ${typedOk === null ? "" : `<p class="${typedOk ? "ok" : "bad"}">Bạn gõ: ${esc(session.typed)} — ${typedOk ? "đúng" : "chưa đúng"}</p>`}
@@ -156,9 +156,9 @@ export function viewPlacement() {
   app.innerHTML = `
     <div class="progress-line">Kiểm tra nhanh HSK ${placement.level} · ${placement.index + 1} / ${placement.queue.length}</div>
     <section class="card study">
-      <div class="big-hanzi">${esc(word.hanzi)}</div>
+      <div class="big-hanzi" data-word="${esc(word.hanzi)}">${esc(word.hanzi)}</div>
       ${placement.revealed
-        ? `<div class="pinyin">${esc(word.pinyin)}</div><div class="meaning">${esc(word.meaningVi)}</div>`
+        ? `<div class="pinyin">${esc(word.pinyin)}</div>${word.meaningVi ? `<div class="meaning">${esc(word.meaningVi)}</div>` : ""}<div class="meaning-en">${esc(word.meaning)}</div>`
         : `<p class="muted">Bạn có biết từ này không?</p>`}
     </section>
     ${placement.revealed

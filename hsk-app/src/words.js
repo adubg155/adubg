@@ -19,8 +19,8 @@ export function adaptWord(raw, track) {
     pinyin: raw.p,
     level: raw.l ?? null,
     pos: raw.pos ?? "",
-    meaning: raw.en,
-    meaningVi: raw.vi,
+    meaning: raw.en || "",
+    meaningVi: raw.vi || "",
   };
 }
 

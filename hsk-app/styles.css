@@ -508,3 +508,26 @@ body[data-en="off"] .meaning-en { display: none; }
   min-height: 48px; margin: 12px 0; font-weight: 600;
 }
 .switch-row input { width: 22px; height: 22px; }
+
+/* ---------- v2.1.2: press and hold (peek card, meaning editor), word sheet back button ---------- */
+.peek {
+  position: fixed; left: 50%; bottom: 24px; transform: translateX(-50%); z-index: 20;
+  width: min(92vw, 360px); padding: 16px 18px; border-radius: 16px;
+  background: var(--surface); border: 1px solid var(--border); box-shadow: 0 8px 28px rgba(0, 0, 0, 0.3);
+  text-align: center; animation: peek-in 0.15s ease-out;
+}
+.peek-hz { font-size: 44px; line-height: 1.2; font-family: "HSK Han", "Noto Sans SC", system-ui, sans-serif; }
+@keyframes peek-in { from { opacity: 0; transform: translate(-50%, 8px); } to { opacity: 1; transform: translate(-50%, 0); } }
+
+.editor {
+  position: fixed; inset: 0; z-index: 30; background: rgba(0, 0, 0, 0.45);
+  display: flex; align-items: flex-end; justify-content: center;
+}
+.editor-card {
+  width: 100%; max-width: 560px; background: var(--surface); border-radius: 20px 20px 0 0;
+  padding: 18px 18px calc(18px + env(safe-area-inset-bottom));
+}
+.editor-card textarea {
+  width: 100%; font-size: 17px; border-radius: 12px; border: 1px solid var(--border);
+  background: var(--bg); color: var(--fg); padding: 10px 12px; margin: 8px 0;
+}

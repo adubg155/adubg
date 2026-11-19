@@ -10,9 +10,9 @@ import { cardOf, canSpeak } from "./core.js";
 
 export { esc };
 
-export function zhHtml(text) {
+export function zhHtml(text, action = "lookup") {
   return segment(text, data.dict).map((t) => (t.kind === "han" && t.known
-    ? `<span class="w" data-action="lookup" data-word="${esc(t.text)}">${esc(t.text)}</span>`
+    ? `<span class="w" data-action="${action}" data-word="${esc(t.text)}">${esc(t.text)}</span>`
     : esc(t.text))).join("");
 }
 
@@ -22,11 +22,11 @@ export function speakButton(text) {
     : "";
 }
 
-export function sentenceHtml(s, { role } = {}) {
+export function sentenceHtml(s, { role, action } = {}) {
   return `
     <div class="sent${role ? ` bubble bubble-${role === "A" ? "a" : "b"}` : ""}">
       ${role ? `<span class="who">${esc(role)}</span>` : ""}
-      <div class="sent-zh">${zhHtml(s.zh)} ${speakButton(s.zh)}</div>
+      <div class="sent-zh">${zhHtml(s.zh, action)} ${speakButton(s.zh)}</div>
       ${s.p ? `<div class="sent-py">${esc(s.p)}</div>` : ""}
       ${s.vi ? `<div class="sent-vi">${esc(s.vi)}</div>` : ""}
     </div>`;
@@ -76,7 +76,7 @@ export function wordRows(words) {
       <span class="dot ${status.cls}" title="${status.label}"></span>
       <span class="hz">${esc(w.hanzi)}</span>
       <span class="py">${esc(w.pinyin)}</span>
-      <span class="vi">${esc(w.meaningVi)}</span>
+      <span class="vi">${w.meaningVi ? esc(w.meaningVi) : `<span class="meaning-en">${esc(w.meaning || "")}</span>`}</span>
     </li>`;
   }).join("")}</ul>`;
 }
@@ -143,7 +143,7 @@ function whereLabel(entry) {
 }
 
 // Bottom sheet shown when a word is tapped anywhere in the app.
-export function wordSheetHtml(h) {
+export function wordSheetHtml(h, stackDepth = 0) {
   const entry = data.lookup.get(h);
   if (!entry) return "";
   const cardId = cardIdForWord(entry);
@@ -153,14 +153,17 @@ export function wordSheetHtml(h) {
     <div class="sheet-body" role="dialog" aria-label="${esc(h)}">
       <div class="row between">
         <div><span class="sheet-hz">${esc(h)}</span> ${speakButton(h)}</div>
-        <button class="icon-btn" data-action="close-sheet" aria-label="Đóng">✕</button>
+        <div class="row">
+          ${stackDepth > 0 ? `<button class="icon-btn" data-action="sheet-back" aria-label="Quay lại">‹</button>` : ""}
+          <button class="icon-btn" data-action="close-sheet" aria-label="Đóng">✕</button>
+        </div>
       </div>
       <div class="pinyin">${esc(entry.p || "")}</div>
-      <div class="meaning">${esc(entry.vi || "")}</div>
+      ${entry.vi ? `<div class="meaning">${esc(entry.vi)}</div>` : `<p class="small muted">Chưa có nghĩa tiếng Việt. Giữ từ này 5 giây để thêm.</p>`}
       ${entry.en ? `<div class="meaning-en">${esc(entry.en)}</div>` : ""}
       ${entry.main && entry.main !== h ? `<p class="small muted">Cách nói khác của ${esc(entry.main)}</p>` : ""}
       <p class="small">${whereLabel(entry) || `<span class="muted">Từ thông dụng, chưa có trong bộ thẻ</span>`}</p>
-      ${examples.length ? `<h3>Có trong câu</h3>${examples.map((s) => sentenceHtml(s)).join("")}` : ""}
+      ${examples.length ? `<h3>Có trong câu</h3>${examples.map((s) => sentenceHtml(s, { action: "lookup-in-sheet" })).join("")}` : ""}
       <div class="actions row">
         ${cardId && status ? `<span class="badge"><span class="dot ${status.cls}"></span>${status.label}</span>` : ""}
         ${cardId && cardOf(cardId).isNew ? `<button class="primary" data-action="queue-word" data-id="${esc(cardId)}">+ Thêm vào ôn</button>` : ""}

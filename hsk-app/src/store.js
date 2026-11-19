@@ -56,8 +56,19 @@ export function migrateCardKeys(cards) {
   return out;
 }
 
+// Vietnamese meanings the learner typed in (long-press a word for 5 s). Keyed by hanzi.
+export function cleanCustomMeanings(value) {
+  if (!value || typeof value !== "object" || Array.isArray(value)) return {};
+  const out = {};
+  for (const [hanzi, meaning] of Object.entries(value)) {
+    if (typeof meaning === "string" && meaning.trim()) out[hanzi] = meaning.trim().slice(0, 200);
+  }
+  return out;
+}
+
 export function emptyState() {
   return {
+    customMeanings: {},
     cards: {},
     daily: { date: "", newCount: 0, reviewCount: 0 },
     settings: { ...DEFAULT_SETTINGS },
@@ -80,6 +91,7 @@ export function normalizeState(parsed) {
   return {
     ...emptyState(),
     ...parsed,
+    customMeanings: cleanCustomMeanings(parsed.customMeanings),
     cards: migrateCardKeys(parsed.cards || {}),
     settings: migrateSettings(parsed.settings),
   };

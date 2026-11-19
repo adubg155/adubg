@@ -86,6 +86,21 @@ export async function loadData(fetchJson) {
   data.dict = new Set(data.lookup.keys());
 }
 
+// Puts learner-entered meanings on top of the data. A meaning applies to every entry with that hanzi.
+export function applyCustomMeanings(custom = {}) {
+  const lists = [data.hsk, data.hsk30, data.hsk30Chars, data.work];
+  for (const list of lists) {
+    for (const w of list) {
+      if (Object.hasOwn(custom, w.hanzi)) w.meaningVi = custom[w.hanzi];
+    }
+  }
+  for (const [hanzi, meaning] of Object.entries(custom)) {
+    const entry = data.lookup.get(hanzi);
+    if (entry) entry.vi = meaning;
+    else data.lookup.set(hanzi, { h: hanzi, p: "", vi: meaning, en: "", level: null, lessons: [] });
+  }
+}
+
 export async function loadLesson(id) {
   if (!lessonCache.has(id)) lessonCache.set(id, await fetcher(`data/work/${id}.json`));
   return lessonCache.get(id);
