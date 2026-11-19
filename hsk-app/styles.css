@@ -500,3 +500,11 @@ nav a { white-space: nowrap; }
 }
 .subbar button span { font-size: 12px; color: var(--muted); }
 nav a.active { background: var(--area, var(--accent)); color: var(--area-text, var(--accent-text)); }
+
+/* Setting "Hiện nghĩa tiếng Anh" off: hide every English meaning line. */
+body[data-en="off"] .meaning-en { display: none; }
+.switch-row {
+  display: flex; align-items: center; justify-content: space-between; gap: 12px;
+  min-height: 48px; margin: 12px 0; font-weight: 600;
+}
+.switch-row input { width: 22px; height: 22px; }

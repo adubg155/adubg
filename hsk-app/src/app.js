@@ -13,7 +13,7 @@ import { viewWork } from "./views/work.js";
 import { viewPractice, actions as practiceActions } from "./views/practice.js";
 import { viewReview, viewPlacement, actions as reviewActions } from "./views/review.js";
 import { viewStats, actions as statsActions } from "./views/stats.js";
-import { viewSettings, handleImport, actions as settingsActions } from "./views/settings.js";
+import { viewSettings, handleImport, actions as settingsActions, applyEnglishSetting } from "./views/settings.js";
 
 const sheet = document.getElementById("sheet");
 
@@ -53,6 +53,7 @@ function route() {
   const view = VIEWS[name] ? name : "home";
   // Each area gets its own accent colour (header and bottom bar), see styles.css [data-area].
   document.body.dataset.area = NAV_FOR[view] || view;
+  applyEnglishSetting();
   document.querySelectorAll("nav a").forEach((a) => {
     a.classList.toggle("active", a.dataset.nav === (NAV_FOR[view] || view));
   });

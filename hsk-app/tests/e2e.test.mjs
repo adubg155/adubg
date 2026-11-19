@@ -321,3 +321,20 @@ test("no horizontal scroll on the character grid at phone width", async () => {
   assert.ok(overflow <= 0, `overflows by ${overflow}px`);
   await page.context().close();
 });
+
+test("the English-meaning setting hides and shows English on the review card", async () => {
+  const page = await open("#/settings");
+  await page.uncheck("#set-english");
+  await page.click('[data-action="save-settings"]');
+  assert.equal(await page.evaluate(() => document.body.dataset.en), "off");
+  await go(page, "#/home");
+  await page.click('[data-action="start"][data-kind="new"]');
+  await page.click('[data-action="reveal"]');
+  assert.equal(await page.locator(".meaning-en").first().isVisible(), false, "English hidden");
+  await go(page, "#/settings");
+  await page.check("#set-english");
+  await page.click('[data-action="save-settings"]');
+  assert.equal(await page.evaluate(() => document.body.dataset.en), "on");
+  assert.deepEqual(page.errors, []);
+  await page.context().close();
+});

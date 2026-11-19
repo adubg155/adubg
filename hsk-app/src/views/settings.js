@@ -2,6 +2,11 @@
 import { emptyState, normalizeState } from "../store.js";
 import { app, getState, setState, showToast } from "../core.js";
 
+// English lines carry the .meaning-en class; hiding is one CSS rule on <body data-en="off">.
+export function applyEnglishSetting() {
+  document.body.dataset.en = getState().settings.showEnglish === false ? "off" : "on";
+}
+
 const MAX_REVIEWS = 500;
 const MAX_NEW = 100;
 
@@ -15,6 +20,10 @@ export function viewSettings() {
       </label>
       <label class="field">Số từ mới mỗi ngày
         <input id="set-new" type="number" min="0" max="${MAX_NEW}" value="${settings.newPerDay}">
+      </label>
+      <label class="switch-row">
+        <span>Hiện nghĩa tiếng Anh</span>
+        <input id="set-english" type="checkbox" ${settings.showEnglish === false ? "" : "checked"}>
       </label>
       <button class="primary" data-action="save-settings">Lưu cài đặt</button>
     </section>
@@ -87,11 +96,18 @@ export const actions = {
     if (!Number.isFinite(reviewLimit) || !Number.isFinite(newPerDay) || reviewLimit < 0 || newPerDay < 0) {
       return showToast("Nhập số không âm.");
     }
+    const showEnglish = document.getElementById("set-english").checked;
     const state = getState();
     setState({
       ...state,
-      settings: { ...state.settings, reviewLimit: Math.min(MAX_REVIEWS, Math.floor(reviewLimit)), newPerDay: Math.min(MAX_NEW, Math.floor(newPerDay)) },
+      settings: {
+        ...state.settings,
+        reviewLimit: Math.min(MAX_REVIEWS, Math.floor(reviewLimit)),
+        newPerDay: Math.min(MAX_NEW, Math.floor(newPerDay)),
+        showEnglish,
+      },
     });
+    applyEnglishSetting();
     showToast("Đã lưu cài đặt.");
   },
   export: () => exportProgress(),
